@@ -2,4 +2,9 @@
 publish:
 title: Kraken's Crown Hub
 ---
-A new page to test
+[[Character Hub]]
+
+[[Locations Hub]]
+
+[[Factions Hub]]
+

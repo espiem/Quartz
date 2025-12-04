@@ -3,12 +3,9 @@ title: Character Hub
 ---
 ### Player Characters
 
-#### Zaheer Retalnie
+[[Zaheer Retalnie]]
+[[Gamabunta]]
+[[Raidou]]
+[[Tundari]]
+[[Zozzi Bozz]]
 
-#### Gamabunta
-
-#### Raidou
-
-#### Tundari
-
-##### Zozzi Bozz
