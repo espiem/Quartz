@@ -2,9 +2,9 @@
 publish:
 title: Kraken's Crown Hub
 ---
-[[Character Hub]]
+[[1 - Characters Hub]]
 
-[[Locations Hub]]
+[[1 - Locations Hub]]
 
-[[Factions Hub]]
+[[1 - Factions Hub]]
 

@@ -1,5 +1,5 @@
 ---
-title: Character Hub
+title: Characters Hub
 ---
 ### Player Characters
 
