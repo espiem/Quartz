@@ -5,6 +5,6 @@ publish: true
 [[The East Blue]]
 
 
-[[Beastkin]]
-[[Fishmen]]
+[[Kraken's Crown/World Information/Ancestries/Beastkin]]
+[[Kraken's Crown/World Information/Ancestries/Fishmen]]
 

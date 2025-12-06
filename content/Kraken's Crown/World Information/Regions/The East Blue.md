@@ -2,4 +2,5 @@
 publish: true
 ---
 
-[[Loguetown]]
+
+[[Kraken's Crown/Locations/Loguetown]]
