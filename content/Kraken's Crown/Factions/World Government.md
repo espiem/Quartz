@@ -1,4 +1,0 @@
----
-title: World Government
-
----
