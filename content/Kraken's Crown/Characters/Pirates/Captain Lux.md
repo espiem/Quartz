@@ -1,6 +1,8 @@
 ---
-{"publish":true,"title":"Captain Lux","cssclasses":""}
+{"publish":true,"title":"Captain Lux","created":"2025-12-06T13:20:04.732-05:00","modified":"2025-12-06T14:30:39.078-05:00","cssclasses":""}
 ---
+
+
 
 
 Captain of the Lux pirates. Assisted [[Kraken's Crown/Factions/The Revolutionary Army]] in crossing the Geist Gate to the Grand Line
