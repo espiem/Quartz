@@ -1,4 +1,5 @@
 ---
+publish: true
 Title: The Revolutionary Army
 ---
 
