@@ -1,5 +1,6 @@
 ---
-publish: true
+{"publish":true,"created":"2025-12-08T10:03:18.728-05:00","modified":"2025-12-06T13:48:58.270-05:00","cssclasses":""}
 ---
-[[The Revolutionary Army]]
-[[The East Blue]]
+
+[[Kraken's Crown/Factions/The Revolutionary Army]]
+[[Kraken's Crown/World Information/Regions/The East Blue]]
