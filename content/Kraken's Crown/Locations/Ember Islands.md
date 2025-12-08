@@ -2,5 +2,4 @@
 publish: true
 ---
 
-
-[[Kraken's Crown/World Information/Regions/The Grand Line]]
+[[The Grand Line]]
