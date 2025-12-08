@@ -1,4 +1,5 @@
 ---
-publish: true
+{"publish":true,"created":"2025-12-08T10:03:18.730-05:00","modified":"2025-12-06T13:48:58.273-05:00","cssclasses":""}
 ---
-[[The East Blue]]
+
+[[Kraken's Crown/World Information/Regions/The East Blue]]
