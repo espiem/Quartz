@@ -22,8 +22,8 @@ Often taken recreationally, mindmurk oil dulls the mind, creating a pleasant and
 
 **Maximum Duration** 1 hour
 
-**Stage 1** [[Stupefied|Stupefied 1]] (5 minutes)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (5 minutes)
 
-**Stage 2** [[Stupefied|Stupefied 2]] (5 minutes)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (5 minutes)
 
-**Stage 3** [[Stupefied|Stupefied 3]] (5 minutes).
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 3]] (5 minutes).

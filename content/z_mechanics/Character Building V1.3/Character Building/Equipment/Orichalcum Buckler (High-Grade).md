@@ -8,7 +8,7 @@ tags:
 ---
 
 # Orichalcum Buckler (High-Grade)
-![[systems-pf2e-icons-equipment-shields-precious-material-shields-orichalcum-buckler.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-shields-precious-material-shields-orichalcum-buckler.webp|150]]
 
 Orichalcum shields' time-bending properties are particularly useful for keeping them intact. The first time each day an orichalcum shield would be destroyed, it is instead left with 1 Hit Point and the broken condition.
 

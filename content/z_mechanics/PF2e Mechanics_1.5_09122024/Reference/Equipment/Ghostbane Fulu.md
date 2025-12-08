@@ -14,7 +14,7 @@ license: OGL
 ---
 # Ghostbane Fulu
 ## Item 6
-### [[consumable]][[fulu]][[magical]][[talisman]]
+### [[consumable]][[fulu]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** fulu; 
 **Price** 40 gp; 
@@ -31,7 +31,7 @@ license: OGL
 
 This white paper fulu bears red ink and attunes a weapon to the spiritual essence of an incorporeal creature. Upon activation, the weapon gains the benefit of the _ghost touch_ property rune against the triggering incorporeal creature for 1 minute.
 
-[[Equipment Effects/Effect_ Ghostbane Fulu|Effect: Ghostbane Fulu]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Ghostbane Fulu|Effect: Ghostbane Fulu]]
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

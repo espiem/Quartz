@@ -10,7 +10,7 @@ tags:
 # Shadow Army
 ![[systems-pf2e-icons-spells-shadow-army.webp|150]]
 
-You create dozens of semi-real copies of yourself that swarm across the battlefield and fight your enemies. You are virtually indistinguishable from your clones, allowing you to Hide and Sneak among them. An enemy that's in the area when the spell is cast or that ends its turn in the area takes 3d10 mental damage and 3d10 bludgeoning damage, and is possibly inflicted with a condition, depending on the result of its Will save. When you Cast the Spell, you choose a condition your shadows impose on a failed save: [[Clumsy 1|Clumsy 2]], [[Enfeebled 1|Enfeebled 2]], [[Off-Guard]], or [[Slowed]].
+You create dozens of semi-real copies of yourself that swarm across the battlefield and fight your enemies. You are virtually indistinguishable from your clones, allowing you to Hide and Sneak among them. An enemy that's in the area when the spell is cast or that ends its turn in the area takes 3d10 mental damage and 3d10 bludgeoning damage, and is possibly inflicted with a condition, depending on the result of its Will save. When you Cast the Spell, you choose a condition your shadows impose on a failed save: [[Clumsy 1|Clumsy 2]], [[Enfeebled 1|Enfeebled 2]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]].
 
 * * *
 

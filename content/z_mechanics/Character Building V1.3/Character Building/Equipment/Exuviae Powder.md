@@ -22,4 +22,4 @@ _Exuviae powder_ comes from cast-off shells of cicada-like insects native to the
 
 * * *
 
-**Effect** The powder petrifies like a shell around you instead, and its other effects end. The powder causes you to become [[Quickened]] for 1 minute as well as [[Doomed|Doomed 1]] and [[Restrained]] ([[Escape]] DC 25). You can use the extra action each round only for Escape and Stride actions.
+**Effect** The powder petrifies like a shell around you instead, and its other effects end. The powder causes you to become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]] for 1 minute as well as [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]] ([[Escape]] DC 25). You can use the extra action each round only for Escape and Stride actions.

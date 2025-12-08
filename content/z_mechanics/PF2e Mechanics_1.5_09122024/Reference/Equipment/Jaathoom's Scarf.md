@@ -13,7 +13,7 @@ license: OGL
 ---
 # Jaathoom's Scarf
 ## Item 10
-### [[air]][[invested]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 900 gp; 
@@ -36,7 +36,7 @@ This scarf is made of fine silk that's the same shade of blue as a clear, cloudl
 
 **Frequency** once per hour
 
-**Effect** You let the winds around you catch the edges of the _jaathoom's scarf_, and a jaathoom shuyookh appears with a sudden updraft. The winds force your enemies back, granting you some breathing room in battle. Each enemy in a 10-foot emanation must succeed at a DC 27 Fortitude check save or be pushed 10 feet. A creature that critically fails is also knocked [[Conditions/Prone|Prone]] after being moved. Creatures with the air trait are immune to all these effects.
+**Effect** You let the winds around you catch the edges of the _jaathoom's scarf_, and a jaathoom shuyookh appears with a sudden updraft. The winds force your enemies back, granting you some breathing room in battle. Each enemy in a 10-foot emanation must succeed at a DC 27 Fortitude check save or be pushed 10 feet. A creature that critically fails is also knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] after being moved. Creatures with the air trait are immune to all these effects.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

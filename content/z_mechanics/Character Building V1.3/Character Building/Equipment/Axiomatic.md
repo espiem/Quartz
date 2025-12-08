@@ -8,7 +8,7 @@ tags:
 ---
 
 # Axiomatic
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 Complex and symmetrical, an _axiomatic_ rune imbues a weapon with lawful energy. A weapon with this rune deals an additional 1d6 spirit damage against chaotic targets. If you are chaotic, you are [[Enfeebled 1|Enfeebled 2]] while carrying or wielding this weapon.
 

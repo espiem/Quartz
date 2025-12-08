@@ -14,7 +14,7 @@ license: OGL
 ---
 # Life-Boosting Oil (Major)
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[healing]][[magical]][[oil]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[oil]]
 
 **Category** oil; 
 **Price** 1300 gp; 
@@ -25,7 +25,7 @@ license: OGL
 
 When you apply sticky, stinging life-boosting oil, you gain fast healing 15 that starts the first time you take damage while the oil lasts. Once the fast healing starts, the oil remains effective for 4 rounds. However, the oil lasts only 8 hours, whether it provides fast healing or not.
 
-[[Equipment Effects/Effect_ Life-Boosting Oil (Major)|Effect: Life-Boosting Oil (Major)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Life-Boosting Oil (Major)|Effect: Life-Boosting Oil (Major)]]
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

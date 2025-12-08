@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Ghost) Pyre's Memory `pf2:3`
 
-### [[divine]][[fire]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]]
 
 **Category** offensive; 
 

@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-**Effect** You make a Strike with a ranged weapon, rolling the attack and damage twice and using the better results for each. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]].
+**Effect** You make a Strike with a ranged weapon, rolling the attack and damage twice and using the better results for each. The attack ignores circumstance penalties to the attack roll and any flat check required due to the target being [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]].
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

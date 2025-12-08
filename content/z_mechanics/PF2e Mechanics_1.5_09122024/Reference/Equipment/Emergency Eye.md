@@ -13,7 +13,7 @@ license: OGL
 ---
 # Emergency Eye
 ## Item 7
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 60 gp; 
@@ -22,7 +22,7 @@ license: OGL
 
 **Activate** `pf2:0` command
 
-**Trigger** You become [[Conditions/Blinded|Blinded]], or an effect otherwise impedes your vision
+**Trigger** You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]], or an effect otherwise impedes your vision
 
 **Requirements** You are an expert in Perception.
 

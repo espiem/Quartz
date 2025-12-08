@@ -18,7 +18,7 @@ license: OGL
 ---
 # Bottled Sunlight (Greater)
 ## Item 12
-### [[alchemical]][[bomb]][[consumable]][[fire]][[light]][[splash]][[vitality]]
+### [[alchemical]][[bomb]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[light]][[splash]][[vitality]]
 
 |  |  |
 | -- | -- |

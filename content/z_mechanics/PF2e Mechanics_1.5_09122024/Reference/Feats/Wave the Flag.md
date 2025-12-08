@@ -15,7 +15,7 @@ license: OGL
 ---
 # Wave the Flag `pf2:1`
 ## Feat 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[emotion]][[flourish]][[mental]][[visual]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[flourish]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[visual]]
 
 **Category** class; 
 

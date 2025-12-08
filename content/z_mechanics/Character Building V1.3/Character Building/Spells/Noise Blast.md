@@ -10,7 +10,7 @@ tags:
 ---
 
 # Noise Blast
-![[icons-magic-fire-orb-vortex.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-orb-vortex.webp|150]]
 
 A cacophonous noise blasts out, dealing 2d10 sonic damage. Each creature must attempt a Fortitude save.
 
@@ -20,7 +20,7 @@ A cacophonous noise blasts out, dealing 2d10 sonic damage. Each creature must at
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is [[Deafened]] for 1 round.
+**Failure** The creature takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 round.
 
 **Critical Failure** The creature takes double damage, is deafened for 1 minute, and is [[Stunned 1]].
 

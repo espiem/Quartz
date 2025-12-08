@@ -16,7 +16,7 @@ license: OGL
 ---
 # Frost Breath
 ## Item 7
-### [[air]][[bottled-breath]][[cold]][[consumable]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[bottled-breath]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Cold]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 70 gp; 
@@ -25,7 +25,7 @@ license: OGL
 
 This bottle of frozen vapors is captured in the frozen peaks of the crown of the world. After inhaling frost breath, you gain resistance 5 to cold. You can exhale the frost breath as a single action to release a spray of frigid air in a 15-foot cone. Each creature in the area takes 4d6 cold damage with a DC 20 Reflex check save. For 10 minutes, surfaces in the area are covered in ice, becoming difficult terrain and uneven ground (DC 20 Acrobatics check).
 
-[[Equipment Effects/Effect_ Frost Breath|Effect: Frost Breath]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Frost Breath|Effect: Frost Breath]]
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

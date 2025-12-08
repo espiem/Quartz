@@ -12,14 +12,14 @@ license: ORC
 ---
 # Hop Up `pf2:0`
 ## Feat 13
-### [[grippli]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Grippli]]
 
 **Category** ancestry; 
 
 
 
 
-**Trigger** You lose the [[Conditions/Unconscious|Unconscious]] condition.
+**Trigger** You lose the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] condition.
 
 * * *
 

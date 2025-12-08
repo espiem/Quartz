@@ -16,7 +16,7 @@ Sharp metal jaws wind tightly into the pressure plate mechanism of this snare. W
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is [[Off-Guard]] until the end of its next turn.
+**Success** The creature takes half damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the end of its next turn.
 
 **Failure** The creature takes full damage plus 2d6 bleed, and it becomes [[Clumsy 1|Clumsy 2]] for 1 round.
 

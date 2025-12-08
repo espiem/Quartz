@@ -13,7 +13,7 @@ license: ORC
 ---
 # Preparation `pf2:1`
 ## Feat 12
-### [[flourish]][[rogue]]
+### [[flourish]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 

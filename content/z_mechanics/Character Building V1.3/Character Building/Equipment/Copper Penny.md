@@ -12,7 +12,7 @@ tags:
 
 **Activate** f envision
 
-**Trigger** You are knocked [[Prone]]
+**Trigger** You are knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]]
 
 **Requirements** You're an expert in Acrobatics, and you are unarmored.
 

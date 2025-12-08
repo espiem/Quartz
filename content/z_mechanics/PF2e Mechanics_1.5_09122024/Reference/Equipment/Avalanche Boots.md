@@ -12,7 +12,7 @@ license: OGL
 ---
 # Avalanche Boots
 ## Item 17
-### [[apex]][[invested]][[magical]]
+### [[apex]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 15000 gp; 
@@ -29,7 +29,7 @@ While the insides of these boots are comfortable, fur-lined leather, the outside
 
 **Trigger** You succeed or critically succeed with a Shove
 
-**Effect** If the Shove was a success, you push your opponent up to 10 feet instead of 5 feet. If the Shove was a critical success, you push your opponent up to 20 feet, and you can then choose to knock them [[Conditions/Prone|Prone]].
+**Effect** If the Shove was a success, you push your opponent up to 10 feet instead of 5 feet. If the Shove was a critical success, you push your opponent up to 20 feet, and you can then choose to knock them [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

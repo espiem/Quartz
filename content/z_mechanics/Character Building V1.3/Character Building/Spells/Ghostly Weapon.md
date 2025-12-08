@@ -8,6 +8,6 @@ tags:
 ---
 
 # Ghostly Weapon
-![[systems-pf2e-icons-spells-ghostly-weapon.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-ghostly-weapon.webp|150]]
 
 The target weapon becomes translucent and ghostly, and it can affect material and incorporeal creatures and objects. It gains the effects of the _ghost touch_ property rune, meaning it is magical if it wasn't already, is especially effective against incorporeal creatures, and can be wielded by a corporeal or incorporeal creature.

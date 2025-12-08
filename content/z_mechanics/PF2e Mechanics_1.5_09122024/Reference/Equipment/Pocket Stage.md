@@ -12,7 +12,7 @@ license: ORC
 ---
 # Pocket Stage
 ## Item 5
-### [[magical]][[structure]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[structure]]
 
 
 **Price** 138 gp; 

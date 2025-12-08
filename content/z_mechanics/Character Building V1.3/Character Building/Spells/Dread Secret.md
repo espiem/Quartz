@@ -18,6 +18,6 @@ You utter a powerful secret at odds with the fundamental nature of the target cr
 
 **Success** The creature takes 1 damage of the type of weakness you chose (thus triggering the creature's weakness), or loses its resistance until the end of your next turn if you chose a resistance.
 
-**Failure** As success, and the creature becomes [[Frightened|Frightened 1]] from the revelation of its dread secret.
+**Failure** As success, and the creature becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]] from the revelation of its dread secret.
 
-**Critical Failure** As failure, except the creature is [[Frightened|Frightened 3]].
+**Critical Failure** As failure, except the creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]].

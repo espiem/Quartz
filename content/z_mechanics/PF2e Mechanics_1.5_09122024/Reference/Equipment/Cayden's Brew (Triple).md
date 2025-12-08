@@ -14,7 +14,7 @@ license: OGL
 ---
 # Cayden's Brew (Triple)
 ## Item 18
-### [[consumable]][[magical]][[poison]][[potion]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[potion]]
 
 **Category** potion; 
 **Price** 3200 gp; 
@@ -29,11 +29,11 @@ Cayden's brew is like rich beer or ale, with a golden-brown color and foamy head
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Stupefied|Stupefied 1]] for 1 round.
+**Success** The creature is [[Conditions/Clumsy|Clumsy 1]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for 1 round.
 
 **Failure** The creature is clumsy 1 and stupefied 1 for 1d4 rounds.
 
-**Critical Failure** The creature becomes [[Conditions/Clumsy|Clumsy 2]], [[Conditions/Stupefied|Stupefied 2]], and [[Conditions/Sickened|Sickened 1]]. The clumsy and stupefied conditions last until 1d4 rounds after the sickened condition ends.
+**Critical Failure** The creature becomes [[Conditions/Clumsy|Clumsy 2]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]], and [[Conditions/Sickened|Sickened 1]]. The clumsy and stupefied conditions last until 1d4 rounds after the sickened condition ends.
 
 [[Equipment Effects/Effect_ Cayden's Brew|Effect: Cayden's Brew]]
 

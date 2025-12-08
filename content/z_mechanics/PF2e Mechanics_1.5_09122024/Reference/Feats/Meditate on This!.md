@@ -17,7 +17,7 @@ license: ORC
 ---
 # Meditate on This! `pf2:1`
 ## Feat 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[barbarian]][[concentrate]][[emotion]][[incapacitation]][[mental]][[rage]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[rage]]
 
 **Category** class; 
 
@@ -35,11 +35,11 @@ You meditate to alter your qi, coloring it with your resentment and anger. Until
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Frightened|Frightened 1]].
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 2]].
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
-**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]] and [[Conditions/Fleeing|Fleeing]] until the end of its next turn.
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing|Fleeing]] until the end of its next turn.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

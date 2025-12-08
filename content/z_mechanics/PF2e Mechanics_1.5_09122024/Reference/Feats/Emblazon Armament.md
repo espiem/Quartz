@@ -13,7 +13,7 @@ license: ORC
 ---
 # Emblazon Armament
 ## Feat 2
-### [[cleric]][[exploration]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]][[exploration]]
 
 **Category** class; 
 

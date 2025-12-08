@@ -8,7 +8,7 @@ tags:
 ---
 
 # Blood Booster (Greater)
-![[icons-consumables-potions-vial-cork-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-consumables-potions-vial-cork-red.webp|150]]
 
 **Activate** 1 Interact
 

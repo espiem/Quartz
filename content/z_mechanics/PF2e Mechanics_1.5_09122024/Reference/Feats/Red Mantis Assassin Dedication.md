@@ -29,7 +29,7 @@ You have learned how to stalk your foes and slay them with a sawtooth saber. You
 
 You become bound by Achaekek's anathema and can receive his sanctification.
 
-[[PF2e Journals/Archetypes/Red Mantis Assassin|Red Mantis Assassin]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Red Mantis Assassin|Red Mantis Assassin]]
 
 *Source: Pathfinder Adventure: Prey for Death*
 *ORC*

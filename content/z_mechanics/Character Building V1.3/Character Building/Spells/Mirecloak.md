@@ -8,7 +8,7 @@ tags:
 ---
 
 # Mirecloak
-![[icons-magic-water-ice-snowman.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-water-ice-snowman.webp|150]]
 
 You wrap the targeted creatures in thin, sickly green shrouds that sap information from attackers. The shroud settles about each target's shoulders, granting a +1 status bonus to AC and a +2 status bonus to Stealth checks, both only while the target is in dim light or darkness.
 

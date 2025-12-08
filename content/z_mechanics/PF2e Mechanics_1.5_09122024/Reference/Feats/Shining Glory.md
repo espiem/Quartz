@@ -12,7 +12,7 @@ license: ORC
 ---
 # Shining Glory `pf2:2`
 ## Feat 18
-### [[concentrate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]]
 
 **Category** class; 
 
@@ -28,11 +28,11 @@ With a righteous word, your divine aura inspires your allies to great heroics an
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Frightened|Frightened 1]], but can immediately Step as long it moves away from you.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]], but can immediately Step as long it moves away from you.
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 2]] and you are [[Conditions/Concealed|Concealed]] to that creature while it has the frightened condition.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] and you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] to that creature while it has the frightened condition.
 
-**Critical Failure** The creature is [[Conditions/Frightened|Frightened 3]] and you are [[Conditions/Hidden|Hidden]] to that creature while it has the frightened condition.
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]] and you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]] to that creature while it has the frightened condition.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

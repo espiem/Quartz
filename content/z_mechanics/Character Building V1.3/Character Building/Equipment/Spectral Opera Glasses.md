@@ -18,4 +18,4 @@ These bulky opera glasses are attached to a rod for ease of use. When held up to
 
 * * *
 
-**Effect** For 1 hour, anyone who looks through the glasses can see [[Invisible]] creatures and objects, and sees creatures with the spirit trait as solid and substantial (rather than ghostly).
+**Effect** For 1 hour, anyone who looks through the glasses can see [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]] creatures and objects, and sees creatures with the spirit trait as solid and substantial (rather than ghostly).

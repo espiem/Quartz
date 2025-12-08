@@ -14,7 +14,7 @@ license: ORC
 ---
 # One Moment till Glory `pf2:1`
 
-### [[concentrate]][[emotion]][[mental]][[transcendence]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[transcendence]]
 
 
 

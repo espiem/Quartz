@@ -10,4 +10,4 @@ tags:
 # The Harder They Fall
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You make your foes fall painfully when you trip them. When you successfully [[Trip]] an [[Off-Guard]] foe, your target takes 1d6 bludgeoning damage. On a critical success, the target takes 1d6 bludgeoning damage plus your sneak attack damage.
+You make your foes fall painfully when you trip them. When you successfully [[Trip]] an [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] foe, your target takes 1d6 bludgeoning damage. On a critical success, the target takes 1d6 bludgeoning damage plus your sneak attack damage.

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Pernicious Poison (Purple Worm Sting)
 ## Item 14
-### [[magical]][[poison]][[wand]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[wand]]
 
 
 **Price** 4500 gp; 

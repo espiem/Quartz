@@ -19,6 +19,6 @@ You send disturbing nightmares to your target. The next time the target falls as
 
 **Success** The target experiences the nightmares but suffers no adverse effects other than unpleasant memories.
 
-**Failure** The target experiences the nightmares and awakens [[Fatigued]].
+**Failure** The target experiences the nightmares and awakens [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]].
 
 **Critical Failure** The target experiences the nightmares, awakens Fatigued, and is [[Drained 1|Drained 2]] until it is no longer Fatigued.

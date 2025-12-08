@@ -12,7 +12,7 @@ license: OGL
 ---
 # Gathering Moss `pf2:0`
 ## Feat 10
-### [[archetype]][[magical]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** class; 
 

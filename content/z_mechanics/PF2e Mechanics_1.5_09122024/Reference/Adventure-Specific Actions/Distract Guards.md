@@ -13,7 +13,7 @@ license: OGL
 ---
 # Distract Guards
 
-### [[exploration]][[manipulate]][[move]]
+### [[exploration]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[move]]
 
 **Category** interaction; 
 

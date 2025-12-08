@@ -30,7 +30,7 @@ You create a snare that causes three 3rd-level moderate alchemical bombs of the 
 
 **Success** The creature takes half damage and no other effects.
 
-**Failure** The creature takes full damage. It also takes all other effects of a direct hit from one of the component bombs (such as [[Conditions/Off-Guard|Off-Guard]] from bottled lightning or persistent damage from an acid flask).
+**Failure** The creature takes full damage. It also takes all other effects of a direct hit from one of the component bombs (such as [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] from bottled lightning or persistent damage from an acid flask).
 
 **Critical Failure** The creature takes double damage, plus all other effects of a direct hit (as failure).
 

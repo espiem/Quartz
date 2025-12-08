@@ -10,7 +10,7 @@ license: OGL
 ---
 # Dawnlight (Major)
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 
 **Price** 1300 gp; 
@@ -27,7 +27,7 @@ This shining symbol of Sarenrae depicts the goddess with her arms held wide. In 
 
 **Effect** The _dawnlight_ casts 5th-rank [[Spells/Vitality Lash|Vitality Lash]] or [[Spells/Light|Light]], or 4th-rank [[Spells/Holy Light|Holy Light]] or [[Spells/Vital Beacon|Vital Beacon]]. The _dawnlight_'s spell attack roll and counteract modifier are +18, and any spell with the light trait is treated as though its counteract rank were 1 higher for counteracting darkness.
 
-Whenever you successfully counteract magical darkness while holding this symbol, the clash of magic unleashes a momentary flash of light. Creatures with darkvision in the area of the light spell or targeted by it must succeed at a DC 28 Fortitude check or be [[Conditions/Dazzled|Dazzled]] for 1 round. Those with light blindness are also exposed to bright light.
+Whenever you successfully counteract magical darkness while holding this symbol, the clash of magic unleashes a momentary flash of light. Creatures with darkvision in the area of the light spell or targeted by it must succeed at a DC 28 Fortitude check or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for 1 round. Those with light blindness are also exposed to bright light.
 
 * * *
 

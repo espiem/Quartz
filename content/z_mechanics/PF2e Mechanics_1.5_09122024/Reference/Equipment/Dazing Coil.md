@@ -14,7 +14,7 @@ license: ORC
 ---
 # Dazing Coil
 ## Item 14
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 900 gp; 
@@ -23,7 +23,7 @@ license: ORC
 
 **Activate** `pf2:0` (concentrate)
 
-**Trigger** You deal damage to an [[Conditions/Off-Guard|Off-Guard]] creature with the affixed weapon
+**Trigger** You deal damage to an [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] creature with the affixed weapon
 
 * * *
 

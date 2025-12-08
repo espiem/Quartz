@@ -17,7 +17,7 @@ license: OGL
 ---
 # Rustbringer (Greater)
 ## Item 17
-### [[disarm]][[magical]][[metal]][[sweep]][[trip]]
+### [[disarm]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[metal]][[sweep]][[trip]]
 
 |  |  |
 | -- | -- |

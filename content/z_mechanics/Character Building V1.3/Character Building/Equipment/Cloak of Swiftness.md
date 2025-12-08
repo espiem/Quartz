@@ -18,4 +18,4 @@ This thin cloak is surprisingly light, as if clouds or the very wind were woven 
 
 * * *
 
-**Effect** You tug on the cloak, wrapping yourself in the power of wind. You gain a fly Speed of 30 feet for 1 hour. While wrapped in the cloak, you become translucent, causing you to become [[Concealed]] for the duration.
+**Effect** You tug on the cloak, wrapping yourself in the power of wind. You gain a fly Speed of 30 feet for 1 hour. While wrapped in the cloak, you become translucent, causing you to become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] for the duration.

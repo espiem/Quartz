@@ -12,7 +12,7 @@ license: ORC
 ---
 # Plant Thirty Barbs `pf2:1`
 
-### [[death]][[transcendence]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Death]][[transcendence]]
 
 
 

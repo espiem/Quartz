@@ -8,7 +8,7 @@ tags:
 ---
 
 # Catharsis Emotion (Dedication)
-![[systems-pf2e-icons-spells-phantom-crowd.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-phantom-crowd.webp|150]]
 
 Your commitment protects those you are dedicated to but can lead to dependency. Your emotional focus is an individual creature you're bound to.
 

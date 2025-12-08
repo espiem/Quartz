@@ -24,7 +24,7 @@ You have forged a mystical bond with a creature. This might have involved comple
 
 Whatever the details, you are now comrades until the end. You gain a familiar. If you already have a familiar, you gain the [[Feats/Enhanced Familiar|Enhanced Familiar]] feat.
 
-[[PF2e Journals/Archetypes/Familiar Master|Familiar Master]]
+[[Familiar Master|Familiar Master]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -14,7 +14,7 @@ tags:
 
 **Activate** F envision
 
-**Trigger** You gain the [[Frightened]] condition as a result of a Will save
+**Trigger** You gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened]] condition as a result of a Will save
 
 **Requirements** You're an expert in Will saves.
 

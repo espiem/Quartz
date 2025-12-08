@@ -14,7 +14,7 @@ license: OGL
 ---
 # Kris
 ## Item 0
-### [[agile]][[deadly-d8]][[finesse]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[deadly-d8]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]]
 
 |  |  |
 | -- | -- |

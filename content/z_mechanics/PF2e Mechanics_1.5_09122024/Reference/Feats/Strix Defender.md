@@ -11,7 +11,7 @@ license: OGL
 ---
 # Strix Defender
 ## Feat 1
-### [[strix]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Strix]]
 
 **Category** ancestry; 
 

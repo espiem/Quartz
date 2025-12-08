@@ -21,7 +21,7 @@ license: OGL
 
 **Greater Disease and Poison Protection:** Your bonus against disease and poison increases to +2. You gain poison resistance equal to half your level.
 
-**Paralysis and Sleep Protection:** You gain a +1 circumstance bonus to saving throws (or any other defense) against effects that would make you [[Conditions/Paralyzed|Paralyzed]] or have the sleep trait.
+**Paralysis and Sleep Protection:** You gain a +1 circumstance bonus to saving throws (or any other defense) against effects that would make you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]] or have the sleep trait.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

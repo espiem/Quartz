@@ -15,7 +15,7 @@ license: ORC
 ---
 # Puppetmaster Extract
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 85 gp; 
@@ -40,7 +40,7 @@ Unlike most poisons, puppetmaster extract can affect a dead body with mostly int
 
 **Stage 2** 1d12 piercing damage and 2d12 poison (1 round)
 
-**Stage 3** 1d12 piercing damage, 2d12 poison damage, and [[Conditions/Confused|Confused]] for 1 round (1 round)
+**Stage 3** 1d12 piercing damage, 2d12 poison damage, and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]] for 1 round (1 round)
 
 **Stage 4** 3d12 poison damage and confused for 1 round (1 round)
 

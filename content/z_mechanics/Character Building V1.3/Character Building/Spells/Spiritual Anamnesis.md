@@ -16,8 +16,8 @@ Memories of a past life that seem incredibly real (and may even be) overwhelm th
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Slowed]] for 1 round.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] for 1 round.
 
-**Failure** The target is [[Slowed]] for 1 minute and babbles about the visions, possibly providing information about what they saw.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] for 1 minute and babbles about the visions, possibly providing information about what they saw.
 
 **Critical Failure** As failure, but the target is also [[Stunned 1|Stunned 3]].

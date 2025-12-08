@@ -14,7 +14,7 @@ license: ORC
 ---
 # Potency Crystal (Major)
 ## Item 15
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 1300 gp; 
@@ -29,7 +29,7 @@ license: ORC
 
 This fluorite crystal glows with a strange phosphorescence. When you activate the crystal, the weapon becomes a _+3 major striking weapon_ on the Strike and until the end of this turn, gaining a +3 item bonus to the attack roll and increasing the damage to four weapon damage dice.
 
-[[Equipment Effects/Effect_ Potency Crystal (Major)|Effect: Potency Crystal (Major)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Potency Crystal (Major)|Effect: Potency Crystal (Major)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

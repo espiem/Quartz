@@ -10,4 +10,4 @@ tags:
 # Kinetic Pinnacle
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-No one can match the pace at which elements flow from you. You're permanently [[Quickened]]. You can use your extra action only to [[Channel Elements]], use a 1-action [[Elemental Blast]], or use a 1-action stance impulse.
+No one can match the pace at which elements flow from you. You're permanently [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]]. You can use your extra action only to [[Channel Elements]], use a 1-action [[Elemental Blast]], or use a 1-action stance impulse.

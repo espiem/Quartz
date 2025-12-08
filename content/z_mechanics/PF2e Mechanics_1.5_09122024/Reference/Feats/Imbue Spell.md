@@ -13,7 +13,7 @@ license: ORC
 ---
 # Imbue Spell `pf2:0`
 ## Feat 16
-### [[concentrate]][[mythic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[mythic]]
 
 **Category** class; 
 

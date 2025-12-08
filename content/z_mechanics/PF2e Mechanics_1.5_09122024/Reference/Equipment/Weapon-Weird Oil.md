@@ -13,7 +13,7 @@ license: OGL
 ---
 # Weapon-Weird Oil
 ## Item 7
-### [[consumable]][[magical]][[oil]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[oil]]
 
 **Category** oil; 
 **Price** 55 gp; 

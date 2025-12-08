@@ -11,7 +11,7 @@ license: OGL
 ---
 # Tornado Trompo
 ## Item 18
-### [[air]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 19000 gp; 

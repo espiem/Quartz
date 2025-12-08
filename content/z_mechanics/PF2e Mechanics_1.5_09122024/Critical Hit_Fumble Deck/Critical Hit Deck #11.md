@@ -26,6 +26,6 @@ tags:
 
 # Nerve Damage
 
-> Normal damage. The target is [[Conditions/Slowed|Slowed 1]] until healed.
+> Normal damage. The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] until healed.
 
 `Bomb or Spell`

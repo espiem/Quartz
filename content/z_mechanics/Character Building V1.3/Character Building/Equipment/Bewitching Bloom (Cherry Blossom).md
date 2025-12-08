@@ -18,4 +18,4 @@ While dormant, this tattoo appears to be a simple flower bud, but when activated
 
 * * *
 
-**Effect** Choose a willing ally you can see within 30 feet. The ally understands the fleeting nature of life and accepts fate. For 1 minute, any recovery checks the ally attempts have a DC of 10 instead of 10 + the ally's dying value. The cherry blossom's activation can target an [[Unconscious]] or dying ally.
+**Effect** Choose a willing ally you can see within 30 feet. The ally understands the fleeting nature of life and accepts fate. For 1 minute, any recovery checks the ally attempts have a DC of 10 instead of 10 + the ally's dying value. The cherry blossom's activation can target an [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] or dying ally.

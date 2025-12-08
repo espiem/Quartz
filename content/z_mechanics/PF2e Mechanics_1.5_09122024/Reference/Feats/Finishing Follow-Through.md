@@ -12,14 +12,14 @@ license: ORC
 ---
 # Finishing Follow-Through
 ## Feat 2
-### [[swashbuckler]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 
 
 
 
-Finishing a foe maintains your swagger. You gain [[Feat_Feature Effects/Effect_ Panache|Panache]] whenever your finisher brings a target to 0 HP.
+Finishing a foe maintains your swagger. You gain [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Panache|Panache]] whenever your finisher brings a target to 0 HP.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Target of Opportunity `pf2:r`
 ## Feat 14
-### [[archetype]][[manipulate]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** class; 
 

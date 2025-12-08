@@ -10,7 +10,7 @@ tags:
 # Rime Slick
 ![[systems-pf2e-icons-spells-rime-slick.webp|150]]
 
-You call down a chill wind. When you Cast this Spell, you deal 2d4 cold damage to each creature in the area (basic Reflex save). If a creature in the area critically fails its Reflex save and was standing, it also falls [[Prone]].
+You call down a chill wind. When you Cast this Spell, you deal 2d4 cold damage to each creature in the area (basic Reflex save). If a creature in the area critically fails its Reflex save and was standing, it also falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].
 
 You also create a layer of ice on all surfaces in the area, which become difficult terrain. Unattended objects in the area become slick with ice, and picking them up requires a successful Reflex save or Acrobatics check against your spell DC. The ice melts on any object that takes fire damage as well as in any square included in the area of a higher-level spell or effect with the fire trait.
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Ready `pf2:2`
 
-### [[concentrate]][[general]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[general]]
 
 **Category** interaction; 
 

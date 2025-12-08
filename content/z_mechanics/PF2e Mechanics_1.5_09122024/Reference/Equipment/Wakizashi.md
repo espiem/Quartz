@@ -16,7 +16,7 @@ license: ORC
 ---
 # Wakizashi
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[deadly-d8]][[finesse]][[versatile-p]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[deadly-d8]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[versatile-p]]
 
 |  |  |
 | -- | -- |

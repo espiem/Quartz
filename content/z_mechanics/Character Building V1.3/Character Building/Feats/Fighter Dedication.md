@@ -14,4 +14,4 @@ You become trained in martial weapons. You become trained in your choice of Acro
 
 * * *
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[Fighter]] archetype.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]] archetype.

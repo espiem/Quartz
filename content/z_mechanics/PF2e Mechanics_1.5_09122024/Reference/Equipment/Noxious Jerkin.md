@@ -13,7 +13,7 @@ license: OGL
 ---
 # Noxious Jerkin
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[comfort]][[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[comfort]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** light; 
 **Price** 2800 gp; 
@@ -34,7 +34,7 @@ This +2 resilient padded armor is woven from many strands of gut cord strung wit
 
 **Failure** The creature is [[Conditions/Sickened|Sickened 1]].
 
-**Critical Failure** The creature is sickened 1 and is [[Conditions/Slowed|Slowed 1]] for 1 round.
+**Critical Failure** The creature is sickened 1 and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] for 1 round.
 
 *Source: Pathfinder #154: Siege of the Dinosaurs*
 *OGL*

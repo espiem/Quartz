@@ -8,7 +8,7 @@ tags:
 ---
 
 # Wyvern Poison
-![[icons-commodities-materials-liquid-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-commodities-materials-liquid-blue.webp|150]]
 
 Properly harvested and preserved, the poison from a wyvern's sting is effective and direct.
 

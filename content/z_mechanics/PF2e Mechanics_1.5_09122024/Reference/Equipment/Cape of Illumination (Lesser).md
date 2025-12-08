@@ -12,7 +12,7 @@ license: OGL
 ---
 # Cape of Illumination (Lesser)
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[light]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[light]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 135 gp; 
@@ -37,9 +37,9 @@ This golden cape, embroidered with vibrant red sun rays, sparkles like sunlight 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for 1 round.
 
-**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round and dazzled for 1 minute. The creature can spend an Interact action rubbing its eyes to end the blinded condition.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] for 1 round and dazzled for 1 minute. The creature can spend an Interact action rubbing its eyes to end the blinded condition.
 
 **Critical Failure** The creature is blinded for 1 round and dazzled for 1 hour.
 

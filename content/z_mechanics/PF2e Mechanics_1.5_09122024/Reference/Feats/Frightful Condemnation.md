@@ -15,7 +15,7 @@ license: OGL
 ---
 # Frightful Condemnation `pf2:0`
 ## Feat 6
-### [[archetype]][[emotion]][[fear]][[mental]][[vigilante]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[Vigilante]]
 
 **Category** class; 
 
@@ -29,7 +29,7 @@ license: OGL
 
 * * *
 
-Your willingness to follow through on your pitiless judgment is frightful to the person you have condemned, and they begin to dread what you will do to them next. Your condemned foe is [[Conditions/Frightened|Frightened 1]], or [[Conditions/Frightened|Frightened 2]] if the triggering Strike was a critical hit.
+Your willingness to follow through on your pitiless judgment is frightful to the person you have condemned, and they begin to dread what you will do to them next. Your condemned foe is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] if the triggering Strike was a critical hit.
 
 *Source: Pathfinder Adventure: Night of the Gray Death*
 *OGL*

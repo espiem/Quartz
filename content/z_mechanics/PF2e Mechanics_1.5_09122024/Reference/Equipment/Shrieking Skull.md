@@ -14,7 +14,7 @@ license: OGL
 ---
 # Shrieking Skull
 ## Item 12
-### [[auditory]][[consumable]][[magical]][[talisman]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 400 gp; 

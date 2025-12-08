@@ -8,7 +8,7 @@ tags:
 ---
 
 # Aqueous Orb
-![[icons-commodities-materials-slime-thick-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-commodities-materials-slime-thick-blue.webp|150]]
 
 A sphere of water 10 feet in diameter forms in an unoccupied space in range, either on the ground or on the surface of a liquid.
 

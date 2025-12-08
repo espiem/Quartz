@@ -9,7 +9,7 @@ tags:
 
 # Thundering Roar `pf2:1`
 
-The target unleashes a powerful vocalization. Each enemy in a 10- foot emanation takes 4d8 sonic damage with a basic Will save against your spell DC. A creature that fails its Will save is also [[Frightened|Frightened 1]].
+The target unleashes a powerful vocalization. Each enemy in a 10- foot emanation takes 4d8 sonic damage with a basic Will save against your spell DC. A creature that fails its Will save is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
 * * *
 

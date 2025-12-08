@@ -13,7 +13,7 @@ license: ORC
 ---
 # Flash of Grandeur `pf2:r`
 
-### [[champion]][[divine]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 **Category** defensive; 
 
@@ -26,7 +26,7 @@ license: ORC
 
 **Effect** Imperious divine light flashes out from you to surround your foe. The ally gains resistance to all damage against the triggering damage equal to 2 + your level. For 1 round, the attacker is affected by [[Spells/Revealing Light|Revealing Light]].
 
-[[Feat_Feature Effects/Effect_ Champion's Resistance|Effect: Champion's Resistance]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Champion's Resistance|Effect: Champion's Resistance]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

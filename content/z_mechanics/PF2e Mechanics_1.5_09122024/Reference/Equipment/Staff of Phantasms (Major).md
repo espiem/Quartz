@@ -15,7 +15,7 @@ license: ORC
 ---
 # Staff of Phantasms (Major)
 ## Item 14
-### [[magical]][[staff]][[two-hand-d8]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

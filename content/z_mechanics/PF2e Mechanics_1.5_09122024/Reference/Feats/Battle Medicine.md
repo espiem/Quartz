@@ -15,7 +15,7 @@ license: ORC
 ---
 # Battle Medicine `pf2:1`
 ## Feat 1
-### [[general]][[healing]][[manipulate]][[skill]]
+### [[general]][[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[skill]]
 
 **Category** skill; 
 
@@ -27,7 +27,7 @@ license: ORC
 
 * * *
 
-You can patch up wounds, even in combat. Attempt a Medicine check with the same DC as for [[Actions/Treat Wounds|Treat Wounds]] and restore the corresponding amount of HP; this doesn't remove the wounded condition. As with Treat Wounds, you can attempt checks against higher DCs if you have the minimum proficiency rank. The target is then [[Feat_Feature Effects/Effect_ Battle Medicine Immunity|immune]] to your Battle Medicine for 1 day. This does not make them immune to, or otherwise count as, Treat Wounds.
+You can patch up wounds, even in combat. Attempt a Medicine check with the same DC as for [[Actions/Treat Wounds|Treat Wounds]] and restore the corresponding amount of HP; this doesn't remove the wounded condition. As with Treat Wounds, you can attempt checks against higher DCs if you have the minimum proficiency rank. The target is then [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Battle Medicine Immunity|immune]] to your Battle Medicine for 1 day. This does not make them immune to, or otherwise count as, Treat Wounds.
 
 *Source: Pathfinder Player Core*
 *ORC*

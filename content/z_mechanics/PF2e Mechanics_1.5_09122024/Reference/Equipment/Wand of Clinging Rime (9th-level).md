@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wand of Clinging Rime (9th-level)
 ## Item 20
-### [[cold]][[magical]][[wand]][[water]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Cold]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wand]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 
 **Price** 70000 gp; 

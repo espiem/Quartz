@@ -20,6 +20,6 @@ This substance is the result of a failed alchemical experiment to regrow a sever
 
 **Stage 1** 4d6 poison, [[Clumsy 1]], and must succeed at a DC 5 flat to perform an action with the manipulate trait or the action fails and is lost (1 round)
 
-**Stage 2** 4d6 poison, clumsy 1, [[Slowed]], 2d6 bludgeoning (1 round)
+**Stage 2** 4d6 poison, clumsy 1, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]], 2d6 bludgeoning (1 round)
 
-**Stage 3** 4d6 poison, [[Clumsy 1|Clumsy 2]], [[Slowed|Slowed 2]], 4d6 bludgeoning (1 round)
+**Stage 3** 4d6 poison, [[Clumsy 1|Clumsy 2]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]], 4d6 bludgeoning (1 round)

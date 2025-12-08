@@ -11,7 +11,7 @@ license: ORC
 ---
 # Resilient (Major)
 ## Item 20
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 49440 gp; 

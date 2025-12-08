@@ -14,7 +14,7 @@ license: ORC
 ---
 # Can't Fall Here `pf2:r`
 ## Feat 13
-### [[auditory]][[hobgoblin]][[manipulate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Hobgoblin]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** ancestry; 
 
@@ -27,7 +27,7 @@ license: ORC
 
 * * *
 
-You physically help an ally remain standing and encourage them to push through their pain against dire odds. Your ally doesn't fall [[Conditions/Unconscious|Unconscious]] and remains at 1 Hit Point. The ally also gains a number of temporary Hit Points equal to your level that last for 1 minute. Fighting onward with such an injury isn't without consequence; your ally's [[Conditions/Wounded|Wounded]] condition increases by 1.
+You physically help an ally remain standing and encourage them to push through their pain against dire odds. Your ally doesn't fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] and remains at 1 Hit Point. The ally also gains a number of temporary Hit Points equal to your level that last for 1 minute. Fighting onward with such an injury isn't without consequence; your ally's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded|Wounded]] condition increases by 1.
 
 [[Feat_Feature Effects/Effect_ Can't Fall Here|Effect: Can't Fall Here]]
 

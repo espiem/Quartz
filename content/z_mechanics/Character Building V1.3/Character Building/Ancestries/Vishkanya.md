@@ -12,4 +12,4 @@ tags:
 
 Vishkanyas are ophidian humanoids who carry potent venom within their blood and saliva. Largely misunderstood due to old tales of their toxicity and natural finesse, vishkanyas work to grow into more than just what stories paint them to be.
 
-[[Vishkanya]]
+[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Vishkanya]]

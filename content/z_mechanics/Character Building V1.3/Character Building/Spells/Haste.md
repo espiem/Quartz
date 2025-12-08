@@ -8,9 +8,9 @@ tags:
 ---
 
 # Haste
-![[systems-pf2e-icons-spells-haste.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-haste.webp|150]]
 
-Magic empowers the target to act faster. It gains the [[Quickened]] condition and can use the extra action each round only for Strike and Stride actions.
+Magic empowers the target to act faster. It gains the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]] condition and can use the extra action each round only for Strike and Stride actions.
 
 * * *
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Alter Admixture
 ## Feat 8
-### [[alchemist]][[exploration]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist]][[exploration]]
 
 **Category** class; 
 

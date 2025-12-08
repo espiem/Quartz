@@ -29,7 +29,7 @@ A thin wooden mask carved in the shape of a skull, monstrous face, or eerily fea
 
 * * *
 
-**Effect** The mask contorts and inhales, sucking breath from your target's lungs. The target falls [[Unconscious]] but doesn't fall [[Prone]] or drop what it's holding. It wakes up at the end of your turn if it hasn't been woken up already.
+**Effect** The mask contorts and inhales, sucking breath from your target's lungs. The target falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] but doesn't fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] or drop what it's holding. It wakes up at the end of your turn if it hasn't been woken up already.
 
 * * *
 

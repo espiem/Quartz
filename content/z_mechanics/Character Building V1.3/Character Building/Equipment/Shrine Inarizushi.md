@@ -8,7 +8,7 @@ tags:
 ---
 
 # Shrine Inarizushi
-![[systems-pf2e-icons-equipment-consumables-other-consumables-shrine-inarizushi.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-other-consumables-shrine-inarizushi.webp|150]]
 
 **Activate** one minute (Interact)
 

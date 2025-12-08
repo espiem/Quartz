@@ -13,7 +13,7 @@ license: OGL
 ---
 # Dust of Disappearance
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[illusion]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 135 gp; 

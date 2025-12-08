@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bone Spikes `pf2:1`
 ## Feat 2
-### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[deviant]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** class; 
 
@@ -21,7 +21,7 @@ license: OGL
 
 Sharp shards of bone tear forth from your elbows, wrists, or other parts of your body. For 1 minute, you can make bone spike unarmed Strikes, which deal 1d6 piercing damage and have the versatile S and sweep traits. When you take the Bone Spikes action, you can choose one weapon on your person and duplicate its weapon runes onto your bone spikes (with the exception of any runes that couldn't apply to the bone spears).
 
-[[Feat_Feature Effects/Effect_ Bone Spikes|Effect: Bone Spikes]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Bone Spikes|Effect: Bone Spikes]]
 
 * * *
 

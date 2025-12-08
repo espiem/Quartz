@@ -11,7 +11,7 @@ license: OGL
 ---
 # Reflecting Riposte `pf2:r`
 ## Feat 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fighter]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]]
 
 **Category** class; 
 

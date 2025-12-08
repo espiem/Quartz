@@ -24,7 +24,7 @@ If the ritual is successful, you fall asleep for the briefest of moments to the 
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** You're [[Fatigued]] for the next 24 hours.
+**Critical Failure** You're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] for the next 24 hours.
 
 * * *
 

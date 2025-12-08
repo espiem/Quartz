@@ -13,7 +13,7 @@ license: OGL
 ---
 # Targeting Shot `pf2:1`
 ## Feat 14
-### [[concentrate]][[press]][[ranger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[press]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]]
 
 **Category** class; 
 
@@ -21,7 +21,7 @@ license: OGL
 
 **Prerequisites** Hunter's Aim
 * * *
-You carefully track your prey's position and defenses, allowing you to follow up around obstacles that block your shot. Make a ranged weapon Strike against your hunted prey. You ignore the target's [[Conditions/Concealed|Concealed]] condition and all cover.
+You carefully track your prey's position and defenses, allowing you to follow up around obstacles that block your shot. Make a ranged weapon Strike against your hunted prey. You ignore the target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] condition and all cover.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

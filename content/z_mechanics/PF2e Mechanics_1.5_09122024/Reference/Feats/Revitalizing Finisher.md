@@ -13,7 +13,7 @@ license: ORC
 ---
 # Revitalizing Finisher
 ## Feat 14
-### [[finisher]][[swashbuckler]]
+### [[finisher]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 

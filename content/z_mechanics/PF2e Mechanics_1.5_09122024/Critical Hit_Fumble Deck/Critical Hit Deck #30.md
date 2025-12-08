@@ -8,7 +8,7 @@ tags:
 ---
 # To your thinky Bits
 
-> **Crit Effect:** The target is [[Conditions/Stupefied|Stupefied 2]] until healed.
+> **Crit Effect:** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] until healed.
 
 `Bludgeoning`
 
@@ -20,7 +20,7 @@ tags:
 
 # Wide Open
 
-> The target is [[Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
 
 `Slashing`
 

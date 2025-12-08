@@ -17,7 +17,7 @@ license: OGL
 
 
 
-The visitant makes a claw Strike against a creature it has [[Conditions/Grabbed|Grabbed]]. If the attack hits, that creature is knocked [[Conditions/Prone|Prone]].
+The visitant makes a claw Strike against a creature it has [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]]. If the attack hits, that creature is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 *Source: Pathfinder #152: Legacy of the Lost God*
 *OGL*

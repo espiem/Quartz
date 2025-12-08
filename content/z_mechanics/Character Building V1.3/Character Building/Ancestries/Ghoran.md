@@ -12,4 +12,4 @@ tags:
 
 These intelligent plant people, created by a long-dead druid, possess a sort of immortality through their seeds—unless these are destroyed by external events other than merely the ravages of time.
 
-[[Ghoran]]
+[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Ghoran]]

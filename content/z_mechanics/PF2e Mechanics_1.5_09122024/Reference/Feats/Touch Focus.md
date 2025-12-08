@@ -13,7 +13,7 @@ license: OGL
 ---
 # Touch Focus `pf2:0`
 ## Feat 16
-### [[archetype]][[manipulate]][[spellshape]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[spellshape]]
 
 **Category** class; 
 
@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-You can redirect a spell's power through you to deliver it within striking distance. If your next action is to Cast a Spell with 1 or more targets and a range farther than touch, you change the range to touch. You gain a +2 circumstance bonus to the attack. This only allows you to touch a single target with the spell, even if the spell originally affected more than 1 target. As long as your spell attack is successful, the target is knocked [[Conditions/Prone|Prone]] in addition to the spell's normal effects.
+You can redirect a spell's power through you to deliver it within striking distance. If your next action is to Cast a Spell with 1 or more targets and a range farther than touch, you change the range to touch. You gain a +2 circumstance bonus to the attack. This only allows you to touch a single target with the spell, even if the spell originally affected more than 1 target. As long as your spell attack is successful, the target is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] in addition to the spell's normal effects.
 
 *Source: Pathfinder Fists of the Ruby Phoenix Hardcover Compilation*
 *OGL*

@@ -22,9 +22,9 @@ If the rocket explodes in an enclosed space smaller than the full size of the bu
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is [[Dazzled]] for 1 round.
+**Failure** The creature takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round.
 
-**Critical Failure** The creature takes double damage and is [[Blinded]] for 1 round.
+**Critical Failure** The creature takes double damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round.
 
 * * *
 

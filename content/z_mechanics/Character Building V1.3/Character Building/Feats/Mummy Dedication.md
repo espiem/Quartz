@@ -16,4 +16,4 @@ Many effects that harm the living are far less effective against your desiccated
 
 Finally, you become supernaturally bound to the dominant terrain in which you were created, either because you formed naturally from the weather of that terrain or because of the local ingredients and methods used in an intentional mummification process. Choose arctic, desert, mountain, or swamp. This choice can't be changed and may alter the effects of some of your feats.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[Mummy]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Mummy]] archetype.

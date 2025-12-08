@@ -18,9 +18,9 @@ A jagged crack opens in the air, dealing 12d8 cold damage as it draws away warmt
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is [[Slowed]] until the start of your next turn.
+**Failure** The creature takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] until the start of your next turn.
 
-**Critical Failure** The creature takes double damage, is [[Immobilized]] by a layer of ice, and is slowed 1 as long as its immobilized. The ice is an object with 60 Hit Points, Hardness 5, immunity to cold damage, and vulnerability 10 to fire. It has object immunities and is destroyed if the target Escapes.
+**Critical Failure** The creature takes double damage, is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] by a layer of ice, and is slowed 1 as long as its immobilized. The ice is an object with 60 Hit Points, Hardness 5, immunity to cold damage, and vulnerability 10 to fire. It has object immunities and is destroyed if the target Escapes.
 
 * * *
 

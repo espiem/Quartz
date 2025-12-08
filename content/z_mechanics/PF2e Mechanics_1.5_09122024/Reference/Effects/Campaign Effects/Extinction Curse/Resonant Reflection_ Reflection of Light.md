@@ -12,7 +12,7 @@ license: OGL
 ---
 # Resonant Reflection: Reflection of Light
 ## Feat 10
-### [[light]][[magical]]
+### [[light]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** deityboon; 
 

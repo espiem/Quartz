@@ -12,14 +12,14 @@ license: ORC
 ---
 # The Harder They Fall
 ## Feat 4
-### [[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 
 
 
 
-You make your foes fall painfully when you trip them. When you successfully [[Actions/Trip|Trip]] an [[Conditions/Off-Guard|Off-Guard]] foe, your target takes 1d6 bludgeoning damage. On a critical success, the target takes 1d6 bludgeoning damage plus your sneak attack damage.
+You make your foes fall painfully when you trip them. When you successfully [[Actions/Trip|Trip]] an [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] foe, your target takes 1d6 bludgeoning damage. On a critical success, the target takes 1d6 bludgeoning damage plus your sneak attack damage.
 
 *Source: Pathfinder Player Core*
 *ORC*

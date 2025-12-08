@@ -16,4 +16,4 @@ tags:
 
 * * *
 
-You Stride up to 10 feet to enter the water, bringing the [[Grabbed]] creature with you into the water.
+You Stride up to 10 feet to enter the water, bringing the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] creature with you into the water.

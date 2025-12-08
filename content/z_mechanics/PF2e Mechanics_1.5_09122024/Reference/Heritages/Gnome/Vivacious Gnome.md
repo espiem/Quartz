@@ -16,7 +16,7 @@ license: OGL
 
 
 
-You have an incredibly strong connection to the vitality energy that flows through the First World, making it harder to attack your life force with void energy. You gain void resistance equal to half your level (minimum 1). When you have the [[Conditions/Doomed|Doomed]] condition, the condition affects you as if its value was 1 lower than it actually is (doomed 1 has no effect, doomed 2 causes you to die at [[Conditions/Dying|Dying 3]], and so on).
+You have an incredibly strong connection to the vitality energy that flows through the First World, making it harder to attack your life force with void energy. You gain void resistance equal to half your level (minimum 1). When you have the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed]] condition, the condition affects you as if its value was 1 lower than it actually is (doomed 1 has no effect, doomed 2 causes you to die at [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying|Dying 3]], and so on).
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

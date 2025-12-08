@@ -13,7 +13,7 @@ license: ORC
 ---
 # Fearsome Form
 ## Feat 17
-### [[auditory]][[awakened-animal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[awakened-animal]]
 
 **Category** ancestry; 
 

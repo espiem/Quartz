@@ -8,7 +8,7 @@ tags:
 ---
 
 # Putrefy Food and Drink
-![[systems-pf2e-icons-spells-putrefy-food-and-drink.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-putrefy-food-and-drink.webp|150]]
 
 You cause otherwise edible food to rot and spoil instantly, and water and other liquids to become brackish and undrinkable. [[Holy Water]], [[Unholy Water]], and similar food and drink of significance are spoiled by this spell, unless they are associated with a deity of decay or putrefaction, but it has no effect on creatures of any type, potions, or alchemical elixirs. One cubic foot of liquid is roughly 8 gallons.
 

@@ -11,7 +11,7 @@ license: ORC
 ---
 # Kijimuna Gnome
 
-### [uncommon](uncommon "Uncommon Rarity Trait")[[gnome]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Gnome]]
 
 
 

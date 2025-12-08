@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Woodblessed) Luminant Aura
 
-### [[aura]][[light]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[light]]
 
 **Category** offensive; 
 

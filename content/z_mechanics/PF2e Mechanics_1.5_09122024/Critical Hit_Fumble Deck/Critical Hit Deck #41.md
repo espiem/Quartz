@@ -8,7 +8,7 @@ tags:
 ---
 # Broken Leg
 
-> **Crit Effect:** The target takes a [[Other Effects/Effect_ -15-foot status penalty to your land Speed|-15-foot circumstance penalty to your land Speed]] until healed.
+> **Crit Effect:** The target takes a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -15-foot status penalty to your land Speed|-15-foot circumstance penalty to your land Speed]] until healed.
 
 `Bludgeoning`
 

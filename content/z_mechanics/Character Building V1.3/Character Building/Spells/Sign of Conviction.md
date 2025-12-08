@@ -10,7 +10,7 @@ tags:
 # Sign of Conviction
 ![[icons-magic-nature-symbol-sun-yellow.webp|150]]
 
-You conjure the religious symbol of your deity into the air above you in the same space you stand in, wielding the power of your faith to smite your foes. This religious symbol is immobile, made of pure magical force, and can't be damaged. As long as you Sustain sign of conviction, you gain a +1 status bonus to AC and saving throws and are [[Immobilized]]. The DC for any effect to force you to move out of your space (such as the [[Shove]] action) is equal to your spell DC or the normal DC, whichever is higher. If you stop being immobilized or are moved out of your space, _sign of conviction_ immediately ends.
+You conjure the religious symbol of your deity into the air above you in the same space you stand in, wielding the power of your faith to smite your foes. This religious symbol is immobile, made of pure magical force, and can't be damaged. As long as you Sustain sign of conviction, you gain a +1 status bonus to AC and saving throws and are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]]. The DC for any effect to force you to move out of your space (such as the [[Shove]] action) is equal to your spell DC or the normal DC, whichever is higher. If you stop being immobilized or are moved out of your space, _sign of conviction_ immediately ends.
 
 When you Cast the Spell and each time you Sustain the Spell, the religious symbol emits a blast of energy at a target within 100 feet. Make a spell attack roll that deals 2d10 damage on a success (see below for determining damage type) and double damage on a critical success. You can Sustain the Spell multiple times in the same round to emit an array of blasts.
 

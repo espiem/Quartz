@@ -14,7 +14,7 @@ license: OGL
 ---
 # Silencing Shot
 ## Item 11
-### [[alchemical]][[consumable]][[illusion]][[magical]]
+### [[alchemical]][[consumable]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 300 gp; 

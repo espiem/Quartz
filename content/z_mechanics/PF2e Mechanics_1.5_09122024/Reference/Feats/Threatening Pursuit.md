@@ -13,7 +13,7 @@ license: ORC
 ---
 # Threatening Pursuit `pf2:1`
 ## Feat 13
-### [[auditory]][[minotaur]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[minotaur]]
 
 **Category** ancestry; 
 

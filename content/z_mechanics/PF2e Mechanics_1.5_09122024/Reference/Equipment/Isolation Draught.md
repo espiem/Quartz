@@ -14,7 +14,7 @@ license: OGL
 ---
 # Isolation Draught
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[ingested]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[ingested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 55 gp; 
@@ -33,11 +33,11 @@ Derived from steeping toxic highland plum pits in refined grain alcohols, this c
 
 **Maximum Duration** 30 minutes
 
-**Stage 1** [[Conditions/Dazzled|Dazzled]], -3 to all Perception checks (1 minute)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]], -3 to all Perception checks (1 minute)
 
-**Stage 2** dazzled, [[Conditions/Deafened|Deafened]], -5 to all Perception checks (1 minute)
+**Stage 2** dazzled, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]], -5 to all Perception checks (1 minute)
 
-**Stage 3** [[Conditions/Blinded|Blinded]], deafened, -5 to all Perception checks (5 minutes)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]], deafened, -5 to all Perception checks (5 minutes)
 
 *Source: Pathfinder #149: Against the Scarlet Triad*
 *OGL*

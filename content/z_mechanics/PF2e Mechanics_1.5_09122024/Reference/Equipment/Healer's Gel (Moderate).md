@@ -13,7 +13,7 @@ license: OGL
 ---
 # Healer's Gel (Moderate)
 ## Item 9
-### [[catalyst]][[consumable]][[magical]]
+### [[catalyst]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** catalyst; 
 **Price** 125 gp; 

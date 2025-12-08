@@ -20,6 +20,6 @@ Your flesh gives way as you're struck, becoming coarse sand that can magically t
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[Slowed]] until the end of its next turn.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] until the end of its next turn.
 
-**Critical Failure** The creature is [[Petrified]] until the end of its next turn.
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Petrified]] until the end of its next turn.

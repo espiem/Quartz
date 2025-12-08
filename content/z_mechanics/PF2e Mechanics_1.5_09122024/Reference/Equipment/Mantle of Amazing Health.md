@@ -12,7 +12,7 @@ license: OGL
 ---
 # Mantle of Amazing Health
 ## Item 19
-### [[apex]][[invested]][[magical]]
+### [[apex]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 40000 gp; 

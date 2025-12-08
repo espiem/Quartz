@@ -15,7 +15,7 @@ license: ORC
 ---
 # Familiar
 ## Feat 1
-### [[magus]][[sorcerer]][[thaumaturge]][[wizard]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Magus]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Wizard]]
 
 **Category** class; 
 

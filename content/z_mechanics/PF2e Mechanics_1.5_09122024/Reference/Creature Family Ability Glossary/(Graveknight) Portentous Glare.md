@@ -16,14 +16,14 @@ license: OGL
 ---
 # (Graveknight) Portentous Glare
 
-### [[aura]][[divine]][[emotion]][[fear]][[mental]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[visual]]
 
 **Category** offensive; 
 
 
 
 
-30 feet. The graveknight's visage is one of overwhelming menace. When a creature ends its turn in the aura, it must attempt a Will check saving throw. A creature that fails is [[Conditions/Doomed|Doomed 1]] (or doomed 1 and [[Conditions/Frightened|Frightened 2]] on a critical failure). The graveknight can activate or deactivate the aura by using an Interact action to open or close their helmet visor.
+30 feet. The graveknight's visage is one of overwhelming menace. When a creature ends its turn in the aura, it must attempt a Will check saving throw. A creature that fails is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]] (or doomed 1 and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] on a critical failure). The graveknight can activate or deactivate the aura by using an Interact action to open or close their helmet visor.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

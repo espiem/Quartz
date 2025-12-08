@@ -8,6 +8,6 @@ tags:
 ---
 
 # Untwisting Iron Pillar
-![[systems-pf2e-icons-spells-earthquake.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-earthquake.webp|150]]
 
 You call upon the earth and your ki to shield you from your enemies. You gain 50 temporary Hit Points that last for the duration or until you lose them, as well as resistance 5 to all physical damage (except adamantine).

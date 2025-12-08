@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bristle `pf2:1`
 ## Feat 5
-### [[shisk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Shisk]]
 
 **Category** ancestry; 
 
@@ -20,7 +20,7 @@ license: OGL
 
 You curl into a posture that splays out your bone spines. You gain a +1 circumstance to AC until the start of your next turn.
 
-[[Feat_Feature Effects/Effect_ Bristle|Effect: Bristle]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Bristle|Effect: Bristle]]
 
 * * *
 

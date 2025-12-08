@@ -12,7 +12,7 @@ license: ORC
 ---
 # Halfling
 
-### [[halfling]][[humanoid]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Halfling]][[humanoid]]
 
 
 
@@ -21,7 +21,7 @@ license: ORC
 
 _Claiming no place as their own, halflings control few settlements larger than villages. Instead, they frequently live among humans within the walls of larger cities, carving out small communities alongside taller folk. Many halflings lead perfectly fulfilling lives in the shadows of their larger neighbors, while others prefer a nomadic existence, traveling the world and taking advantage of opportunities and adventures as they come._
 
-_[[PF2e Journals/Ancestries/Halfling|Halfling]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Halfling|Halfling]]_
 
 *Source: Pathfinder Player Core*
 *ORC*

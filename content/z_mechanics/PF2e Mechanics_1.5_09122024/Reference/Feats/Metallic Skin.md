@@ -14,7 +14,7 @@ license: OGL
 ---
 # Metallic Skin `pf2:2`
 ## Feat 17
-### [[concentrate]][[primal]][[talos]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[primal]][[talos]]
 
 **Category** ancestry; 
 

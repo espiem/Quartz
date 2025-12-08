@@ -12,7 +12,7 @@ license: ORC
 ---
 # Leshy
 
-### [[leshy]][[plant]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Leshy]][[plant]]
 
 
 
@@ -21,7 +21,7 @@ license: ORC
 
 _Guardians and emissaries of the environment, leshies are immortal spirits of nature temporarily granted a physical form._
 
-_[[PF2e Journals/Ancestries/Leshy|Leshy]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Leshy|Leshy]]_
 
 *Source: Pathfinder Player Core*
 *ORC*

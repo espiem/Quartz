@@ -12,7 +12,7 @@ tags:
 
 Your head splits vertically into an enormous maw, which feasts upon the target's blood, dealing 12d6 piercing damage, depending on your spell attack roll. After the spell, your head sews back together as if it had never split apart. You gain temporary Hit Points for 1 minute equal to half the piercing damage the target takes.
 
-If you are a gug, increase the piercing damage by 2d6 and increase the [[Persistent Damage|Persistent Bleed Damage]] you deal on a critical hit by 1d8. This spell doesn't alter a gug's appearance.
+If you are a gug, increase the piercing damage by 2d6 and increase the [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Persistent Damage|Persistent Bleed Damage]] you deal on a critical hit by 1d8. This spell doesn't alter a gug's appearance.
 
 * * *
 
@@ -24,4 +24,4 @@ If you are a gug, increase the piercing damage by 2d6 and increase the [[Persist
 
 * * *
 
-**Heightened (+1)** The piercing damage increases by 2d6, and the [[Persistent Damage|Persistent Bleed Damage]] on a critical increases by 1.
+**Heightened (+1)** The piercing damage increases by 2d6, and the [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Persistent Damage|Persistent Bleed Damage]] on a critical increases by 1.

@@ -18,4 +18,4 @@ You perceive every possible way your foe's attack could land and attempt to avoi
 
 The triggering attack roll targets your Perception DC instead of your AC. Though this allows you to avoid taking penalties to your AC, it doesn't remove any conditions or other effects causing such penalties.
 
-For example, an enemy with sneak attack would still deal extra damage to you for being [[Off-Guard]], even though you wouldn't take the -2 circumstance penalty when defending against the attack.
+For example, an enemy with sneak attack would still deal extra damage to you for being [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]], even though you wouldn't take the -2 circumstance penalty when defending against the attack.

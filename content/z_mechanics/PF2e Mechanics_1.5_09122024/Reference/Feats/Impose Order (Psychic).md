@@ -13,7 +13,7 @@ license: OGL
 ---
 # Impose Order (Psychic) `pf2:1`
 ## Feat 10
-### [[fortune]][[psyche]][[psychic]]
+### [[fortune]][[psyche]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** class; 
 

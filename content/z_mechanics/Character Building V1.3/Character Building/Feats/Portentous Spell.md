@@ -14,4 +14,4 @@ Your spellcasting is rife with strange lights, esoteric gestures, and other capt
 
 If the next action you use is to Cast a Spell, any creature that attempts to use a reaction triggered by your Cast a Spell activity takes a -2 circumstance penalty to attack rolls and skill checks rolled as part of the reaction.
 
-In addition, if the spell includes a spell attack roll or requires a saving throw, creatures you hit or that fail their saves are [[Fascinated]] with you until the start of your next turn.
+In addition, if the spell includes a spell attack roll or requires a saving throw, creatures you hit or that fail their saves are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] with you until the start of your next turn.

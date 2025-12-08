@@ -15,7 +15,7 @@ license: ORC
 ---
 # Nudging Whisper
 
-### [[curse]][[divine]][[emotion]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Curse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** offensive; 
 

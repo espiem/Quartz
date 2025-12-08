@@ -16,4 +16,4 @@ You gain the mild, constant effects of the mystery's curse described in its firs
 
 You cast spells like an oracle and gain the [[Cast a Spell]] activity. You gain a spell repertoire with two cantrips, either common divine cantrips or other divine cantrips you learn or discover. You're trained in divine spell attack rolls and divine spell DCs. Your key spellcasting ability for oracle archetype spells is Charisma, and they are divine oracle spells.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[Oracle]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Oracle]] archetype.

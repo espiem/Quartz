@@ -14,7 +14,7 @@ license: OGL
 ---
 # Breath Blaster (Greater)
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concussive]][[magical]][[scatter-10]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[concussive]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[scatter-10]]
 
 |  |  |
 | -- | -- |

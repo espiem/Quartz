@@ -14,7 +14,7 @@ You forge a connection of life energy between you and your target, distributing 
 
 The first time each round that the target takes damage, reduce the damage it takes by 3 (to a minimum of 0 damage). You lose 3 Hit Points each time, or the total damage dealt, if less than 3; this damage ignores any immunities or resistances you have and can't otherwise be mitigated in any way.
 
-The spell ends immediately if you fall [[Unconscious]]. You can [[Dismiss]] the spell.
+The spell ends immediately if you fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]]. You can [[Dismiss]] the spell.
 
 * * *
 

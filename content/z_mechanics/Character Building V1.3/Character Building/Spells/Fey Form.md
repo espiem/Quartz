@@ -8,7 +8,7 @@ tags:
 ---
 
 # Fey Form
-![[icons-creatures-magical-fae-fairy-winged-glowing-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-magical-fae-fairy-winged-glowing-green.webp|150]]
 
 Channeling the mischievous fey, you transform into a fey battle form, which is Medium unless stated otherwise. When you cast this spell, choose dryad, elananx, naiad, redcap, or unicorn. If you choose unicorn, the battle form is Large and you must have space to expand or the spell is lost. While in this form, you gain the fey trait. Unless you choose elananx or unicorn, you have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
 

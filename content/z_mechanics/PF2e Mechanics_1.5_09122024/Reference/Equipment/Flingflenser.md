@@ -15,7 +15,7 @@ license: OGL
 ---
 # Flingflenser
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[backstabber]][[fatal-d10]][[goblin]][[scatter-5]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[backstabber]][[fatal-d10]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Goblin]][[scatter-5]]
 
 |  |  |
 | -- | -- |

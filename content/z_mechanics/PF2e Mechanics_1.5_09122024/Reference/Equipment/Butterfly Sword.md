@@ -17,7 +17,7 @@ license: OGL
 ---
 # Butterfly Sword
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[disarm]][[finesse]][[monk]][[parry]][[twin]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[disarm]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]][[parry]][[twin]]
 
 |  |  |
 | -- | -- |

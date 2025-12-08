@@ -15,7 +15,7 @@ license: OGL
 ---
 # Tut-Tut `pf2:0`
 ## Feat 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[emotion]][[fear]][[mental]][[press]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[press]]
 
 **Category** class; 
 
@@ -27,7 +27,7 @@ license: OGL
 
 * * *
 
-The Sapphire Butterfly is not one for violence when simply intimidating a foe will do. From that vigilante's techniques, you've learned how to pull a deadly blow at the last moment, threatening your target instead of striking them. Rather than dealing damage with the triggering Strike, attempt an Intimidation check with a +2 circumstance bonus to [[Actions/Demoralize|Demoralize]] all enemies within 30 feet who can see you. If you critically succeed at your check to Demoralize the target of your Strike, their attitude toward you improves by one step while they also become [[Conditions/Frightened|Frightened 2]].
+The Sapphire Butterfly is not one for violence when simply intimidating a foe will do. From that vigilante's techniques, you've learned how to pull a deadly blow at the last moment, threatening your target instead of striking them. Rather than dealing damage with the triggering Strike, attempt an Intimidation check with a +2 circumstance bonus to [[Actions/Demoralize|Demoralize]] all enemies within 30 feet who can see you. If you critically succeed at your check to Demoralize the target of your Strike, their attitude toward you improves by one step while they also become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
 *Source: Pathfinder Lost Omens: Firebrands*
 *OGL*

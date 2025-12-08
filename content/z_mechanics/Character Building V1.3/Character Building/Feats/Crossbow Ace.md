@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-Your deep understanding of the crossbow allows you to reload efficiently while moving yourself out of the line of return fire. Either [[Create a Diversion]] or [[Take Cover]], then Interact to reload. As normal, you must meet the requirements to Take Cover; you must be [[Prone]], benefiting from cover, or near a feature that allows you to Take Cover.
+Your deep understanding of the crossbow allows you to reload efficiently while moving yourself out of the line of return fire. Either [[Create a Diversion]] or [[Take Cover]], then Interact to reload. As normal, you must meet the requirements to Take Cover; you must be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]], benefiting from cover, or near a feature that allows you to Take Cover.

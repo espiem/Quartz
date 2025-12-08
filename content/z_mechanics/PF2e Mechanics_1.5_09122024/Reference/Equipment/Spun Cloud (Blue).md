@@ -15,7 +15,7 @@ license: OGL
 ---
 # Spun Cloud (Blue)
 ## Item 6
-### [[air]][[bottled-breath]][[consumable]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[bottled-breath]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 50 gp; 
@@ -30,7 +30,7 @@ On the Elemental Plane of Air, small clouds of differing colors can sometimes fl
 
 A blue cloud protects against lightning. Creatures gain resistance 5 to electricity while in the cloud.
 
-[[Equipment Effects/Effect_ Spun Cloud (Blue)|Effect: Spun Cloud (Blue)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Spun Cloud (Blue)|Effect: Spun Cloud (Blue)]]
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

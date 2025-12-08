@@ -14,7 +14,7 @@ license: OGL
 ---
 # Discord Fulu
 ## Item 5
-### [[consumable]][[fulu]][[magical]][[misfortune]]
+### [[consumable]][[fulu]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[misfortune]]
 
 **Category** fulu; 
 **Price** 22 gp; 

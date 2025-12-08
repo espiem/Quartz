@@ -15,8 +15,8 @@ A massive storm cloud forms in the air in a 360-foot burst. Beneath it, rain beg
 *   **Acid Rain** Each creature in the storm takes 4d8 acid damage with no saving throw.
 *   **Hail** The storm deals 4d10 bludgeoning damage to creatures beneath it (basic Fortitude save).
 *   **Lightning** Up to 10 bolts of lightning strike down, targeting creatures of your choice in the storm. No more than one bolt can target any one creature. Each bolt deals 7d6 electricity damage (basic Reflex save).
-*   **Rain and Wind** Heavy rain and whipping wind reduce visibility and mobility, making the area under the storm cloud difficult terrain and making everything seen within or through the area [[Concealed]].
-*   **Thunderclap** Each creature in the storm must succeed at a Fortitude save or be [[Deafened]] for 10 minutes. A creature that succeeds is temporarily immune to thunderclaps from storm of vengeance for 1 hour.
+*   **Rain and Wind** Heavy rain and whipping wind reduce visibility and mobility, making the area under the storm cloud difficult terrain and making everything seen within or through the area [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]].
+*   **Thunderclap** Each creature in the storm must succeed at a Fortitude save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 10 minutes. A creature that succeeds is temporarily immune to thunderclaps from storm of vengeance for 1 hour.
 
 * * *
 

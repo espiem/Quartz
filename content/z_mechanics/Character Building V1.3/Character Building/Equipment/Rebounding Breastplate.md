@@ -22,4 +22,4 @@ After 1 minute, the absorbed damage disperses harmlessly and resets to 0. Only d
 
 * * *
 
-**Effect** The absorbed energy explodes from your armor in a pulse of force. Creatures in a 30 foot emanation take 10d6 force damage with a DC 43 fortitude save. On a failure, they're pushed 10 feet away from you, and on a critical failure, they're pushed 20 feet away from you and fall [[Prone]]. The armor's absorbed damage resets to 0.
+**Effect** The absorbed energy explodes from your armor in a pulse of force. Creatures in a 30 foot emanation take 10d6 force damage with a DC 43 fortitude save. On a failure, they're pushed 10 feet away from you, and on a critical failure, they're pushed 20 feet away from you and fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]]. The armor's absorbed damage resets to 0.

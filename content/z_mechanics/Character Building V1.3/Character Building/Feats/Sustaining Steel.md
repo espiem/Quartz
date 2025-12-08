@@ -16,6 +16,6 @@ tags:
 
 * * *
 
-You pull magic into your weapon, using its substance to transform the magic into restorative energy. You regain Hit Points equal to double the spell's level and roll to end any [[Persistent Damage|Persistent Void Damage]] you have.
+You pull magic into your weapon, using its substance to transform the magic into restorative energy. You regain Hit Points equal to double the spell's level and roll to end any [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Persistent Damage|Persistent Void Damage]] you have.
 
 If the spell was of the necromancy school, any persistent void damage you have ends automatically, and you can change the damage type from Arcane Cascade to vitality if you wish. (Vitality damage typically damages only undead or other creatures with [[Negative-Healing]].)

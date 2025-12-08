@@ -13,7 +13,7 @@ license: ORC
 ---
 # Death Drone `pf2:2`
 
-### [[auditory]][[flourish]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[flourish]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 
 
@@ -28,9 +28,9 @@ The cicadas in your swarm make a droning sound that stimulates a fear response. 
 
 **Success** The creatures takes half damage.
 
-**Failure** The creature takes full damage, is [[Conditions/Frightened|Frightened 1]], and takes a –2 circumstance penalty to Perception checks that require hearing.
+**Failure** The creature takes full damage, is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]], and takes a –2 circumstance penalty to Perception checks that require hearing.
 
-**Critical Failure** The creature takes double damage, is [[Conditions/Frightened|Frightened 2]], and is [[Conditions/Deafened|Deafened]] until the start of your next turn.
+**Critical Failure** The creature takes double damage, is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]], and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]] until the start of your next turn.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

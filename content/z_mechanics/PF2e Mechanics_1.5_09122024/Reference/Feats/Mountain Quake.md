@@ -12,7 +12,7 @@ license: ORC
 ---
 # Mountain Quake `pf2:1`
 ## Feat 14
-### [[monk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 **Category** class; 
 
@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You stomp, shaking the earth beneath you. Creatures on the ground within a 20-foot emanation take damage equal to your Strength modifier (minimum 0), with a Fortitude check save against your class DC. On a failure, they also fall [[Conditions/Prone|Prone]]. After you use this action, you can't use it again for 1d4 rounds.
+You stomp, shaking the earth beneath you. Creatures on the ground within a 20-foot emanation take damage equal to your Strength modifier (minimum 0), with a Fortitude check save against your class DC. On a failure, they also fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]]. After you use this action, you can't use it again for 1d4 rounds.
 
 * * *
 

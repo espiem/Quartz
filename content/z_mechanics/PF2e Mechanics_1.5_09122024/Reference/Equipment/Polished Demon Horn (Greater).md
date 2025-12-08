@@ -11,7 +11,7 @@ license: OGL
 ---
 # Polished Demon Horn (Greater)
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[spellheart]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[spellheart]]
 
 
 **Price** 450 gp; 
@@ -23,9 +23,9 @@ This spellheart is fashioned from the tip of a demon's horn that's been polished
 *   **Armor** You gain resistance 5 to unholy.
 *   **Weapon** After you cast an enchantment spell by Activating the _horn_, your Strikes with the weapon deal an additional 1d6 mental damage until end of your next turn.
 
-[[Equipment Effects/Effect_ Polished Demon Horn - Armor (Greater)|Effect: Polished Demon Horn - Armor (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Polished Demon Horn - Armor (Greater)|Effect: Polished Demon Horn - Armor (Greater)]]
 
-[[Equipment Effects/Effect_ Polished Demon Horn - Weapon (Greater)|Effect: Polished Demon Horn - Weapon (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Polished Demon Horn - Weapon (Greater)|Effect: Polished Demon Horn - Weapon (Greater)]]
 
 * * *
 

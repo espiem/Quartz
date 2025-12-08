@@ -11,7 +11,7 @@ license: OGL
 ---
 # Golden Body
 ## Feat 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[monk]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 **Category** class; 
 

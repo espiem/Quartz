@@ -8,8 +8,8 @@ tags:
 ---
 
 # Ancestral Form
-![[systems-pf2e-icons-spells-ancestral-form.webp|150 right]]
-You take the form of your ancestral spirits, becoming [[Invisible]] and quasi-corporeal. You gain resistance 10 to all damage (except force and damage from Strikes with the ghost touch property rune), and this resistance is doubled against non-magical and precision damage.
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-ancestral-form.webp|150 right]]
+You take the form of your ancestral spirits, becoming [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]] and quasi-corporeal. You gain resistance 10 to all damage (except force and damage from Strikes with the ghost touch property rune), and this resistance is doubled against non-magical and precision damage.
 
 You gain a fly Speed equal to your land Speed; when [[Fly|Flying]], moving upward isn't difficult terrain for you. You can't move through solid objects, but you can float through tiny gaps.
 

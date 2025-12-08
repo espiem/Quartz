@@ -12,7 +12,7 @@ license: ORC
 ---
 # Evolved Spellhorn
 ## Feat 9
-### [[kobold]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Kobold]]
 
 **Category** ancestry; 
 

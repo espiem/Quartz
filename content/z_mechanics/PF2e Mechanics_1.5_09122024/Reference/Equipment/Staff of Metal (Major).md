@@ -16,7 +16,7 @@ license: OGL
 ---
 # Staff of Metal (Major)
 ## Item 14
-### [[magical]][[metal]][[staff]][[two-hand-d8]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[metal]][[staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

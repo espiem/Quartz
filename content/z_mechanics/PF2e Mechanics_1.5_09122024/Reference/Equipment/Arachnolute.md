@@ -11,7 +11,7 @@ license: ORC
 ---
 # Arachnolute
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 1300 gp; 
@@ -26,7 +26,7 @@ The strings of this spider-shaped lute are made from the webbing of a goliath sp
 
 **Frequency** once per hour
 
-**Effect** Sticky webbing sprays in a 30-foot cone as you strum the lute's strings. Each creature in the area of the webbing is [[Conditions/Immobilized|Immobilized]] unless it succeeds at a DC 29 Reflex check save.
+**Effect** Sticky webbing sprays in a 30-foot cone as you strum the lute's strings. Each creature in the area of the webbing is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]] unless it succeeds at a DC 29 Reflex check save.
 
 * * *
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Green Tongue
 ## Feat 12
-### [[druid]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Druid]]
 
 **Category** class; 
 

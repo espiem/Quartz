@@ -12,4 +12,4 @@ tags:
 
 _You can magically beckon a powerful being called an eidolon to your side, serving as the mortal conduit that anchors it to the world. Whether your eidolon is a friend, a servant, or even a personal god, your connection to it marks you as extraordinary, shaping the course of your life dramatically._
 
-_[[Summoner]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Classes/Summoner]]_

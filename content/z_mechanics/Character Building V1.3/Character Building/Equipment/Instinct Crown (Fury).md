@@ -32,4 +32,4 @@ An _instinct crown_ is a magical headpiece imbued with the essence of instincts 
 
 * * *
 
-**Effect** You Rage and draw upon your instinct to gain a boon. Your boundless fury allows you push past your natural limits, moving with unmatched speed. You become [[Quickened]] until the end of your rage. You can use your extra action only to Stride or Strike.
+**Effect** You Rage and draw upon your instinct to gain a boon. Your boundless fury allows you push past your natural limits, moving with unmatched speed. You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]] until the end of your rage. You can use your extra action only to Stride or Strike.

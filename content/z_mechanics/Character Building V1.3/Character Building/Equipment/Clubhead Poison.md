@@ -18,7 +18,7 @@ This poison is named for the strain of fungi from which it's distilled. Hallucin
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 3d8 poison, [[Off-Guard]], and can't take reactions (1 round)
+**Stage 1** 3d8 poison, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]], and can't take reactions (1 round)
 
 **Stage 2** 4d8 poison, off-guard, can't take reactions, [[Stunned 1]] (1 round)
 

@@ -20,7 +20,7 @@ license: OGL
 
 Your eidolon extends its roots underground to entangle and possibly damage all foes nearby. All enemies within your eidolon's reach take damage of the same type and amount as your eidolon's most damaging Strike, depending on their Reflex saves. Any ongoing effects of the save last until the enemy either Escapes or leaves your eidolon's reach.
 
-After using Field of Roots, your eidolon is [[Conditions/Immobilized|Immobilized]] until it takes a single action, which has the manipulate trait, to detach from the ground; this also ends any remaining effects on enemies from Field of Roots.
+After using Field of Roots, your eidolon is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]] until it takes a single action, which has the manipulate trait, to detach from the ground; this also ends any remaining effects on enemies from Field of Roots.
 
 * * *
 

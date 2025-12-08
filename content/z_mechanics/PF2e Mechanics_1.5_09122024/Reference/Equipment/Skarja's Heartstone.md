@@ -11,7 +11,7 @@ license: OGL
 ---
 # Skarja's Heartstone
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[occult]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 
 **Price** 2500 gp; 

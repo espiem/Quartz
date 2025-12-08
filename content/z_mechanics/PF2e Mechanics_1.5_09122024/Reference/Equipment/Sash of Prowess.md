@@ -13,7 +13,7 @@ license: ORC
 ---
 # Sash of Prowess
 ## Item 10
-### [[focused]][[invested]][[magical]]
+### [[focused]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 1000 gp; 

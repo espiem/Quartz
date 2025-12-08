@@ -8,7 +8,7 @@ tags:
 ---
 
 # Summoner's Visage
-![[systems-pf2e-icons-spells-summoners-visage.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-summoners-visage.webp|150]]
 
 You transform your eidolon into your identical twin. Assuming you are a humanoid, the eidolon gains the humanoid trait in addition to its other traits while it's in this form, as well as any other trait related to your form (such as elf or gnome). Your eidolon gains a +4 status bonus to Deception checks to Impersonate you and can add its level to such checks even if it's untrained.
 

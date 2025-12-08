@@ -30,7 +30,7 @@ You can pour a vial of this dark liquid onto one melee weapon, one thrown weapon
 
 The blanch provides high-grade cold iron, so you can use it on any magic weapon. It lasts for 1 hour.
 
-[[Equipment Effects/Effect_ Cold Iron Blanch (Greater)|Effect: Cold Iron Blanch (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Cold Iron Blanch (Greater)|Effect: Cold Iron Blanch (Greater)]]
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Overwhelming Spellstrike `pf2:2`
 ## Feat 12
-### [[magus]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Magus]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-You pierce through your foe's resistance. Make a Spellstrike. The spell you cast as part of the Spellstrike ignores an amount of the target's resistance to acid, cold, electricity, fire, or sonic damage equal to your level. This applies to all damage the spell deals, including [[Conditions/Persistent Damage|Persistent Damage]] and damage caused by an ongoing effect of the spell. A creature's immunities are unaffected.
+You pierce through your foe's resistance. Make a Spellstrike. The spell you cast as part of the Spellstrike ignores an amount of the target's resistance to acid, cold, electricity, fire, or sonic damage equal to your level. This applies to all damage the spell deals, including [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Persistent Damage|Persistent Damage]] and damage caused by an ongoing effect of the spell. A creature's immunities are unaffected.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

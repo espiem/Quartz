@@ -16,9 +16,9 @@ You turn a fire into either a burst of blinding fireworks or a thick cloud of ch
     
     **Critical Success** The creature is unaffected
     
-    **Success** The creature is [[Dazzled]] until the end of its next turn.
+    **Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] until the end of its next turn.
     
-    **Failure** The creature is [[Blinded]] until the end of its next turn.
+    **Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] until the end of its next turn.
     
     **Critical Failure** The creature is Blinded for 1 minute.
     

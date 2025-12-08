@@ -12,7 +12,7 @@ license: ORC
 ---
 # Animal Companion (Ranger)
 ## Feat 1
-### [[ranger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]]
 
 **Category** class; 
 
@@ -21,9 +21,9 @@ license: ORC
 
 You gain the service of a young animal companion that travels with you and obeys simple commands. When you [[Actions/Hunt Prey|Hunt Prey]], your animal companion gains the action's benefits and your hunter's edge benefit if you have one.
 
-*   [[Feat_Feature Effects/Effect_ Hunter's Edge, Flurry|Effect: Hunter's Edge, Flurry]]
-*   [[Feat_Feature Effects/Effect_ Hunter's Edge, Outwit|Effect: Hunter's Edge, Outwit]]
-*   [[Feat_Feature Effects/Effect_ Hunter's Edge, Precision|Effect: Hunter's Edge, Precision]]
+*   [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Hunter's Edge, Flurry|Effect: Hunter's Edge, Flurry]]
+*   [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Hunter's Edge, Outwit|Effect: Hunter's Edge, Outwit]]
+*   [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Hunter's Edge, Precision|Effect: Hunter's Edge, Precision]]
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Touch of Corruption
-![[systems-pf2e-icons-spells-touch-of-corruption.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-touch-of-corruption.webp|150]]
 
 You infuse the target with void energy. If the target is living, this deals 1d6 void damage (basic Fortitude save); on a failed save, the target also takes a -2 status penalty to AC for 1 round.
 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Oil of Repulsion
 ## Item 11
-### [[consumable]][[magical]][[oil]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[oil]]
 
 **Category** oil; 
 **Price** 175 gp; 
@@ -31,7 +31,7 @@ This oil contains magnetically charged iron filings repelled into opposite ends 
 
 **Failure** The creature is pushed up to 10 feet away from you (the GM determines the direction).
 
-**Critical Failure** As failure, and the creature is also knocked [[Conditions/Prone|Prone]].
+**Critical Failure** As failure, and the creature is also knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 *Source: Pathfinder GM Core*
 *ORC*

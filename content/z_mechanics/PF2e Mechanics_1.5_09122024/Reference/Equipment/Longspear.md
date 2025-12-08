@@ -13,7 +13,7 @@ license: ORC
 ---
 # Longspear
 ## Item 0
-### [[reach]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]]
 
 |  |  |
 | -- | -- |

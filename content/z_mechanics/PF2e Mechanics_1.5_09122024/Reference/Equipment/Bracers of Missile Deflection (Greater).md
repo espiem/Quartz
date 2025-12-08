@@ -12,7 +12,7 @@ license: ORC
 ---
 # Bracers of Missile Deflection (Greater)
 ## Item 9
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 650 gp; 
@@ -33,7 +33,7 @@ These bracers are made from plates of durable dawnsilver and gleam like the summ
 
 **Effect** The bracers send the missile off-course. You gain a +2 circumstance bonus to AC against the triggering attack. If this would cause the attack to be a failure, the attack misses you.
 
-[[Equipment Effects/Effect_ Bracers of Missile Deflection|Effect: Bracers of Missile Deflection]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Bracers of Missile Deflection|Effect: Bracers of Missile Deflection]]
 
 *Source: Pathfinder GM Core*
 *ORC*

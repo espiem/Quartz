@@ -12,7 +12,7 @@ license: ORC
 ---
 # Defensive Roll `pf2:0`
 ## Feat 14
-### [[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 

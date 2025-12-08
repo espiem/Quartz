@@ -14,7 +14,7 @@ tags:
 
 * * *
 
-You inundate the area with concentrated vitality energy, which scours away the stain of undeath. Each creature in the area takes 6d8 vitality damage and must attempt a basic Reflex save. Creatures that fail the save also take 1d8 persistent,vitality damage. Creatures that take persistent vitality damage from scouring pulse are wreathed in a heatless halo of light. They emit bright light in a 5-foot radius preventing them from being [[Concealed]]; if the creature is [[Invisible]], they're concealed while affected by scouring pulse, rather than being undetected.
+You inundate the area with concentrated vitality energy, which scours away the stain of undeath. Each creature in the area takes 6d8 vitality damage and must attempt a basic Reflex save. Creatures that fail the save also take 1d8 persistent,vitality damage. Creatures that take persistent vitality damage from scouring pulse are wreathed in a heatless halo of light. They emit bright light in a 5-foot radius preventing them from being [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]]; if the creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]], they're concealed while affected by scouring pulse, rather than being undetected.
 
 * * *
 

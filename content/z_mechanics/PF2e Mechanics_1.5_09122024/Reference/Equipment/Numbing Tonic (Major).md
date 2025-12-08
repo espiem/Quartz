@@ -24,7 +24,7 @@ license: OGL
 
 Numbing tonic makes it easier to push through the pain of battle and shrug off otherwise debilitating blows. You gain 20 temporary Hit Points when you drink the elixir, and again at the start of each of your turns for 1 minute.
 
-[[Equipment Effects/Effect_ Numbing Tonic (Major)|Effect: Numbing Tonic (Major)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Numbing Tonic (Major)|Effect: Numbing Tonic (Major)]]
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

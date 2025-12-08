@@ -18,7 +18,7 @@ license: OGL
 
 Zarmavdian's spellbook, _Thresholds of Truth_, was once a straightforward treatise on arcane and occult lore containing several useful spells. It's been so heavily annotated, however, that the original text is hard to read. It's clear that Zarmavdian wanted to prevent eldritch creatures from manipulating innocent minds, but his spellbook is a treasure trove for those seeking dangerous or inscrutable lore. The bookseller Morlibint currently keeps this book in his collection at Odd Stories.
 
-Thresholds of Truth provides access to the [[PF2e Journals/Archetypes/Eldritch Researcher|Eldritch Researcher]] archetype and contains the following spells:
+Thresholds of Truth provides access to the [[Eldritch Researcher|Eldritch Researcher]] archetype and contains the following spells:
 
 * * *
 

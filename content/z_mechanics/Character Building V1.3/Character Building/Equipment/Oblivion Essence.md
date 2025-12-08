@@ -20,7 +20,7 @@ Created from a daemon's powdered soul gems or refined from the waters of Abaddon
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 8d6 poison damage and [[Slowed]] (1 round)
+**Stage 1** 8d6 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] (1 round)
 
 **Stage 2** 10d6 poison damage, [[Enfeebled 1|Enfeebled 2]], and slowed 1 (1 round)
 

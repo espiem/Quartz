@@ -12,4 +12,4 @@ tags:
 
 _Fleshwarps are people whose forms were created or radically transformed by magic, alchemy, or unnatural energies. Their unorthodox appearance can make it difficult for them to find a place for themselves in the world._
 
-_[[Fleshwarp]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Fleshwarp]]_

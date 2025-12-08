@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Wrestler Dedication
 * * *
-**Trigger** A creature gives you the [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] condition.
+**Trigger** A creature gives you the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]] condition.
 
 * * *
 

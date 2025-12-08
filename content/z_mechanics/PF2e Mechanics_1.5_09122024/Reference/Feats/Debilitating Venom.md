@@ -11,7 +11,7 @@ license: OGL
 ---
 # Debilitating Venom
 ## Feat 5
-### [[vishkanya]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Vishkanya]]
 
 **Category** ancestry; 
 
@@ -33,7 +33,7 @@ Your venom is particularly potent, affecting targets in different ways. When you
     
     **Stage 1** no adjustment
     
-    **Stage 2** [[Conditions/Off-Guard|Off-Guard]]
+    **Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]]
     
     **Stage 3** off-guard and a –5-foot penalty to Speed
     

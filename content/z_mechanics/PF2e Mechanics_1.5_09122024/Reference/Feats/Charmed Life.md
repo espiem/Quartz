@@ -12,7 +12,7 @@ license: ORC
 ---
 # Charmed Life `pf2:r`
 ## Feat 2
-### [[swashbuckler]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 
@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-When danger calls, you have a strange knack for coming out on top. You gain a +2 circumstance bonus to the triggering save. If you succeed on the triggering saving throw, you gain [[Feat_Feature Effects/Effect_ Panache|Panache]] until the end of your next turn.
+When danger calls, you have a strange knack for coming out on top. You gain a +2 circumstance bonus to the triggering save. If you succeed on the triggering saving throw, you gain [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Panache|Panache]] until the end of your next turn.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

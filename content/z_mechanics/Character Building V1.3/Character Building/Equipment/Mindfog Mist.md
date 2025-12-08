@@ -22,8 +22,8 @@ Mindfog mist can be used to undermine spellcasters, as its effect on a victim's 
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** [[Stupefied|Stupefied 2]] (1 round)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (1 round)
 
-**Stage 2** [[Confused]] and [[Stupefied|Stupefied 3]] (1 round)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 3]] (1 round)
 
-**Stage 3** [[Confused]] and [[Stupefied|Stupefied 4]] (1 round)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 4]] (1 round)

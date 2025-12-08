@@ -16,7 +16,7 @@ license: OGL
 ---
 # Luck Blade (Wishing)
 ## Item 19
-### [rare](rare "Rare Rarity Trait")[[agile]][[finesse]][[fortune]][[magical]][[versatile-s]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[fortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[versatile-s]]
 
 |  |  |
 | -- | -- |

@@ -23,7 +23,7 @@ When you observe an ally try and fail to execute a strategic maneuver against yo
 
 When an ally within your overwatch field attempts to [[Actions/Disarm|Disarm]], [[Actions/Shove|Shove]], or [[Actions/Trip|Trip]] an opponent within your overwatch field and fails, you coordinate efforts to provide a +2 circumstance bonus to the next Athletics check rolled by a different ally to attempt the same action on the same target before that target's next turn.
 
-[[Feat_Feature Effects/Effect_ Topple Giants|Effect: Topple Giants]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Topple Giants|Effect: Topple Giants]]
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

@@ -8,7 +8,7 @@ tags:
 ---
 # Crushed Toe
 
-> Normal damage. The target is [[Conditions/Clumsy|Clumsy 2]] and takes a [[Other Effects/Effect_ -10-foot status penalty to your land Speed|-10-foot status penalty to your land Speed]]. Both effects last until healed.
+> Normal damage. The target is [[Conditions/Clumsy|Clumsy 2]] and takes a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -10-foot status penalty to your land Speed|-10-foot status penalty to your land Speed]]. Both effects last until healed.
 
 `Bludgeoning`
 
@@ -26,6 +26,6 @@ tags:
 
 # Strange Goo
 
-> Normal damage and the target is [[Conditions/Restrained|Restrained]], using your class DC as the DC to Escape.
+> Normal damage and the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]], using your class DC as the DC to Escape.
 
 `Bomb or Spell`

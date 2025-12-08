@@ -13,7 +13,7 @@ license: ORC
 ---
 # Pitch-Perfect Projection `pf2:1`
 
-### [[auditory]][[spellshape]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[spellshape]]
 
 **Category** offensive; 
 

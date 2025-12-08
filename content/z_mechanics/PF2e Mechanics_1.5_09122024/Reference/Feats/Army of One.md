@@ -14,7 +14,7 @@ license: ORC
 ---
 # Army of One `pf2:3`
 ## Feat 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[flourish]][[mythic]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[flourish]][[mythic]]
 
 **Category** class; 
 

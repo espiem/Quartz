@@ -14,7 +14,7 @@ license: ORC
 ---
 # A Challenge for Heroes `pf2:2`
 
-### [[concentrate]][[mental]][[spirit]][[transcendence]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[spirit]][[transcendence]]
 
 
 

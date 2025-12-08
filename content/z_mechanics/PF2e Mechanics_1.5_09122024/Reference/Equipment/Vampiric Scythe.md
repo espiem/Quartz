@@ -15,7 +15,7 @@ license: OGL
 ---
 # Vampiric Scythe
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d10]][[magical]][[trip]][[void]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d10]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[trip]][[void]]
 
 |  |  |
 | -- | -- |

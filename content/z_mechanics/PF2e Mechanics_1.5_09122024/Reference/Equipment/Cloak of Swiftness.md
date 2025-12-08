@@ -13,7 +13,7 @@ license: ORC
 ---
 # Cloak of Swiftness
 ## Item 17
-### [[apex]][[invested]][[magical]]
+### [[apex]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 15000 gp; 
@@ -28,9 +28,9 @@ This thin cloak is surprisingly light, as if clouds or the very wind were woven 
 
 **Frequency** once per day
 
-**Effect** You tug on the cloak, wrapping yourself in the power of wind. You gain a fly Speed of 30 feet for 1 hour. While wrapped in the cloak, you become translucent, causing you to become [[Conditions/Concealed|Concealed]] for the duration.
+**Effect** You tug on the cloak, wrapping yourself in the power of wind. You gain a fly Speed of 30 feet for 1 hour. While wrapped in the cloak, you become translucent, causing you to become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] for the duration.
 
-[[Equipment Effects/Effect_ Cloak of Swiftness|Effect: Cloak of Swiftness]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Cloak of Swiftness|Effect: Cloak of Swiftness]]
 
 *Source: Pathfinder GM Core*
 *ORC*

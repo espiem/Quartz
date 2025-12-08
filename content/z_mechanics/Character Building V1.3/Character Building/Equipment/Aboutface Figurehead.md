@@ -8,7 +8,7 @@ tags:
 ---
 
 # Aboutface Figurehead
-![[icons-commodities-treasure-bust-carved-stone.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-commodities-treasure-bust-carved-stone.webp|150]]
 
 **Usage** attached to a ship’s bow
 

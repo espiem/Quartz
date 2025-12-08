@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bewitching Bloom (Lotus)
 ## Item 9
-### [[invested]][[magical]][[tattoo]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[tattoo]]
 
 
 **Price** 600 gp; 
@@ -29,7 +29,7 @@ While dormant, this tattoo appears to be a simple flower bud, but when activated
 
 **Effect** Choose a willing ally you can see within 30 feet. A glow envelops your ally as a sense of enlightened peace ripples out from within. The ally gains a +2 status bonus to Will saves against mental effects for 1 minute. This bonus increases to +3 against emotion effects.
 
-[[Equipment Effects/Effect_ Bewitching Bloom (Lotus)|Effect: Bewitching Bloom (Lotus)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Bewitching Bloom (Lotus)|Effect: Bewitching Bloom (Lotus)]]
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

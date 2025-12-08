@@ -8,7 +8,7 @@ tags:
 ---
 
 # Harrowing
-![[icons-sundries-gaming-playing-cards-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 The typical harrow reading does not magically manipulate fate, but when you perform a _harrowing_ ritual to infuse a reading with occult power, you can impart real magical benefits to the target of the reading that give them agency and control over a task or goal in their immediate future. The first 50 minutes of this ritual's casting are spent preparing the target creature for the reading by meditating, concentrating on the task or goal to be focused on, and allowing you to paint or ink occult symbols from the harrow onto the target's body to link them to the upcoming reading. The final 10 minutes of the ritual comprise the reading itself, during which the symbols placed on the target fade away while infusing their fate.
 

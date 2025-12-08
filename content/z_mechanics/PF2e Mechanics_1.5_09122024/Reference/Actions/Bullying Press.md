@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-If you hit, your opponent becomes [[Conditions/Frightened|Frightened 1]]. If your opponent is using Perception for initiative when this ability is used, they become [[Conditions/Frightened|Frightened 2]] instead.
+If you hit, your opponent becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]]. If your opponent is using Perception for initiative when this ability is used, they become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] instead.
 
 *Source: Pathfinder GM Core*
 *ORC*

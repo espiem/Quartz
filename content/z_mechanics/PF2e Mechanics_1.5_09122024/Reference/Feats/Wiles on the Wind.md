@@ -17,7 +17,7 @@ license: OGL
 ---
 # Wiles on the Wind `pf2:2`
 ## Feat 12
-### [[air]][[auditory]][[illusion]][[impulse]][[kineticist]][[primal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[illusion]][[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[primal]]
 
 **Category** class; 
 
@@ -32,7 +32,7 @@ You can have any creature within 40 feet of the illusion, or that comes within 4
 
 **Success** The creature is unaffected, disbelieves the illusion, and is temporarily immune for 1 hour.
 
-**Failure** The creature is [[Conditions/Fascinated|Fascinated]] with the source of the sound until the end of its next turn. When the fascination ends, the creature is temporarily immune for 1 hour.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated|Fascinated]] with the source of the sound until the end of its next turn. When the fascination ends, the creature is temporarily immune for 1 hour.
 
 **Critical Failure** As failure, but the creature is fascinated for 1 minute or until it disbelieves.
 

@@ -18,4 +18,4 @@ Your magic throws the creature's biology into disarray, inducing nausea, fever, 
 
 **Failure** The target becomes [[Sickened 1]].
 
-**Critical Failure** The target becomes [[Sickened 1|Sickened 2]] and [[Slowed]] as long as it's sickened.
+**Critical Failure** The target becomes [[Sickened 1|Sickened 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] as long as it's sickened.

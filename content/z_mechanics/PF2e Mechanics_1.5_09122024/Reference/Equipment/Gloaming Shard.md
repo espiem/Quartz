@@ -17,7 +17,7 @@ license: OGL
 ---
 # Gloaming Shard
 ## Item 11
-### [[agile]][[finesse]][[magical]][[shadow]][[thrown-10]][[versatile-s]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[shadow]][[thrown-10]][[versatile-s]]
 
 |  |  |
 | -- | -- |

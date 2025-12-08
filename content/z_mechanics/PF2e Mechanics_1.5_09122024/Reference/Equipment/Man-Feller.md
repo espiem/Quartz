@@ -13,7 +13,7 @@ license: OGL
 ---
 # Man-Feller
 ## Item 7
-### [unique](unique "Unique Rarity Trait")[[magical]][[sweep]]
+### [unique](unique "Unique Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[sweep]]
 
 |  |  |
 | -- | -- |

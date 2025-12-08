@@ -10,7 +10,7 @@ tags:
 # Sleeper Hold
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Requirements** You have a creature [[Grabbed]] or [[Restrained]].
+**Requirements** You have a creature [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]].
 
 * * *
 
@@ -18,6 +18,6 @@ You pinch crucial points of your target's nervous system, impeding its ability t
 
 * * *
 
-**Critical Success** The target falls [[Unconscious]] for 1 minute, though it remains standing and doesn't drop what it holds.
+**Critical Success** The target falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] for 1 minute, though it remains standing and doesn't drop what it holds.
 
 **Success** The target is [[Clumsy 1]] until the end of its next turn.

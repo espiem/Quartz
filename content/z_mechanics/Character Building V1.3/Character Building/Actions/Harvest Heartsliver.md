@@ -23,4 +23,4 @@ You attempt to steal a section of Kothogaz's heart. Attempt an attack roll or a 
 
 **Failure** You take Kothogaz's Swallow Whole damage.
 
-**Critical Failure** You take double Kothogaz's Swallow Whole damage and are [[Deafened]] by its heartbeat for 1 minute.
+**Critical Failure** You take double Kothogaz's Swallow Whole damage and are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] by its heartbeat for 1 minute.

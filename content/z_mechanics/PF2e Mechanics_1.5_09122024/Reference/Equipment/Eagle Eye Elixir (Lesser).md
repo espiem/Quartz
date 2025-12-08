@@ -27,7 +27,7 @@ license: ORC
 
 After you drink this elixir, you notice subtle visual details. For the next hour, you gain a +1 item bonus to Perception checks, or +2 when attempting to find secret doors and traps.
 
-[[Equipment Effects/Effect_ Eagle Eye Elixir (Lesser)|Effect: Eagle Eye Elixir (Lesser)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Eagle Eye Elixir (Lesser)|Effect: Eagle Eye Elixir (Lesser)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

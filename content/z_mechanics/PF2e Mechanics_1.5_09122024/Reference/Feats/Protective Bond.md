@@ -11,7 +11,7 @@ license: OGL
 ---
 # Protective Bond `pf2:r`
 ## Feat 10
-### [[summoner]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Summoner]]
 
 **Category** class; 
 

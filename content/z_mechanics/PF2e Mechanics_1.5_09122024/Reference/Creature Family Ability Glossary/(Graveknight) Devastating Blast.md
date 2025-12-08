@@ -12,7 +12,7 @@ license: ORC
 ---
 # (Graveknight) Devastating Blast `pf2:2`
 
-### [[arcane]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]]
 
 **Category** offensive; 
 

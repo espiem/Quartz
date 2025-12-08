@@ -26,8 +26,8 @@ The blade of this _+1 low-grade silver dagger_ has a sickly red tinge. Though on
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature becomes distracted by vengeful spirits and becomes [[Off-Guard]] until the start of your next turn.
+**Success** The creature becomes distracted by vengeful spirits and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the start of your next turn.
 
-**Failure** As success, but the creature is also [[Slowed]] for 1 round.
+**Failure** As success, but the creature is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] for 1 round.
 
 **Critical Failure** As failure, but the creature is slowed 1 for 1 minute.

@@ -25,7 +25,7 @@ You know how to turn combat into a form of entertainment. You gain the Additiona
 
 At the start of a combat encounter, if you have spectators, you gain a number of temporary HP equal to your character level for 1 minute and you can roll Performance for your initiative. If there are sapient creatures observing a combat encounter, and these onlookers are neither engaged in the combat themselves nor directly assisting any participants, the combatants have spectators. The GM is the final arbiter of whether or not a combat has spectators.
 
-[[PF2e Journals/Archetypes/Gladiator|Gladiator]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Gladiator|Gladiator]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

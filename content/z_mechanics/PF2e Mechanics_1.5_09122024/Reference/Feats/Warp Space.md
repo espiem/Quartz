@@ -12,7 +12,7 @@ license: OGL
 ---
 # Warp Space
 ## Feat 2
-### [[amp]][[psychic]]
+### [[amp]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** class; 
 

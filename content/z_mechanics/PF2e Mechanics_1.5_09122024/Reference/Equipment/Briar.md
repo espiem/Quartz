@@ -14,7 +14,7 @@ license: OGL
 ---
 # Briar
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[magical]][[two-hand-d12]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[two-hand-d12]]
 
 |  |  |
 | -- | -- |

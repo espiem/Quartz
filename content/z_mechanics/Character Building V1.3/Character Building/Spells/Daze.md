@@ -8,7 +8,7 @@ tags:
 ---
 
 # Daze
-![[systems-pf2e-icons-spells-daze.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-daze.webp|150]]
 
 You push into the target's mind and daze it with a mental jolt. The jolt deals 1d6 mental damage, with a basic Will save. If the target critically fails the save, it is also [[Stunned 1]].
 

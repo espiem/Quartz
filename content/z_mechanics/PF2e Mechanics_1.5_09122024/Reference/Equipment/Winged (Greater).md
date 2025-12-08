@@ -11,7 +11,7 @@ license: ORC
 ---
 # Winged (Greater)
 ## Item 19
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 35000 gp; 

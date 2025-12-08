@@ -14,7 +14,7 @@ license: OGL
 ---
 # Maw of Hungry Shadows
 ## Item 18
-### [[grimoire]][[incapacitation]][[magical]][[shadow]][[teleportation]]
+### [[grimoire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[shadow]][[teleportation]]
 
 
 **Price** 21000 gp; 
@@ -37,7 +37,7 @@ Shadows swirl around this soot-black tome, swallowing up any light that touches 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Blinded|Blinded]] for 1 round and [[Conditions/Drained|Drained 1]] as the shadows scrape across it.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] for 1 round and [[Conditions/Drained|Drained 1]] as the shadows scrape across it.
 
 **Failure** The creature is blinded for 1 minute and [[Conditions/Drained|Drained 2]] as the shadows seize it.
 

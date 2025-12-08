@@ -15,7 +15,7 @@ license: OGL
 ---
 # Static Snare
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[electricity]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Electricity]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 6 gp; 
@@ -30,9 +30,9 @@ You hide insulating crystals or other material that releases a strong static cha
 
 **Failure** The target takes 1 persistent electricity damage and takes a -1 circumstance penalty to saving throws against electricity effects for as long as the persistent electricity damage lasts.
 
-[[Equipment Effects/Effect_ Static Snare|Effect: Static Snare]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Static Snare|Effect: Static Snare]]
 
-**Critical Failure** As failure, and the target attracts nearby dirt and dust. If the target is or becomes [[Conditions/Invisible|Invisible]], it's merely [[Conditions/Hidden|Hidden]] to creatures that have sight as a precise sense. This effect lasts as long as the persistent electricity damage does.
+**Critical Failure** As failure, and the target attracts nearby dirt and dust. If the target is or becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible|Invisible]], it's merely [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]] to creatures that have sight as a precise sense. This effect lasts as long as the persistent electricity damage does.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

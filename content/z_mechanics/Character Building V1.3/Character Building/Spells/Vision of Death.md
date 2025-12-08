@@ -16,11 +16,11 @@ You force the target to see a vision of its own death. It takes 8d6 mental damag
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes half damage and is [[Frightened|Frightened 1]].
+**Success** The target takes half damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Failure** The target takes full damage and is [[Frightened|Frightened 2]].
+**Failure** The target takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
-**Critical Failure** The target takes double damage, is [[Frightened|Frightened 4]] and is [[Fleeing]] for as long as it's frightened.
+**Critical Failure** The target takes double damage, is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 4]] and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing]] for as long as it's frightened.
 
 * * *
 

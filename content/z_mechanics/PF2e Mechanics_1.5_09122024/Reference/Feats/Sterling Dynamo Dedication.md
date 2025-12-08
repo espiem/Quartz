@@ -27,7 +27,7 @@ You have several options to customize your sterling dynamo. First, choose whethe
 
 You need to keep your sterling dynamo wound, but the process isn't particularly onerous, so in most situations, it won't be an issue. If you spend 1 minute winding up your dynamo, it can remain active for 24 hours before needing additional winding. However, enemies can attempt to Disable the dynamo, which has a level equal to your own, to reduce the remaining operational time by 1 hour, or 2 hours on a critical success. Certain other abilities that adversely affect technology might also reduce the dynamo's remaining operational time. When your dynamo is out of operational time, you can still use it as a normal prosthetic, but you cannot use your dynamo unarmed attack or any other abilities from this archetype until you wind the dynamo again. You can wind the dynamo for 1 minute at any time to return it to the maximum 24 hours of operational time.
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Sterling Dynamo|Sterling Dynamo]] archetype.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[Sterling Dynamo|Sterling Dynamo]] archetype.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

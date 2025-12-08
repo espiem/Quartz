@@ -8,7 +8,7 @@ tags:
 ---
 
 # Guardian Staff (Greater)
-![[systems-pf2e-icons-equipment-staves-cane-of-the-maelstrom.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-staves-cane-of-the-maelstrom.webp|150]]
 
 A _guardian staff_ is formed from ivory strands woven in a diamond pattern and capped with a glowing ruby. Those charged with protecting others value this staff's spells.
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Alchemical Gauntlet
 ## Item 1
-### [[agile]][[alchemical]][[free-hand]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[alchemical]][[free-hand]]
 
 |  |  |
 | -- | -- |

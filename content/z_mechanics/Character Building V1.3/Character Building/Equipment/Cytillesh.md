@@ -20,6 +20,6 @@ Deros use cytillesh in a variety of ways, and some surface-dwellers seek out the
 
 **Maximum Duration** 8 hours
 
-**Stage 1** [[Stupefied|Stupefied 1]] (1 minute)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (1 minute)
 
 **Stage 2** lose all memories made in the previous hour (1 hour)

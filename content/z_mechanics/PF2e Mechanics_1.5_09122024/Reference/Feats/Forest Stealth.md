@@ -11,7 +11,7 @@ license: OGL
 ---
 # Forest Stealth `pf2:1`
 ## Feat 5
-### [[elf]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Elf]]
 
 **Category** ancestry; 
 

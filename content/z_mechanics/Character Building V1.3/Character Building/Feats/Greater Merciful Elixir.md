@@ -10,4 +10,4 @@ tags:
 # Greater Merciful Elixir
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-Your additives contain panaceas that can remedy a plethora of maladies. When you use [[Merciful Elixir]], your elixir can instead attempt to counteract the [[Blinded]], [[Deafened]], [[Sickened 1|Sickened]], or [[Slowed|Slowed]] condition.
+Your additives contain panaceas that can remedy a plethora of maladies. When you use [[Merciful Elixir]], your elixir can instead attempt to counteract the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]], [[Sickened 1|Sickened]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed]] condition.

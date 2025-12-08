@@ -14,7 +14,7 @@ license: OGL
 ---
 # Explode `pf2:2`
 
-### [[fire]][[inventor]][[manipulate]][[unstable]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Inventor]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[unstable]]
 
 **Category** interaction; 
 

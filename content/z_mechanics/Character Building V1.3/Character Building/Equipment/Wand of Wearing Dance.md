@@ -18,7 +18,7 @@ This colorfully painted wand has a few jingling bells tied to the pommel.
 
 * * *
 
-**Effect** You cast _[[Uncontrollable Dance]]_. When the spell's duration ends, if the target was forced to dance for 1 minute, it becomes [[Fatigued]].
+**Effect** You cast _[[Uncontrollable Dance]]_. When the spell's duration ends, if the target was forced to dance for 1 minute, it becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]].
 
 * * *
 

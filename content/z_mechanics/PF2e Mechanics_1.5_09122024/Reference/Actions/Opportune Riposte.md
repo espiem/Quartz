@@ -13,7 +13,7 @@ license: ORC
 ---
 # Opportune Riposte `pf2:r`
 
-### [[bravado]][[swashbuckler]]
+### [[bravado]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** offensive; 
 

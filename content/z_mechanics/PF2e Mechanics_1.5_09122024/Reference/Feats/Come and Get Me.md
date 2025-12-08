@@ -14,14 +14,14 @@ license: ORC
 ---
 # Come and Get Me `pf2:1`
 ## Feat 10
-### [[barbarian]][[concentrate]][[rage]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[rage]]
 
 **Category** class; 
 
 
 
 
-You open yourself to attacks so you can respond in turn. Until your rage ends, you are [[Conditions/Off-Guard|Off-Guard]], and damage rolls against you gain a +2 circumstance bonus. If a creature hits you, that creature is off-guard to you until the end of your next turn. If you hit it before the end of your next turn, you gain temporary Hit Points equal to your Constitution modifier, or double that on a critical hit. These temporary Hit Points last until the end of your rage.
+You open yourself to attacks so you can respond in turn. Until your rage ends, you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]], and damage rolls against you gain a +2 circumstance bonus. If a creature hits you, that creature is off-guard to you until the end of your next turn. If you hit it before the end of your next turn, you gain temporary Hit Points equal to your Constitution modifier, or double that on a critical hit. These temporary Hit Points last until the end of your rage.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

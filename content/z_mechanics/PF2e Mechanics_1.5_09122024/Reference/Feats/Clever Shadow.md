@@ -13,7 +13,7 @@ license: OGL
 ---
 # Clever Shadow
 ## Feat 5
-### [[fetchling]][[occult]][[shadow]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Fetchling]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[shadow]]
 
 **Category** ancestry; 
 

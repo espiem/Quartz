@@ -19,7 +19,7 @@ license: OGL
 
 **Frequency** once
 
-**Trigger** You would gain the [[Conditions/Unconscious|Unconscious]] or [[Conditions/Dying|Dying]] condition, or you would be destroyed
+**Trigger** You would gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying|Dying]] condition, or you would be destroyed
 
 * * *
 

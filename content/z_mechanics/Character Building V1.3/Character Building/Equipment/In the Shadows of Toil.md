@@ -18,4 +18,4 @@ _In the Shadows of Toil_ was originally an incomplete copy of a journal kept by 
 
 **Frequency** once per day
 
-**Effect** If your next action is to cast a necromancy spell that you prepared from this grimoire and that allows a saving throw, you infuse the magic with sensations of endless toil. If the target fails its saving throw against the spell, it becomes [[Fatigued]] for 1 minute by the sense of exhaustion imbued in the magic.
+**Effect** If your next action is to cast a necromancy spell that you prepared from this grimoire and that allows a saving throw, you infuse the magic with sensations of endless toil. If the target fails its saving throw against the spell, it becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] for 1 minute by the sense of exhaustion imbued in the magic.

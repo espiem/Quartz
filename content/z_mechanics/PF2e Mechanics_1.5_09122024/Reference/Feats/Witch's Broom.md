@@ -12,7 +12,7 @@ license: ORC
 ---
 # Witch's Broom
 ## Feat 12
-### [[witch]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Witch]]
 
 **Category** class; 
 

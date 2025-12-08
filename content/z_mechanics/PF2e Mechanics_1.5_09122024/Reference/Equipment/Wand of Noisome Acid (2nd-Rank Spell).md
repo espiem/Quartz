@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Noisome Acid (2nd-Rank Spell)
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[acid]][[magical]][[wand]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Acid]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wand]]
 
 
 **Price** 250 gp; 

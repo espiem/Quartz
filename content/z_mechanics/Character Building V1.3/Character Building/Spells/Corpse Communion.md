@@ -28,7 +28,7 @@ If you perform corpse communion again while already under its effects, the effec
 
 **Failure** You fail to learn anything from the communion.
 
-**Critical Failure** A malevolent spirit, be it a supernatural presence sensing an opportunity or the soul of the corpse you're feeding upon, lashes out at you as you feed, drawing from you your memories and secrets and taking them away into the realm of the dead forever. You not only become [[Stupefied|Stupefied 3]], but you no longer know the corpse communion ritual. You can attempt to learn it again, but the DC to learn this ritual increases by 5.
+**Critical Failure** A malevolent spirit, be it a supernatural presence sensing an opportunity or the soul of the corpse you're feeding upon, lashes out at you as you feed, drawing from you your memories and secrets and taking them away into the realm of the dead forever. You not only become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 3]], but you no longer know the corpse communion ritual. You can attempt to learn it again, but the DC to learn this ritual increases by 5.
 
 * * *
 

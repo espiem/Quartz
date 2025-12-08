@@ -15,7 +15,7 @@ license: OGL
 ---
 # Carver-cutter (Major)
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[sweep]][[wood]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[sweep]][[wood]]
 
 |  |  |
 | -- | -- |

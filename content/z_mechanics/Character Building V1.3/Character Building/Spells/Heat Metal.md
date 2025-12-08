@@ -8,7 +8,7 @@ tags:
 ---
 
 # Heat Metal
-![[icons-tools-smithing-furnace-fire-metal-orange.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-tools-smithing-furnace-fire-metal-orange.webp|150]]
 
 This spell heats the targeted metal to become red-hot for a moment. This is usually harmless to an unattended metal item, which doesn't get a saving throw, though the GM might rule that flammable materials connected to the object catch fire or melt. If you target an item worn or carried by a creature, or you target a creature made primarily of metal, the heat deals 4d6 fire damage and 2d4 persistent,fire damage to the creature, which must attempt a Reflex saving throw.
 

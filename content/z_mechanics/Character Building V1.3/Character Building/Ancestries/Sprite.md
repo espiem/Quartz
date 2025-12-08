@@ -12,4 +12,4 @@ tags:
 
 _Sprites are diminutive, whimsical, and exuberant creatures from the fey realm known as the First World. They love playing pranks, exploring new things, and embracing everything to do with magic._
 
-_[[Sprite]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Sprite]]_

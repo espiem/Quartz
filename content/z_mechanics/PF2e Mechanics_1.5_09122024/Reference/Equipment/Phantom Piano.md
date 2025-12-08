@@ -12,7 +12,7 @@ license: OGL
 ---
 # Phantom Piano
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[focused]][[intelligent]][[occult]]
+### [rare](rare "Rare Rarity Trait")[[focused]][[intelligent]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 
 **Price** 100 gp; 

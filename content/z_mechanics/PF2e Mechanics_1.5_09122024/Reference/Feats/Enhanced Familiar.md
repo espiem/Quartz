@@ -18,7 +18,7 @@ license: ORC
 ---
 # Enhanced Familiar
 ## Feat 2
-### [[animist]][[druid]][[magus]][[sorcerer]][[thaumaturge]][[witch]][[wizard]]
+### [[animist]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Druid]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Magus]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Witch]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Wizard]]
 
 **Category** class; 
 

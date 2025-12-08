@@ -31,7 +31,7 @@ The dawn goddess is depicted as a human woman with golden skin, the gray-furred 
 
 When casting the [[Spells/Avatar|Avatar]] spell, a worshipper of Tlehar gains the following additional abilities.
 
-**Tlehar** Speed 50 feet, Fly speed 70 feet, cannot be [[Conditions/Immobilized|Immobilized]]
+**Tlehar** Speed 50 feet, Fly speed 70 feet, cannot be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]]
 
 Melee `pf2:1` morningstar (versatile piercing, reach 15 feet), Damage 6d6+6 bludgeoning
 

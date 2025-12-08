@@ -14,7 +14,7 @@ license: ORC
 ---
 # Toxic Blood
 ## Item 9
-### [[graft]][[invested]][[magical]][[poison]]
+### [[graft]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 
 **Price** 650 gp; 

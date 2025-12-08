@@ -16,7 +16,7 @@ license: OGL
 ---
 # Call the Hurricane `pf2:2`
 ## Feat 8
-### [[impulse]][[kineticist]][[overflow]][[primal]][[water]]
+### [[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[overflow]][[primal]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 **Category** class; 
 

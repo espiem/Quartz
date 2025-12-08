@@ -14,7 +14,7 @@ license: OGL
 ---
 # Spiral Rapier
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[finesse]][[parry]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[parry]]
 
 |  |  |
 | -- | -- |

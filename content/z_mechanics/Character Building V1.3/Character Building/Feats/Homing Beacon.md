@@ -14,4 +14,4 @@ As your spell strikes a target, you plant a beacon in the target's mind that ann
 
 * * *
 
-**Amp** Choose one creature hit by the spell (if the spell has a spell attack roll) or that fails its save against the spell (if the spell requires a save). A psychic beacon emits from the creature's location, making it easier to notice the creature as the mind and attention of onlookers is subtly drawn to it. For 1 minute, if the target would be [[Invisible]], it's instead merely [[Concealed]], and if it would be concealed, it's no longer concealed.
+**Amp** Choose one creature hit by the spell (if the spell has a spell attack roll) or that fails its save against the spell (if the spell requires a save). A psychic beacon emits from the creature's location, making it easier to notice the creature as the mind and attention of onlookers is subtly drawn to it. For 1 minute, if the target would be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]], it's instead merely [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]], and if it would be concealed, it's no longer concealed.

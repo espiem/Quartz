@@ -15,7 +15,7 @@ license: ORC
 ---
 # Sword Cane
 ## Item 0
-### [[agile]][[concealable]][[finesse]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[concealable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]]
 
 |  |  |
 | -- | -- |

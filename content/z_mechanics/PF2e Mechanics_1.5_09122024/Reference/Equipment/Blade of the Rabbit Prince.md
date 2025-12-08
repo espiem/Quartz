@@ -15,7 +15,7 @@ license: OGL
 ---
 # Blade of the Rabbit Prince
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[agile]][[finesse]][[magical]][[versatile-s]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[versatile-s]]
 
 |  |  |
 | -- | -- |

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Animal Feature
-![[icons-commodities-biological-eye-lizard-orange.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-commodities-biological-eye-lizard-orange.webp|150]]
 
 Without fully transforming your body, you gain one animalistic feature, which you select from the list below each time you Cast the Spell.
 

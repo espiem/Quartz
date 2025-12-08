@@ -10,7 +10,7 @@ tags:
 ---
 
 # Tailwind
-![[systems-pf2e-icons-spells-longstrider.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-longstrider.webp|150]]
 
 The wind at your back pushes you to find new horizons. You gain a +10-foot status bonus to your Speed.
 

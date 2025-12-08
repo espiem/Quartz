@@ -16,7 +16,7 @@ license: ORC
 ---
 # Animalistic Brutality `pf2:1`
 ## Feat 8
-### [[barbarian]][[concentrate]][[morph]][[primal]][[rage]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[morph]][[primal]][[rage]]
 
 **Category** class; 
 

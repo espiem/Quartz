@@ -11,7 +11,7 @@ license: OGL
 ---
 # Nightwave Springing Reload `pf2:1`
 ## Feat 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[gunslinger]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Gunslinger]]
 
 **Category** class; 
 

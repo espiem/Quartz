@@ -14,7 +14,7 @@ license: OGL
 ---
 # Wheel Blades
 ## Item 0
-### [[agile]][[attached]][[free-hand]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[attached]][[free-hand]]
 
 |  |  |
 | -- | -- |

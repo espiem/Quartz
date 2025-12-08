@@ -13,7 +13,7 @@ license: ORC
 ---
 # Surgical Shock `pf2:1`
 ## Feat 12
-### [[attack]][[investigator]]
+### [[attack]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Investigator]]
 
 **Category** class; 
 
@@ -25,9 +25,9 @@ With a few well-placed jabs with your fist or weapon, you render your opponent d
 
 * * *
 
-**Critical Success** The target is either [[Conditions/Clumsy|Clumsy 3]] or [[Conditions/Stupefied|Stupefied 3]] until the end of your next turn. The target is then immune to Surgical Shock for 1 hour.
+**Critical Success** The target is either [[Conditions/Clumsy|Clumsy 3]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 3]] until the end of your next turn. The target is then immune to Surgical Shock for 1 hour.
 
-**Success** As critical success, but the target is either [[Conditions/Clumsy|Clumsy 2]] or [[Conditions/Stupefied|Stupefied 2]].
+**Success** As critical success, but the target is either [[Conditions/Clumsy|Clumsy 2]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]].
 
 **Failure** The target is minorly inconvenienced. You gain a +1 circumstance bonus to the next attack action you attempt against it before the end of your turn.
 

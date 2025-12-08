@@ -8,13 +8,13 @@ tags:
 ---
 
 # Catharsis Emotion (Anger)
-![[icons-magic-fire-flame-burning-eye.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-magic-fire-flame-burning-eye.webp|150]]
 
 Your destructive wrath allows you to harm your foes but causes you pain in the process.
 
-**Catharsis Trigger** An enemy deals damage to you. You can't use this reaction if you're [[Fatigued]].
+**Catharsis Trigger** An enemy deals damage to you. You can't use this reaction if you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]].
 
-**Catharsis Activation** If you're [[Grabbed]], [[Immobilized]], or [[Restrained]], you can attempt to [[Escape]]. If you succeed, the creature or hazard imposing the condition on you (if applicable) takes force damage equal to your level.
+**Catharsis Activation** If you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]], you can attempt to [[Escape]]. If you succeed, the creature or hazard imposing the condition on you (if applicable) takes force damage equal to your level.
 
 **Emotional Fervor** When you Cast a Spell from your spell slots, if the spell deals damage and doesn't have a duration, you gain a status bonus to that spell's damage equal to the spell's level. Spell: _[[Draw Ire]]_
 

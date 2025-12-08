@@ -13,7 +13,7 @@ license: OGL
 ---
 # Inured to Alchemy
 ## Feat 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemist]][[barbarian]][[fighter]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]]
 
 **Category** class; 
 

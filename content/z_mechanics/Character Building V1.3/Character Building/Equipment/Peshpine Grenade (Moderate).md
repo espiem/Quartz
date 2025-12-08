@@ -8,7 +8,7 @@ tags:
 ---
 
 # Peshpine Grenade (Moderate)
-![[icons-consumables-drinks-tea-jug-gourd-brown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-consumables-drinks-tea-jug-gourd-brown.webp|150]]
 
 **Activate** 1 Strike
 
@@ -18,4 +18,4 @@ Peshspine grenades are explosive bombs packed with alchemically treated needles 
 
 Many types of peshpine grenade grant an item bonus to attack rolls.
 
-You gain a +1 item bonus to attack rolls. The bomb deals 2d6 piercing damage and 2 piercing splash damage, and the target is [[Stupefied|Stupefied 1]].
+You gain a +1 item bonus to attack rolls. The bomb deals 2d6 piercing damage and 2 piercing splash damage, and the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]].

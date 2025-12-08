@@ -8,4 +8,4 @@ tags:
 ---
 
 # Life‑size sculpture by an expert
-![[icons-commodities-treasure-bust-carved-stone.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-commodities-treasure-bust-carved-stone.webp|150]]

@@ -16,7 +16,7 @@ license: ORC
 ---
 # Flashblade (Major)
 ## Item 17
-### [[brace]][[deadly-d12]][[magical]][[reach]]
+### [[brace]][[deadly-d12]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]]
 
 |  |  |
 | -- | -- |

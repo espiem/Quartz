@@ -35,7 +35,7 @@ Your features transform into something bestial and lumbering.
 
 **Duration** 1 minute.
 
-[[Equipment Effects/Effect_ Bestial Mutagen (Lesser)|Effect: Bestial Mutagen (Lesser)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Bestial Mutagen (Lesser)|Effect: Bestial Mutagen (Lesser)]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -36,7 +36,7 @@ When choosing their battles, Arshean Firebrands tend to view all forms of social
 
 When casting the _[[Avatar]]_ spell, a worshipper of Arshea becomes a fluid, shifting humanoid that changes appearance, gender, and form moment by moment, though the caster can choose one specific form if desired. Dressed in gossamer sashes, scarves, and veils, each form wields a flail and possesses magnificent, wispy wings of gray and silver feathers. They gain the following additional abilities.
 
-**Arshea** Speed 30 feet, fly 70 feet, immune to forced movement, immune to [[Immobilized]]
+**Arshea** Speed 30 feet, fly 70 feet, immune to forced movement, immune to [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]]
 
 Melee 1 flail (disarm, reach 15 feet, sweep, trip), Damage `dice: 6d6+6` bludgeoning
 

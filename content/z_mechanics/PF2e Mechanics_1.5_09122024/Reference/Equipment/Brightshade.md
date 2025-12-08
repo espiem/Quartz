@@ -15,7 +15,7 @@ license: OGL
 ---
 # Brightshade
 ## Item 4
-### [[alchemical]][[consumable]][[injury]][[poison]][[vitality]]
+### [[alchemical]][[consumable]][[injury]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[vitality]]
 
 **Category** poison; 
 **Price** 18 gp; 

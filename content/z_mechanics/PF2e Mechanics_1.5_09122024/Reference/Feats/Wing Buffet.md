@@ -31,7 +31,7 @@ You have a pair of draconic wings strong enough to batter your foes away and sho
 
 **Failure** The target takes bludgeoning damage equal to half your level (0 bludgeoning).
 
-**Critical Failure** You fall [[Conditions/Prone|Prone]] at the end of this activity.
+**Critical Failure** You fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] at the end of this activity.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

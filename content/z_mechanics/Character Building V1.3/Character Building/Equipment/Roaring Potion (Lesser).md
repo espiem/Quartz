@@ -34,6 +34,6 @@ Ripples move constantly through a roaring potion, a cloudy liquid that growls wh
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is [[Frightened|Frightened 1]].
+**Failure** The creature takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Critical Failure** The creature takes double damage and is [[Frightened|Frightened 2]].
+**Critical Failure** The creature takes double damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].

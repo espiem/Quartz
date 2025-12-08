@@ -8,7 +8,7 @@ tags:
 ---
 
 # Moonlight Bridge
-![[systems-pf2e-icons-spells-moonlight-bridge.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-moonlight-bridge.webp|150]]
 
 You summon a bridge of radiant, shimmering moonlight.
 

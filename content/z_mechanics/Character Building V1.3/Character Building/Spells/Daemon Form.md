@@ -8,7 +8,7 @@ tags:
 ---
 
 # Daemon Form
-![[icons-creatures-magical-spirit-undead-ghost-tan-teal.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-magical-spirit-undead-ghost-tan-teal.webp|150]]
 
 You infuse yourself with the corrupting death and pure malevolence of Abaddon, transforming into a Large daemon battle form. You must have enough space to expand into or the spell is lost. When you cast this spell you choose either ceustodaemon, leukodaemon, meladaemon, or piscodaemon. The battle form is Medium if you choose ceustodaemon. While in this form, you gain the daemon and fiend traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
 

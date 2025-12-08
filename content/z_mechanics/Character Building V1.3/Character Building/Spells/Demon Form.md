@@ -8,7 +8,7 @@ tags:
 ---
 
 # Demon Form
-![[icons-creatures-magical-spirit-poison-smoke-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-magical-spirit-poison-smoke-green.webp|150]]
 
 You corrupt yourself with the sin of the Abyss, transforming into a Medium demon battle form. When you cast this spell, choose babau, hezrou, nabasu, or vrock. If you choose hezrou, the battle form is Large and you must have enough space to expand into or the spell is lost. While in this form, you gain the demon and fiend traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
 
@@ -26,7 +26,7 @@ You also gain specific abilities based on the type of demon you choose:
     *   **Melee** 1 longspear (reach 10 feet), **Damage** 2d8+10 piercing plus 1d6 spirit;
     *   **Melee** 1 jaws, **Damage** 2d10 piercing plus 1d6 spirit;
     *   **Melee** 1 claw (agile), **Damage** 2d4 slashing plus 1d6 spirit;
-    *   all Strikes deal 2d6 additional precision damage to [[Off-Guard]] creatures.
+    *   all Strikes deal 2d6 additional precision damage to [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] creatures.
 
 *   **Hezrou** Speed 30 feet, swim 30 feet;
     *   **Melee** 1 jaws (reach 10 feet), **Damage** 2d12+10 piercing plus 1d6 spirit, and you can spend an action after a hit to Grab the target;

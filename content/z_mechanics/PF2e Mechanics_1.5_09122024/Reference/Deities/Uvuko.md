@@ -33,7 +33,7 @@ Despite his age and power, Uvuko is an innocent god-sometimes, even shy. Rituals
 
 When casting the [[Spells/Avatar|Avatar]] spell, a worshipper of Uvoko gains the following additional abilities.
 
-**Uvoko** Speed 30 feet, Fly speed 70 feet, immune to [[Conditions/Immobilized|Immobilized]]
+**Uvoko** Speed 30 feet, Fly speed 70 feet, immune to [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]]
 
 Melee `pf2:1` maul (shove, reach 15 feet), Damage 6d12+6 bludgeoning damage
 

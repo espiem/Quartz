@@ -12,7 +12,7 @@ license: OGL
 ---
 # Hexing Jar
 ## Item 11
-### [[focused]][[invested]][[magical]]
+### [[focused]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 1200 gp; 
@@ -37,7 +37,7 @@ Dangling from a simple cord, a _hexing jar_ houses rich soil. When a witch who h
 
 **Effect** The thing in the jar becomes more energetic—glowing, dancing, rapping on the glass, or some other action appropriate to its appearance. It encourages you until the start of your next turn, granting you and your familiar a +1 status bonus to AC and saving throws and a +2 status bonus against mental effects.
 
-[[Equipment Effects/Effect_ Hexing Jar|Effect: Hexing Jar]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Hexing Jar|Effect: Hexing Jar]]
 
 * * *
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Font of Serenity
-![[icons-magic-light-explosion-star-glow-orange.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-light-explosion-star-glow-orange.webp|150]]
 
 A divine beacon radiates serenity, soothing nearby allies.
 

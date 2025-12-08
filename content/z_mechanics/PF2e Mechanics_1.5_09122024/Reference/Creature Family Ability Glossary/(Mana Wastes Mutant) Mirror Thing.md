@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Mana Wastes Mutant) Mirror Thing
 
-### [[arcane]][[concentrate]][[polymorph]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[polymorph]]
 
 **Category** offensive; 
 

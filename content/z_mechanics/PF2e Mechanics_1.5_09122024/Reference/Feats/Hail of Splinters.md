@@ -16,7 +16,7 @@ license: OGL
 ---
 # Hail of Splinters `pf2:2`
 ## Feat 1
-### [[impulse]][[kineticist]][[overflow]][[primal]][[wood]]
+### [[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[overflow]][[primal]][[wood]]
 
 **Category** class; 
 

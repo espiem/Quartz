@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Wearing Dance
 ## Item 18
-### [[magical]][[mental]][[wand]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[wand]]
 
 
 **Price** 24000 gp; 
@@ -27,7 +27,7 @@ This colorfully painted wand has a few jingling bells tied to the pommel.
 
 * * *
 
-**Effect** You cast [[Spells/Uncontrollable Dance|Uncontrollable Dance]]. When the spell's duration ends, if the target was forced to dance for 1 minute, it becomes [[Conditions/Fatigued|Fatigued]].
+**Effect** You cast [[Spells/Uncontrollable Dance|Uncontrollable Dance]]. When the spell's duration ends, if the target was forced to dance for 1 minute, it becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]].
 
 * * *
 

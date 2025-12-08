@@ -31,5 +31,5 @@ You know there are places in the world that are just wrong-places where the bird
 | --- | --- | --- |
 | 1 | [[Clumsy 1\|Clumsy 2]] | [[Clumsy 1\|Clumsy 3]] |
 | 2 | [[Enfeebled 1\|Enfeebled 2]] | [[Enfeebled 1\|Enfeebled 3]] |
-| 3 | [[Stupefied\|Stupefied 2]] | [[Stupefied\|Stupefied 3]] |
-| 4 | [[Dazzled]] | [[Blinded]] for 1 round, then [[Dazzled]] |
+| 3 | [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied\|Stupefied 2]] | [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied\|Stupefied 3]] |
+| 4 | [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] | [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round, then [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] |

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Feather Token (Anchor)
 ## Item 7
-### [[consumable]][[magical]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 55 gp; 

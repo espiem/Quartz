@@ -15,7 +15,7 @@ license: OGL
 ---
 # Staff of Nature's Cunning (Major)
 ## Item 15
-### [[magical]][[plant]][[staff]][[two-hand-d8]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[plant]][[staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

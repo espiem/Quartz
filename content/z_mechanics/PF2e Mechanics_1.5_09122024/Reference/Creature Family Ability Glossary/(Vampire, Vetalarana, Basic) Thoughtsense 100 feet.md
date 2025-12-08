@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Vampire, Vetalarana, Basic) Thoughtsense 100 feet
 
-### [[mental]][[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** interaction; 
 

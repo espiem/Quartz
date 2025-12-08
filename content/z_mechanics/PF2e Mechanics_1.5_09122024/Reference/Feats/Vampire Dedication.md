@@ -24,7 +24,7 @@ You're a newly risen vampire. You gain the undead and vampire traits and the bas
 
 * * *
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Vampire|Vampire]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Vampire|Vampire]] archetype.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

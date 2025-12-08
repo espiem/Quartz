@@ -12,18 +12,18 @@ license: OGL
 ---
 # Blood in the Air `pf2:1`
 ## Feat 12
-### [[concentrate]][[gunslinger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Gunslinger]]
 
 **Category** class; 
 
 
 
 
-**Requirements** An enemy you've damaged with a ranged weapon during the last minute is [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]] from you.
+**Requirements** An enemy you've damaged with a ranged weapon during the last minute is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]] from you.
 
 * * *
 
-Once you've locked on to a target, little can obscure your aim. Make a ranged weapon Strike against the required target. This Strike ignores the target's [[Conditions/Concealed|Concealed]] condition and reduces the flat check for the [[Conditions/Hidden|Hidden]] condition from 11 to 5.
+Once you've locked on to a target, little can obscure your aim. Make a ranged weapon Strike against the required target. This Strike ignores the target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] condition and reduces the flat check for the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]] condition from 11 to 5.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

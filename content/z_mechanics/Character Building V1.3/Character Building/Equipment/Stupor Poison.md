@@ -18,10 +18,10 @@ Stupor poison is a more potent distillation of lethargy poison. Further exposure
 
 **Maximum Duration** 6 hours
 
-**Stage 1** [[Slowed]] and [[Off-Guard]] (1 round)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] (1 round)
 
-**Stage 2** [[Slowed|Slowed 2]] and off-guard (1 round)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]] and off-guard (1 round)
 
-**Stage 3** [[Unconscious]] with no Perception check to wake up (1 round)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] with no Perception check to wake up (1 round)
 
 **Stage 4** unconscious with no Perception check to wake up (1d6 hours)

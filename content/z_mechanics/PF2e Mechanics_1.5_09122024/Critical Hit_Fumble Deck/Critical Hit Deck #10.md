@@ -8,7 +8,7 @@ tags:
 ---
 # I See Stars
 
-> Normal damage. **Crit Effect:** The target is [[Conditions/Dazzled|Dazzled]] until healed.
+> Normal damage. **Crit Effect:** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] until healed.
 
 `Bludgeoning`
 

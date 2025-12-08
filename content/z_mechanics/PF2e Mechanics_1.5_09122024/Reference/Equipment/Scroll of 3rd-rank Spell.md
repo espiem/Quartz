@@ -14,7 +14,7 @@ license: ORC
 ---
 # Scroll of 3rd-rank Spell
 ## Item 5
-### [[consumable]][[magical]][[scroll]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[scroll]]
 
 **Category** scroll; 
 **Price** 30 gp; 

@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** trained in Survival; Sentinel Dedication
 * * *
-You wear your armor like a second skin, taking comfort in the protection it offers. You don't become [[Conditions/Fatigued|Fatigued]] if you sleep while wearing armor.
+You wear your armor like a second skin, taking comfort in the protection it offers. You don't become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]] if you sleep while wearing armor.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

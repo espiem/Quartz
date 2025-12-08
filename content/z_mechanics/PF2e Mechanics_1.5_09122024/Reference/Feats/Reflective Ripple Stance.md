@@ -13,7 +13,7 @@ license: OGL
 ---
 # Reflective Ripple Stance `pf2:1`
 ## Feat 1
-### [[monk]][[stance]][[water]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]][[stance]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 **Category** class; 
 
@@ -28,7 +28,7 @@ You enter a stance of fluid grace as small amounts of water flow with your movem
 
 While in Reflective Ripple Stance, you gain a +1 circumstance bonus to Athletics checks to [[Actions/Disarm|Disarm]], [[Actions/Swim|Swim]], or [[Actions/Trip|Trip]], and you gain a +2 circumstance bonus to your Reflex DC to avoid being Disarmed and Tripped.
 
-[[Feat_Feature Effects/Stance_ Reflective Ripple Stance|Stance: Reflective Ripple Stance]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Stance_ Reflective Ripple Stance|Stance: Reflective Ripple Stance]]
 
 * * *
 

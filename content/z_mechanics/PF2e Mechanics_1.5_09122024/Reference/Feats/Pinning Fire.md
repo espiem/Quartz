@@ -12,7 +12,7 @@ license: ORC
 ---
 # Pinning Fire `pf2:r`
 ## Feat 8
-### [[monk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 **Category** class; 
 
@@ -25,7 +25,7 @@ license: ORC
 
 You target your opponent's clothing, equipment, or loose flesh with piercing projectiles to pin them to the ground or a nearby surface.
 
-If both your attacks hit, the target must succeed at a Reflex save against your class DC or become [[Conditions/Immobilized|Immobilized]] until it or an adjacent creature succeeds at a DC 10 Athletics check check to remove the pinning projectiles.
+If both your attacks hit, the target must succeed at a Reflex save against your class DC or become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]] until it or an adjacent creature succeeds at a DC 10 Athletics check check to remove the pinning projectiles.
 
 The creature doesn't become stuck if it is incorporeal, is liquid (like a water elemental or some oozes), or could otherwise escape without effort.
 

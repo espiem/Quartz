@@ -27,7 +27,7 @@ Through experience and in-depth visualizations of mental battles, you've grown a
 
 * * *
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Psychic Duelist|Psychic Duelist]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[Psychic Duelist|Psychic Duelist]] archetype.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

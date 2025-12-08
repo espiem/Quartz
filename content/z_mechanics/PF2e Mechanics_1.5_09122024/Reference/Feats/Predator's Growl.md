@@ -12,7 +12,7 @@ license: ORC
 ---
 # Predator's Growl `pf2:r`
 ## Feat 9
-### [[catfolk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Catfolk]]
 
 **Category** ancestry; 
 
@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** expert in Intimidation
 * * *
-**Trigger** You successfully [[Actions/Seek|Seek]] a [[Conditions/Hidden|Hidden]] or [[Conditions/Undetected|Undetected]] creature.
+**Trigger** You successfully [[Actions/Seek|Seek]] a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Undetected|Undetected]] creature.
 
 * * *
 

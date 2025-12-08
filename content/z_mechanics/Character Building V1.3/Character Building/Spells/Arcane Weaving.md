@@ -18,4 +18,4 @@ You and the secondary casters weave together spells (and, if anadis, silk) in a 
 
 **Failure** None of the participants can swap spells.
 
-**Critical Failure** As failure, and all participants are [[Stupefied|Stupefied 1]] for 24 hours and can't reduce their stupefied condition below 1 for 24 hours.
+**Critical Failure** As failure, and all participants are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for 24 hours and can't reduce their stupefied condition below 1 for 24 hours.

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Arachnid Harness (Greater)
 ## Item 9
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** light; **Group** leather
 **Price** 700 gp; 
@@ -29,7 +29,7 @@ This _+1 resilient leather armor_ has four knobbed ribs that wrap around the tor
 
 **Effect** The ribs from the armor spread into functional spider limbs. For 1 minute, you gain a climb Speed equal to half your land Speed and have your limbs free as you climb. If you use all your free limbs to help you Climb, your climb Speed equals your land Speed.
 
-[[Equipment Effects/Effect_ Arachnid Harness|Effect: Arachnid Harness]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Arachnid Harness|Effect: Arachnid Harness]]
 
 * * *
 

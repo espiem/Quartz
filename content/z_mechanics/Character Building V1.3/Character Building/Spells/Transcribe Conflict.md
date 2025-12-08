@@ -8,7 +8,7 @@ tags:
 ---
 
 # Transcribe Conflict
-![[icons-sundries-scrolls-scroll-writing-tan-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-sundries-scrolls-scroll-writing-tan-grey.webp|150]]
 
 You cause a sheet of paper to appear in your hand, and a moment later a detailed description of a combat you experienced within the last hour is recorded on that sheet of paper in a language that you know of your choice. The description is detailed enough that anyone who spends 1 minute reading the page can attempt to Recall Knowledge about the event as if they had been there, but the primary purpose of the transcribed conflict is to give you additional insight into the fight by allowing you to study the conflict and learn from errors or tactical blunders participants in the battle may have committed.
 

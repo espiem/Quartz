@@ -12,7 +12,7 @@ tags:
 
 **Activate** f command
 
-**Trigger** You become [[Blinded]], or an effect otherwise impedes your vision
+**Trigger** You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]], or an effect otherwise impedes your vision
 
 **Requirements** You are an expert in Perception.
 

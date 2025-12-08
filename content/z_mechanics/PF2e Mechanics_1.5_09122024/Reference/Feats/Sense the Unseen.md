@@ -14,7 +14,7 @@ license: ORC
 ---
 # Sense the Unseen `pf2:r`
 ## Feat 14
-### [[investigator]][[ranger]][[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Investigator]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 
@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-When you look for foes, you can catch even the slightest cues, such as their minute movements or the shifting of air currents on your skin. Even though you failed at the triggering check, you automatically sense any undetected creatures in the area where you're Seeking, making them merely [[Conditions/Hidden|Hidden]] to you.
+When you look for foes, you can catch even the slightest cues, such as their minute movements or the shifting of air currents on your skin. Even though you failed at the triggering check, you automatically sense any undetected creatures in the area where you're Seeking, making them merely [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]] to you.
 
 *Source: Pathfinder Player Core*
 *ORC*

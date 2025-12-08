@@ -13,7 +13,7 @@ license: ORC
 ---
 # Bristling Spines (Lesser)
 ## Item 1
-### [[graft]][[invested]][[magical]]
+### [[graft]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 15 gp; 
@@ -28,7 +28,7 @@ Your exposed skin is covered in fine, needle-like hairs that you can flick into 
 
 **Frequency** once per day
 
-**Effect** You flick tiny spines in a 15-foot cone, dealing 1d8 piercing damage to all creatures in the area with a DC 15 Reflex check save. On a critical failure, the creature is also [[Conditions/Dazzled|Dazzled]] until the end of their next turn.
+**Effect** You flick tiny spines in a 15-foot cone, dealing 1d8 piercing damage to all creatures in the area with a DC 15 Reflex check save. On a critical failure, the creature is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] until the end of their next turn.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

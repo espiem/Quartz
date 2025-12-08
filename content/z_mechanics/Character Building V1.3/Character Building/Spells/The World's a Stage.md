@@ -22,4 +22,4 @@ The performance presents current events and offers a particular vision on how th
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** The performance is a dramatic and horrendous botch, and fate strikes out at the casters. You and each secondary caster are [[Doomed|Doomed 1]] for the next month, and this condition can't be removed by anything less than a wish or similarly powerful magic.
+**Critical Failure** The performance is a dramatic and horrendous botch, and fate strikes out at the casters. You and each secondary caster are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]] for the next month, and this condition can't be removed by anything less than a wish or similarly powerful magic.

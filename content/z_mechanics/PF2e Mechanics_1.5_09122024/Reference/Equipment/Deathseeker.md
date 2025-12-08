@@ -16,7 +16,7 @@ license: ORC
 ---
 # Deathseeker
 ## Item 8
-### [[agile]][[deadly-d8]][[finesse]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[deadly-d8]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 |  |  |
 | -- | -- |
@@ -35,7 +35,7 @@ A hauntingly beautiful and masterfully crafted blade, this _+1 striking wounding
 
 **Success** The target takes an additional 1 persistent bleed damage, and the DC for recovering from persistent bleed damage is 17, or 12 with particularly effective assistance.
 
-**Failure** As success, except the target is also [[Conditions/Confused|Confused]] for 1 round. It gets a flat check to recover from this confusion when it critically succeeds at a Strike against another creature or reduces another living being to 0 Hit Points, but not when it takes damage.
+**Failure** As success, except the target is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]] for 1 round. It gets a flat check to recover from this confusion when it critically succeeds at a Strike against another creature or reduces another living being to 0 Hit Points, but not when it takes damage.
 
 **Critical Failure** As success, except the target is also confused for 3 rounds. It gets a flat check to recover from this confusion when it critically succeeds at a Strike against another creature or reduces another living being to 0 Hit Points, but not when it takes damage.
 

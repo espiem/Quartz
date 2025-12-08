@@ -14,7 +14,7 @@ license: OGL
 ---
 # Firecracker Fulu
 ## Item 1
-### [rare](rare "Rare Rarity Trait")[[consumable]][[fulu]][[magical]][[talisman]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[fulu]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** fulu; 
 **Price** 4 gp; 
@@ -27,7 +27,7 @@ license: OGL
 
 * * *
 
-The fulu explodes and showers the area with bright sparks. The creature struck takes an additional 1d4 sonic damage and must succeed at a DC 15 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 round (or dazzled for 1 minute on a critical failure).
+The fulu explodes and showers the area with bright sparks. The creature struck takes an additional 1d4 sonic damage and must succeed at a DC 15 Fortitude check save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for 1 round (or dazzled for 1 minute on a critical failure).
 
 *Source: Pathfinder #196: The Summer That Never Was*
 *OGL*

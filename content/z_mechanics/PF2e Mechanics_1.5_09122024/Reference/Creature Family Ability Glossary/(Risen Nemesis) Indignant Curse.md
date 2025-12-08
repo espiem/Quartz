@@ -12,7 +12,7 @@ license: ORC
 ---
 # (Risen Nemesis) Indignant Curse `pf2:r`
 
-### [[curse]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Curse]]
 
 **Category** offensive; 
 

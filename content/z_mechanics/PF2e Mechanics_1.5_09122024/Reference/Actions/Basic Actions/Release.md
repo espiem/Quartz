@@ -13,7 +13,7 @@ license: ORC
 ---
 # Release `pf2:0`
 
-### [[general]][[manipulate]]
+### [[general]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** interaction; 
 

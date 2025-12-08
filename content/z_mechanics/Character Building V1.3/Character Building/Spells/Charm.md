@@ -20,7 +20,7 @@ You can Dismiss the spell. If you use hostile actions against the target, the sp
 
 **Success** The target is unaffected but thinks your spell was something harmless instead of charm, unless it identifies the spell.
 
-**Failure** The target's attitude becomes [[Friendly]] toward you. If it was Friendly, it becomes [[Helpful]]. It can't use hostile actions against you.
+**Failure** The target's attitude becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Friendly]] toward you. If it was Friendly, it becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Helpful]]. It can't use hostile actions against you.
 
 **Critical Failure** The target's attitude becomes Helpful toward you, and it can't use hostile actions against you.
 

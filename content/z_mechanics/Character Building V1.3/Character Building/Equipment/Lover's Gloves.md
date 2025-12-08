@@ -8,7 +8,7 @@ tags:
 ---
 
 # Lover's Gloves
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-lovers-gloves.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-worn-items-other-worn-items-lovers-gloves.webp|150]]
 
 These white silk gloves are adorned in red hearts that glow faintly whenever you are adjacent to someone you feel particularly strongly toward. They buoy your spirit, giving you a +1 item bonus to Diplomacy checks.
 

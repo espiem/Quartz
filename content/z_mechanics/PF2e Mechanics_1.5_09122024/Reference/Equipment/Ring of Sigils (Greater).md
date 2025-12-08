@@ -12,7 +12,7 @@ license: ORC
 ---
 # Ring of Sigils (Greater)
 ## Item 6
-### [[arcane]][[invested]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[invested]]
 
 
 **Price** 225 gp; 

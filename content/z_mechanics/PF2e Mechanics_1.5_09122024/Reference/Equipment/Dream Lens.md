@@ -11,7 +11,7 @@ license: OGL
 ---
 # Dream Lens
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[artifact]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[artifact]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 

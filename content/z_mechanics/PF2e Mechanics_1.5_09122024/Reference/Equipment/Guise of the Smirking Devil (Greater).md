@@ -14,7 +14,7 @@ license: ORC
 ---
 # Guise of the Smirking Devil (Greater)
 ## Item 19
-### [[auditory]][[invested]][[magical]][[void]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[void]]
 
 
 **Price** 35000 gp; 

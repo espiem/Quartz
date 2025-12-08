@@ -13,7 +13,7 @@ license: OGL
 ---
 # Sacred Defense `pf2:1`
 ## Feat 7
-### [[divine]][[general]][[skill]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[general]][[skill]]
 
 **Category** skill; 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Torrent Spellgun (Lesser)
 ## Item 3
-### [[consumable]][[magical]][[spellgun]][[water]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellgun]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 **Category** other; 
 **Price** 12 gp; 

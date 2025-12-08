@@ -23,7 +23,7 @@ license: ORC
 * * *
 You are particularly skilled at using a shield to protect yourself in combat. You gain the [[Feats/Reactive Shield|Reactive Shield]] fighter feat.
 
-[[PF2e Journals/Archetypes/Bastion|Bastion]]
+[[Bastion|Bastion]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -23,7 +23,7 @@ license: ORC
 * * *
 You've trained to assassinate your foes, and you do so with tenacity and precision. You gain the [[Actions/Mark for Death|Mark for Death]] activity.
 
-[[PF2e Journals/Archetypes/Assassin|Assassin]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Assassin|Assassin]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

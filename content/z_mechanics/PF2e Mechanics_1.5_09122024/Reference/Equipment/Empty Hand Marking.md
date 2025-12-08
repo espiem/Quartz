@@ -13,7 +13,7 @@ license: ORC
 ---
 # Empty Hand Marking
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]][[tattoo]]
+### [rare](rare "Rare Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[tattoo]]
 
 
 **Price** 135 gp; 

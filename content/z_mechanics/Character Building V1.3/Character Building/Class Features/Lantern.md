@@ -8,7 +8,7 @@ tags:
 ---
 
 # Lantern
-![[systems-pf2e-icons-features-classes-lantern.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-features-classes-lantern.webp|150]]
 
 Lantern implements shine the light of revelation to part shadows and expose truth. You might use a common glass lantern, torch, paper lantern, or other similar light source. Lantern implements are associated with the harrow suit of stars and the astrological signs of the lantern bearer and the archer.
 
@@ -20,11 +20,11 @@ The lantern's magical light attempts to reveal the unseen. You and your allies i
 
 ### **Adept Benefit**
 
-In addition to the initiate benefits, when you hold your lantern, its light reveals the [[Invisible]] and the ethereal. The bright light increases to 30 feet, with dim light out 30 feet further. While you're holding your lantern, invisible and ethereal creatures within the bright light become visible as rippling distortions, though they're still [[Concealed]]. This doesn't give you any special ability to affect a creature on the Ethereal Plane, but it ensures you're aware of the creatures' presence.
+In addition to the initiate benefits, when you hold your lantern, its light reveals the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]] and the ethereal. The bright light increases to 30 feet, with dim light out 30 feet further. While you're holding your lantern, invisible and ethereal creatures within the bright light become visible as rippling distortions, though they're still [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]]. This doesn't give you any special ability to affect a creature on the Ethereal Plane, but it ensures you're aware of the creatures' presence.
 
 ### **Intensify Vulnerability**
 
-Your lantern's light flares and burns bright, leaving no shadows in which secrets and enemies can hide. Against the target of your Exploit Vulnerability, the status bonuses from the lantern's initiate benefit increase to +2. The creature takes a -2 status penalty to Deception checks and Stealth checks as long as it's within the lantern's light. The creature can't be [[Concealed]] while it's in the lantern's light, though it still can potentially become [[Hidden]] or undetected using cover or means other than the concealed condition.
+Your lantern's light flares and burns bright, leaving no shadows in which secrets and enemies can hide. Against the target of your Exploit Vulnerability, the status bonuses from the lantern's initiate benefit increase to +2. The creature takes a -2 status penalty to Deception checks and Stealth checks as long as it's within the lantern's light. The creature can't be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] while it's in the lantern's light, though it still can potentially become [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]] or undetected using cover or means other than the concealed condition.
 
 ### **Paragon Benefit**
 

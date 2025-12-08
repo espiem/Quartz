@@ -21,15 +21,15 @@ license: OGL
 **Bulk** 0; **Size** med
 **Usage** held-in-one-hand
 
-A piquant tamarind and chili-lime flavor infuses a silver crescent, which was first created to aid those battling the undead. For 1 hour, you shed cool, white light like a torch, and you gain a +2 item bonus to saving throws against olfactory effects. While shedding this light, you can't be [[Conditions/Concealed|Concealed]] if you're visible, and if you're [[Conditions/Invisible|Invisible]], you're concealed instead rather than being undetected.
+A piquant tamarind and chili-lime flavor infuses a silver crescent, which was first created to aid those battling the undead. For 1 hour, you shed cool, white light like a torch, and you gain a +2 item bonus to saving throws against olfactory effects. While shedding this light, you can't be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] if you're visible, and if you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible|Invisible]], you're concealed instead rather than being undetected.
 
-[[Equipment Effects/Effect_ Silver Crescent (Moderate)|Effect: Silver Crescent (Moderate)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Silver Crescent (Moderate)|Effect: Silver Crescent (Moderate)]]
 
 * * *
 
 **Secondary Effect** `pf2:2`
 
-**Effect** A ray of light descends on a 5-foot square of your choice within 120 feet. Any creature in that space takes 7d6 vitality with a DC 28 Reflex check and is [[Conditions/Dazzled|Dazzled]] until the end of its next turn on a failed save. This is treated as silver for the purposes of weaknesses, resistances, and the like. The silver crescent becomes inert.
+**Effect** A ray of light descends on a 5-foot square of your choice within 120 feet. Any creature in that space takes 7d6 vitality with a DC 28 Reflex check and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] until the end of its next turn on a failed save. This is treated as silver for the purposes of weaknesses, resistances, and the like. The silver crescent becomes inert.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Pyronite
 ## Item 11
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[fire]]
+### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]]
 
 **Category** other; 
 **Price** 250 gp; 
@@ -36,11 +36,11 @@ Once a stick of pyronite's fuse is lit, it explodes at the end of your turn, reg
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is [[Conditions/Deafened|Deafened]] for 1 round.
+**Success** The creature takes half damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]] for 1 round.
 
 **Failure** The creature takes full damage and is deafened for 1 minute.
 
-**Critical Failure** The creature takes double damage and is knocked [[Conditions/Prone|Prone]], [[Conditions/Stunned|Stunned 1]], and deafened for 1 hour.
+**Critical Failure** The creature takes double damage and is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]], [[Conditions/Stunned|Stunned 1]], and deafened for 1 hour.
 
 *Source: Pathfinder #179: Cradle of Quartz*
 *OGL*

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Marvelous Miniature (Campfire)
 ## Item 1
-### [[consumable]][[expandable]][[magical]]
+### [[consumable]][[expandable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 1 gp; 

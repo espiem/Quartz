@@ -13,7 +13,7 @@ license: ORC
 ---
 # Accolade Robe
 ## Item 10
-### [[arcane]][[focused]][[invested]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[focused]][[invested]]
 
 
 **Price** 1000 gp; 

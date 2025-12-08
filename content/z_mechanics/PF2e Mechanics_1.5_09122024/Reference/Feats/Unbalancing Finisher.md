@@ -13,14 +13,14 @@ license: ORC
 ---
 # Unbalancing Finisher `pf2:1`
 ## Feat 2
-### [[finisher]][[swashbuckler]]
+### [[finisher]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 
 
 
 
-You attack with a flashy assault that leaves your target off balance. Make a melee Strike. If you hit and deal damage, the target is [[Conditions/Off-Guard|Off-Guard]] until the end of your next turn.
+You attack with a flashy assault that leaves your target off balance. Make a melee Strike. If you hit and deal damage, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the end of your next turn.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

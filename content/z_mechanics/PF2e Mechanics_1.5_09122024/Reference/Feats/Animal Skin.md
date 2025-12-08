@@ -14,7 +14,7 @@ license: ORC
 ---
 # Animal Skin
 ## Feat 6
-### [[barbarian]][[morph]][[primal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[morph]][[primal]]
 
 **Category** class; 
 

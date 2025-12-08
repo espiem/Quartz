@@ -13,7 +13,7 @@ license: OGL
 ---
 # The Brass Dwarf
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[harrow-court]][[invested]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[harrow-court]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 
@@ -36,7 +36,7 @@ _The Brass Dwarf_ represents invulnerability. When you invest _The Brass Dwarf_,
 
 **Effect** Choose acid, cold, electricity, fire, mental, poison, or sonic. You can't choose the damage type for which _The Brass Dwarf_ currently gives you resistance. You gain resistance to the damage you chose equal to your level, and you lose the prior resistance that _The Brass Dwarf_ gave you. For 1 minute, you gain weakness equal to half your level to the damage type of the prior resistance.
 
-[[Equipment Effects/Effect_ Brass Dwarf Weakness|Effect: Brass Dwarf Weakness]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Brass Dwarf Weakness|Effect: Brass Dwarf Weakness]]
 
 *Source: Pathfinder #190: The Choosing*
 *OGL*

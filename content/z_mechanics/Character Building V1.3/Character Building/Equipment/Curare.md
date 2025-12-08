@@ -20,8 +20,8 @@ Hunters all over Golarion favor curare, a potent paralytic derived from boiled t
 
 **Stage 1** 2d6 poison, [[Clumsy 1]], and [[Enfeebled 1]] (1 round)
 
-**Stage 2** 3d6 poison, [[Clumsy 1|Clumsy 2]], [[Enfeebled 1|Enfeebled 2]], and [[Slowed]] (1 minute)
+**Stage 2** 3d6 poison, [[Clumsy 1|Clumsy 2]], [[Enfeebled 1|Enfeebled 2]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] (1 minute)
 
 **Stage 3** 4d6 poison, clumsy 2, enfeebled 2, and slowed 1 (1 round). If the victim fails the saving throw while at
 
-**Stage 3**, the poison ends and the victim is [[Paralyzed]] for 2d6 minutes.
+**Stage 3**, the poison ends and the victim is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] for 2d6 minutes.

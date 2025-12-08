@@ -13,7 +13,7 @@ license: ORC
 ---
 # Thousand-Year Grudge `pf2:r`
 ## Feat 5
-### [[occult]][[samsaran]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[samsaran]]
 
 **Category** ancestry; 
 

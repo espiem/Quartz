@@ -17,7 +17,7 @@ license: ORC
 
 
 
-You have a longer torso and broader shoulders than most hobgoblins, making your legs seem short by comparison. This gives you a strong, muscular core and lowers your center of gravity—features that assist you in riding and climbing—and you've trained at riding in a saddle from an extremely early age. You gain the [[Feats/Ride|Ride]] feat. Additionally, you are not [[Conditions/Off-Guard|Off-Guard]] while you Climb.
+You have a longer torso and broader shoulders than most hobgoblins, making your legs seem short by comparison. This gives you a strong, muscular core and lowers your center of gravity—features that assist you in riding and climbing—and you've trained at riding in a saddle from an extremely early age. You gain the [[Feats/Ride|Ride]] feat. Additionally, you are not [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] while you Climb.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

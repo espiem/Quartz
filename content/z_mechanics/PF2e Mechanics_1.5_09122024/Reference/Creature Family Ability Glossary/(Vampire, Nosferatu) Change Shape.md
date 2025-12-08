@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Vampire, Nosferatu) Change Shape `pf2:1`
 
-### [[concentrate]][[divine]][[polymorph]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[polymorph]]
 
 **Category** offensive; 
 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Fleeing Shriek `pf2:2`
 ## Feat 9
-### [[auditory]][[kobold]][[sonic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Kobold]][[sonic]]
 
 **Category** ancestry; 
 

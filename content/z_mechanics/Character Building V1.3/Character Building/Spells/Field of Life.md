@@ -8,7 +8,7 @@ tags:
 ---
 
 # Field of Life
-![[icons-magic-life-heart-area-circle-red-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-life-heart-area-circle-red-green.webp|150]]
 
 A field of life energy fills the area, exuding warmth and rejuvenating those within. Each living creature that starts its turn in the area regains 1d8 Hit Points, and any undead creature that starts its turn in the area takes 1d8 vitality damage.
 

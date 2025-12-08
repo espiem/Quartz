@@ -14,7 +14,7 @@ license: OGL
 ---
 # Forked Bipod
 ## Item 0
-### [[agile]][[deadly-d6]][[finesse]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[deadly-d6]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]]
 
 |  |  |
 | -- | -- |

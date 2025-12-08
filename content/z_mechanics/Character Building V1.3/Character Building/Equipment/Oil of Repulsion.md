@@ -20,4 +20,4 @@ This oil contains magnetically charged iron filings repelled into opposite ends 
 
 **Failure** The creature is pushed up to 10 feet away from you (the GM determines the direction).
 
-**Critical Failure** As failure, and the creature is also knocked [[Prone]].
+**Critical Failure** As failure, and the creature is also knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].

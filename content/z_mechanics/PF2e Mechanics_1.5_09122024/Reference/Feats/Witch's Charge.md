@@ -13,7 +13,7 @@ license: ORC
 ---
 # Witch's Charge
 ## Feat 6
-### [[detection]][[witch]]
+### [[detection]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Witch]]
 
 **Category** class; 
 

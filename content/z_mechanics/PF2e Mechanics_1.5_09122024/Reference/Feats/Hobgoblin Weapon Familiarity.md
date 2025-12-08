@@ -12,7 +12,7 @@ license: ORC
 ---
 # Hobgoblin Weapon Familiarity
 ## Feat 1
-### [[hobgoblin]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Hobgoblin]]
 
 **Category** ancestry; 
 

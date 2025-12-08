@@ -15,7 +15,7 @@ license: ORC
 ---
 # Oil of Unlife (Greater)
 ## Item 12
-### [[consumable]][[magical]][[oil]][[void]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[oil]][[void]]
 
 **Category** oil; 
 **Price** 400 gp; 

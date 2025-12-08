@@ -12,7 +12,7 @@ license: ORC
 ---
 # Impressive Landing `pf2:r`
 ## Feat 10
-### [[barbarian]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-You slam into the ground, shattering it around you. Treat the fall as 10 feet shorter. You land on your feet. The ground in a 5-foot emanation becomes difficult terrain. Any creature in the emanation when you land takes 5 bludgeoning damage as the debris hits it and is [[Conditions/Off-Guard|Off-Guard]] until the start of its next turn.
+You slam into the ground, shattering it around you. Treat the fall as 10 feet shorter. You land on your feet. The ground in a 5-foot emanation becomes difficult terrain. Any creature in the emanation when you land takes 5 bludgeoning damage as the debris hits it and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the start of its next turn.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

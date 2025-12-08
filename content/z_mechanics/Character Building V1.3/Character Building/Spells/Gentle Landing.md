@@ -10,7 +10,7 @@ tags:
 ---
 
 # Gentle Landing
-![[icons-commodities-materials-feather-damaged-brown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-commodities-materials-feather-damaged-brown.webp|150]]
 
 **Trigger** a creature within range is falling
 

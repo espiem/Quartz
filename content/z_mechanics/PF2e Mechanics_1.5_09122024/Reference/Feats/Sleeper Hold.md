@@ -13,14 +13,14 @@ license: ORC
 ---
 # Sleeper Hold `pf2:1`
 ## Feat 10
-### [[incapacitation]][[monk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 **Category** class; 
 
 
 
 
-**Requirements** You have a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** You have a creature [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]].
 
 * * *
 
@@ -28,7 +28,7 @@ You pinch crucial points of your target's nervous system, impeding its ability t
 
 * * *
 
-**Critical Success** The target falls [[Conditions/Unconscious|Unconscious]] for 1 minute, though it remains standing and doesn't drop what it holds.
+**Critical Success** The target falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] for 1 minute, though it remains standing and doesn't drop what it holds.
 
 **Success** The target is [[Conditions/Clumsy|Clumsy 1]] until the end of its next turn.
 

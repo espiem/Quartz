@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Dance
-![[icons-sundries-gaming-playing-cards-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Keys (Dex)
 

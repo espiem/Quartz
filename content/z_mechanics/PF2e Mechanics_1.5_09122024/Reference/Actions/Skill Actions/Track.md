@@ -15,14 +15,14 @@ license: ORC
 ---
 # Track
 
-### [[concentrate]][[exploration]][[move]][[skill]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[exploration]][[move]][[skill]]
 
 **Category** interaction; 
 
 
 
 
-You follow tracks, moving at up to half your travel Speed, using the [[PF2e Journals/GM Screen/Travel Speed|Travel Speed]] rules. After a successful check to Track, you can continue following the tracks at half your Speed without attempting additional checks for up to 1 hour.
+You follow tracks, moving at up to half your travel Speed, using the [[Travel Speed|Travel Speed]] rules. After a successful check to Track, you can continue following the tracks at half your Speed without attempting additional checks for up to 1 hour.
 
 In some cases, you might Track in an encounter. In this case, Track is a single action and doesn't have the exploration trait, but you might need to roll more often because you're in a tense situation. The GM determines how often you must attempt this check.
 

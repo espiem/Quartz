@@ -15,7 +15,7 @@ license: OGL
 ---
 # Delusion
 
-### [rare](rare "Rare Rarity Trait")[[auditory]][[illusion]][[occult]][[olfactory]][[visual]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[olfactory]][[visual]]
 
 **Category** deityboon; 
 

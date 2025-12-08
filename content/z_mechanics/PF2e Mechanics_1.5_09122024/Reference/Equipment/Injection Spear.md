@@ -13,7 +13,7 @@ license: OGL
 ---
 # Injection Spear
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[injection]][[reach]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[injection]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]]
 
 |  |  |
 | -- | -- |

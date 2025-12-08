@@ -13,7 +13,7 @@ license: OGL
 ---
 # Calculate Threats `pf2:1`
 
-### [[mental]][[psyche]][[psychic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[psyche]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** defensive; 
 
@@ -22,7 +22,7 @@ license: OGL
 
 Your subconscious automatically calculates vectors and forces when your mind is unleashed, showing you the likely path of incoming attacks to avoid. You gain a +2 circumstance bonus to AC and Reflex saves until the beginning of your next turn.
 
-[[Feat_Feature Effects/Effect_ Calculate Threats|Effect: Calculate Threats]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Calculate Threats|Effect: Calculate Threats]]
 
 *Source: Pathfinder Dark Archive*
 *OGL*

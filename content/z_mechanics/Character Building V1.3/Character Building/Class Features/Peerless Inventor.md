@@ -10,4 +10,4 @@ tags:
 # Peerless Inventor
 ![[systems-pf2e-icons-features-classes-peerless-inventor.webp|150]]
 
-You are constantly inventing, and your skill at crafting is unimpeachable. You gain the [[Inventor]] skill feat, even if you don't meet its prerequisites.
+You are constantly inventing, and your skill at crafting is unimpeachable. You gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Inventor]] skill feat, even if you don't meet its prerequisites.

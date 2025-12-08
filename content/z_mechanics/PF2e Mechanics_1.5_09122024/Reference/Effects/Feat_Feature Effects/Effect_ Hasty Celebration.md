@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Hasty Celebration|Hasty Celebration]]
 
-You grant all allies within 60 feet a +2 circumstance bonus to attack rolls and damage, and you're [[Conditions/Off-Guard|Off-Guard]] to all enemies.
+You grant all allies within 60 feet a +2 circumstance bonus to attack rolls and damage, and you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] to all enemies.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

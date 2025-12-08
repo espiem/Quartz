@@ -14,7 +14,7 @@ license: ORC
 ---
 # Potion of Swimming (Greater)
 ## Item 11
-### [[consumable]][[magical]][[potion]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 250 gp; 
@@ -27,7 +27,7 @@ license: ORC
 
 This potion tastes like salt water, and sandy grit settles to the bottom of its container. When you drink it, you gain a swim Speed equal to your land Speed for 1 hour.
 
-[[Equipment Effects/Effect_ Potion of Swimming (Greater)|Effect: Potion of Swimming (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Potion of Swimming (Greater)|Effect: Potion of Swimming (Greater)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

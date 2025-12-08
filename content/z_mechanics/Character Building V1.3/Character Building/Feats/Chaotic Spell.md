@@ -16,10 +16,10 @@ This is the secret of chaotic magic–your foe can hardly predict and counter yo
 
 **2 (Cold):** –10 ft. penalty to all Speeds until the end of your next turn
 
-**3 (Electricity):** [[Off-Guard]] until the end of your next turn
+**3 (Electricity):** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the end of your next turn
 
 **4 (Fire):** Persistent fire damage equal to the spell's level
 
 **5 (Force):** No added efect
 
-**6 (Sonic):**[[Deafened]] for 2 rounds
+**6 (Sonic):**[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 2 rounds

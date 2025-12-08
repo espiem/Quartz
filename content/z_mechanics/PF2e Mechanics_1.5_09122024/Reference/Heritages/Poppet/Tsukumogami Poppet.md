@@ -11,7 +11,7 @@ license: ORC
 ---
 # Tsukumogami Poppet
 
-### [uncommon](uncommon "Uncommon Rarity Trait")[[poppet]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Poppet]]
 
 
 

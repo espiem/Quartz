@@ -8,9 +8,9 @@ tags:
 ---
 
 # Brand the Impenitent
-![[icons-magic-unholy-hand-marked-pink.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-unholy-hand-marked-pink.webp|150]]
 
-You brand the target with an ethereal copy of your deity's religious symbol. This brand can't be hidden, but it is visible only to followers of your faith, who see it as clearly as a lit torch. Followers of your faith ignore the target's [[Concealed]] condition, if any, and the target gains a -1 status penalty to AC against attacks by followers of your faith. If the target is a follower of your deity in good standing, the spell fails.
+You brand the target with an ethereal copy of your deity's religious symbol. This brand can't be hidden, but it is visible only to followers of your faith, who see it as clearly as a lit torch. Followers of your faith ignore the target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] condition, if any, and the target gains a -1 status penalty to AC against attacks by followers of your faith. If the target is a follower of your deity in good standing, the spell fails.
 
 * * *
 

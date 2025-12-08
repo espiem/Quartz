@@ -11,7 +11,7 @@ license: OGL
 ---
 # Perpetual Perfection (Chirurgeon)
 ## Feat 17
-### [[alchemist]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist]]
 
 **Category** classfeature; 
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Primal Summons
-![[icons-creatures-mammals-humanoid-wolf-dog-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-mammals-humanoid-wolf-dog-blue.webp|150]]
 
 You enhance a summoned creature with the power of the elements. If your next action is to cast either [[Summon Animal]] or [[Summon Plant or Fungus]], choose air, earth, fire, metal, water or wood; the creature you summon gains the corresponding abilities.
 

@@ -21,7 +21,7 @@ You can pull a dueling cape you're wearing from your shoulder and wrap it around
 
 While you do so, you can spend an action to hold it in a protective position, giving you a +1 circumstance bonus to AC and to Deception checks to [[Actions/Feint|Feint]] until the start of your next turn.
 
-[[Equipment Effects/Effect_ Dueling Cape|Effect: Dueling Cape]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Dueling Cape|Effect: Dueling Cape]]
 
 *Source: Pathfinder Player Core*
 *ORC*

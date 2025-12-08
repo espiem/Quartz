@@ -16,7 +16,7 @@ license: OGL
 ---
 # Kindle Inner Flames `pf2:1`
 ## Feat 8
-### [[fire]][[impulse]][[kineticist]][[primal]][[stance]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[primal]][[stance]]
 
 **Category** class; 
 
@@ -25,7 +25,7 @@ license: OGL
 
 As a candle can light another, you awaken the latent potential to channel fire in other creatures. You shed faint, glowing embers, as do your allies while they're in your kinetic aura. Anyone shedding these embers gains a +1 status bonus to Reflex saves and Acrobatics checks and can Step as a free action once per round. When an affected creature takes a move action, its Strikes deal an extra 2 fire damage until the end of its turn.
 
-[[Feat_Feature Effects/Stance_ Kindle Inner Flames|Stance: Kindle Inner Flames]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Stance_ Kindle Inner Flames|Stance: Kindle Inner Flames]]
 
 * * *
 

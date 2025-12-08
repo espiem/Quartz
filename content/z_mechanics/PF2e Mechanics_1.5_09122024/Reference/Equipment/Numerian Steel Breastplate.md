@@ -12,7 +12,7 @@ license: OGL
 ---
 # Numerian Steel Breastplate
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** medium; **Group** plate
 **Price** 900 gp; 

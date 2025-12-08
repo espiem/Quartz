@@ -26,11 +26,11 @@ A _dezullon fountain_ is a distinct type of _+2 striking air repeater_ made from
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** [[Off-Guard]] (1 round)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] (1 round)
 
 **Stage 2** off-guard and [[Clumsy 1]] (1 round)
 
-**Stage 3** [[Confused]], off-guard, and [[Clumsy 1|Clumsy 2]] (1 round)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]], off-guard, and [[Clumsy 1|Clumsy 2]] (1 round)
 
 * * *
 

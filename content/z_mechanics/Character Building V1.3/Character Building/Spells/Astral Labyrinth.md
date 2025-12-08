@@ -8,7 +8,7 @@ tags:
 ---
 
 # Astral Labyrinth
-![[systems-pf2e-icons-spells-astral-labyrinth.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-astral-labyrinth.webp|150]]
 
 You connect the entire area with an invisible maze of astral energy that interferes with dimensional and mental magic. Choose a point in the area that you can see when you cast this spell. Objects other than force effects and rare metals can't block this spell's area. Astral labyrinth attempts to counteract magical mental effects targeting or including anyone other than the caster in the area, though it has no effect on mental effects that began outside the area or before the spell was cast.
 

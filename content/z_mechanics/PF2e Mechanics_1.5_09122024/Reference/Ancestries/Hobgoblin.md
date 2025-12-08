@@ -12,7 +12,7 @@ license: ORC
 ---
 # Hobgoblin
 
-### [uncommon](uncommon "Uncommon Rarity Trait")[[hobgoblin]][[humanoid]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Hobgoblin]][[humanoid]]
 
 
 
@@ -21,7 +21,7 @@ license: ORC
 
 _Taller and stronger than their goblin kin, hobgoblins are equals in strength and size to humans, with broad shoulders and long, powerful arms._
 
-_[[PF2e Journals/Ancestries/Hobgoblin|Hobgoblin]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Hobgoblin|Hobgoblin]]_
 
 *Source: Pathfinder Player Core 2*
 *ORC*

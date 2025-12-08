@@ -10,7 +10,7 @@ license: OGL
 ---
 # Rime Jar
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 175 gp; 
@@ -23,7 +23,7 @@ Magical reagents slosh inside this rime-frosted pottery jar the size of a human 
 
 * * *
 
-**Effect** The jar draws off the cold and warms your body. If you have the [[Conditions/Fatigued|Fatigued]] condition caused by exposure to environmental cold, it removes the condition. For 8 hours after applying the rime, you treat extreme cold as severe cold.
+**Effect** The jar draws off the cold and warms your body. If you have the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]] condition caused by exposure to environmental cold, it removes the condition. For 8 hours after applying the rime, you treat extreme cold as severe cold.
 
 *Source: Pathfinder #189: Dreamers of the Nameless Spires*
 *OGL*

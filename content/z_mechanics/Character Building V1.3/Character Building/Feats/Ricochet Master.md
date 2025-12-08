@@ -12,4 +12,4 @@ tags:
 
 You have an eye for angles and can find shots that others believe are impossible. When using Ricochet Shot, you can bounce your bullet off up to two solid surfaces within your weapon's first range increment instead of just one.
 
-In addition, a creature is [[Off-Guard]] the first time you attack it with a Ricochet Shot during an encounter.
+In addition, a creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] the first time you attack it with a Ricochet Shot during an encounter.

@@ -10,6 +10,6 @@ tags:
 # Radiant Circuitry
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-Your biological circuitry emits light like a torch, casting bright light in a 20-foot radius (and dim light for the next 20 feet). The light shuts off when you take this action again or are knocked [[Unconscious]].
+Your biological circuitry emits light like a torch, casting bright light in a 20-foot radius (and dim light for the next 20 feet). The light shuts off when you take this action again or are knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]].
 
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Righteous Might
-![[systems-pf2e-icons-spells-righteous-might.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-righteous-might.webp|150]]
 
 You focus all your divine energy and transform yourself into a Medium battle form, similar to your normal form but armed with powerful divine armaments granted by your deity. While in this form, you gain the statistics and abilities listed below. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
 

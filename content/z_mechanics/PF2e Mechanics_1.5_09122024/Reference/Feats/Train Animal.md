@@ -15,7 +15,7 @@ license: ORC
 ---
 # Train Animal
 ## Feat 1
-### [[downtime]][[general]][[manipulate]][[skill]]
+### [[downtime]][[general]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[skill]]
 
 **Category** skill; 
 

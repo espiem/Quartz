@@ -13,7 +13,7 @@ license: OGL
 ---
 # The Avalanche
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[harrow-court]][[invested]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[harrow-court]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 
@@ -42,9 +42,9 @@ _The Avalanche_ represents unmitigated disasters, destruction that overruns all 
 
 **Success** The creature takes 5d8 bludgeoning damage and is pushed into an adjacent space of its choice.
 
-**Failure** The creature takes 10d8 bludgeoning damage, is knocked [[Conditions/Prone|Prone]], and is [[Conditions/Restrained|Restrained]].
+**Failure** The creature takes 10d8 bludgeoning damage, is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]], and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]].
 
-**Critical Failure** The creature takes 20d8 bludgeoning damage, is knocked prone, and is [[Conditions/Immobilized|Immobilized]].
+**Critical Failure** The creature takes 20d8 bludgeoning damage, is knocked prone, and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]].
 
 *Source: Pathfinder #192: Worst of All Possible Worlds*
 *OGL*

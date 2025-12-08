@@ -22,6 +22,6 @@ A drake rifle is a firearm made from the saliva glands of a drake. The firearm l
 
 **Effect** You fire a large, specialized burst designed to hamper your foes. Make a ranged Strike with the drake rifle. As long as the Strike isn't a critical failure, the drake rifle deals 1 splash damage per weapon damage die to the target and creatures within 5 feet of the target. On a hit, the drake rifle provides the following additional effect:
 
-*   **Electricity** Small bursts of electricity continue to spark and jolt the target. The target becomes [[Dazzled]] and [[Off-Guard]] for 1d4 rounds.
+*   **Electricity** Small bursts of electricity continue to spark and jolt the target. The target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] for 1d4 rounds.
 
 **Craft Requirements** The initial raw materials must include the saliva glands of a ritually hunted drake with a breath weapon that deals the appropriate damage type for the drake rifle

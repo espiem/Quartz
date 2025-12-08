@@ -16,4 +16,4 @@ You can have only one challenge in effect at a time; challenging a new opponent 
 
 **Success** Both you and the opponent gain a +2 status bonus to damage rolls with Strikes made against each other. If you're a master in the skill you used for the check, the status bonus to damage rolls increases to +3, and if you're legendary, it increases to +4.
 
-**Critical Failure** You become [[Frightened|Frightened 1]] and can't use this ability again for 1 minute.
+**Critical Failure** You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]] and can't use this ability again for 1 minute.

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Steal Voice
-![[systems-pf2e-icons-spells-silence.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-silence.webp|150]]
 
 You steal a creature's voice, rendering them mute. The effect is determined by the target's Fortitude save. The target then becomes temporarily immune for 1 minute. A creature that has no voice or can't speak is immune to this spell.
 

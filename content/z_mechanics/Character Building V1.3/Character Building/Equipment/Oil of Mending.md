@@ -8,7 +8,7 @@ tags:
 ---
 
 # Oil of Mending
-![[systems-pf2e-icons-equipment-consumables-oils-oil-of-mending.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-oils-oil-of-mending.webp|150]]
 
 **Activate** 1 minute (manipulate)
 

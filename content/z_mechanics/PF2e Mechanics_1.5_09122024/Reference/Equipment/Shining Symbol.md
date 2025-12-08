@@ -13,7 +13,7 @@ license: ORC
 ---
 # Shining Symbol
 ## Item 3
-### [[divine]][[invested]][[light]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[invested]][[light]]
 
 
 **Price** 55 gp; 
@@ -32,7 +32,7 @@ If you worship a deity, this golden amulet transforms into your deity's religiou
 
 You can Dismiss this activation.
 
-[[Equipment Effects/Aura_ Shining Symbol|Aura: Shining Symbol]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Aura_ Shining Symbol|Aura: Shining Symbol]]
 
 * * *
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Private Workshop
-![[icons-skills-trades-woodcutting-logging-saw.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-skills-trades-woodcutting-logging-saw.webp|150]]
 
 A _private workshop_ is a model building about the size of a music box that resembles a smithy, tannery, alchemy lab, or other crafting facility.
 

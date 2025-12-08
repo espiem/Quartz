@@ -16,6 +16,6 @@ Creatures without darkvision or those unable to see through darkness can't see c
 
 * * *
 
-**Heightened (5th)** Creatures with darkvision (but not greater darkvision) can barely see through the wall. They treat targets seen through the wall as [[Concealed]].
+**Heightened (5th)** Creatures with darkvision (but not greater darkvision) can barely see through the wall. They treat targets seen through the wall as [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]].
 
 **Heightened (7th)** Creatures with greater darkvision can barely see through the darkness. They treat targets seen through the wall as concealed. All other creatures are unable to see through the darkness at all.

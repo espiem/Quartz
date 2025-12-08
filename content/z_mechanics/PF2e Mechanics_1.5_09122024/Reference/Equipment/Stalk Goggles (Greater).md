@@ -12,7 +12,7 @@ license: OGL
 ---
 # Stalk Goggles (Greater)
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]][[morph]]
+### [rare](rare "Rare Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[morph]]
 
 
 **Price** 60 gp; 
@@ -29,7 +29,7 @@ These black leather goggle frames have no lenses. Instead, when a character puts
 
 **Effect** By focusing hard, you can watch for enemies in all directions. You gain all-around vision and a +1 item bonus to Perception checks involving sight for 1 minute; during this time, you can't be flanked.
 
-[[Equipment Effects/Effect_ Stalk Goggles (Greater)|Effect: Stalk Goggles (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Stalk Goggles (Greater)|Effect: Stalk Goggles (Greater)]]
 
 *Source: Pathfinder #187: The Seventh Arch*
 *OGL*

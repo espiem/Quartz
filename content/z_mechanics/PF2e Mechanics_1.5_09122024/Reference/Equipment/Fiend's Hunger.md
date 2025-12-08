@@ -16,7 +16,7 @@ license: OGL
 ---
 # Fiend's Hunger
 ## Item 4
-### [unique](unique "Unique Rarity Trait")[[agile]][[finesse]][[magical]][[thrown-10]][[versatile-s]]
+### [unique](unique "Unique Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[thrown-10]][[versatile-s]]
 
 |  |  |
 | -- | -- |
@@ -43,9 +43,9 @@ The blade of this _+1 low-grade silver dagger_ has a sickly red tinge. Though on
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature becomes distracted by vengeful spirits and becomes [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn.
+**Success** The creature becomes distracted by vengeful spirits and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the start of your next turn.
 
-**Failure** As success, but the creature is also [[Conditions/Slowed|Slowed 1]] for 1 round.
+**Failure** As success, but the creature is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] for 1 round.
 
 **Critical Failure** As failure, but the creature is slowed 1 for 1 minute.
 

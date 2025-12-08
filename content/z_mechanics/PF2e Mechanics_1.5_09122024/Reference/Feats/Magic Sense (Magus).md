@@ -13,7 +13,7 @@ license: OGL
 ---
 # Magic Sense (Magus)
 ## Feat 12
-### [[arcane]][[detection]][[magus]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[detection]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Magus]]
 
 **Category** class; 
 

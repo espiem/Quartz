@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-Your shield flares with holy light as you block the attack, searing the undead with the power of your faith. The triggering undead takes vitality damage equal to half your level and becomes [[Off-Guard]] for 1 round.
+Your shield flares with holy light as you block the attack, searing the undead with the power of your faith. The triggering undead takes vitality damage equal to half your level and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] for 1 round.

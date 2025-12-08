@@ -16,7 +16,7 @@ license: OGL
 ---
 # Scourge
 ## Item 0
-### [[agile]][[disarm]][[finesse]][[nonlethal]][[sweep]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[disarm]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[nonlethal]][[sweep]]
 
 |  |  |
 | -- | -- |

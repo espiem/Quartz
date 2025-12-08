@@ -12,7 +12,7 @@ license: OGL
 ---
 # River's Reflection `pf2:1`
 
-### [rare](rare "Rare Rarity Trait")[[manipulate]][[spellshape]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[spellshape]]
 
 **Category** deityboon; 
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Anoint Ally `pf2:1`
 ## Feat 2
-### [[manipulate]][[sorcerer]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]]
 
 **Category** class; 
 

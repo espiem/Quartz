@@ -10,7 +10,7 @@ tags:
 # Eerie Flicker
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Trigger** An enemy's Strike would hit you and you weren't already [[Concealed]], [[Hidden]], or [[Undetected]] by that enemy.
+**Trigger** An enemy's Strike would hit you and you weren't already [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Undetected]] by that enemy.
 
 * * *
 
@@ -18,7 +18,7 @@ Your body flickers momentarily into the Ethereal Plane. You become concealed for
 
 * * *
 
-**Awakening** When your body flickers, you momentarily assume a terrifying form. If a creature fails the flat check against concealment from your Eerie Flicker, it becomes [[Frightened|Frightened 1]], and it doesn't reduce the frightened condition from this effect at the end of the same turn it gained the condition.
+**Awakening** When your body flickers, you momentarily assume a terrifying form. If a creature fails the flat check against concealment from your Eerie Flicker, it becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]], and it doesn't reduce the frightened condition from this effect at the end of the same turn it gained the condition.
 
 * * *
 

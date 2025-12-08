@@ -18,7 +18,7 @@ license: OGL
 
 Your ancestors were famous trackers, and you carry in your blood that same gift of the hunt.
 
-You gain a special sense: imprecise scent with a range of 30 feet. This means you can use your sense of smell to determine the location of a creature, but it remains [[Conditions/Hidden|Hidden]].
+You gain a special sense: imprecise scent with a range of 30 feet. This means you can use your sense of smell to determine the location of a creature, but it remains [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]].
 
 In addition, you gain a +2 circumstance bonus to Survival checks to [[Actions/Track|Track]] creatures that you have previously sensed with your scent.
 

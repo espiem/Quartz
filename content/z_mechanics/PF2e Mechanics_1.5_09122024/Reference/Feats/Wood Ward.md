@@ -16,7 +16,7 @@ license: OGL
 ---
 # Wood Ward `pf2:r`
 ## Feat 17
-### [[ardande]][[concentrate]][[plant]][[primal]][[wood]]
+### [[ardande]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[plant]][[primal]][[wood]]
 
 **Category** ancestry; 
 

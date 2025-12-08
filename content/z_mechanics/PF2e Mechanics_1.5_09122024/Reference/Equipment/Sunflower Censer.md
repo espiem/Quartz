@@ -11,7 +11,7 @@ license: OGL
 ---
 # Sunflower Censer
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[illusion]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 480 gp; 

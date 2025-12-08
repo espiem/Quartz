@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-You rapidly metabolize the elemental particles in your opponent's spell to gain a boost of energy. You gain the [[Quickened]] condition until the end of your next turn. You can use the extra action only to Step or Stride.
+You rapidly metabolize the elemental particles in your opponent's spell to gain a boost of energy. You gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]] condition until the end of your next turn. You can use the extra action only to Step or Stride.

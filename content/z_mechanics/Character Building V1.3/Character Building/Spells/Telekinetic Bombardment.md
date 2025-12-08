@@ -18,7 +18,7 @@ You grasp a piece of the landscape-such as a tree, carriage, or piece of masonry
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is knocked [[Prone]].
+**Failure** The creature takes full damage and is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].
 
 **Critical Failure** The creature takes double damage, is knocked prone, and is [[Stunned 1]].
 

@@ -20,4 +20,4 @@ Ghostly manacles launch from your outstretched hand and clasp around the target'
 
 **Failure** The target is clumsy 3 and takes a -10-foot status penalty to its Speed for 1 minute.
 
-**Critical Failure** As failure, but the target is also [[Slowed]] for the duration.
+**Critical Failure** As failure, but the target is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] for the duration.

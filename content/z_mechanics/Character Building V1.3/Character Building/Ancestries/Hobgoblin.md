@@ -12,4 +12,4 @@ tags:
 
 _Taller and stronger than their goblin kin, hobgoblins are equals in strength and size to humans, with broad shoulders and long, powerful arms._
 
-_[[Hobgoblin]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Hobgoblin]]_

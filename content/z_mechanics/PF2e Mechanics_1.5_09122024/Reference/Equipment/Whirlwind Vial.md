@@ -14,7 +14,7 @@ license: OGL
 ---
 # Whirlwind Vial
 ## Item 11
-### [[air]][[alchemical]][[consumable]][[expandable]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[alchemical]][[consumable]][[expandable]]
 
 **Category** other; 
 **Price** 250 gp; 
@@ -33,7 +33,7 @@ Opening this vial releases a mighty gust, forming into a fearsome Huge elemental
 
 **Failure** The creature is pushed 20 feet.
 
-**Critical Failure** The creature is pushed 20 feet and knocked [[Conditions/Prone|Prone]].
+**Critical Failure** The creature is pushed 20 feet and knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 * * *
 

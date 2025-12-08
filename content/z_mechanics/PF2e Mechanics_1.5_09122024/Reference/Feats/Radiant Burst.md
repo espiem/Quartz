@@ -15,7 +15,7 @@ license: OGL
 ---
 # Radiant Burst `pf2:2`
 ## Feat 13
-### [[fire]][[incapacitation]][[light]][[naari]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[light]][[naari]][[visual]]
 
 **Category** ancestry; 
 
@@ -32,9 +32,9 @@ Your skin glows with intensity. Creatures within 10 feet who can see you must su
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for 1 round.
 
-**Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round and dazzled for 4 rounds.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] for 1 round and dazzled for 4 rounds.
 
 **Critical Failure** The creature is blinded for 4 rounds and dazzled for 10 minutes.
 

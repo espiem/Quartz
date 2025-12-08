@@ -22,7 +22,7 @@ You can easily expand and contract the chain of this _+2 greater striking extend
 
 * * *
 
-**Effect** The head of the flail wraps around the target of the triggering Strike and drags it in your direction. The target must succeed at a DC 31 fortitude save or be pulled adjacent to you. A creature pulled in is then [[Grabbed]] by the flail until the end of your next turn unless you move, your target Escapes (DC 31), or you use the flail.
+**Effect** The head of the flail wraps around the target of the triggering Strike and drags it in your direction. The target must succeed at a DC 31 fortitude save or be pulled adjacent to you. A creature pulled in is then [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] by the flail until the end of your next turn unless you move, your target Escapes (DC 31), or you use the flail.
 
 * * *
 

@@ -11,7 +11,7 @@ tags:
 
 **Frequency** once per day
 
-**Requirements** Your most recent action was to [[Tumble Through]], and you successfully moved through an enemy's space
+**Requirements** Your most recent action was to [[z_mechanics/Character Building V1.3/Character Building/Actions/Tumble Through]], and you successfully moved through an enemy's space
 
 * * *
 

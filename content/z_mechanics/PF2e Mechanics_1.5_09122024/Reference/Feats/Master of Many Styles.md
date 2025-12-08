@@ -13,7 +13,7 @@ license: ORC
 ---
 # Master of Many Styles `pf2:0`
 ## Feat 16
-### [[fighter]][[monk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 **Category** class; 
 

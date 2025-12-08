@@ -12,7 +12,7 @@ license: OGL
 ---
 # Nanite Surge `pf2:r`
 ## Feat 1
-### [[android]][[concentrate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Android]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]]
 
 **Category** ancestry; 
 

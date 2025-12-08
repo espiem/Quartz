@@ -8,9 +8,9 @@ tags:
 ---
 
 # Viper Rapier
-![[systems-pf2e-icons-equipment-weapons-rapier.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-rapier.webp|150]]
 
-Crafted from flawless jade, the guard of this rapier takes the form of a twisting serpent with the blade thrusting from its open mouth. This rapier functions as a _+3 greater striking speed_ rapier. While wielding the rapier, your movement doesn't trigger reactions when you [[Stride]], [[Balance]], or [[Tumble Through]]. When you invest the rapier, you either increase your Dexterity score by 2 or increase it to 18, whichever is higher.
+Crafted from flawless jade, the guard of this rapier takes the form of a twisting serpent with the blade thrusting from its open mouth. This rapier functions as a _+3 greater striking speed_ rapier. While wielding the rapier, your movement doesn't trigger reactions when you [[Stride]], [[Balance]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Hero Point Deck/Tumble Through]]. When you invest the rapier, you either increase your Dexterity score by 2 or increase it to 18, whichever is higher.
 
 **Activate**R envision
 
@@ -34,6 +34,6 @@ Crafted from flawless jade, the guard of this rapier takes the form of a twistin
 
 **Frequency** once per hour
 
-**Effect** You twirl your rapier in a serpentine pattern, causing your form to become a blur of motion. You're [[Concealed]] for 1 minute or until you take a hostile action. While you're concealed, you also gain a +2 circumstance bonus to Reflex saving throws.
+**Effect** You twirl your rapier in a serpentine pattern, causing your form to become a blur of motion. You're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] for 1 minute or until you take a hostile action. While you're concealed, you also gain a +2 circumstance bonus to Reflex saving throws.
 
 

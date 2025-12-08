@@ -15,7 +15,7 @@ license: ORC
 ---
 # Tri-bladed Katar
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[fatal-d8]][[monk]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[fatal-d8]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 |  |  |
 | -- | -- |

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[PF2e Journals/Hero Point Deck/Rage and Fury|Rage and Fury]]
+Granted by [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Hero Point Deck/Rage and Fury|Rage and Fury]]
 
 At the start of your next turn, you enter a rage (+2 damage to melee strikes, -1 AC penalty).
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Taljjae's Mask (The Hero)
 ## Item 18
-### [unique](unique "Unique Rarity Trait")[[invested]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 
@@ -28,7 +28,7 @@ Those who gain one of Taljjae's masks, either by defeating Taljjae or some other
 
 **Effect** The Hero grants its wearer a +3 status bonus to attack rolls with bows for 1 minute.
 
-[[Equipment Effects/Effect_ Taljjae's Mask (The Hero)|Effect: Taljjae's Mask (The Hero)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Taljjae's Mask (The Hero)|Effect: Taljjae's Mask (The Hero)]]
 
 *Source: Pathfinder Lost Omens: Monsters of Myth*
 *OGL*

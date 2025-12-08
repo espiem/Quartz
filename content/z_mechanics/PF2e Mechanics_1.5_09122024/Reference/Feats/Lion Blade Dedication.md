@@ -28,7 +28,7 @@ Your lion blade spy training helps you conceal yourself and your identity. You b
 
 * * *
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Lion Blade|Lion Blade]] archetype.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[Lion Blade|Lion Blade]] archetype.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

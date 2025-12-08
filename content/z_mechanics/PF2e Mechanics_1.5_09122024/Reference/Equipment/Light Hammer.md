@@ -14,7 +14,7 @@ license: ORC
 ---
 # Light Hammer
 ## Item 0
-### [[agile]][[thrown-20]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[thrown-20]]
 
 |  |  |
 | -- | -- |

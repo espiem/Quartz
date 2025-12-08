@@ -8,7 +8,7 @@ tags:
 ---
 
 # Angel Form
-![[icons-magic-holy-angel-winged-humanoid-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-holy-angel-winged-humanoid-blue.webp|150]]
 
 Invoking the celestial realms, you transform into a Medium angel battle form. When you cast this spell, choose balisse, choral, monadic deva, or movanic deva. The battle form is Small if you choose choral. While in this form, you gain the angel and celestial traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
 
@@ -27,7 +27,7 @@ You also gain specific abilities based on the type of angel you choose:
 
 *   **Choral** Speed 30 feet, fly 40 feet; +1 status bonus to AC and saves against sonic and auditory;
     *   **Melee** 1 fist (agile), **Damage** 2d6+12 bludgeoning plus 1d6 spirit;
-    *   **Ranged** 1 piercing hymn (range 90 feet), **Damage** 1d6+12 sonic plus 1d6 spirit, and [[Deafened]] for 1 round on a critical hit.
+    *   **Ranged** 1 piercing hymn (range 90 feet), **Damage** 1d6+12 sonic plus 1d6 spirit, and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 round on a critical hit.
 
 *   **Monadic Deva** Speed 30 feet, fly 40 feet; +2 status bonus on saves against death effects and effects that manipulate souls;
     *   **Melee** 1 holy mace (shove), **Damage** 2d6+12 bludgeoning plus 1d6 force and 1d6 spirit.

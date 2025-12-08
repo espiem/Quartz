@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Your family has always seems to bounce back from disaster, not through physical hardiness or specialized skill, but from sheer luck. Other catfolk whisper that you have nine lives. While you're [[Conditions/Dying|Dying]], you don't add your dying value to the DC of your recovery checks (this means the DC is typically 10). In addition, you gain the [[Feats/Diehard|Diehard]] general feat.
+Your family has always seems to bounce back from disaster, not through physical hardiness or specialized skill, but from sheer luck. Other catfolk whisper that you have nine lives. While you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying|Dying]], you don't add your dying value to the DC of your recovery checks (this means the DC is typically 10). In addition, you gain the [[Feats/Diehard|Diehard]] general feat.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

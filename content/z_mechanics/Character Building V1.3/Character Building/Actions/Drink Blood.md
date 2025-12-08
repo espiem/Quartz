@@ -9,7 +9,7 @@ tags:
 
 # Drink Blood `pf2:1`
 
-**Requirements** A [[Grabbed]], [[Paralyzed]], [[Restrained]], [[Unconscious]], or willing creature is within your reach
+**Requirements** A [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]], or willing creature is within your reach
 
 * * *
 

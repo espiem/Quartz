@@ -8,6 +8,6 @@ tags:
 ---
 
 # Thaumaturge Weapon Expertise
-![[icons-skills-melee-hand-grip-sword-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-skills-melee-hand-grip-sword-red.webp|150]]
 
 You've learned the secret ways your weapons work most effectively. Your proficiency ranks for unarmed attacks, simple weapons, and martial weapons increase to expert.

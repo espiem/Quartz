@@ -12,7 +12,7 @@ license: OGL
 ---
 # Act Together `pf2:1`
 
-### [[summoner]][[tandem]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Summoner]][[tandem]]
 
 **Category** interaction; 
 

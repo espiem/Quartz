@@ -15,7 +15,7 @@ license: OGL
 ---
 # Remove Presence
 ## Feat 8
-### [[amp]][[illusion]][[mental]][[occult]][[psychic]]
+### [[amp]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** class; 
 
@@ -26,7 +26,7 @@ Your spell reaches into the mind of a creature and removes you from it. The ampe
 
 * * *
 
-**Amp** Choose one target of the spell or one creature in its area. If that enemy fails its save or the spell hits it, you become undetected by that creature, disappearing from its senses for 1 minute or until you use a hostile action. This is similar to being [[Conditions/Invisible|Invisible]], but effects like _see invisibility_ don't reveal you-you're affecting the target's mind, not its vision. _True seeing_ can still see through this illusion if the counteract check succeeds.
+**Amp** Choose one target of the spell or one creature in its area. If that enemy fails its save or the spell hits it, you become undetected by that creature, disappearing from its senses for 1 minute or until you use a hostile action. This is similar to being [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible|Invisible]], but effects like _see invisibility_ don't reveal you-you're affecting the target's mind, not its vision. _True seeing_ can still see through this illusion if the counteract check succeeds.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

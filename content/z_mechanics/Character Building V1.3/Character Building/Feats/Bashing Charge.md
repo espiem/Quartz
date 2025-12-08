@@ -12,4 +12,4 @@ tags:
 
 You smash, bust, and charge through solid obstacles without hesitation. Stride twice.
 
-Once during your movement, if your movement passes through or ends adjacent to a door, window, fence, wall, or similar obstacle, you can attempt an Athletics check to [[Force Open]] the obstacle with a +1 circumstance bonus to the roll; on a failure, your movement ends at that obstacle.
+Once during your movement, if your movement passes through or ends adjacent to a door, window, fence, wall, or similar obstacle, you can attempt an Athletics check to [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Force Open]] the obstacle with a +1 circumstance bonus to the roll; on a failure, your movement ends at that obstacle.

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Your eyes are overstimulated or your vision is swimming. If vision is your only precise sense, all creatures and objects are [[Conditions/Concealed|Concealed]] from you.
+Your eyes are overstimulated or your vision is swimming. If vision is your only precise sense, all creatures and objects are [[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Conditions/Concealed|Concealed]] from you.
 
 *Source: Pathfinder Player Core*
 *ORC*

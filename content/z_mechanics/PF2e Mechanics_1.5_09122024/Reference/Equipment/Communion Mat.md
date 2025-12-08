@@ -11,7 +11,7 @@ license: OGL
 ---
 # Communion Mat
 ## Item 14
-### [[grimoire]][[magical]]
+### [[grimoire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 3750 gp; 

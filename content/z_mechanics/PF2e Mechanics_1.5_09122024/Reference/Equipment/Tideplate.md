@@ -13,7 +13,7 @@ license: ORC
 ---
 # Tideplate
 ## Item 10
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** heavy; **Group** plate
 **Price** 1000 gp; 

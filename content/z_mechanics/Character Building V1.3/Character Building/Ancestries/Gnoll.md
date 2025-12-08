@@ -12,4 +12,4 @@ tags:
 
 _Powerfully-built humanoids that resemble hyenas, gnolls are cunning warriors and hunters. Their frightening visage and efficient tactics have given them an ill-starred reputation._
 
-_[[Gnoll]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Gnoll]]_

@@ -12,16 +12,16 @@ license: OGL
 ---
 # Propulsive Leap `pf2:1`
 ## Feat 10
-### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[deviant]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** class; 
 
 
 
 
-By expelling flames from your feet or levitating through electrical repulsion, you propel yourself through the air. For 1 minute, you gain a fly Speed equal to your Speed or 20 feet, whichever is greater. If you aren't on solid ground at the end of your turn, you must attempt another backlash check for your deviation, though you remain airborne even if you fail your check unless the damage from the check renders you [[Conditions/Unconscious|Unconscious]].
+By expelling flames from your feet or levitating through electrical repulsion, you propel yourself through the air. For 1 minute, you gain a fly Speed equal to your Speed or 20 feet, whichever is greater. If you aren't on solid ground at the end of your turn, you must attempt another backlash check for your deviation, though you remain airborne even if you fail your check unless the damage from the check renders you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]].
 
-[[Feat_Feature Effects/Effect_ Propulsive Leap|Effect: Propulsive Leap]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Propulsive Leap|Effect: Propulsive Leap]]
 
 * * *
 

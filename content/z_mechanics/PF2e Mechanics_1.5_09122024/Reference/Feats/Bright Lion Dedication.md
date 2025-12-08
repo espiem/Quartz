@@ -28,7 +28,7 @@ You become trained in your choice of Deception or Diplomacy and in Mzali Lore; i
 
 * * *
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Bright Lion|Bright Lion]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Bright Lion|Bright Lion]] archetype.
 
 *Source: Pathfinder Lost Omens: Legends*
 *OGL*

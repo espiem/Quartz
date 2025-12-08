@@ -11,7 +11,7 @@ license: OGL
 ---
 # Judgment Thurible (Major)
 ## Item 20
-### [[magical]][[spellheart]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellheart]]
 
 
 **Price** 65000 gp; 

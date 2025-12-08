@@ -16,4 +16,4 @@ tags:
 
 * * *
 
-Your willingness to follow through on your pitiless judgment is frightful to the person you have condemned, and they begin to dread what you will do to them next. Your condemned foe is [[Frightened|Frightened 1]], or [[Frightened|Frightened 2]] if the triggering Strike was a critical hit.
+Your willingness to follow through on your pitiless judgment is frightful to the person you have condemned, and they begin to dread what you will do to them next. Your condemned foe is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] if the triggering Strike was a critical hit.

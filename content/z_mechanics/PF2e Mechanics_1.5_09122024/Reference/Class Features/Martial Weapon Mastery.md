@@ -15,7 +15,7 @@ license: ORC
 ---
 # Martial Weapon Mastery
 ## Feat 13
-### [[champion]][[investigator]][[ranger]][[swashbuckler]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Investigator]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** classfeature; 
 

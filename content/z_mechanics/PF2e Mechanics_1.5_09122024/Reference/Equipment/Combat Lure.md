@@ -15,7 +15,7 @@ license: OGL
 ---
 # Combat Lure
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[finesse]][[tethered]][[thrown-20]][[training]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[tethered]][[thrown-20]][[training]]
 
 |  |  |
 | -- | -- |

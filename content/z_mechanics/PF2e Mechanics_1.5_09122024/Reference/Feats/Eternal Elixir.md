@@ -12,7 +12,7 @@ license: ORC
 ---
 # Eternal Elixir
 ## Feat 16
-### [[alchemist]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist]]
 
 **Category** class; 
 

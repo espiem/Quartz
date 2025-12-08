@@ -12,7 +12,7 @@ license: ORC
 ---
 # Force Shield
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[force]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[force]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 650 gp; 
@@ -29,7 +29,7 @@ The edges of this elaborately engraved steel shield (Hardness 8, HP 32, BT 16) b
 
 **Effect** The shield surrounds you with a bubble of force that protects you from harm, granting you resistance 5 to physical damage for 1 minute. The activation ends if you cease holding the shield.
 
-[[Equipment Effects/Effect_ Force Shield|Effect: Force Shield]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Force Shield|Effect: Force Shield]]
 
 *Source: Pathfinder GM Core*
 *ORC*

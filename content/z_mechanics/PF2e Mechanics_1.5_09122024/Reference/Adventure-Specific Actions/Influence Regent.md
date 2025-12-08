@@ -15,7 +15,7 @@ license: OGL
 ---
 # Influence Regent `pf2:1`
 
-### [[auditory]][[concentrate]][[linguistic]][[mental]][[secret]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[linguistic]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[secret]]
 
 **Category** interaction; 
 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Meteor Shot (Greater)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[fire]][[magical]][[splash]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[splash]]
 
 **Category** ammo; 
 **Price** 400 gp; 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Avenge Ally `pf2:1`
 ## Feat 13
-### [[elf]][[fortune]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Elf]][[fortune]]
 
 **Category** ancestry; 
 
@@ -22,7 +22,7 @@ license: ORC
 
 **Frequency** once every 10 minutes
 
-**Requirements** You are within 30 feet of an ally with the [[Conditions/Dying|Dying]] condition.
+**Requirements** You are within 30 feet of an ally with the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying|Dying]] condition.
 
 * * *
 

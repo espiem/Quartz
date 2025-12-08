@@ -12,7 +12,7 @@ license: OGL
 ---
 # Djezet Dose
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** potion; 
 **Price** 600 gp; 

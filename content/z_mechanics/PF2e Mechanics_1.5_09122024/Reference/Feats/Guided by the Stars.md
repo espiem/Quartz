@@ -12,7 +12,7 @@ license: OGL
 ---
 # Guided by the Stars `pf2:0`
 ## Feat 5
-### [[fortune]][[lizardfolk]]
+### [[fortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Lizardfolk]]
 
 **Category** ancestry; 
 

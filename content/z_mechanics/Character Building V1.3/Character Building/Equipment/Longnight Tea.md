@@ -8,7 +8,7 @@ tags:
 ---
 
 # Longnight Tea
-![[icons-consumables-plants-dried-herb-bundle-brown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-consumables-plants-dried-herb-bundle-brown.webp|150]]
 
 **Activate** 1 Interact or 10 minutes (concentrate, Interact)
 
@@ -18,4 +18,4 @@ This tea is brewed with a mixture of matcha, turmeric, and 10 drops of morning d
 
 * * *
 
-**Tea Ceremony** The duration increases to 8 hours, and the tea removes the [[Fatigued]] condition.
+**Tea Ceremony** The duration increases to 8 hours, and the tea removes the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] condition.

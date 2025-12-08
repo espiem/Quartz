@@ -8,7 +8,7 @@ tags:
 ---
 
 # Energized Cartridge
-![[systems-pf2e-icons-equipment-consumables-ammunition-energized-cartridge-fire.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-ammunition-energized-cartridge-fire.webp|150]]
 
 **Usage** affixed to a firearm or crossbow
 

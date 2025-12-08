@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ring of Wizardry (Type IV)
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[arcane]][[invested]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[invested]]
 
 
 **Price** 4500 gp; 

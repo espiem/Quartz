@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-You call alternate versions of yourself, either from a different timeline or perhaps yourself from a different point in your current timeline, to aid you in combat. Until the start of your next turn, these alternate selves flicker in and out in your vicinity, providing flanking for you against all enemies within your reach. Flanking with your time duplicates is the same as flanking with an ally and so is subject to effects like [[All-Around Vision]] or the [[Deny Advantage]] class feature.
+You call alternate versions of yourself, either from a different timeline or perhaps yourself from a different point in your current timeline, to aid you in combat. Until the start of your next turn, these alternate selves flicker in and out in your vicinity, providing flanking for you against all enemies within your reach. Flanking with your time duplicates is the same as flanking with an ally and so is subject to effects like [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/All-Around Vision]] or the [[Deny Advantage]] class feature.

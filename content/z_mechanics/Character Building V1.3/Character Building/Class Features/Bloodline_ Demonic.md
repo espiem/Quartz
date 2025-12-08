@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bloodline: Demonic
-![[icons-commodities-treasure-statuette-gargoyle-green-gold.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-commodities-treasure-statuette-gargoyle-green-gold.webp|150]]
 
 Demons debase all they touch. One of your ancestors fell victim to their corruption, and you are burdened by that sin.
 

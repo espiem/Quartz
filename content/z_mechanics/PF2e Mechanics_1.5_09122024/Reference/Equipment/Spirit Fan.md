@@ -17,7 +17,7 @@ license: OGL
 ---
 # Spirit Fan
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[agile]][[backstabber]][[deadly-d6]][[finesse]][[magical]][[monk]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[backstabber]][[deadly-d6]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 |  |  |
 | -- | -- |
@@ -30,7 +30,7 @@ license: OGL
 
 This elegant black, gold-tipped _+1 striking fighting fan_ is adorned with images of three golden leaves and a red rope tassel. If a creature is reduced to 0 Hit Points by a spirit fan, the golden leaves on the fan light up, providing illumination equal to that of a torch for 1 minute.
 
-[[Equipment Effects/Effect_ Spirit Fan|Effect: Spirit Fan]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Spirit Fan|Effect: Spirit Fan]]
 
 **Activate** `pf2:2` envision
 

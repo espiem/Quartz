@@ -22,7 +22,7 @@ You deny a flying creature the support of the air.
 
 **Success** The target descends 60 feet. If it hits a surface, it takes bludgeoning damage as if it had fallen.
 
-**Failure** As success; if the target hits a surface, it falls [[Prone]] and can't Fly, levitate, or otherwise leave the ground for 1 minute.
+**Failure** As success; if the target hits a surface, it falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] and can't Fly, levitate, or otherwise leave the ground for 1 minute.
 
 **Critical Failure** As failure, and the creature takes double damage from hitting a surface.
 

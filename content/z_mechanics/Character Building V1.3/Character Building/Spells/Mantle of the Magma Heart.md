@@ -8,7 +8,7 @@ tags:
 ---
 
 # Mantle of the Magma Heart
-![[systems-pf2e-icons-spells-mantle-of-the-magma-heart.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-mantle-of-the-magma-heart.webp|150]]
 
 You surround yourself in a mantle of blazing fire magic, and your skin and anything you're wearing morphs into burning hot lava. The air around you swelters with heat, and tiny sparks of flame dance behind you as you pass. Upon casting this spell, pick two of the options below. As a single action, which has the concentrate trait, you can change one of your chosen abilities to a different option from the list.
 

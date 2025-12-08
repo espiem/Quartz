@@ -14,7 +14,7 @@ license: ORC
 ---
 # Scroll of 1st-rank Spell
 ## Item 1
-### [[consumable]][[magical]][[scroll]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[scroll]]
 
 **Category** scroll; 
 **Price** 4 gp; 

@@ -11,7 +11,7 @@ tags:
 
 **Trigger** You fall from or past an edge or handhold.
 
-**Requirements** Your hands are not tied behind your back or otherwise [[Restrained]].
+**Requirements** Your hands are not tied behind your back or otherwise [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]].
 
 * * *
 

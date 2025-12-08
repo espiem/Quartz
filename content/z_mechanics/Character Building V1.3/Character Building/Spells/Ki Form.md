@@ -8,7 +8,7 @@ tags:
 ---
 
 # Ki Form
-![[systems-pf2e-icons-spells-ki-form.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-ki-form.webp|150]]
 
 Drawing from deep wells of spiritual power, you take on a special ki form. In your ki form, your hair, feathers, skin, or scales change color and begin to glow.
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Frost Vial (Moderate)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-bombs-frost-vial.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-alchemical-items-alchemical-bombs-frost-vial.webp|150]]
 
 **Activate** 1 Strike
 

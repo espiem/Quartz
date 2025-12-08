@@ -12,7 +12,7 @@ license: ORC
 ---
 # After You `pf2:0`
 ## Feat 2
-### [[swashbuckler]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-You allow your foes to make the first move in a show of incredible confidence. You don't roll initiative; instead you voluntarily go last. You gain [[Feat_Feature Effects/Effect_ Panache|Panache]]. If more than one character uses this ability or another ability to go last, use the normal rules for resolving a tie: NPCs and monsters act before PCs, and within those groups, the creatures can choose whichever order they want.
+You allow your foes to make the first move in a show of incredible confidence. You don't roll initiative; instead you voluntarily go last. You gain [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Panache|Panache]]. If more than one character uses this ability or another ability to go last, use the normal rules for resolving a tie: NPCs and monsters act before PCs, and within those groups, the creatures can choose whichever order they want.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -20,8 +20,8 @@ Kept as a closely guarded secret by the deadly members of the Red Mantis assassi
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 7d12 poison and [[Doomed|Doomed 1]] (1 round)
+**Stage 1** 7d12 poison and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]] (1 round)
 
-**Stage 2** 9d12 poison and [[Doomed|Doomed 2]] (1 round)
+**Stage 2** 9d12 poison and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 2]] (1 round)
 
-**Stage 3** 11d12 poison and [[Doomed|Doomed 3]] (1 round)
+**Stage 3** 11d12 poison and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 3]] (1 round)

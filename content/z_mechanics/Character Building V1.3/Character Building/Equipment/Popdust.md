@@ -8,7 +8,7 @@ tags:
 ---
 
 # Popdust
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-vermin-repellent-agent.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-vermin-repellent-agent.webp|150]]
 
 **Activate**1 Interact
 

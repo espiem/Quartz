@@ -15,7 +15,7 @@ license: ORC
 ---
 # Acupuncturist
 ## Feat 1
-### [[downtime]][[manipulate]][[skill]][[general]]
+### [[downtime]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[skill]][[general]]
 
 **Category** skill; 
 

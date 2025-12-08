@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wand of Tormented Slumber
 ## Item 10
-### [[magical]][[mental]][[sleep]][[wand]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[sleep]][[wand]]
 
 
 **Price** 1000 gp; 
@@ -28,7 +28,7 @@ The carved talon of an unidentifiable beast comprises this wand. Blood-stained c
 
 * * *
 
-**Effect** You cast 4th-rank [[Spells/Sleep|Sleep]], but the slumbering creatures have terrifying nightmares. A creature knocked [[Conditions/Unconscious|Unconscious]] by this spell takes 1d6 persistent mental. This damage wakes the creature from unconsciousness only if it deals 4 or more damage on a single roll. If the creature awakens from its unconsciousness due to damage (whether it was the persistent mental damage or not), it's [[Conditions/Frightened|Frightened 1]]. If it awakens from damage on its own turn, the creature doesn't reduce its frightened condition automatically on that turn.
+**Effect** You cast 4th-rank [[Spells/Sleep|Sleep]], but the slumbering creatures have terrifying nightmares. A creature knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] by this spell takes 1d6 persistent mental. This damage wakes the creature from unconsciousness only if it deals 4 or more damage on a single roll. If the creature awakens from its unconsciousness due to damage (whether it was the persistent mental damage or not), it's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]]. If it awakens from damage on its own turn, the creature doesn't reduce its frightened condition automatically on that turn.
 
 * * *
 

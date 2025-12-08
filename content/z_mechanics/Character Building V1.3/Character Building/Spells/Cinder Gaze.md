@@ -8,7 +8,7 @@ tags:
 ---
 
 # Cinder Gaze
-![[icons-magic-fire-flame-burning-campfire-yellow-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-flame-burning-campfire-yellow-blue.webp|150]]
 
 You've learned to read the future in the patterns of flames and smoke. Though inexact and often symbolic, these readings help prepare you for upcoming events. When Casting this Spell, you must be near a fire (of any size) for the duration. Upon completion, roll 1d4 for your prediction. The benefit lasts for 10 minutes or until expended, whichever comes first. After casting cinder gaze, you can't cast it again for 10 minutes.
 

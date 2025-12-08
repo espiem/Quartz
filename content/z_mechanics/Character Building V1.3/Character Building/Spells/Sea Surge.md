@@ -16,6 +16,6 @@ You slap or stomp on a nearby solid or liquid surface, sending a surge of water 
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is knocked [[Prone]]. If the creature was Swimming, it gets a critical failure instead.
+**Failure** The creature is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]]. If the creature was Swimming, it gets a critical failure instead.
 
 **Critical Failure** The creature is pushed 20 feet in the wave's direction, is knocked Prone, and takes 3d6 bludgeoning damage.

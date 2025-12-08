@@ -14,10 +14,10 @@ Despite your death and subsequent reanimation as a rotting corpse, you retain mo
 
 Because of its progressing state of decay, your body requires continual maintenance to remain at its best. Each day after your rest period, your body is  due to natural decay. Additionally, some zombie abilities allow you to push for a greater effect in exchange for a chance of deteriorating your body.
 
-While your body is deteriorated, you're [[Slowed]]. You can spend 10 minutes checking and repairing your joints and other weak parts of your body to recover from deterioration. You can perform these repairs as part of your daily preparations. Because it's a natural result of your body's functions, you can't remove the slowed condition from deterioration through any other means.
+While your body is deteriorated, you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]]. You can spend 10 minutes checking and repairing your joints and other weak parts of your body to recover from deterioration. You can perform these repairs as part of your daily preparations. Because it's a natural result of your body's functions, you can't remove the slowed condition from deterioration through any other means.
 
-You crave the flesh of the living. You gain a jaws unarmed attack that deals 1d8 piercing damage. Your jaws are in the brawling group and have the unarmed trait. You can use your jaws Strike only against a creature that's [[Grabbed]] or [[Restrained]] by you.
+You crave the flesh of the living. You gain a jaws unarmed attack that deals 1d8 piercing damage. Your jaws are in the brawling group and have the unarmed trait. You can use your jaws Strike only against a creature that's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]] by you.
 
 * * *
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[Zombie]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Zombie]] archetype.

@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-Your heroic moments grant others the will to keep fighting. When you spend a Hero Point, you and any allies within 30 feet who can see you regain 3d6 Hit Points (4d6 if you are Revered by Radiant Oath). This healing also affects dying allies, even if they cannot see you due to being [[Conditions/Unconscious|Unconscious]].
+Your heroic moments grant others the will to keep fighting. When you spend a Hero Point, you and any allies within 30 feet who can see you regain 3d6 Hit Points (4d6 if you are Revered by Radiant Oath). This healing also affects dying allies, even if they cannot see you due to being [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]].
 
 *Source: *
 *OGL*

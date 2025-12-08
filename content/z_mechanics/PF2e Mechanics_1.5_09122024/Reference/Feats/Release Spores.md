@@ -15,14 +15,14 @@ license: ORC
 ---
 # Release Spores `pf2:2`
 ## Feat 2
-### [rare](rare "Rare Rarity Trait")[[deviant]][[fungus]][[magical]][[poison]]
+### [rare](rare "Rare Rarity Trait")[[deviant]][[fungus]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** class; 
 
 
 
 
-You create a miasma of spores. These spores fill a 20-foot burst within 100 feet and remain for 1 round per level you have. All creatures within the spores become [[Conditions/Concealed|Concealed]], and all creatures outside the spores become concealed to creatures within it. You can see through the spores without difficulty. You can Dismiss the spores.
+You create a miasma of spores. These spores fill a 20-foot burst within 100 feet and remain for 1 round per level you have. All creatures within the spores become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]], and all creatures outside the spores become concealed to creatures within it. You can see through the spores without difficulty. You can Dismiss the spores.
 
 **Awakening** The spores smell disgusting. Creatures in the area are [[Conditions/Sickened|Sickened 1]] for as long as they remain in the area, plus 2 rounds.
 

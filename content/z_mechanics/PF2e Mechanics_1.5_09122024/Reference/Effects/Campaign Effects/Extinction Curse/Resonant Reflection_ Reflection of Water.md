@@ -12,7 +12,7 @@ license: OGL
 ---
 # Resonant Reflection: Reflection of Water
 ## Feat 10
-### [[magical]][[water]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 **Category** deityboon; 
 

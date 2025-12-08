@@ -8,7 +8,7 @@ tags:
 ---
 
 # Sweetest Solstice
-![[icons-magic-time-day-night-sunset-sunrise.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-time-day-night-sunset-sunrise.webp|150]]
 
 On long winter nights, many families in Tian Xia share a dish of glutinous rice balls. Wealthier families also dye these rice balls an auspicious pinkish-red in jujube juice and might serve or stuff them with expensive sweetened pastes of red beans, sesame, taro, or lotus. Sweetest solstice is a folk ritual that incorporates this tradition and allows entire villages to experience communal goodwill by celebrating a luxurious version of this dish together.
 

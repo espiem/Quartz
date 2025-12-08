@@ -11,7 +11,7 @@ license: OGL
 ---
 # Fortuitous Shift
 ## Feat 9
-### [[gnome]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Gnome]]
 
 **Category** ancestry; 
 
@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Unexpected Shift
 * * *
-You have grown more comfortable with your penchant for supernatural disappearance. The flat check DC of your [[Feats/Unexpected Shift|Unexpected Shift]] feat decreases to DC 11 Flat check, and you are no longer [[Conditions/Dazzled|Dazzled]] if you succeed.
+You have grown more comfortable with your penchant for supernatural disappearance. The flat check DC of your [[Feats/Unexpected Shift|Unexpected Shift]] feat decreases to DC 11 Flat check, and you are no longer [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] if you succeed.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

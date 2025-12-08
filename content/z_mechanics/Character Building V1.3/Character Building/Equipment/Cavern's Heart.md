@@ -8,7 +8,7 @@ tags:
 ---
 
 # Cavern's Heart
-![[systems-pf2e-icons-equipment-runes-armor-property-runes-armor-property-runes.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-runes-armor-property-runes-armor-property-runes.webp|150]]
 
 This armor can channel your life force into an enhanced _[[Wall of Stone]]_.
 

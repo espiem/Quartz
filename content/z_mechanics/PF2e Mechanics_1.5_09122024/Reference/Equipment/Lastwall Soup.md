@@ -28,7 +28,7 @@ Crimson Reclaimers make this rich, hearty soup using herbs that baffle the sense
 
 In addition, for 1 hour after consuming a bowl of Lastwall soup, you gain a +2 item bonus to Stealth checks and DCs against undead.
 
-[[Equipment Effects/Effect_ Lastwall Soup|Effect: Lastwall Soup]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Lastwall Soup|Effect: Lastwall Soup]]
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

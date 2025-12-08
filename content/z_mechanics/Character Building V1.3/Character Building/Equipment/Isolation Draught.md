@@ -22,8 +22,8 @@ Derived from steeping toxic highland plum pits in refined grain alcohols, this c
 
 **Maximum Duration** 30 minutes
 
-**Stage 1** [[Dazzled]], -3 to all Perception checks (1 minute)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]], -3 to all Perception checks (1 minute)
 
-**Stage 2** dazzled, [[Deafened]], -5 to all Perception checks (1 minute)
+**Stage 2** dazzled, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]], -5 to all Perception checks (1 minute)
 
-**Stage 3** [[Blinded]], deafened, -5 to all Perception checks (5 minutes)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]], deafened, -5 to all Perception checks (5 minutes)

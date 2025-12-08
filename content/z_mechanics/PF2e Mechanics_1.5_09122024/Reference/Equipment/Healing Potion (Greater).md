@@ -16,7 +16,7 @@ license: ORC
 ---
 # Healing Potion (Greater)
 ## Item 12
-### [[consumable]][[healing]][[magical]][[potion]][[vitality]]
+### [[consumable]][[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]][[vitality]]
 
 **Category** potion; 
 **Price** 400 gp; 

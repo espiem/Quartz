@@ -14,7 +14,7 @@ license: ORC
 ---
 # Spot Translate `pf2:r`
 ## Feat 4
-### [[archetype]][[auditory]][[linguistic]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[linguistic]]
 
 **Category** class; 
 

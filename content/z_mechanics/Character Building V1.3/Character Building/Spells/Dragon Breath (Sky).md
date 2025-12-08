@@ -8,7 +8,7 @@ tags:
 ---
 
 # Dragon Breath (Sky)
-![[systems-pf2e-icons-spells-dragon-breath.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-dragon-breath.webp|150]]
 
 You spew energy from your mouth, dealing 5d6 electricity damage in a 10-foot burst within 30 feet. Affected creatures can make a basic Reflex save.
 

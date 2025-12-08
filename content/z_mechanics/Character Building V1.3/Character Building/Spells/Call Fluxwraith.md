@@ -18,4 +18,4 @@ Each enemy within a 10 foot emanation must attempt a Will save. If a creature fa
 
 **Depart** (divination, fear, mental, prediction) _Dire Foresight_
 
-Each enemy within a 60 foot emanation must attempt a Will save. On a failed save, the creature receives a brief vision of a deeply traumatic event in that lurks among the many possibilities of its future. The creature is [[Frightened|Frightened 2]] ([[Frightened|Frightened 4]] on a critical failure) and [[Slowed]] while they are frightened.
+Each enemy within a 60 foot emanation must attempt a Will save. On a failed save, the creature receives a brief vision of a deeply traumatic event in that lurks among the many possibilities of its future. The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] ([[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 4]] on a critical failure) and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] while they are frightened.

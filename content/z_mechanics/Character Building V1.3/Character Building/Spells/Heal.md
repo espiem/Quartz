@@ -8,7 +8,7 @@ tags:
 ---
 
 # Heal
-![[icons-magic-life-cross-worn-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-life-cross-worn-green.webp|150]]
 
 You channel vital energy to heal the living or damage the undead. If the target is a willing living creature, you restore 1d8 Hit Points. If the target is undead, you deal that amount of vitality damage to it, and it gets a basic Fortitude save. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.
 

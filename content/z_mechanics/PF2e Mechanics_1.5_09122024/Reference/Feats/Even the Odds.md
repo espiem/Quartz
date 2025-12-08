@@ -12,7 +12,7 @@ license: ORC
 ---
 # Even the Odds `pf2:0`
 ## Feat 4
-### [[swashbuckler]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 
@@ -27,7 +27,7 @@ license: ORC
 
 * * *
 
-You shine brightest in desperate moments. You flash a confident smile or pose, and you gain [[Feat_Feature Effects/Effect_ Panache|Panache]] until the end of your turn.
+You shine brightest in desperate moments. You flash a confident smile or pose, and you gain [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Panache|Panache]] until the end of your turn.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

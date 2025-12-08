@@ -13,7 +13,7 @@ license: OGL
 ---
 # False Death Vial (Greater)
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 2000 gp; 
@@ -28,7 +28,7 @@ license: OGL
 
 * * *
 
-This tiny crystal vial of oily liquid is typically attached to a pin or worn on a tether attached to the affixed article of clothing. When you Activate the vial, you avoid being knocked out and remain at 1 Hit Point, your [[Conditions/Wounded|Wounded]] condition increases by 1, and the talisman casts drop dead on you. The talisman teleports you to a clear space of your choice that you can see within 120 feet. This also transports any items you're wearing and holding with you, as well as up to one other creature currently in contact with you—including if you're carrying it in an extradimensional container. This effect has the teleportation trait.
+This tiny crystal vial of oily liquid is typically attached to a pin or worn on a tether attached to the affixed article of clothing. When you Activate the vial, you avoid being knocked out and remain at 1 Hit Point, your [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded|Wounded]] condition increases by 1, and the talisman casts drop dead on you. The talisman teleports you to a clear space of your choice that you can see within 120 feet. This also transports any items you're wearing and holding with you, as well as up to one other creature currently in contact with you—including if you're carrying it in an extradimensional container. This effect has the teleportation trait.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

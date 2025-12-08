@@ -12,7 +12,7 @@ license: ORC
 ---
 # Uncanny Bombs
 ## Feat 12
-### [[alchemist]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist]]
 
 **Category** class; 
 
@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Far Lobber
 * * *
-You lob bombs unerringly, despite obstructions or distance. When you throw an alchemical item with the bomb trait, its range increment increases to 60 feet, you reduce any circumstance bonus to the target's AC from cover by 1, and you automatically succeed at the flat check when targeting a [[Conditions/Concealed|Concealed]] creature.
+You lob bombs unerringly, despite obstructions or distance. When you throw an alchemical item with the bomb trait, its range increment increases to 60 feet, you reduce any circumstance bonus to the target's AC from cover by 1, and you automatically succeed at the flat check when targeting a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] creature.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Clockwork Shield
-![[icons-equipment-shield-heater-steel-boss-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-equipment-shield-heater-steel-boss-red.webp|150]]
 
 This brass-coated, steel shield (Hardness 12, HP 90, BT 45) has _+2 striking shield spikes_ made of bronze gears.
 

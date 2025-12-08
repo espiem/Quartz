@@ -14,7 +14,7 @@ license: ORC
 ---
 # Accompany `pf2:r`
 ## Feat 8
-### [[bard]][[concentrate]][[manipulate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Bard]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** class; 
 

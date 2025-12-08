@@ -16,7 +16,7 @@ tags:
 
 You quickly view your surroundings from a variety of angles, your senses constructing an overall mental picture. You can choose to [[Seek]] the entire emanation of the spell.
 
-Regardless of whether you Seek, target one ally and one enemy in the area; if a target is [[Concealed]] or [[Hidden]] from you, you automatically succeed at the flat check to target it with this spell. You prepare to [[Aid]] the target ally on an attack roll against the target enemy. If you take this Aid reaction, you use your spell attack modifier and proficiency rank on your check to Aid. If you critically fail the roll to Aid, you get a failure instead.
+Regardless of whether you Seek, target one ally and one enemy in the area; if a target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]] from you, you automatically succeed at the flat check to target it with this spell. You prepare to [[Aid]] the target ally on an attack roll against the target enemy. If you take this Aid reaction, you use your spell attack modifier and proficiency rank on your check to Aid. If you critically fail the roll to Aid, you get a failure instead.
 
 * * *
 

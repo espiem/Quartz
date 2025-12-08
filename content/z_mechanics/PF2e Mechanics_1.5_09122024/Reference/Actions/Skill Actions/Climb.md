@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You attempt an [[/act climb]]{Athletics} check to move a maximum distance of 5 feet up, down, or across an incline. You're [[Conditions/Off-Guard|Off-Guard]] while climbing unless you have a climb Speed. The GM determines the DC based on the nature of the incline and environmental circumstances; you might get an automatic critical success on an incline that's trivial to climb. If your land Speed is 40 feet or higher, increase the maximum distance by 5 feet for every 20 feet of Speed above 20 feet.
+You attempt an [[/act climb]]{Athletics} check to move a maximum distance of 5 feet up, down, or across an incline. You're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] while climbing unless you have a climb Speed. The GM determines the DC based on the nature of the incline and environmental circumstances; you might get an automatic critical success on an incline that's trivial to climb. If your land Speed is 40 feet or higher, increase the maximum distance by 5 feet for every 20 feet of Speed above 20 feet.
 
 * * *
 
@@ -32,7 +32,7 @@ You attempt an [[/act climb]]{Athletics} check to move a maximum distance of 5 f
 
 **Success** You move along the incline.
 
-**Critical Failure** You fall. If you began the climb on stable ground, you fall and land [[Conditions/Prone|Prone]].
+**Critical Failure** You fall. If you began the climb on stable ground, you fall and land [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 ## Sample Climb Tasks
 

@@ -8,6 +8,6 @@ tags:
 ---
 
 # Unfetter Eidolon
-![[icons-creatures-mammals-humanoid-cat-skulking-teal.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-mammals-humanoid-cat-skulking-teal.webp|150]]
 
 You loosen the link between yourself and your eidolon, allowing it to travel farther from you for a short period of time. While the spell is active, your eidolon can travel an unlimited distance away from you. When the spell ends, if your eidolon is more than 100 feet away from you, it unmanifests.

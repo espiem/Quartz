@@ -12,7 +12,7 @@ license: ORC
 ---
 # Childlike Plant
 ## Feat 1
-### [[leshy]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Leshy]]
 
 **Category** ancestry; 
 

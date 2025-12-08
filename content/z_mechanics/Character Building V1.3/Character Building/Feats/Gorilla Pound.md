@@ -16,7 +16,7 @@ tags:
 
 You pound your chest before slamming into your foes.
 
-Attempt an Intimidation check to [[Demoralize]], then make one gorilla slam Strike against the same target. If your Strike hits, you gain a circumstance bonus to the damage roll equal to triple the value of the target's [[Frightened]] condition.
+Attempt an Intimidation check to [[Demoralize]], then make one gorilla slam Strike against the same target. If your Strike hits, you gain a circumstance bonus to the damage roll equal to triple the value of the target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened]] condition.
 
 * * *
 

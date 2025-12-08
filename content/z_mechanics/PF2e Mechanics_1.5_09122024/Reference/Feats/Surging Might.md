@@ -14,7 +14,7 @@ license: ORC
 ---
 # Surging Might `pf2:1`
 ## Feat 8
-### [[manipulate]][[oracle]][[spellshape]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Oracle]][[spellshape]]
 
 **Category** class; 
 

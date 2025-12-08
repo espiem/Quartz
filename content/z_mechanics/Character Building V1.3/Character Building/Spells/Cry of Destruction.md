@@ -8,7 +8,7 @@ tags:
 ---
 
 # Cry of Destruction
-![[icons-magic-sonic-scream-wail-shout-teal.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-sonic-scream-wail-shout-teal.webp|150]]
 
 Your voice booms, smashing what's in front of you. Each creature and unattended object in the area takes 1d8 sonic damage. If you already dealt damage to an enemy this turn with a Strike or spell, increase the damage dice from this spell to d12s.
 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Shadow Hunter
 ## Feat 18
-### [[ranger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]]
 
 **Category** class; 
 
@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Camouflage
 * * *
-You blend in to your surroundings so well that others have trouble telling you apart from the terrain. While in natural terrain, you're always [[Conditions/Concealed|Concealed]] from all foes if you choose to be, except for your hunted prey.
+You blend in to your surroundings so well that others have trouble telling you apart from the terrain. While in natural terrain, you're always [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] from all foes if you choose to be, except for your hunted prey.
 
 *Source: Pathfinder Player Core*
 *ORC*

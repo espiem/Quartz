@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-Your unusual rest cycle allows you to recover faster. As long as you rest for 12 hours, you gain the effects of the [[Fast Recovery]] general feat and you can go 20 hours without resting before becoming [[Fatigued]].
+Your unusual rest cycle allows you to recover faster. As long as you rest for 12 hours, you gain the effects of the [[Fast Recovery]] general feat and you can go 20 hours without resting before becoming [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]].

@@ -12,4 +12,4 @@ tags:
 
 When you compound [[Panache]] with even more derring-do, it somehow tends to work out.
 
-When you already have panache, you can roll twice and use the higher result on checks to which the circumstance bonus for having panache applies ([[Tumble Through]] and any skill actions listed in your swashbuckler's style).
+When you already have panache, you can roll twice and use the higher result on checks to which the circumstance bonus for having panache applies ([[z_mechanics/PF2e Mechanics_1.5_09122024/Hero Point Deck/Tumble Through]] and any skill actions listed in your swashbuckler's style).

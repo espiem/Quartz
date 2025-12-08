@@ -13,7 +13,7 @@ license: ORC
 ---
 # Storied Skin
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[tattoo]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[tattoo]]
 
 
 **Price** 45 gp; 

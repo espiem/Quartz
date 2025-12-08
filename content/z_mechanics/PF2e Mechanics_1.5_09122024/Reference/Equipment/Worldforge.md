@@ -14,7 +14,7 @@ license: ORC
 ---
 # Worldforge
 ## Item 25
-### [unique](unique "Unique Rarity Trait")[[artifact]][[invested]][[magical]][[mythic]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[mythic]]
 
 
 **Price** 0 gp; 

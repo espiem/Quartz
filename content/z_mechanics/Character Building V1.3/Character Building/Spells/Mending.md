@@ -10,7 +10,7 @@ tags:
 # Mending
 ![[systems-pf2e-icons-spells-mending.webp|150]]
 
-You repair the target item. You restore 5 Hit Points per spell level to the target, potentially removing the [[Broken]] condition if this repairs it past the item's Broken Threshold. You can't replace lost pieces or repair an object that's been completely destroyed.
+You repair the target item. You restore 5 Hit Points per spell level to the target, potentially removing the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Broken]] condition if this repairs it past the item's Broken Threshold. You can't replace lost pieces or repair an object that's been completely destroyed.
 
 * * *
 

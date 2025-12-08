@@ -10,7 +10,7 @@ tags:
 # Shadow Blending
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Trigger** A creature attempts a flat check to target you while you're [[Concealed]] or [[Hidden]] due to dim light or darkness.
+**Trigger** A creature attempts a flat check to target you while you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]] due to dim light or darkness.
 
 * * *
 

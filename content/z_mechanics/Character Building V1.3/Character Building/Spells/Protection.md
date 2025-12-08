@@ -8,7 +8,7 @@ tags:
 ---
 
 # Protection
-![[systems-pf2e-icons-spells-protection.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-protection.webp|150]]
 
 You ward a creature against harm. The target gains a +1 status bonus to Armor Class and saving throws.
 

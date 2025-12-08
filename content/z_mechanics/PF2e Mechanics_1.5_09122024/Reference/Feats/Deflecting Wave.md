@@ -15,7 +15,7 @@ license: OGL
 ---
 # Deflecting Wave `pf2:r`
 ## Feat 1
-### [[impulse]][[kineticist]][[primal]][[water]]
+### [[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[primal]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 **Category** class; 
 
@@ -24,7 +24,7 @@ license: OGL
 
 **Trigger** You would take acid, bludgeoning, fire, or slashing damage from an enemy's attack, spell, or other hostile effect.
 
-**Requirements** You're aware of the hostile effect, and you aren't [[Conditions/Off-Guard|Off-Guard]] against it.
+**Requirements** You're aware of the hostile effect, and you aren't [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] against it.
 
 * * *
 

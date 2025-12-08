@@ -23,7 +23,7 @@ You can make iron sweep unarmed attacks. These deal 1d8 bludgeoning damage; are 
 
 While in Ironblood Stance, you gain resistance 2 to all damage. The resistance increases to 3 at 12th level, to 4 at 16th level, and to 5 at 20th level.
 
-[[Equipment Effects/Effect_ Parry|Effect: Parry]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Parry|Effect: Parry]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

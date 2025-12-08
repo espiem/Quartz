@@ -16,7 +16,7 @@ In order to perform the ritual, you need an [[Alchemist's Lab (Expanded)|Expande
 
 * * *
 
-**Critical Success** The cloning process is successful. When the soul occupies the completed clone, it is [[Clumsy 1]], [[Drained 1]], [[Doomed|Doomed 1]], and [[Enfeebled 1]] for 1 week; these conditions can't be removed or reduced by any means until the week has passed.
+**Critical Success** The cloning process is successful. When the soul occupies the completed clone, it is [[Clumsy 1]], [[Drained 1]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]], and [[Enfeebled 1]] for 1 week; these conditions can't be removed or reduced by any means until the week has passed.
 
 **Success** As critical success, but each condition value is 2.
 

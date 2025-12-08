@@ -8,7 +8,7 @@ tags:
 ---
 
 # Soothing Words
-![[systems-pf2e-icons-spells-soothing-words.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-soothing-words.webp|150]]
 
 You attempt to calm the target by uttering soothing words in a calm and even tone. The target gains a +1 status bonus to Will saving throws. This bonus increases to +2 against emotion effects.
 

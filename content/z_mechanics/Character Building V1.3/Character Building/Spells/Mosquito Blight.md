@@ -8,7 +8,7 @@ tags:
 ---
 
 # Mosquito Blight
-![[icons-creatures-invertebrates-fly-wasp-mosquito-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-invertebrates-fly-wasp-mosquito-green.webp|150]]
 
 You infest the area with tenacious, biting insects that disease and drain life from creatures in the area. Arthropods (insects, spiders, and similar invertebrates) are unaffected and instead gain a +1 status bonus to attack rolls, skill checks, saving throws, and Perception checks while within the area. All other creatures are harassed by insects and exposed to the disease witch's hunger when they enter the area and once per day thereafter that they remain in the area. As part of casting this ritual, you create a Tiny ritual insect hive (Hardness 5, 10 HP) that must remain in the ritual's area. If the hive is removed or destroyed, the ritual's effect ends 1 hour later.
 
@@ -24,9 +24,9 @@ You infest the area with tenacious, biting insects that disease and drain life f
 
 **Stage 2** [[Enfeebled 1|Enfeebled 2]] (1 day)
 
-**Stage 3** enfeebled 2 and [[Slowed]] (1 day)
+**Stage 3** enfeebled 2 and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] (1 day)
 
-**Stage 4** [[Unconscious]]
+**Stage 4** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]]
 
 **Stage 5** death
 

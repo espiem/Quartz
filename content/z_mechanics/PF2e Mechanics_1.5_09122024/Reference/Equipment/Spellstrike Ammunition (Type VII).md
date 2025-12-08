@@ -13,7 +13,7 @@ license: ORC
 ---
 # Spellstrike Ammunition (Type VII)
 ## Item 15
-### [[consumable]][[magical]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 1300 gp; 

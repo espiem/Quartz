@@ -28,11 +28,11 @@ While working with less experienced Pathfinder allies, you shield your more frag
 
 **Special**: A PC can only benefit from two mentor boons.
 
-[[Feat_Feature Effects/Effect_ Protective Mentor Boon (Liked) (PFS)|Effect: Protective Mentor Boon (Liked) (PFS)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Protective Mentor Boon (Liked) (PFS)|Effect: Protective Mentor Boon (Liked) (PFS)]]
 
-[[Feat_Feature Effects/Effect_ Protective Mentor Boon (Admired) (PFS)|Effect: Protective Mentor Boon (Admired) (PFS)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Protective Mentor Boon (Admired) (PFS)|Effect: Protective Mentor Boon (Admired) (PFS)]]
 
-[[Feat_Feature Effects/Effect_ Protective Mentor Boon (Revered) (PFS)|Effect: Protective Mentor Boon (Revered) (PFS)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Protective Mentor Boon (Revered) (PFS)|Effect: Protective Mentor Boon (Revered) (PFS)]]
 
 *Source: *
 *OGL*

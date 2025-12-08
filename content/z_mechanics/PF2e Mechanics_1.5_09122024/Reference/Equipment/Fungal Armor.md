@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fungal Armor
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** light; **Group** leather
 **Price** 7200 gp; 

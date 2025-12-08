@@ -11,7 +11,7 @@ license: OGL
 ---
 # Offensive Boost
 ## Feat 9
-### [[inventor]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Inventor]]
 
 **Category** classfeature; 
 
@@ -32,7 +32,7 @@ You've made additions to your innovation to upgrade your offensive capabilities.
 
 _Note: The included effect is only needed for construct innovations and armor innovations for selecting their daily preparation weapon._
 
-[[Feat_Feature Effects/Effect_ Offensive Boost|Effect: Offensive Boost]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Offensive Boost|Effect: Offensive Boost]]
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

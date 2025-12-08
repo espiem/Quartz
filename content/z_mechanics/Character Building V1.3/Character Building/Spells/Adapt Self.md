@@ -8,7 +8,7 @@ tags:
 ---
 
 # Adapt Self
-![[icons-creatures-magical-spirit-undead-ghost-purple.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-magical-spirit-undead-ghost-purple.webp|150]]
 
 You make subtle changes to yourself to adapt to the situation. Choose one of the following options that applies to you.
 

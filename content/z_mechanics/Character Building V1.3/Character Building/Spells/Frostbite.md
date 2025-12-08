@@ -8,7 +8,7 @@ tags:
 ---
 
 # Frostbite
-![[icons-magic-movement-trail-streak-impact-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-movement-trail-streak-impact-blue.webp|150]]
 
 An orb of biting cold coalesces around your target, freezing its body. The target takes 2d4 cold damage with a basic Fortitude save. On a critical failure, the target also gains weakness 1 to bludgeoning until the start of your next turn.
 

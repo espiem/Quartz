@@ -14,7 +14,7 @@ license: OGL
 ---
 # Ghostshot Wrapping
 ## Item 11
-### [[consumable]][[illusion]][[magical]][[talisman]]
+### [[consumable]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 300 gp; 

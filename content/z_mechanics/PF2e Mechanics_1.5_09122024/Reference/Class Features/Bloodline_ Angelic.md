@@ -12,7 +12,7 @@ license: ORC
 ---
 # Bloodline: Angelic
 ## Feat 1
-### [[sorcerer]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]]
 
 **Category** classfeature; 
 
@@ -31,7 +31,7 @@ One of your forebears hailed from a celestial realm, or your ancestors' devotion
 
 **Blood Magic—Divine Aura** You project a warming aura that protects you or one target, granting a +1 status bonus to saving throws for 1 round
 
-[[Feat_Feature Effects/Effect_ Angelic Blood Magic|Effect: Angelic Blood Magic]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Angelic Blood Magic|Effect: Angelic Blood Magic]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-You prepare to take advantage of your enemy's sudden change in emotions. The target is [[Off-Guard]] against your next attack before the end of your next turn.
+You prepare to take advantage of your enemy's sudden change in emotions. The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] against your next attack before the end of your next turn.

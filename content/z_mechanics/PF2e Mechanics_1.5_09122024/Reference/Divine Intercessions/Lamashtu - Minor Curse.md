@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Horrid visions torment your mind, overlaying reality at inopportune times. You treat everything around you as if it was [[Conditions/Concealed|Concealed]].
+Horrid visions torment your mind, overlaying reality at inopportune times. You treat everything around you as if it was [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]].
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

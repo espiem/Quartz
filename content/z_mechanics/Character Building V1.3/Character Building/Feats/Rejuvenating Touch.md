@@ -12,4 +12,4 @@ tags:
 
 Your healing energies linger after you cast, providing continual benefits.
 
-An ally that recovers Hit Points from your _[[Lay on Hands]]_ gains 10 temporary Hit Points at the start of their turn during each of the next 10 rounds. This effect ends if the ally is knocked [[Unconscious]].
+An ally that recovers Hit Points from your _[[Lay on Hands]]_ gains 10 temporary Hit Points at the start of their turn during each of the next 10 rounds. This effect ends if the ally is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]].

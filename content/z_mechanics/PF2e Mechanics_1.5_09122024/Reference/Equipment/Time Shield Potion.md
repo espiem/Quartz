@@ -14,7 +14,7 @@ license: ORC
 ---
 # Time Shield Potion
 ## Item 13
-### [[consumable]][[magical]][[potion]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 600 gp; 

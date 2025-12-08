@@ -9,7 +9,7 @@ tags:
 
 # Mist Blending `pf2:r`
 
-**Trigger** A creature attempts a flat check to target you because you're [[Concealed]] or [[Hidden]] due to fog, haze, mist, or smoke
+**Trigger** A creature attempts a flat check to target you because you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]] due to fog, haze, mist, or smoke
 
 * * *
 

@@ -18,9 +18,9 @@ Your flamboyant flourish invokes such powerful feelings in your audience that yo
 
 **Success** The target becomes mildly distracted by your display and applauds while it isn't fully occupied. It can't use reactions.
 
-**Failure** The target applauds you so vigorously that it can't use reactions and is [[Slowed]]. The applause is so involved that it has the manipulate trait. This triggers reactions based on the manipulate trait at the start of the target's turn.
+**Failure** The target applauds you so vigorously that it can't use reactions and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]]. The applause is so involved that it has the manipulate trait. This triggers reactions based on the manipulate trait at the start of the target's turn.
 
-**Critical Failure** As failure, plus the target is so distracted by its vigorous applauding of you that it's [[Fascinated]] with you.
+**Critical Failure** As failure, plus the target is so distracted by its vigorous applauding of you that it's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] with you.
 
 * * *
 

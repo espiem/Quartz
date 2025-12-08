@@ -27,7 +27,7 @@ license: ORC
 
 Enzymatic compounds in this elixir strengthen and excite the muscles in your legs. You gain a +10 foot status bonus to your Speed for 10 minutes.
 
-[[Equipment Effects/Effect_ Cheetah's Elixir (Moderate)|Effect: Cheetah's Elixir (Moderate)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Cheetah's Elixir (Moderate)|Effect: Cheetah's Elixir (Moderate)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

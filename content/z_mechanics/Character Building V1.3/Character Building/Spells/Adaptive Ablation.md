@@ -8,7 +8,7 @@ tags:
 ---
 
 # Adaptive Ablation
-![[icons-magic-unholy-energy-smoke-pink.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-unholy-energy-smoke-pink.webp|150]]
 
 **Trigger** You take acid, cold, electricity, fire, or sonic damage.
 

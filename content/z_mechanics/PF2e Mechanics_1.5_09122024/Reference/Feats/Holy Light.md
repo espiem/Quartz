@@ -15,7 +15,7 @@ license: OGL
 ---
 # Holy Light `pf2:2`
 ## Feat 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[champion]][[cleric]][[concentrate]][[divine]][[light]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[light]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ license: OGL
 
 **Prerequisites** you follow a good-aligned deity
 * * *
-You raise your arms to the sky and pray fervently, surrounding yourself in a beacon of holy light. The beacon sheds bright light in a 30-foot-radius, 100-foot-high cylinder centered on you until the beginning of your next turn. Evil creatures in the area must succeed at a Will check save equal to your class DC or spell DC (whichever is higher) or become [[Conditions/Dazzled|Dazzled]] for 1 round.
+You raise your arms to the sky and pray fervently, surrounding yourself in a beacon of holy light. The beacon sheds bright light in a 30-foot-radius, 100-foot-high cylinder centered on you until the beginning of your next turn. Evil creatures in the area must succeed at a Will check save equal to your class DC or spell DC (whichever is higher) or become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for 1 round.
 
 *Source: Pathfinder Lost Omens: Knights of Lastwall*
 *OGL*

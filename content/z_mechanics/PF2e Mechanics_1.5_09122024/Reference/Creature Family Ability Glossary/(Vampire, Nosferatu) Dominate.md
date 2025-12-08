@@ -14,7 +14,7 @@ license: OGL
 ---
 # (Vampire, Nosferatu) Dominate `pf2:2`
 
-### [[divine]][[incapacitation]][[mental]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[visual]]
 
 **Category** offensive; 
 

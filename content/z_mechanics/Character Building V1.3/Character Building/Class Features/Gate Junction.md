@@ -30,7 +30,7 @@ You can select each gate junction only once, unless noted otherwise, but you can
 | **Aura Junction** You and any ally that starts its turn in the aura gets a +10-foot status bonus to land Speed until the end of that turn, and to fly Speed if applicable |
 | **Skill Junction** Stealth, [[Experienced Smuggler]] |
 | Earth Gate Junction |
-| **Critical Blast** If the target is on the ground, it's knocked [[Prone]]; if it isn't on the ground, it descends up to 20 feet (you choose the distance). |
+| **Critical Blast** If the target is on the ground, it's knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]]; if it isn't on the ground, it descends up to 20 feet (you choose the distance). |
 | **Elemental Resistance** earth, poison |
 
 | **Impulse Junction** Fragments of stone float around you, granting you a +1 circumstance bonus to AC until the start of your next turn. |
@@ -58,7 +58,7 @@ You can select each gate junction only once, unless noted otherwise, but you can
 | **Aura Junction** The aura becomes saturated with humidity, and water moves as you please. Non-magical fires in the aura are extinguished, and creatures in the aura gain fire resistance equal to half your level. |
 | **Skill Junction** Athletics, [[Underwater Marauder]] |
 | Wood Gate Junction |
-| **Critical Blast** If the target of the critical hit is adjacent to a surface, roots entangle it. The target is [[Immobilized]] and must spend an Interact action to attempt a athletics dc:10 check to pull itself free. The target doesn't become stuck if it is incorporeal, is liquid, or could otherwise escape without effort |
+| **Critical Blast** If the target of the critical hit is adjacent to a surface, roots entangle it. The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] and must spend an Interact action to attempt a athletics dc:10 check to pull itself free. The target doesn't become stuck if it is incorporeal, is liquid, or could otherwise escape without effort |
 | **Elemental Resistance** poison, wood |
 
 | **Impulse Junction** You gain temporary Hit Points equal to your level that last until the start of your next turn. |

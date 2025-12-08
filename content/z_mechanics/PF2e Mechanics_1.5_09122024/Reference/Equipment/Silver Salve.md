@@ -28,7 +28,7 @@ You can slather this silvery paste onto one melee weapon, one thrown weapon, or 
 
 For the next hour, the weapon or ammunition counts as silver instead of its normal material (such as cold iron) for any physical damage it deals.
 
-[[Equipment Effects/Effect_ Silver Salve|Effect: Silver Salve]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Silver Salve|Effect: Silver Salve]]
 
 *Source: Pathfinder GM Core*
 *ORC*

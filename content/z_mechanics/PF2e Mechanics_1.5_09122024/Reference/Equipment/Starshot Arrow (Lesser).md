@@ -12,7 +12,7 @@ license: OGL
 ---
 # Starshot Arrow (Lesser)
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 55 gp; 

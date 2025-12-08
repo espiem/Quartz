@@ -13,7 +13,7 @@ license: OGL
 ---
 # Specialist's Ring (Illusion)
 ## Item 10
-### [[focused]][[illusion]][[invested]][[magical]]
+### [[focused]][[illusion]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 1000 gp; 

@@ -22,8 +22,8 @@ A strong blend including several spices common in the Padishah Empire of Kelesh,
 
 **Maximum Duration** 8 hours
 
-**Stage 1** +1 item bonus to AC and saves to which you are taking penalties caused by the [[Fatigued]] condition (10 minutes)
+**Stage 1** +1 item bonus to AC and saves to which you are taking penalties caused by the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] condition (10 minutes)
 
-**Stage 2** [[Stupefied|Stupefied 1]] (1 hour)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (1 hour)
 
 **Stage 3** can't recover from fatigued (1 day, after which the drug ends)

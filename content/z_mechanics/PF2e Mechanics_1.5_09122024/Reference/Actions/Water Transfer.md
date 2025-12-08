@@ -13,7 +13,7 @@ license: OGL
 ---
 # Water Transfer `pf2:2`
 
-### [[primal]][[teleportation]][[water]]
+### [[primal]][[teleportation]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 **Category** offensive; 
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Pocket Library
-![[icons-skills-trades-academics-book-study-runes.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-trades-academics-book-study-runes.webp|150]]
 
 You collect information from the world's libraries about a particular subject and store it in an extradimensional library. When you Cast this Spell, choose any skill in which you are at least trained that has the Recall Knowledge action.
 

@@ -36,7 +36,7 @@ When you use your Aid reaction, attempt a skill check or attack roll of a type d
 
 **Critical Failure** Your ally takes a –1 circumstance penalty to the triggering check.
 
-[[Other Effects/Effect_ Aid|Effect: Aid]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ Aid|Effect: Aid]]
 
 *Source: Pathfinder Player Core*
 *ORC*

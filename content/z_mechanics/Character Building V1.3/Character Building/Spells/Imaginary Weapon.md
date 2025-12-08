@@ -8,7 +8,7 @@ tags:
 ---
 
 # Imaginary Weapon
-![[systems-pf2e-icons-spells-imaginary-weapon.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-imaginary-weapon.webp|150]]
 
 You create a simple weapon of force. Make a melee spell attack roll against your target's AC. If you hit, you deal 2d8 bludgeoning or slashing damage (your choice). On a critical success, you deal double damage and can choose to detonate your weapon to push the target 10 feet away from you.
 

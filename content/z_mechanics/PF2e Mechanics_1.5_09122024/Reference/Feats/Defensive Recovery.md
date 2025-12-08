@@ -14,7 +14,7 @@ license: ORC
 ---
 # Defensive Recovery `pf2:1`
 ## Feat 12
-### [[cleric]][[concentrate]][[spellshape]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[spellshape]]
 
 **Category** class; 
 
@@ -24,7 +24,7 @@ license: ORC
 * * *
 Your faith provides temporary protection in addition to healing. If the next action you use is to cast [[Spells/Harm|Harm]] or [[Spells/Heal|Heal]] on a single target and the target regains Hit Points from the spell, it also gains a +2 status bonus to AC and saving throws for 1 round.
 
-[[Feat_Feature Effects/Effect_ Defensive Recovery|Effect: Defensive Recovery]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Defensive Recovery|Effect: Defensive Recovery]]
 
 *Source: Pathfinder Player Core*
 *ORC*

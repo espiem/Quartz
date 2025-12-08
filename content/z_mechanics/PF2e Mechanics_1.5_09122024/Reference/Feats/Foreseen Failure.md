@@ -13,7 +13,7 @@ license: OGL
 ---
 # Foreseen Failure `pf2:0`
 ## Feat 12
-### [[fortune]][[occult]][[psychic]]
+### [[fortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** class; 
 

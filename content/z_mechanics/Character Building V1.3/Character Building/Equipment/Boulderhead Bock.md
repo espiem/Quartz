@@ -8,7 +8,7 @@ tags:
 ---
 
 # Boulderhead Bock
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-boulderhead-bock.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-alchemical-items-alchemical-elixirs-boulderhead-bock.webp|150]]
 
 **Activate** A Interact
 

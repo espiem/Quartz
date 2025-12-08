@@ -15,7 +15,7 @@ license: ORC
 ---
 # Follow the Expert
 
-### [[auditory]][[concentrate]][[exploration]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[exploration]][[visual]]
 
 **Category** interaction; 
 
@@ -26,7 +26,7 @@ Choose an ally attempting a recurring skill check while exploring, such as climb
 
 Thanks to your ally's assistance, you can add your level as a proficiency bonus to the associated skill check, even if you're untrained. Additionally, you gain a circumstance bonus to your skill check based on your ally's proficiency (+2 for expert, +3 for master, and +4 for legendary).
 
-[[Other Effects/Effect_ Follow The Expert|Effect: Follow The Expert]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ Follow The Expert|Effect: Follow The Expert]]
 
 *Source: Pathfinder Player Core*
 *ORC*

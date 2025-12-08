@@ -72,7 +72,7 @@ creatures:
 
 
 
-These ferociously territorial thylacines often attack creatures without provocation, and they are [[Conditions/Prone|Prone]] to leaving barely eaten carcasses strewn about their territories as additional markers of their dominance.
+These ferociously territorial thylacines often attack creatures without provocation, and they are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] to leaving barely eaten carcasses strewn about their territories as additional markers of their dominance.
 
 * * *
 

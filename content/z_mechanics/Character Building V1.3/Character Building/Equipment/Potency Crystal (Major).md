@@ -8,7 +8,7 @@ tags:
 ---
 
 # Potency Crystal (Major)
-![[systems-pf2e-icons-equipment-consumables-talismans-potency-crystal.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-talismans-potency-crystal.webp|150]]
 
 **Activate** F (concentrate)
 

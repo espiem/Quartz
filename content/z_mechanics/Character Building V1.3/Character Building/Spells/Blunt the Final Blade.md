@@ -8,7 +8,7 @@ tags:
 ---
 
 # Blunt the Final Blade
-![[systems-pf2e-icons-spells-blade-barrier.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-blade-barrier.webp|150]]
 
 You anoint the _[[Final Blade]]_ with powdered mithral and grave dirt while speaking softly and carefully to the souls trapped within it. You create a mystical pathway for the souls to escape through and urge them to draw out the magic of the final blade with them as they depart.
 

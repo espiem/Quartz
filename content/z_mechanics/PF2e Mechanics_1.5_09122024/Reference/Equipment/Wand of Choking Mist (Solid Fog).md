@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Choking Mist (Solid Fog)
 ## Item 10
-### [[magical]][[wand]][[water]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wand]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 
 **Price** 1000 gp; 

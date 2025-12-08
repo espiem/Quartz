@@ -13,7 +13,7 @@ license: OGL
 ---
 # Ring of Discretion
 ## Item 1
-### [[illusion]][[invested]][[magical]][[visual]]
+### [[illusion]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[visual]]
 
 
 **Price** 15 gp; 

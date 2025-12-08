@@ -22,7 +22,7 @@ license: OGL
 * * *
 You become trained in Performance; if you were already trained in Performance, you instead become trained in a skill of your choice. You also gain the [[Feats/Juggle|Juggle]] skill feat, even if you don't meet its prerequisites.
 
-**Special** You cannot select another dedication feat until you have gained one other feat from the [[PF2e Journals/Archetypes/Juggler|Juggler]] archetype.
+**Special** You cannot select another dedication feat until you have gained one other feat from the [[Juggler|Juggler]] archetype.
 
 *Source: Pathfinder #151: The Show Must Go On*
 *OGL*

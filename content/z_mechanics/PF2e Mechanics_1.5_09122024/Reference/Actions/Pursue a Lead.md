@@ -14,7 +14,7 @@ license: ORC
 ---
 # Pursue a Lead
 
-### [[concentrate]][[exploration]][[investigator]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[exploration]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Investigator]]
 
 **Category** interaction; 
 

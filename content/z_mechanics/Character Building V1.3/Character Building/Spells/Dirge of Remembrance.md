@@ -8,7 +8,7 @@ tags:
 ---
 
 # Dirge of Remembrance
-![[icons-magic-death-undead-ghost-scream-teal.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-death-undead-ghost-scream-teal.webp|150]]
 
 You sing a funereal dirge to force restless spirits to fully manifest in the Material Plane. Each incorporeal creature in the area takes 4d10 sonic damage (this damage bypasses its resistances) depending on the result of its Will save.
 

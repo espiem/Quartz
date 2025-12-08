@@ -11,7 +11,7 @@ license: OGL
 ---
 # Elder Sign
 ## Item 25
-### [rare](rare "Rare Rarity Trait")[[artifact]][[occult]]
+### [rare](rare "Rare Rarity Trait")[[artifact]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 
 **Price** 0 gp; 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Guiding Chisel
 ## Item 16
-### [unique](unique "Unique Rarity Trait")[[elf]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Elf]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 10000 gp; 

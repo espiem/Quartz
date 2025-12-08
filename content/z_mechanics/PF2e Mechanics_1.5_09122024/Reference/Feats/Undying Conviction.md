@@ -14,7 +14,7 @@ license: OGL
 ---
 # Undying Conviction
 ## Feat 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[aura]][[cleric]][[oracle]][[wizard]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Oracle]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Wizard]]
 
 **Category** class; 
 
@@ -24,9 +24,9 @@ license: OGL
 * * *
 Your presence has a bolstering effect on your undead minions. Undead creatures under your control and within a 30-foot emanation around you gain a +2 status bonus to saving throws to resist vitality damage and to Will saving throws to resist effects that would make them controlled.
 
-[[Feat_Feature Effects/Effect_ Under Control|Effect: Under Control]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Under Control|Effect: Under Control]]
 
-[[Feat_Feature Effects/Effect_ Undying Conviction|Effect: Undying Conviction]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Undying Conviction|Effect: Undying Conviction]]
 
 **Special** This feat has the trait matching your spellcasting tradition.
 

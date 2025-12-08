@@ -12,4 +12,4 @@ tags:
 
 Your family has always seemed to bound back from disaster, not through physical hardiness or specialized skill, but from sheer luck. Other catfolk whisper that you have nine lives.
 
-If you are reduced to 0 Hit Points by a critical hit on an attack roll, you become [[Dying|Dying 1]] instead of dying 2.
+If you are reduced to 0 Hit Points by a critical hit on an attack roll, you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying|Dying 1]] instead of dying 2.

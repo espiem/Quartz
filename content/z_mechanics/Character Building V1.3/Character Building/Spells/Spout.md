@@ -18,7 +18,7 @@ Water blasts upward, coming out of the ground, rising from a pool, or even manif
 
 You can change this spell's area to a 5-foot burst, provided you center the burst in a body of water. This body of water can be as small as a pond or creek, but not as small as a puddle or bathtub.
 
-A creature that critically fails its save is disoriented by the explosion of water, becoming [[Off-Guard]] until the end of your next turn.
+A creature that critically fails its save is disoriented by the explosion of water, becoming [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the end of your next turn.
 
 * * *
 

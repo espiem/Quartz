@@ -16,7 +16,7 @@ You curse the target with a thirst no drink can quench. You can Dismiss the spel
 
 **Critical Success** The creature is unaffected and is temporarily immune for 1 hour.
 
-**Success** The creature is [[Fatigued]] for 1 round.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] for 1 round.
 
 **Failure** The creature is immediately afflicted by thirst as if it hadn't had a drink in days. It becomes Fatigued and takes 1d4 damage each hour that can't be healed until it quenches its thirst. No amount of drinking can quench the creature's thirst during the spell's duration.
 

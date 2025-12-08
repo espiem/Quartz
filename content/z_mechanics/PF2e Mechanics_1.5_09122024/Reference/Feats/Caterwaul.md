@@ -16,7 +16,7 @@ license: ORC
 ---
 # Caterwaul `pf2:r`
 ## Feat 13
-### [[auditory]][[catfolk]][[concentrate]][[emotion]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Catfolk]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** ancestry; 
 
@@ -29,7 +29,7 @@ license: ORC
 
 * * *
 
-You give a daring yowl, calling your companion back from the brink of unconsciousness. Your ally isn't knocked out and remains at 1 Hit Point. Their [[Conditions/Wounded|Wounded]] condition still increases by 1 as though they had been [[Conditions/Dying|Dying]] and recovered.
+You give a daring yowl, calling your companion back from the brink of unconsciousness. Your ally isn't knocked out and remains at 1 Hit Point. Their [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded|Wounded]] condition still increases by 1 as though they had been [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying|Dying]] and recovered.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

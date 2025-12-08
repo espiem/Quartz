@@ -8,7 +8,7 @@ tags:
 ---
 # Off Balance
 
-> Normal damage. The target triggers reactions as if it just used a move action. It is also [[Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
+> Normal damage. The target triggers reactions as if it just used a move action. It is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
 
 `Bludgeoning`
 
@@ -20,12 +20,12 @@ tags:
 
 # Hack and Slash
 
-> Triple damage. The target is [[Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
+> Triple damage. The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
 
 `Slashing`
 
 # Shrink Aftereffect
 
-> Normal damage. The target is reduced in size as if subject to a [[Spells/Shrink|Shrink]] spell until the end of its next turn. [[Spell Effects/Spell Effect_ Shrink|Spell Effect: Shrink]]
+> Normal damage. The target is reduced in size as if subject to a [[Spells/Shrink|Shrink]] spell until the end of its next turn. [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Spell Effects/Spell Effect_ Shrink|Spell Effect: Shrink]]
 
 `Bomb or Spell`

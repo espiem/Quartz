@@ -11,7 +11,7 @@ license: OGL
 ---
 # Striking Retribution
 ## Feat 1
-### [[azarketi]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Azarketi]]
 
 **Category** ancestry; 
 
@@ -24,7 +24,7 @@ You gain a +2 circumstance bonus to damage with weapons and unarmed attacks agai
 
 In addition, if an alghollthu successfully affects you or one of your allies within 60 feet with an enchantment, your circumstance bonus to damage against that alghollthu increases to +4 for 1 minute.
 
-[[Feat_Feature Effects/Effect_ Striking Retribution|Effect: Striking Retribution]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Striking Retribution|Effect: Striking Retribution]]
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

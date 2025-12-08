@@ -13,7 +13,7 @@ license: ORC
 ---
 # Ricochet Stance (Rogue) `pf2:1`
 ## Feat 8
-### [[rogue]][[stance]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]][[stance]]
 
 **Category** class; 
 

@@ -8,7 +8,7 @@ tags:
 ---
 # Crushed Intestines
 
-> Normal damage. **Crit Effect:** The target is [[Conditions/Wounded|Wounded 2]] and [[Conditions/Enfeebled|Enfeebled 2]] until it is no longer wounded.
+> Normal damage. **Crit Effect:** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded|Wounded 2]] and [[Conditions/Enfeebled|Enfeebled 2]] until it is no longer wounded.
 
 `Bludgeoning`
 
@@ -20,7 +20,7 @@ tags:
 
 # Severed Spine
 
-> **Crit Effect:** The target must succeed at a Fortitude check or be [[Conditions/Paralyzed|Paralyzed]] until healed.
+> **Crit Effect:** The target must succeed at a Fortitude check or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]] until healed.
 
 `Slashing`
 

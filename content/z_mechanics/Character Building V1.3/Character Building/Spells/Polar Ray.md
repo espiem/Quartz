@@ -8,7 +8,7 @@ tags:
 ---
 
 # Polar Ray
-![[systems-pf2e-icons-spells-polar-ray.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-polar-ray.webp|150]]
 
 You fire a blue-white ray of freezing air and sleet that deals 10d8 cold damage. Make a spell attack roll against the target.
 

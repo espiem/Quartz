@@ -14,7 +14,7 @@ license: ORC
 ---
 # Crying Angel Pendant
 ## Item 2
-### [[consumable]][[divine]][[talisman]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[talisman]]
 
 **Category** talisman; 
 **Price** 7 gp; 

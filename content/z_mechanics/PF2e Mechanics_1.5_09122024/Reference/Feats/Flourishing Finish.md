@@ -14,7 +14,7 @@ license: OGL
 ---
 # Flourishing Finish `pf2:1`
 ## Feat 12
-### [[archetype]][[concentrate]][[emotion]][[mental]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** class; 
 
@@ -30,7 +30,7 @@ Attempt a Performance check, comparing the result to the Will DC of each foe wit
 
 * * *
 
-**Critical Success** The target is [[Conditions/Frightened|Frightened 2]].
+**Critical Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
 **Success** The target is frightened 1.
 

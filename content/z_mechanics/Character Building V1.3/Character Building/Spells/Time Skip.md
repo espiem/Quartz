@@ -10,7 +10,7 @@ tags:
 # Time Skip
 ![[systems-pf2e-icons-spells-time-skip.webp|150]]
 
-You manipulate time around your ally, pushing them forward a few moments in time. The target is [[Quickened]] on its next turn and can use the action only to Step, Stride, or Strike.
+You manipulate time around your ally, pushing them forward a few moments in time. The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]] on its next turn and can use the action only to Step, Stride, or Strike.
 
 * * *
 

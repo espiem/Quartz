@@ -8,7 +8,7 @@ tags:
 ---
 # Slipped
 
-> You fall [[Conditions/Prone|Prone]].
+> You fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 `Melee`
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Helmsman's Recourse
 ## Item 5
-### [[magical]][[shield-throw-30]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[shield-throw-30]]
 
 
 **Price** 150 gp; 

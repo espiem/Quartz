@@ -12,14 +12,14 @@ license: OGL
 ---
 # De-Animating Gestures (False) `pf2:1`
 
-### [[concentrate]][[manipulate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** offensive; 
 
 
 
 
-You designate a single construct within 30 feet that you can see or hear. The construct becomes [[Conditions/Quickened|Quickened 1]] for 1 minute and is temporarily immune to this ability for 24 hours. It can use its additional action only to Stride or Strike.
+You designate a single construct within 30 feet that you can see or hear. The construct becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened 1]] for 1 minute and is temporarily immune to this ability for 24 hours. It can use its additional action only to Stride or Strike.
 
 *Source: Pathfinder Society Scenario #1-00: Origin of the Open Road*
 *OGL*

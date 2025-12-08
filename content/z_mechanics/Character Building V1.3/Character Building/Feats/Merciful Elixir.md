@@ -18,4 +18,4 @@ tags:
 
 You mix a special additive into your elixir that calms the drinker's body and mind.
 
-The elixir of life attempts to counteract one fear effect or one effect imposing the [[Paralyzed]] condition on the drinker using the item's level and a counteract modifier equal to your class DC - 10.
+The elixir of life attempts to counteract one fear effect or one effect imposing the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] condition on the drinker using the item's level and a counteract modifier equal to your class DC - 10.

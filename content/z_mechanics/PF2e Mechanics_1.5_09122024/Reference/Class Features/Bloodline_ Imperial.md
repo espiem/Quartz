@@ -12,7 +12,7 @@ license: ORC
 ---
 # Bloodline: Imperial
 ## Feat 1
-### [[sorcerer]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]]
 
 **Category** classfeature; 
 
@@ -31,7 +31,7 @@ One of your ancestors was a mortal who mastered magic.
 
 **Blood Magic—Imperious Defense** Raw magic emanates from every cell in your body, protecting you. Until the start of your next turn, you gain your choice of either a +1 status bonus to AC or a +1 status bonus to saving throws.
 
-[[Feat_Feature Effects/Effect_ Imperial Blood Magic|Effect: Imperial Blood Magic]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Imperial Blood Magic|Effect: Imperial Blood Magic]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

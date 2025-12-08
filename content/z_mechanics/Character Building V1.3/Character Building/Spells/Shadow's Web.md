@@ -20,7 +20,7 @@ Grasping darkness surges from you, dealing 14d4 void damage. Each creature in th
 
 **Failure** The creature takes full damage and is [[Enfeebled 1|Enfeebled 2]] for 1 round.
 
-**Critical Failure** The creature takes double damage and is [[Stunned 1]], [[Enfeebled 1|Enfeebled 2]] for 1 round, and [[Immobilized]] for 1 round or until it [[Escape|Escapes]], whichever comes first.
+**Critical Failure** The creature takes double damage and is [[Stunned 1]], [[Enfeebled 1|Enfeebled 2]] for 1 round, and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] for 1 round or until it [[Escape|Escapes]], whichever comes first.
 
 * * *
 

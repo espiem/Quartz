@@ -8,7 +8,7 @@ tags:
 ---
 
 # Elephant Form
-![[systems-pf2e-icons-spells-elephant-form.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-elephant-form.webp|150]]
 
 You channel the primal forces of nature to transform into a Large battle form, specifically that of a powerful and terrifying elephant or similar creature, such as a mammoth, mastodon, or anancus. This spell has the effects of _[[Dinosaur Form]]_, except you gain the following specific abilities instead of the form-specific abilities of dinosaur form.
 
@@ -17,7 +17,7 @@ You channel the primal forces of nature to transform into a Large battle form, s
 *   **Melee** 1 trunk (reach 10 feet), **Effect** grabbing trunk;
 *   **Melee** 1 tusk (reach 10 feet), **Damage** 2d6 piercing.
 
-**Grabbing Trunk** A creature up to two sizes smaller that's hit by your trunk is [[Grabbed]]. If you succeed at your [[Grapple]] check against a creature grabbed by your trunk, you can reposition the creature to another space within your trunk's reach.
+**Grabbing Trunk** A creature up to two sizes smaller that's hit by your trunk is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]]. If you succeed at your [[Grapple]] check against a creature grabbed by your trunk, you can reposition the creature to another space within your trunk's reach.
 
 * * *
 

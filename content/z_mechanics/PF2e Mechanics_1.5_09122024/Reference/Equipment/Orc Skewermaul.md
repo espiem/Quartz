@@ -16,7 +16,7 @@ license: ORC
 ---
 # Orc Skewermaul
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[brace]][[orc]][[two-hand-d10]][[versatile-p]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[brace]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Orc]][[two-hand-d10]][[versatile-p]]
 
 |  |  |
 | -- | -- |

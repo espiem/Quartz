@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-A cloud of mist enshrouds the target, appearing much like the deflecting clouds created by cloud dragons. The target is treated as [[Hidden]] for the purposes of resolving the triggering attack (so normally the attacker must succeed at a DC 11 flat to target it) and all ranged attacks against it for the duration.
+A cloud of mist enshrouds the target, appearing much like the deflecting clouds created by cloud dragons. The target is treated as [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]] for the purposes of resolving the triggering attack (so normally the attacker must succeed at a DC 11 flat to target it) and all ranged attacks against it for the duration.

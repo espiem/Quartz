@@ -33,9 +33,9 @@ You gain resistance equal to half your level against one type of damage determin
 *   **Green** Poison
 *   **Silver or White** Cold
 
-You also gain a +1 circumstance bonus to saving throws against sleep effects and effects that would make you [[Conditions/Paralyzed|Paralyzed]].
+You also gain a +1 circumstance bonus to saving throws against sleep effects and effects that would make you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]].
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Dragon Disciple|Dragon Disciple]] archetype. If you later take the sorcerer archetype, you must choose the draconic bloodline.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[Dragon Disciple|Dragon Disciple]] archetype. If you later take the sorcerer archetype, you must choose the draconic bloodline.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

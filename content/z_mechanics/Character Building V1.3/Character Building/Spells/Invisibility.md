@@ -10,7 +10,7 @@ tags:
 # Invisibility
 ![[icons-creatures-magical-construct-stone-earth-gray.webp|150]]
 
-Illusions bend light around the target, rendering it [[Invisible]]. This makes it [[Undetected]] to all creatures, though the creatures can attempt to find the target, making it [[Hidden]] to them instead. If the target uses a hostile action, the spell ends after that hostile action is completed.
+Illusions bend light around the target, rendering it [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]]. This makes it [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Undetected]] to all creatures, though the creatures can attempt to find the target, making it [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]] to them instead. If the target uses a hostile action, the spell ends after that hostile action is completed.
 
 * * *
 

@@ -28,7 +28,7 @@ In addition, the curse is jealous of its place within your soul and gladly lashe
 
 While in a curse maelstrom state, you can't benefit from fortune effects, and they also don't cancel misfortune effects on you; they simply have no effect. While in this state, all creatures other than you within a 10-foot emanation take a -1 status penalty to all saving throws and skill checks due to the storm of bad luck swirling out of your body. You gain the [[Actions/Expel Maelstrom|Expel Maelstrom]] action, which you can use to focus the brunt of your curses onto an unlucky target.
 
-[[PF2e Journals/Archetypes/Curse Maelstrom|Curse Maelstrom]]
+[[Curse Maelstrom|Curse Maelstrom]]
 
 *Source: Pathfinder Dark Archive*
 *OGL*

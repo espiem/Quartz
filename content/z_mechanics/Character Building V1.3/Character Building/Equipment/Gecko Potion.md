@@ -8,7 +8,7 @@ tags:
 ---
 
 # Gecko Potion
-![[systems-pf2e-icons-equipment-consumables-potions-gecko-potion.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-potions-gecko-potion.webp|150]]
 
 **Activate** A (manipulate)
 

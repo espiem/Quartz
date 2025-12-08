@@ -8,7 +8,7 @@ tags:
 ---
 
 # Take its Course
-![[icons-creatures-slimes-slime-movement-swirling-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-slimes-slime-movement-swirling-green.webp|150]]
 
 When someone has overindulged, you can hasten them past the worst of their affliction or intensify their misery. This spell attempts to progress a disease affliction, a poison affliction, or persistent poison damage affecting the target. If the target is affected by more than one of these, you can choose from among those you are aware of; otherwise the GM chooses randomly. An unwilling target can attempt a Will save to negate _take its course_.
 

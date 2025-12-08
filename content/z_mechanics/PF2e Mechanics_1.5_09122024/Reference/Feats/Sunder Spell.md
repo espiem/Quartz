@@ -15,7 +15,7 @@ license: ORC
 ---
 # Sunder Spell `pf2:2`
 ## Feat 12
-### [[attack]][[barbarian]][[concentrate]][[rage]]
+### [[attack]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[rage]]
 
 **Category** class; 
 

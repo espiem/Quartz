@@ -14,14 +14,14 @@ license: ORC
 ---
 # Choral Toga
 ## Item 19
-### [rare](rare "Rare Rarity Trait")[[apex]][[holy]][[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[apex]][[holy]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 40000 gp; 
 **Bulk** L; **Size** med
 **Usage** wornclothing
 
-This elegant toga is infused with inexhaustible energy to enjoy life possessed by azatas. You gain resistance to poison 20 and become immune to [[Conditions/Deafened|Deafened]]. When you invest in the robes, you either increase your Constitution score by 2 or increase it to 18, whichever would give you a higher score. If you are unholy, you become deafened while wearing the toga.
+This elegant toga is infused with inexhaustible energy to enjoy life possessed by azatas. You gain resistance to poison 20 and become immune to [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]]. When you invest in the robes, you either increase your Constitution score by 2 or increase it to 18, whichever would give you a higher score. If you are unholy, you become deafened while wearing the toga.
 
 * * *
 

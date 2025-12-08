@@ -8,7 +8,7 @@ tags:
 ---
 
 # Return the Favor
-![[icons-skills-social-thumbsup-approval-like.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-social-thumbsup-approval-like.webp|150]]
 
 **Trigger** An ally uses a reaction to grant you a beneficial effect during a combat encounter.
 

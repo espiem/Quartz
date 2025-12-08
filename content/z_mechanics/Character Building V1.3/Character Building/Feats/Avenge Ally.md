@@ -12,7 +12,7 @@ tags:
 
 **Frequency** once every 10 minutes
 
-**Requirements** You are within 30 feet of an ally with the [[Dying]] condition.
+**Requirements** You are within 30 feet of an ally with the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying]] condition.
 
 * * *
 

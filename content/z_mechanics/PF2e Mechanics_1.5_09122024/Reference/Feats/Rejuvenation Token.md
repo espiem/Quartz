@@ -11,7 +11,7 @@ license: OGL
 ---
 # Rejuvenation Token
 ## Feat 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[skeleton]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Skeleton]]
 
 **Category** ancestry; 
 

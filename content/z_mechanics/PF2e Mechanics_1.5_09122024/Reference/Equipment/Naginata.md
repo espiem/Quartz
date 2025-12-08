@@ -14,7 +14,7 @@ license: OGL
 ---
 # Naginata
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[reach]][[versatile-p]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]][[versatile-p]]
 
 |  |  |
 | -- | -- |

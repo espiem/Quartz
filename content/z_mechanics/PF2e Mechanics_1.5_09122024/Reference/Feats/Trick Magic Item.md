@@ -14,7 +14,7 @@ license: ORC
 ---
 # Trick Magic Item `pf2:1`
 ## Feat 1
-### [[general]][[manipulate]][[skill]]
+### [[general]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[skill]]
 
 **Category** skill; 
 

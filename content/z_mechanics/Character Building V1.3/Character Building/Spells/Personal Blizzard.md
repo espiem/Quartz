@@ -18,7 +18,7 @@ Your patron's breath becomes blizzard of obscuring, scouring ice that follows yo
 
 **Success** The target takes 1d6 cold damage, and the spell ends.
 
-**Failure** The target takes 1d6 cold damage and 1d6 persistent,cold damage. The persistent damage automatically ends when the spell ends. It is [[Concealed]] to other creatures, and other creatures are concealed to it.
+**Failure** The target takes 1d6 cold damage and 1d6 persistent,cold damage. The persistent damage automatically ends when the spell ends. It is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] to other creatures, and other creatures are concealed to it.
 
 **Critical Failure** As failure, but both the cold damage and the persistent cold damage increase to 2d6.
 

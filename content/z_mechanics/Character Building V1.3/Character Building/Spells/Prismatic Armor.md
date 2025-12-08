@@ -8,9 +8,9 @@ tags:
 ---
 
 # Prismatic Armor
-![[systems-pf2e-icons-spells-prismatic-armor.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-prismatic-armor.webp|150]]
 
-You wrap the target in armor made of multicolored light. It functions as _[[Chromatic Armor]]_ that is all colors (granting resistance 5 to acid, electricity, fire, force, mental, poison, and sonic). An attacker that critically fails on its saving throw against the spell is [[Blinded]] rather than [[Dazzled]].
+You wrap the target in armor made of multicolored light. It functions as _[[Chromatic Armor]]_ that is all colors (granting resistance 5 to acid, electricity, fire, force, mental, poison, and sonic). An attacker that critically fails on its saving throw against the spell is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] rather than [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]].
 
 * * *
 

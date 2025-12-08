@@ -8,7 +8,7 @@ tags:
 ---
 
 # Heroic Feat
-![[systems-pf2e-icons-spells-heroic-feat.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-heroic-feat.webp|150]]
 
 You gain the ability to perform a specialized combat technique from the vast wealth of martial knowledge your mystery provides.
 

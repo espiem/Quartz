@@ -14,7 +14,7 @@ license: OGL
 ---
 # Spear Frog Poison
 ## Item 1
-### [[alchemical]][[consumable]][[injury]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 3 gp; 

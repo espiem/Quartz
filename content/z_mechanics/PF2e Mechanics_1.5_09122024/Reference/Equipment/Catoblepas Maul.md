@@ -15,7 +15,7 @@ license: ORC
 ---
 # Catoblepas Maul
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[poison]][[shove]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[shove]]
 
 |  |  |
 | -- | -- |
@@ -34,7 +34,7 @@ The putrid stench emanating from the catoblepas antlers adorning this _+2 greate
 
 **Requirements** Your last action was a successful Strike with the _catoblepas maul_
 
-**Effect** The target must succeed at a DC 30 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] for as long as it's sickened on a critical failure). A creature that succeeds at its save becomes temporarily immune to Vile Stench for 1 minute.
+**Effect** The target must succeed at a DC 30 Fortitude check save or become [[Conditions/Sickened|Sickened 1]] (plus [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] for as long as it's sickened on a critical failure). A creature that succeeds at its save becomes temporarily immune to Vile Stench for 1 minute.
 
 * * *
 

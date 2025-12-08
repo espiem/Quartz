@@ -12,7 +12,7 @@ license: OGL
 ---
 # Cloister Robe (Moderate)
 ## Item 12
-### [[divine]][[invested]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[invested]]
 
 **Category** unarmored; **Group** cloth
 **Price** 1800 gp; 

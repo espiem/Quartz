@@ -17,7 +17,7 @@ license: OGL
 ---
 # Vine Whip
 ## Item 8
-### [[disarm]][[finesse]][[magical]][[nonlethal]][[reach]][[trip]]
+### [[disarm]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[nonlethal]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]][[trip]]
 
 |  |  |
 | -- | -- |

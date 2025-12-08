@@ -29,11 +29,11 @@ license: OGL
 
 **Stage 2** [[Conditions/Drained|Drained 2]] and [[Conditions/Enfeebled|Enfeebled 2]] (1 day)
 
-**Stage 3** [[Conditions/Doomed|Doomed 1]], [[Conditions/Drained|Drained 3]], and [[Conditions/Enfeebled|Enfeebled 3]] (1 day)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]], [[Conditions/Drained|Drained 3]], and [[Conditions/Enfeebled|Enfeebled 3]] (1 day)
 
-**Stage 4** [[Conditions/Doomed|Doomed 2]], drained 3, and enfeebled 3 (1 day)
+**Stage 4** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 2]], drained 3, and enfeebled 3 (1 day)
 
-**Stage 5** [[Conditions/Unconscious|Unconscious]] (1 day)
+**Stage 5** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] (1 day)
 
 **Stage 6** death
 

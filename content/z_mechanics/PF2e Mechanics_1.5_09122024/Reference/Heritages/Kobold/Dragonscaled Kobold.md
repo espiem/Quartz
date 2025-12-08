@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Thanks to your warren's association with a dragon, your scales are sturdier than other kobolds'. You gain 10 Hit Points from your ancestry instead of 6. You gain a +1 circumstance bonus to saves against dragon breath, effects with the sleep trait, and effects that would make you [[Conditions/Paralyzed|Paralyzed]].
+Thanks to your warren's association with a dragon, your scales are sturdier than other kobolds'. You gain 10 Hit Points from your ancestry instead of 6. You gain a +1 circumstance bonus to saves against dragon breath, effects with the sleep trait, and effects that would make you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

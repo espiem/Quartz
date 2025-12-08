@@ -14,6 +14,6 @@ tags:
 
 For 1 hour you gain greatly increased blood production, filtering out contagions and boosting your endurance but causing your body to bloat with blood.
 
-**Benefit** You gain a +4 item bonus to Fortitude and Reflex saves. When you roll a success on a save against a disease, poison, or effect that would give you the [[Fatigued]] condition, you get a critical success instead and your critical failures on such saves become failures instead.
+**Benefit** You gain a +4 item bonus to Fortitude and Reflex saves. When you roll a success on a save against a disease, poison, or effect that would give you the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] condition, you get a critical success instead and your critical failures on such saves become failures instead.
 
 **Drawback** Whenever you take piercing or slashing damage, you take 1d6 bleed.

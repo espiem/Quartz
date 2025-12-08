@@ -15,7 +15,7 @@ license: ORC
 ---
 # Gakgung
 ## Item 0
-### [[deadly-d8]][[monk]][[propulsive]]
+### [[deadly-d8]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]][[propulsive]]
 
 |  |  |
 | -- | -- |

@@ -26,7 +26,7 @@ Regardless of whether you choose an arcane or occult cantrip, you also become an
 
 * * *
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Eldritch Researcher|Eldritch Researcher]] archetype.
+**Special** You can't select another dedication feat until you've gained two other feats from the [[Eldritch Researcher|Eldritch Researcher]] archetype.
 
 *Source: Pathfinder #164: Hands of the Devil*
 *OGL*

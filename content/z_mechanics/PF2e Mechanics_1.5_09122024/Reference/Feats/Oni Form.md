@@ -15,7 +15,7 @@ license: ORC
 ---
 # Oni Form `pf2:1`
 ## Feat 1
-### [[concentrate]][[hungerseed]][[polymorph]][[primal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[hungerseed]][[polymorph]][[primal]]
 
 **Category** ancestry; 
 

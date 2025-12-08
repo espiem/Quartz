@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[PF2e Journals/Hero Point Deck/Endure the Onslaught|Endure the Onslaught]]
+Granted by [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Hero Point Deck/Endure the Onslaught|Endure the Onslaught]]
 
 Give a creature you can see resistance 5 to all damage until the start of your next turn. If you are 7th level or higher, the resistance is 10, and if you are 12th level or higher, the resistance is 15.
 

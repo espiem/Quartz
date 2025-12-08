@@ -11,7 +11,7 @@ license: OGL
 ---
 # Crown of the Kobold King
 ## Item 9
-### [unique](unique "Unique Rarity Trait")[[invested]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 700 gp; 
@@ -32,7 +32,7 @@ The crown appears as a golden band surrounded by iron spikes that glisten with f
 
 **Effect** The crown infuses you with the glorious conviction that you're meant to rule, granting you a +1 status bonus to attack rolls, saving throws, and Charisma-based skill checks for 1 minute.
 
-[[Equipment Effects/Effect_ Crown of the Kobold King|Effect: Crown of the Kobold King]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Crown of the Kobold King|Effect: Crown of the Kobold King]]
 
 * * *
 

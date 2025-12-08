@@ -12,7 +12,7 @@ license: OGL
 ---
 # The Deck of Destiny
 ## Item 25
-### [unique](unique "Unique Rarity Trait")[[artifact]][[invested]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 
@@ -37,7 +37,7 @@ When you perform your daily preparations, you can share the Deck of Destiny with
 
 **Effect** You quickly draw a card to alter the triggering creature's fate. Choose either weal or woe. With weal (a fortune effect), the triggering creature rolls twice and takes the better result on their check. With woe (a misfortune effect), the triggering creature is forced to roll twice and take the worse result. If the card you drew is related to the check, such as drawing a card from the suit of shields for a Fortitude saving throw or a card from the suit of crowns for a Deception check, the creature is affected further. When choosing weal, the creature gains a +4 circumstance bonus to the triggering check. When faced with woe, the triggering creature takes a –4 circumstance penalty to the triggering check. Regardless of whether they faced weal or woe, the triggering creature becomes temporarily immune to this ability for 24 hours.
 
-[[Equipment Effects/Effect_ Deck of Destiny|Effect: Deck of Destiny]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Deck of Destiny|Effect: Deck of Destiny]]
 
 * * *
 

@@ -25,7 +25,7 @@ Vikings spend long periods of time at sea, only to leap from their boats at a mo
 
 When using your land Speed, you ignore difficult terrain from shallow water, such as in bogs or on beaches. In addition, if you roll a success on an Athletics check to Swim, you get a critical success instead.
 
-[[PF2e Journals/Archetypes/Viking|Viking]]
+[[Viking|Viking]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Doctrine of Blissful Eternity
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[grimoire]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[grimoire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 340 gp; 

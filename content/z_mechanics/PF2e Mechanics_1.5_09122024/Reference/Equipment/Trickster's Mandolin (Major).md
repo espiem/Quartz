@@ -13,7 +13,7 @@ license: OGL
 ---
 # Trickster's Mandolin (Major)
 ## Item 12
-### [[coda]][[illusion]][[occult]][[staff]]
+### [[coda]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[staff]]
 
 
 **Price** 1900 gp; 

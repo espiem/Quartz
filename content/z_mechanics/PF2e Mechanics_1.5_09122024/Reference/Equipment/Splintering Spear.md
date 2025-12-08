@@ -16,7 +16,7 @@ license: OGL
 ---
 # Splintering Spear
 ## Item 13
-### [[magical]][[monk]][[thrown-20]][[wood]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]][[thrown-20]][[wood]]
 
 |  |  |
 | -- | -- |

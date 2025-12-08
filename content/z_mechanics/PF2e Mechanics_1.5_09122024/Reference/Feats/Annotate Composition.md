@@ -14,7 +14,7 @@ license: ORC
 ---
 # Annotate Composition
 ## Feat 10
-### [[bard]][[exploration]][[linguistic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Bard]][[exploration]][[linguistic]]
 
 **Category** class; 
 

@@ -12,4 +12,4 @@ tags:
 
 _Kitsune are a charismatic and witty people with a connection to the spiritual that grants them many magical abilities, chiefly the power to shapechange into other forms. Whether they pass unseen among other peoples or hold their tails high, kitsune are clever observers of the societies around them._
 
-[[Kitsune]]
+[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Kitsune]]

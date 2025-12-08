@@ -13,7 +13,7 @@ license: OGL
 ---
 # Weapon Infusion `pf2:0`
 ## Feat 1
-### [[infusion]][[kineticist]]
+### [[infusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]]
 
 **Category** class; 
 

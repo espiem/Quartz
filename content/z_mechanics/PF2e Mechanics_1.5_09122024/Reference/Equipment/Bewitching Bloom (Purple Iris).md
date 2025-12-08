@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bewitching Bloom (Purple Iris)
 ## Item 11
-### [[invested]][[magical]][[tattoo]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[tattoo]]
 
 
 **Price** 1200 gp; 
@@ -27,7 +27,7 @@ While dormant, this tattoo appears to be a simple flower bud, but when activated
 
 * * *
 
-**Effect** Choose a willing ally you can see within 30 feet. Your ally takes on a regal bearing, exuding the presence of confident royalty. The bloom casts a 5th-rank [[Spells/Command|Command]] spell (DC 28) selecting targets within range of the ally. Each target that fails the save must fall [[Conditions/Prone|Prone]] and pays homage to your ally.
+**Effect** Choose a willing ally you can see within 30 feet. Your ally takes on a regal bearing, exuding the presence of confident royalty. The bloom casts a 5th-rank [[Spells/Command|Command]] spell (DC 28) selecting targets within range of the ally. Each target that fails the save must fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] and pays homage to your ally.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

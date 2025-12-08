@@ -12,7 +12,7 @@ license: OGL
 ---
 # Extradimensional Stash
 ## Feat 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[extradimensional]][[rogue]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[extradimensional]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 

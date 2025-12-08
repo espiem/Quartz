@@ -13,7 +13,7 @@ license: OGL
 ---
 # Reassuring Presence `pf2:r`
 ## Feat 1
-### [[anadi]][[auditory]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Anadi]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[visual]]
 
 **Category** ancestry; 
 
@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-You serve as an anchor to your close companions, calming them in times of stress. Decrease the value of the triggering ally's [[Conditions/Frightened|Frightened]] condition by 1. The ally is then temporarily immune to your Reassuring Presence for 1 hour.
+You serve as an anchor to your close companions, calming them in times of stress. Decrease the value of the triggering ally's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]] condition by 1. The ally is then temporarily immune to your Reassuring Presence for 1 hour.
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

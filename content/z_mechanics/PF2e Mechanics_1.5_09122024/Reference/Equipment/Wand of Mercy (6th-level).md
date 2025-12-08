@@ -11,7 +11,7 @@ license: OGL
 ---
 # Wand of Mercy (6th-level)
 ## Item 14
-### [[magical]][[wand]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wand]]
 
 
 **Price** 3600 gp; 

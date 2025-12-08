@@ -19,4 +19,4 @@ If you didn't Stride at least 10 feet, or if you attempt to jump in a different 
 
 **Failure** You Leap normally.
 
-**Critical Failure** You Leap normally, but then fall and land [[Prone]].
+**Critical Failure** You Leap normally, but then fall and land [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Conrasu
 
-### [rare](rare "Rare Rarity Trait")[[aeon]][[conrasu]][[plant]]
+### [rare](rare "Rare Rarity Trait")[[aeon]][[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Conrasu]][[plant]]
 
 
 
@@ -21,7 +21,7 @@ license: OGL
 
 _Conrasus are shards of cosmic force given consciousness who construct intricate exoskeletons to interface with the mortal world. Both an integral part of the underlying processes of the universe and strangely set apart, conrasus look to aeons to understand their existence._
 
-_[[PF2e Journals/Ancestries/Conrasu|Conrasu]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Conrasu|Conrasu]]_
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

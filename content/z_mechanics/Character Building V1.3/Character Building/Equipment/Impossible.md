@@ -8,7 +8,7 @@ tags:
 ---
 
 # Impossible
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 This rune makes a weapon capable of impossible offense and defense. The etched weapon is immune to _[[Dispel Magic]]_ and similar effects that could counteract its magic. If it's a ranged weapon or thrown weapon, its range increment is doubled.
 

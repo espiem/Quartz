@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ochre Fulcrum Lens
 ## Item 11
-### [unique](unique "Unique Rarity Trait")[[invested]][[occult]]
+### [unique](unique "Unique Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 
 **Price** 1400 gp; 
@@ -24,7 +24,7 @@ While you have the _Ochre Fulcrum Lens_ invested, lassitude grips you and your e
 
 You can also activate the lens in the following ways.
 
-[[Equipment Effects/Effect_ Ochre Fulcrum Lens|Effect: Ochre Fulcrum Lens]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Ochre Fulcrum Lens|Effect: Ochre Fulcrum Lens]]
 
 * * *
 

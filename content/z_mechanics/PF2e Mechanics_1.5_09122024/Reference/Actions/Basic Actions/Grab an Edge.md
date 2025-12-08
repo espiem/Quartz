@@ -13,7 +13,7 @@ license: ORC
 ---
 # Grab an Edge `pf2:r`
 
-### [[general]][[manipulate]]
+### [[general]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** interaction; 
 
@@ -22,7 +22,7 @@ license: ORC
 
 **Trigger** You fall from or past an edge or handhold.
 
-**Requirements** Your hands are not tied behind your back or otherwise [[Conditions/Restrained|Restrained]].
+**Requirements** Your hands are not tied behind your back or otherwise [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]].
 
 * * *
 

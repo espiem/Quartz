@@ -12,7 +12,7 @@ tags:
 
 You call upon the frigid depths of outer space to bring a terrible chill to your enemy. The target is cloaked in the freezing void, which deals 3d6 cold damage immediately and the first time each round you Sustain the Spell on future turns, with a basic Fortitude save.
 
-The target is [[Fatigued]] for as long as the effect persists.
+The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] for as long as the effect persists.
 
 * * *
 

@@ -13,14 +13,14 @@ license: OGL
 ---
 # (Path Maiden) Corrupting Doubt
 
-### [[emotion]][[mental]][[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** offensive; 
 
 
 
 
-A creature damaged by the path maiden's hand Strike must succeed at a Will save to avoid becoming [[Conditions/Slowed|Slowed 1]] for 1 round ([[Conditions/Slowed|Slowed 2]] on a critical failure).
+A creature damaged by the path maiden's hand Strike must succeed at a Will save to avoid becoming [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] for 1 round ([[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]] on a critical failure).
 
 *Source: Pathfinder #199: To Bloom Below the Web*
 *OGL*

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Rapid Adaptation
-![[icons-magic-nature-leaf-oak-wreath-glow-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-nature-leaf-oak-wreath-glow-green.webp|150]]
 
 You flood the target with energy from the terrain around it, compressing centuries of evolution into a single moment. The target gains one of the following natural adaptations based on the surrounding environment.
 
@@ -16,6 +16,6 @@ You flood the target with energy from the terrain around it, compressing centuri
 *   **Arctic** The target isn't affected by severe or extreme cold, and when it rolls a success on an Acrobatics check to Balance on ice and snow, it gets a critical success instead. 
 *   **Desert** The target isn't affected by severe or extreme heat, and when it rolls a success on an Acrobatics check to Balance on sand, it gets a critical success instead. 
 *   **Forest** The target gains scent as an imprecise sense with a range of 30 feet. 
-*   **Mountain** The target isn't [[Off-Guard]] when Climbing, and when it rolls a success on an Acrobatics check to Balance on rubble, it gets a critical success instead. 
+*   **Mountain** The target isn't [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] when Climbing, and when it rolls a success on an Acrobatics check to Balance on rubble, it gets a critical success instead. 
 *   **Plains** The target gains a +10-foot status bonus to its land Speed. 
 *   **Underground** The target gains darkvision. 

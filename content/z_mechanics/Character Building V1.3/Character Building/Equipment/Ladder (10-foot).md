@@ -8,4 +8,4 @@ tags:
 ---
 
 # Ladder (10-foot)
-![[icons-sundries-misc-ladder.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-misc-ladder.webp|150]]

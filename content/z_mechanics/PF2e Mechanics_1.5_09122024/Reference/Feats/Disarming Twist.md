@@ -13,7 +13,7 @@ license: ORC
 ---
 # Disarming Twist `pf2:1`
 ## Feat 10
-### [[fighter]][[press]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]][[press]]
 
 **Category** class; 
 
@@ -27,7 +27,7 @@ license: ORC
 
 After your initial attack redirects your foe's defenses, your follow-up wrests their weapon from their grasp. Make a melee Strike with a one-handed melee weapon. In addition to its other effects, this Strike gains the success and critical success effects of the [[Actions/Disarm|Disarm]] action. The Strike also has the following failure effect.
 
-**Failure** The target is [[Conditions/Off-Guard|Off-Guard]] until the end of your current turn.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the end of your current turn.
 
 * * *
 

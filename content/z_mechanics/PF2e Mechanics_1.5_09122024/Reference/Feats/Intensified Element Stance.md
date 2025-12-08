@@ -14,7 +14,7 @@ license: ORC
 ---
 # Intensified Element Stance `pf2:1`
 ## Feat 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[druid]][[ranger]][[stance]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Druid]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]][[stance]]
 
 **Category** class; 
 

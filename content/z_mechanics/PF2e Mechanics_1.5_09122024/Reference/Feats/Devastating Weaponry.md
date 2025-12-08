@@ -11,7 +11,7 @@ license: OGL
 ---
 # Devastating Weaponry `pf2:3`
 ## Feat 18
-### [[inventor]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Feats/Inventor]]
 
 **Category** class; 
 

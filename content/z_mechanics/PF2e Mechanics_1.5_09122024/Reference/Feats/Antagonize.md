@@ -12,14 +12,14 @@ license: ORC
 ---
 # Antagonize
 ## Feat 2
-### [[swashbuckler]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 
 
 
 
-Your taunts and threats earn your foes' ire. When you successfully [[Actions/Demoralize|Demoralize]] a creature, its [[Conditions/Frightened|Frightened]] condition can't decrease to less than 1 at the end of its turn until it either uses a hostile action against you or can no longer observe or sense you for at least 1 round.
+Your taunts and threats earn your foes' ire. When you successfully [[Actions/Demoralize|Demoralize]] a creature, its [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]] condition can't decrease to less than 1 at the end of its turn until it either uses a hostile action against you or can no longer observe or sense you for at least 1 round.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

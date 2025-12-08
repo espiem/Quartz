@@ -8,7 +8,7 @@ tags:
 ---
 
 # Form of the Sandpoint Devil
-![[icons-magic-death-skull-horned-goat-pentagram-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-death-skull-horned-goat-pentagram-red.webp|150]]
 
 You infuse yourself with incredible amounts of pure evil, subsuming your consciousness into malevolence and giving yourself a monstrous form resembling that of the Sandpoint Devil.
 

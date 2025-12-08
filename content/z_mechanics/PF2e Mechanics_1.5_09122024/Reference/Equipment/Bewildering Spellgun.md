@@ -16,7 +16,7 @@ license: OGL
 ---
 # Bewildering Spellgun
 ## Item 9
-### [[attack]][[consumable]][[emotion]][[magical]][[mental]][[spellgun]]
+### [[attack]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[spellgun]]
 
 **Category** other; 
 **Price** 140 gp; 
@@ -31,7 +31,7 @@ When stared at, a _bewildering spellgun_ seems to warp the space around it, crea
 
 * * *
 
-**Critical Success** The target is [[Conditions/Confused|Confused]] for 1 minute.
+**Critical Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]] for 1 minute.
 
 **Success** The target is confused for 1 minute but can attempt a DC 25 Will check save at the end of each of its turns to end the effect.
 

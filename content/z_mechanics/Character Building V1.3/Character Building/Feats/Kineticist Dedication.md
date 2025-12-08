@@ -14,4 +14,4 @@ You become trained in kineticist class DC and impulse attack rolls. Choose one e
 
 * * *
 
-[[Kineticist|Kineticist Archetype]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist|Kineticist Archetype]]

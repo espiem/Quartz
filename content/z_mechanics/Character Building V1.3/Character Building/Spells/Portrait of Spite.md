@@ -16,9 +16,9 @@ The target must attempt a Will saving throw. You're only able to perform this ri
 
 * * *
 
-**Critical Success** The target is either [[Clumsy 1|Clumsy 4]], [[Drained 1|Drained 4]], [[Enfeebled 1|Enfeebled 4]], or [[Stupefied|Stupefied 4]], depending on the punishment you chose. On a successful Will save, the condition value is 2, and the target is unaffected on a critical success.
+**Critical Success** The target is either [[Clumsy 1|Clumsy 4]], [[Drained 1|Drained 4]], [[Enfeebled 1|Enfeebled 4]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 4]], depending on the punishment you chose. On a successful Will save, the condition value is 2, and the target is unaffected on a critical success.
 
-**Success** The target is either [[Clumsy 1|Clumsy 2]], [[Drained 1|Drained 2]], [[Enfeebled 1|Enfeebled 2]], or [[Stupefied|Stupefied 2]], depending on the punishment you chose. On a successful Will save, the condition value is 1, and the target is unaffected on a critical success.
+**Success** The target is either [[Clumsy 1|Clumsy 2]], [[Drained 1|Drained 2]], [[Enfeebled 1|Enfeebled 2]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]], depending on the punishment you chose. On a successful Will save, the condition value is 1, and the target is unaffected on a critical success.
 
 **Failure** The portrait doesn't change, and the ritual has no effect on the target.
 

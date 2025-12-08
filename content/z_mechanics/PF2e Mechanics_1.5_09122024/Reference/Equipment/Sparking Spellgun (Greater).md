@@ -15,7 +15,7 @@ license: OGL
 ---
 # Sparking Spellgun (Greater)
 ## Item 13
-### [[attack]][[consumable]][[fire]][[magical]][[spellgun]]
+### [[attack]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellgun]]
 
 **Category** other; 
 **Price** 600 gp; 
@@ -30,7 +30,7 @@ A broad wooden tube with a handle, a _sparking spellgun_ radiates warmth. You Ac
 
 * * *
 
-**Critical Success** The target takes double damage, takes double persistent damage, is [[Conditions/Blinded|Blinded]] for 1 round, and is [[Conditions/Dazzled|Dazzled]] while the persistent damage lasts.
+**Critical Success** The target takes double damage, takes double persistent damage, is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] for 1 round, and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] while the persistent damage lasts.
 
 **Success** The target takes full damage, full persistent damage, and is dazzled while the persistent damage lasts.
 

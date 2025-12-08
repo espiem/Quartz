@@ -15,7 +15,7 @@ license: OGL
 ---
 # Qat
 
-### [[alchemical]][[consumable]][[drug]][[ingested]][[poison]]
+### [[alchemical]][[consumable]][[drug]][[ingested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** drug; 
 **Price** 4 sp; 
@@ -36,9 +36,9 @@ The save for addiction to qat is DC 14 Fortitude check, but the maximum addictio
 
 **Stage 1** +1 item bonus to Reflex saves (10 minutes)
 
-[[Equipment Effects/Effect_ Qat (Stage 1)|Effect: Qat (Stage 1)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Qat (Stage 1)|Effect: Qat (Stage 1)]]
 
-**Stage 2** [[Conditions/Stupefied|Stupefied 1]] (1 hour)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (1 hour)
 
 *Source: Pathfinder Lost Omens: Absalom, City of Lost Omens*
 *OGL*

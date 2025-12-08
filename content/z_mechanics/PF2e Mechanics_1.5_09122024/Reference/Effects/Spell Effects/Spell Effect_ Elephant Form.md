@@ -25,7 +25,7 @@ You channel the primal forces of nature to transform into a Large battle form, s
 *   **Melee** `pf2:1` trunk (reach 10 feet), **Effect** grabbing trunk;
 *   **Melee** `pf2:1` tusk (reach 10 feet), **Damage** 2d6 piercing.
 
-**Grabbing Trunk** A creature up to two sizes smaller that's hit by your trunk is [[Conditions/Grabbed|Grabbed]]. If you succeed at your [[Actions/Grapple|Grapple]] check against a creature grabbed by your trunk, you can reposition the creature to another space within your trunk's reach.
+**Grabbing Trunk** A creature up to two sizes smaller that's hit by your trunk is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]]. If you succeed at your [[Actions/Grapple|Grapple]] check against a creature grabbed by your trunk, you can reposition the creature to another space within your trunk's reach.
 
 * * *
 

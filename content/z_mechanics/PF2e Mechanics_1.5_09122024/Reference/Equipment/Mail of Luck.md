@@ -12,7 +12,7 @@ license: OGL
 ---
 # Mail of Luck
 ## Item 13
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** heavy; **Group** composite
 **Price** 2600 gp; 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Wish Alchemy
 ## Feat 20
-### [rare](rare "Rare Rarity Trait")[[alchemist]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist]]
 
 **Category** class; 
 

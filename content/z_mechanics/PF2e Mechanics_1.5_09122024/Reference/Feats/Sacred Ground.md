@@ -15,7 +15,7 @@ license: ORC
 ---
 # Sacred Ground
 ## Feat 4
-### [[cleric]][[consecration]][[divine]][[exploration]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]][[consecration]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[exploration]]
 
 **Category** class; 
 

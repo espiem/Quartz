@@ -11,7 +11,7 @@ license: OGL
 ---
 # Gnaw `pf2:3`
 ## Feat 5
-### [[ratfolk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Ratfolk]]
 
 **Category** ancestry; 
 

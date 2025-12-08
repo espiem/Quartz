@@ -8,7 +8,7 @@ tags:
 ---
 
 # Hat of Disagreeable Disguise (Greater)
-![[icons-equipment-head-hat-belted-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-equipment-head-hat-belted-grey.webp|150]]
 
 This elegant hat appears to be and functions as a _[[Masquerade Scarf|Hat of Disguise]]_. When you invest the hat, it fuses to you.
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Cleansing Light `pf2:2`
 ## Feat 17
-### [[concentrate]][[kashrishi]][[light]][[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Kashrishi]][[light]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** ancestry; 
 
@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-A burst of light from your horn cleanses your allies of ailments and sends your foes reeling. You and all allies in a 20-foot emanation benefit from a 4th-rank [[Spells/Restoration|Restoration]] spell. All enemies within the emanation are [[Conditions/Dazzled|Dazzled]] until the end of your next turn.
+A burst of light from your horn cleanses your allies of ailments and sends your foes reeling. You and all allies in a 20-foot emanation benefit from a 4th-rank [[Spells/Restoration|Restoration]] spell. All enemies within the emanation are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] until the end of your next turn.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

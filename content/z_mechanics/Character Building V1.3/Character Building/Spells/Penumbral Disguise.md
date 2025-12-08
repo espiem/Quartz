@@ -8,7 +8,7 @@ tags:
 ---
 
 # Penumbral Disguise
-![[systems-pf2e-icons-spells-prenumbral-disguise.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-prenumbral-disguise.webp|150]]
 
 You wrap the target in shadows, granting them a +1 status bonus to Stealth checks to [[Hide]] while in dim light or darkness.
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Snarling Badger (Moderate)
 ## Item 12
-### [[consumable]][[magical]][[mental]][[talisman]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[talisman]]
 
 **Category** talisman; 
 **Price** 400 gp; 
@@ -23,9 +23,9 @@ license: OGL
 
 **Activate** `pf2:0` command
 
-**Trigger** You lose the [[Conditions/Dying|Dying]] condition
+**Trigger** You lose the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying|Dying]] condition
 
-**Requirements** You have a [[Conditions/Wounded|Wounded]] value of 1 or more.
+**Requirements** You have a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded|Wounded]] value of 1 or more.
 
 * * *
 

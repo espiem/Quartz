@@ -14,7 +14,7 @@ license: ORC
 ---
 # To Battle! `pf2:2`
 ## Feat 8
-### [[archetype]][[auditory]][[flourish]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[flourish]]
 
 **Category** class; 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Necromantic Deflection
 ## Feat 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[champion]][[druid]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Druid]]
 
 **Category** class; 
 

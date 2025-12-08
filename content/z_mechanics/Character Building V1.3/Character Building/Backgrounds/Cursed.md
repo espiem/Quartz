@@ -14,4 +14,4 @@ You are the victim of a personal or hereditary curse. Through great effort and o
 
 Choose two ability boosts. One must be to **Intelligence** or **Charisma**, and one is a free ability boost.
 
-You are trained in Occultism and Curse Lore. You gain the [[Warding Sign]] reaction. You and the GM should determine the full effects of the curse, though you've staved most of them off for now. The GM determines the curse's lingering manifestations on you, which usually include at least a constant or very frequent thematic effect and occasional more dangerous effects.
+You are trained in Occultism and Curse Lore. You gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Hero Point Deck/Warding Sign]] reaction. You and the GM should determine the full effects of the curse, though you've staved most of them off for now. The GM determines the curse's lingering manifestations on you, which usually include at least a constant or very frequent thematic effect and occasional more dangerous effects.

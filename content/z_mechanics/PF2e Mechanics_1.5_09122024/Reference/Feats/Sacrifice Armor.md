@@ -11,7 +11,7 @@ license: OGL
 ---
 # Sacrifice Armor `pf2:r`
 ## Feat 8
-### [[champion]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]]
 
 **Category** class; 
 
@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-With divine awareness, you twist your body to lessen the impact of an attack. Reduce the damage you take by an amount equal to twice your armor's level. Your armor becomes [[Conditions/Broken|Broken]], reducing its Hit Points to its Broken Threshold. If your armor was already damaged, it is destroyed instead.
+With divine awareness, you twist your body to lessen the impact of an attack. Reduce the damage you take by an amount equal to twice your armor's level. Your armor becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Broken|Broken]], reducing its Hit Points to its Broken Threshold. If your armor was already damaged, it is destroyed instead.
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

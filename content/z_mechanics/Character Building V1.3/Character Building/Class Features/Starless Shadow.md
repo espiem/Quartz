@@ -18,4 +18,4 @@ Your patron first contacted you at the witching hour, as your body lay paralyzed
 
 **Lesson of Night's Terrors** Your patron taught you that the darkness can hide all manner of things best left unseen. You gain the [[Shroud of Night]] hex cantrip, and your familiar learns [[Fear]].
 
-**Familiar of Stalking Night** Your familiar is dark of fur or feather, and light seems to disappear into it. When you Cast or Sustain a hex, and your familiar is adjacent to an enemy to which it's [[Concealed]], [[Hidden]], or undetected, the enemy becomes [[Frightened|Frightened 1]].
+**Familiar of Stalking Night** Your familiar is dark of fur or feather, and light seems to disappear into it. When you Cast or Sustain a hex, and your familiar is adjacent to an enemy to which it's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]], or undetected, the enemy becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].

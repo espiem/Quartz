@@ -14,7 +14,7 @@ license: OGL
 ---
 # Glider Form `pf2:1`
 ## Feat 1
-### [[eidolon]][[evolution]][[move]][[summoner]]
+### [[eidolon]][[evolution]][[move]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Summoner]]
 
 **Category** class; 
 

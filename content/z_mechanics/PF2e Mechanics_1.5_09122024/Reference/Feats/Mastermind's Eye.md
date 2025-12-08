@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Butterfly Blade Dedication
 * * *
-When you succeed at identifying a creature using Recall Knowledge, that creature is [[Conditions/Off-Guard|Off-Guard]] against your attacks until the start of your next turn; if you critically succeed, it's off-guard against your attacks for 1 minute. This feat serves as the rogue's mastermind racket for the purpose of meeting prerequisites.
+When you succeed at identifying a creature using Recall Knowledge, that creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] against your attacks until the start of your next turn; if you critically succeed, it's off-guard against your attacks for 1 minute. This feat serves as the rogue's mastermind racket for the purpose of meeting prerequisites.
 
 *Source: Pathfinder #166: Despair on Danger Island*
 *OGL*

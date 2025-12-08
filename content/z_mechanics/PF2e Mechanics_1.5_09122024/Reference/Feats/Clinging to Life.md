@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-This life still holds much for you, and you aren't ready to fall back into the River of Souls just yet. When you're reduced to 0 Hit Points and not immediately killed, you go to 1 Hit Point instead, fall [[Conditions/Prone|Prone]], and are [[Conditions/Unconscious|Unconscious]], and you don't gain the [[Conditions/Wounded|Wounded 1]] condition.
+This life still holds much for you, and you aren't ready to fall back into the River of Souls just yet. When you're reduced to 0 Hit Points and not immediately killed, you go to 1 Hit Point instead, fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]], and are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]], and you don't gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded|Wounded 1]] condition.
 
 *Source: Pathfinder #199: To Bloom Below the Web*
 *OGL*

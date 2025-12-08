@@ -13,7 +13,7 @@ license: ORC
 ---
 # Vexing Tumble `pf2:1`
 ## Feat 6
-### [[bravado]][[swashbuckler]]
+### [[bravado]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 
@@ -24,7 +24,7 @@ You tumble around your foes, expertly avoiding their reactions. Stride up to hal
 
 * * *
 
-**Critical Success** This movement doesn't trigger reactions from the enemy, and the enemy is [[Conditions/Off-Guard|Off-Guard]] to you until the end of your turn
+**Critical Success** This movement doesn't trigger reactions from the enemy, and the enemy is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] to you until the end of your turn
 
 **Success** This movement doesn't trigger reactions from the enemy.
 

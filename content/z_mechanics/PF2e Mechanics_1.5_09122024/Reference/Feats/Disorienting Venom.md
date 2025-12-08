@@ -11,7 +11,7 @@ license: OGL
 ---
 # Disorienting Venom
 ## Feat 9
-### [[anadi]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Anadi]]
 
 **Category** ancestry; 
 
@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Venomous Anadi
 * * *
-The venom injected by your fangs disorients your foes. A creature damaged by your [[Actions/Anadi Venom|Anadi Venom]] must attempt a Fortitude check save against your class or spell DC, whichever is higher, or become [[Conditions/Off-Guard|Off-Guard]] for 1 round.
+The venom injected by your fangs disorients your foes. A creature damaged by your [[Actions/Anadi Venom|Anadi Venom]] must attempt a Fortitude check save against your class or spell DC, whichever is higher, or become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] for 1 round.
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Perfume Cloud `pf2:2`
 ## Feat 9
-### [[disease]][[ghoran]]
+### [[disease]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Ghoran]]
 
 **Category** ancestry; 
 
@@ -29,11 +29,11 @@ You issue a cloud of your fragrance like a full-body sneeze—but one that might
 
 **Critical Success** No effect.
 
-**Success** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for 1 round.
 
 **Failure** The creature is dazzled and can see only 10 feet away for 1 round.
 
-**Critical Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round.
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] for 1 round.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

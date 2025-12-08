@@ -26,7 +26,7 @@ You put your alchemical interest into practice. You become trained in alchemical
 
 You gain the [[PF2e Journals/Archetypes/Quick Alchemy|Quick Alchemy]] benefits, creating up to 4 versatile vials during your daily preparations. Add the formulas for four additional common alchemical items to your formula book, in addition to those you gain from Alchemical Crafting.
 
-[[PF2e Journals/Archetypes/Alchemist|Alchemist]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Alchemist|Alchemist]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Focused Shot `pf2:1`
 ## Feat 12
-### [[concentrate]][[monk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 **Category** class; 
 
@@ -27,7 +27,7 @@ license: ORC
 
 You achieve a state of perfect calm before unleashing your attack, opening your mind to the minute movements of the world around you to increase your accuracy.
 
-Make a ranged weapon Strike against a target within your weapon's first range increment. This Strike ignores the target's [[Conditions/Concealed|Concealed]] condition and all cover.
+Make a ranged weapon Strike against a target within your weapon's first range increment. This Strike ignores the target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] condition and all cover.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

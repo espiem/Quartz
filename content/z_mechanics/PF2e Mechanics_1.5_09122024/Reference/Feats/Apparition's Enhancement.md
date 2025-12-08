@@ -15,7 +15,7 @@ license: ORC
 ---
 # Apparition's Enhancement `pf2:0`
 ## Feat 4
-### [[animist]][[apparition]][[divine]][[spirit]]
+### [[animist]][[apparition]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[spirit]]
 
 **Category** class; 
 

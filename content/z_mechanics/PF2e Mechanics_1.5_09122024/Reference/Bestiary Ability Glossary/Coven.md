@@ -13,7 +13,7 @@ license: ORC
 ---
 # Coven
 
-### [[mental]][[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** interaction; 
 

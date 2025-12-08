@@ -8,7 +8,7 @@ tags:
 ---
 
 # Therapeutic Snap Peas
-![[icons-consumables-vegetable-peas-pod-cracked-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-consumables-vegetable-peas-pod-cracked-green.webp|150]]
 
 Affectionately called "the healer's kit of the Plane of Wood," _therapeutic snap peas_ are specially cultivated snap pea pods overflowing with restorative magic.
 

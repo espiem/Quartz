@@ -12,7 +12,7 @@ license: OGL
 ---
 # Accursed Clay Fist
 ## Feat 10
-### [[archetype]][[curse]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Curse]]
 
 **Category** class; 
 
@@ -26,7 +26,7 @@ You have replaced one of your forearms with one made of clay and infused with cu
 
 **Special** The damage die for your clay fist is 1d8, and it loses the agile and finesse traits of a typical fist.
 
-[[Feat_Feature Effects/Effect_ Accursed Clay Fist|Effect: Accursed Clay Fist]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Accursed Clay Fist|Effect: Accursed Clay Fist]]
 
 *Source: Pathfinder #153: Life's Long Shadows*
 *OGL*

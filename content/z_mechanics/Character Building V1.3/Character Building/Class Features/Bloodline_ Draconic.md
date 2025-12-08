@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bloodline: Draconic
-![[icons-commodities-biological-wing-lizard-pink-purple.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-commodities-biological-wing-lizard-pink-purple.webp|150]]
 
 The blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic
 

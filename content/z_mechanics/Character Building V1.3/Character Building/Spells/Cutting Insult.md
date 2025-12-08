@@ -16,11 +16,11 @@ You utter an insult so offensive that it cuts your target to the quick. Your tar
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half mental damage but no persistent bleed damage, and it becomes [[Frightened|Frightened 1]].
+**Success** The creature takes half mental damage but no persistent bleed damage, and it becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Failure** The creature takes full mental damage and full persistent bleed damage, and it becomes [[Frightened|Frightened 2]].
+**Failure** The creature takes full mental damage and full persistent bleed damage, and it becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
-**Critical Failure** The creature takes double mental damage and double persistent bleed damage, and becomes [[Frightened|Frightened 3]].
+**Critical Failure** The creature takes double mental damage and double persistent bleed damage, and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]].
 
 * * *
 

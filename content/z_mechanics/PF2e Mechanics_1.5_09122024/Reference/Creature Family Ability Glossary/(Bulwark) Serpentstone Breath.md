@@ -14,7 +14,7 @@ license: ORC
 ---
 # (Bulwark) Serpentstone Breath `pf2:2`
 
-### [[earth]][[incapacitation]][[primal]]
+### [[earth]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[primal]]
 
 **Category** offensive; 
 
@@ -27,7 +27,7 @@ The bulwark breathes a 60- foot cone of green gas. Each creature in the area mus
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature's body hardens, causing it to become [[Conditions/Slowed|Slowed 1]] for 1 round.
+**Success** The creature's body hardens, causing it to become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] for 1 round.
 
 **Failure** The creature becomes petrified for 1 minute. It can attempt a new save at the end of each of its turns.
 

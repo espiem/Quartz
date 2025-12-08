@@ -11,7 +11,7 @@ license: OGL
 ---
 # Resilient Touch
 ## Feat 10
-### [[champion]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ Your healing energies create an aura of protection that defends your allies agai
 
 An ally that recovers Hit Points from your [[Spells/Lay on Hands|Lay on Hands]] gains a +1 status bonus to their saving throws until the end of their next turn.
 
-[[Spell Effects/Spell Effect_ Resilient Touch|Spell Effect: Resilient Touch]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Spell Effects/Spell Effect_ Resilient Touch|Spell Effect: Resilient Touch]]
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

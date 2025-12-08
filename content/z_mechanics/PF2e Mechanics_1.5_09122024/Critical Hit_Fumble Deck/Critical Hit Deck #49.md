@@ -20,7 +20,7 @@ tags:
 
 # Parrying Strike
 
-> **Crit Effect:** Gain a [[Other Effects/Effect_ +2 circumstance bonus to AC|+2 circumstance bonus to AC]] until the end of your next turn.
+> **Crit Effect:** Gain a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ +2 circumstance bonus to AC|+2 circumstance bonus to AC]] until the end of your next turn.
 
 `Slashing`
 

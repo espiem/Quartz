@@ -8,7 +8,7 @@ tags:
 ---
 
 # Unblinking Flame Aura
-![[icons-magic-fire-flame-burning-earth-orange.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-flame-burning-earth-orange.webp|150]]
 
 You focus your sight inside and call on your inner fire to grant you warmth, steady your vision, and soothe your body. You recover 15 Hit Points. For the duration, you gain a +2 status bonus on Perception checks and resistance 10 to cold.
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Stunning Appearance
 ## Feat 16
-### [[archetype]][[vigilante]]
+### [[archetype]][[Vigilante]]
 
 **Category** class; 
 

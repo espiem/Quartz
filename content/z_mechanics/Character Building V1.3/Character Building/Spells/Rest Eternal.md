@@ -20,4 +20,4 @@ You call upon gods, spirits, and stranger beings to bar a creature's spirit from
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** The ritual fails, and the spirits you appealed to are angered by your meddling. All casters become [[Doomed|Doomed 1]] for 1 week.
+**Critical Failure** The ritual fails, and the spirits you appealed to are angered by your meddling. All casters become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]] for 1 week.

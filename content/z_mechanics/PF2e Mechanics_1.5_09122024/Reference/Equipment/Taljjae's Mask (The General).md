@@ -11,7 +11,7 @@ license: OGL
 ---
 # Taljjae's Mask (The General)
 ## Item 18
-### [unique](unique "Unique Rarity Trait")[[invested]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 
@@ -28,7 +28,7 @@ Those who gain one of Taljjae's masks, either by defeating Taljjae or some other
 
 **Effect** The General grants its wearer a +3 status bonus to attack rolls with polearms for 1 minute.
 
-[[Equipment Effects/Effect_ Taljjae's Mask (The General)|Effect: Taljjae's Mask (The General)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Taljjae's Mask (The General)|Effect: Taljjae's Mask (The General)]]
 
 *Source: Pathfinder Lost Omens: Monsters of Myth*
 *OGL*

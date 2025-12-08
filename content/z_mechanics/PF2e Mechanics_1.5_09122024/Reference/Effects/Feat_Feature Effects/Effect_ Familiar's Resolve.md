@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Familiar's Resolve|Familiar's Resolve]]
 
-You gain a status bonus to saving throws against effects that would cause you to be [[Conditions/Doomed|Doomed]] or [[Conditions/Frightened|Frightened]].
+You gain a status bonus to saving throws against effects that would cause you to be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]].
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

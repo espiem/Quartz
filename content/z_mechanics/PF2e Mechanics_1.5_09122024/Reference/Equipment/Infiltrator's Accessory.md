@@ -17,7 +17,7 @@ license: ORC
 ---
 # Infiltrator's Accessory
 ## Item 5
-### [[agile]][[concealable]][[finesse]][[illusion]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[concealable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 |  |  |
 | -- | -- |

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Garland Spell `pf2:1`
 ## Feat 12
-### [[druid]][[manipulate]][[spellshape]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Druid]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[spellshape]]
 
 **Category** class; 
 

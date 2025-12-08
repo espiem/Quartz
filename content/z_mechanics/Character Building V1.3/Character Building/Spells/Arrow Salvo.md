@@ -10,7 +10,7 @@ tags:
 # Arrow Salvo
 ![[icons-weapons-ammunition-arrows-war-white.webp|150]]
 
-You conjure an immense wooden bow that launches a salvo of massive arrows at all nearby enemies. All creatures in the affected area take 8d10 piercing damage, with a basic Reflex save. On a critical failure, the target is knocked [[Prone]] from the force of the impact.
+You conjure an immense wooden bow that launches a salvo of massive arrows at all nearby enemies. All creatures in the affected area take 8d10 piercing damage, with a basic Reflex save. On a critical failure, the target is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] from the force of the impact.
 
 * * *
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Clue In `pf2:r`
 
-### [[concentrate]][[investigator]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Investigator]]
 
 **Category** interaction; 
 
@@ -28,7 +28,7 @@ license: ORC
 
 You share information with the triggering creature. They gain a circumstance bonus to their check equal to your investigation bonus from Pursue a Lead. The GM can add any relevant traits to this reaction depending on the situation, such as auditory and linguistic if you're conveying information verbally.
 
-[[Feat_Feature Effects/Effect_ Clue In|Effect: Clue In]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Clue In|Effect: Clue In]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -14,14 +14,14 @@ license: ORC
 ---
 # Irradiate `pf2:2`
 ## Feat 6
-### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]][[poison]]
+### [rare](rare "Rare Rarity Trait")[[deviant]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** class; 
 
 
 
 
-You exude an aura of radiation, making everyone around you ill. All creatures in a 15-foot emanation must succeed at a Fortitude check save or become [[Conditions/Sickened|Sickened 1]]. On a critical failure, they're also [[Conditions/Fatigued|Fatigued]] for 1 minute. You're immune to your own radiation. The value of this sickened condition increases by 1 for every 5 levels you have beyond 6th.
+You exude an aura of radiation, making everyone around you ill. All creatures in a 15-foot emanation must succeed at a Fortitude check save or become [[Conditions/Sickened|Sickened 1]]. On a critical failure, they're also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]] for 1 minute. You're immune to your own radiation. The value of this sickened condition increases by 1 for every 5 levels you have beyond 6th.
 
 **Awakening** You become more efficient at exuding this aura of radiation. The radius of the emanation becomes 60 feet.
 

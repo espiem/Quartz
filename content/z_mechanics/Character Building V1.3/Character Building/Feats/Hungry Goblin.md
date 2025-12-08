@@ -10,6 +10,6 @@ tags:
 # Hungry Goblin
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You'll eat anything and anyone. Whenever you inflict [[Persistent Damage|Persistent Bleed Damage]] with your jaws unarmed attack, you gain temporary Hit Points equal to half your level for 1 minute.
+You'll eat anything and anyone. Whenever you inflict [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Persistent Damage|Persistent Bleed Damage]] with your jaws unarmed attack, you gain temporary Hit Points equal to half your level for 1 minute.
 
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Wild Winds Stance
-![[icons-magic-air-wind-tornado-funnel-blue-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-air-wind-tornado-funnel-blue-grey.webp|150]]
 
 You take on the stance of the flowing winds, sending out waves of energy at a distance. You can make wind crash unarmed Strikes as ranged Strikes against targets within 30 feet. These deal 1d6 bludgeoning damage, use the brawling group, and have the agile, nonlethal, propulsive, and unarmed traits. Wind crash Strikes ignore concealment and all cover.
 

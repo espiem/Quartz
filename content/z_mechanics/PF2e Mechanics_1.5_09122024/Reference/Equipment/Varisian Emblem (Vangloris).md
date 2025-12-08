@@ -13,7 +13,7 @@ license: OGL
 ---
 # Varisian Emblem (Vangloris)
 ## Item 3
-### [[illusion]][[invested]][[magical]][[tattoo]]
+### [[illusion]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[tattoo]]
 
 
 **Price** 60 gp; 

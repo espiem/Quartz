@@ -12,7 +12,7 @@ license: OGL
 ---
 # Love
 
-### [rare](rare "Rare Rarity Trait")[[mental]][[occult]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** deityboon; 
 

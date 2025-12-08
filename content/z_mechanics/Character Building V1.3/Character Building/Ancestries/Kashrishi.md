@@ -12,4 +12,4 @@ tags:
 
 Kashrishi make their homes in remote areas of the world. These quiet beings have stout, durable frames and distinctive crystalline horns. Their inherent psychic abilities make them natural empaths but also occasionally burden them with the unceasing thoughts of their neighbors.
 
-[[Kashrishi]]
+[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Kashrishi]]

@@ -14,14 +14,14 @@ license: ORC
 ---
 # Glitter Crystals
 ## Feat 8
-### [[additive]][[alchemist]][[healing]]
+### [[additive]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist]][[healing]]
 
 **Category** class; 
 
 
 
 
-You can mix a blend of crushed flowers and alchemical salt into an alchemical elixir with the healing trait or alchemical food. Choose one of the following effects: reduce the drained condition by 1, reduce the stupefied condition by 1, remove the [[Conditions/Dazzled|Dazzled]] condition, or remove the [[Conditions/Deafened|Deafened]] condition. The creature who consumes the modified healing elixir or alchemical food gains this benefit in addition to the food or elixir's normal effects. This has no effect against permanent conditions.
+You can mix a blend of crushed flowers and alchemical salt into an alchemical elixir with the healing trait or alchemical food. Choose one of the following effects: reduce the drained condition by 1, reduce the stupefied condition by 1, remove the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] condition, or remove the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]] condition. The creature who consumes the modified healing elixir or alchemical food gains this benefit in addition to the food or elixir's normal effects. This has no effect against permanent conditions.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

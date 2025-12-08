@@ -8,7 +8,7 @@ tags:
 ---
 
 # Flaming Star (Greater)
-![[icons-equipment-neck-necklace-astrology-sun-gold.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-equipment-neck-necklace-astrology-sun-gold.webp|150]]
 
 A sheen of red crosses the surface of this star-shaped goldstone medallion when the light hits it. The affixed armor or weapon is warm to the touch. The spell attack roll of any spell cast by Activating this item is +14, and the spell DC is 24.
 

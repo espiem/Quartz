@@ -8,7 +8,7 @@ tags:
 ---
 
 # Weapon Surge
-![[systems-pf2e-icons-spells-weapon-surge.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-weapon-surge.webp|150]]
 
 Holding your weapon aloft, you fill it with divine energy. On your next Strike with that weapon before the start of your next turn, you gain a +1 status bonus to the attack roll and the weapon deals an additional 1d6 spirit damage, and the Strike gainst the sanctified trait. _Weapon_ _surge_ ends once you complete this Strike or the weapon leaves your possession.
 

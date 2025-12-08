@@ -11,7 +11,7 @@ license: OGL
 ---
 # Smoke Curtain `pf2:2`
 ## Feat 8
-### [[gunslinger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Gunslinger]]
 
 **Category** class; 
 
@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-You load an extra dose of powder into your shot, causing it to belch a cloud of smoke. You make a Strike with your firearm and create a cloud of smoke in a 20-foot emanation centered on your location. Creatures are [[Conditions/Concealed|Concealed]] while within the smoke, and creatures outside the area are concealed to creatures within the smoke. The smoke dissipates at the start of your next turn. If your Strike is a critical failure, your firearm misfires.
+You load an extra dose of powder into your shot, causing it to belch a cloud of smoke. You make a Strike with your firearm and create a cloud of smoke in a 20-foot emanation centered on your location. Creatures are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] while within the smoke, and creatures outside the area are concealed to creatures within the smoke. The smoke dissipates at the start of your next turn. If your Strike is a critical failure, your firearm misfires.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

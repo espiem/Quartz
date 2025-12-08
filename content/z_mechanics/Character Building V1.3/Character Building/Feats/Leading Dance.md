@@ -24,4 +24,4 @@ You sweep your foe into your dance. Attempt a performance check against an adjac
 
 **Failure** The foe doesn't follow your steps. You can move 5 feet if you choose, but this movement triggers reactions normally.
 
-**Critical Failure** You stumble, falling [[Prone]] in your space.
+**Critical Failure** You stumble, falling [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] in your space.

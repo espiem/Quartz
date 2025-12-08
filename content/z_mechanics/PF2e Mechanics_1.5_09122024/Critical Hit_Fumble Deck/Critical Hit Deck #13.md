@@ -8,13 +8,13 @@ tags:
 ---
 # Crumpling Blow
 
-> The target is knocked [[Conditions/Prone|Prone]].
+> The target is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 `Bludgeoning`
 
 # Pierced
 
-> The target is [[Conditions/Slowed|Slowed 1]] until the end of its next turn.
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] until the end of its next turn.
 
 `Piercing`
 
@@ -26,6 +26,6 @@ tags:
 
 # Life Leech
 
-> If this is a spell, the target becomes [[Conditions/Doomed|Doomed 1]] and you regain 1d8 Hit Points.
+> If this is a spell, the target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]] and you regain 1d8 Hit Points.
 
 `Bomb or Spell`

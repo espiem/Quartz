@@ -12,7 +12,7 @@ license: OGL
 ---
 # Cloak of Elvenkind
 ## Item 7
-### [[illusion]][[invested]][[magical]]
+### [[illusion]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 360 gp; 
@@ -23,7 +23,7 @@ This cloak is deep green with a voluminous hood, embroidered with gold trim and 
 
 When you adjust the cloak's clasp (an Interact action), the cloak transforms to match the environment around you and muffles your sounds, granting you a +1 item bonus to Stealth checks.
 
-[[Equipment Effects/Effect_ Cloak of Elvenkind|Effect: Cloak of Elvenkind]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Cloak of Elvenkind|Effect: Cloak of Elvenkind]]
 
 * * *
 

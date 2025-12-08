@@ -10,7 +10,7 @@ tags:
 ---
 
 # Breathe Fire
-![[systems-pf2e-icons-spells-dragon-breath.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-dragon-breath.webp|150]]
 
 A gout of flame sprays from your mouth. You deal 2d6 fire damage to creatures in the area with a basic Reflex save.
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Pact of Draconic Fury
 ## Feat 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[arcane]][[archetype]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[archetype]]
 
 **Category** class; 
 

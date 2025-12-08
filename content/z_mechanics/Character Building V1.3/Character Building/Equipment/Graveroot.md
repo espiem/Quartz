@@ -22,6 +22,6 @@ The opaque white sap from the graveroot shrub clouds the mind.
 
 **Stage 1** 1d8 poison damage (1 round)
 
-**Stage 2** 1d10 poison damage and [[Stupefied|Stupefied 1]] (1 round)
+**Stage 2** 1d10 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (1 round)
 
-**Stage 3** 2d6 poison damage and [[Stupefied|Stupefied 2]] (1 round)
+**Stage 3** 2d6 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (1 round)

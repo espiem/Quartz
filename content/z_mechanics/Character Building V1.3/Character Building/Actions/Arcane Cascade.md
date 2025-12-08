@@ -8,7 +8,7 @@ tags:
 ---
 
 # Arcane Cascade
-![[icons-magic-control-silhouette-hold-change-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Actions/zz_asset-files/icons-magic-control-silhouette-hold-change-blue.webp|150]]
 
 **Requirements** You used your most recent action this turn to [[Cast a Spell]] or make a [[Spellstrike]]. You need to meet this requirement only to enter the stance, not to remain in it.
 

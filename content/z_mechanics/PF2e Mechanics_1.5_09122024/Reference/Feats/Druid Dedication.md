@@ -26,7 +26,7 @@ You cast spells like a druid. You gain the Cast a Spell activity. You can prepar
 
 * * *
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Druid|Druid]] archetype.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Druid|Druid]] archetype.
 
 *Source: Pathfinder Player Core*
 *ORC*

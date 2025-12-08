@@ -12,7 +12,7 @@ license: OGL
 ---
 # Elemental Familiar (Fire)
 
-### [[fire]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]]
 
 **Category** familiar; 
 

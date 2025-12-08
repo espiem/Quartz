@@ -13,7 +13,7 @@ license: OGL
 ---
 # Gift of the Poisoned Heart
 ## Item 16
-### [rare](rare "Rare Rarity Trait")[[consumable]][[cursed]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[cursed]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 0 gp; 

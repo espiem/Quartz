@@ -8,7 +8,7 @@ tags:
 ---
 
 # Tteokguk of Time Advancement
-![[systems-pf2e-icons-equipment-consumables-other-consumables-tteogkuk-of-time-advancement.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-other-consumables-tteogkuk-of-time-advancement.webp|150]]
 
 Dumplings and rice cakes float invitingly between seaweed and egg in this comforting soup. While normal tteokguk helps you gain an extra year of age when you eat it, the magic in tteokguk of time advancement takes this a step further.
 

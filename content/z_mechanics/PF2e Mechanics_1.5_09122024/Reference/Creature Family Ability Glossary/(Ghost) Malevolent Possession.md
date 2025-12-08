@@ -14,7 +14,7 @@ license: ORC
 ---
 # (Ghost) Malevolent Possession `pf2:2`
 
-### [[incapacitation]][[mental]][[possession]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[possession]]
 
 **Category** offensive; 
 

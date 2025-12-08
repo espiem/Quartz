@@ -11,7 +11,7 @@ license: ORC
 ---
 # Cauthooj Bagpipes
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 2600 gp; 
@@ -34,7 +34,7 @@ The main portion of this set of bagpipes is fashioned from the dried skin of a c
 
 **Success** The target is unaffected.
 
-**Failure** The target is [[Conditions/Confused|Confused]] for 1 round.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]] for 1 round.
 
 **Critical Failure** The target is confused for 1 round and immediately attacks itself (in the normal fashion for attacking oneself while confused). This Strike doesn't give the creature a flat check to recover from the confusion.
 

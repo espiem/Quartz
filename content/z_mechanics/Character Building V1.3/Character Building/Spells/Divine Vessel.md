@@ -8,7 +8,7 @@ tags:
 ---
 
 # Divine Vessel
-![[systems-pf2e-icons-spells-divine-vessel.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-divine-vessel.webp|150]]
 
 You accept otherworldly energies into your body; while you are still recognizably yourself, you gain the features of one of your deity's servitors. Choose an alignment your deity has (chaotic, evil, good, or lawful). You can't cast this spell if you don't have a deity or your deity is true neutral. This spell gains the trait of the alignment you chose.
 

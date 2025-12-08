@@ -11,7 +11,7 @@ license: OGL
 ---
 # Legerdemain Handkerchief
 ## Item 2
-### [[extradimensional]][[magical]]
+### [[extradimensional]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 25 gp; 

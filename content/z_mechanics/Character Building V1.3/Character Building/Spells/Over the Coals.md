@@ -8,7 +8,7 @@ tags:
 ---
 
 # Over the Coals
-![[icons-magic-fire-flame-burning-campfire-rocks.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-flame-burning-campfire-rocks.webp|150]]
 
 You accuse the target of breaking its word to you and invoke the wrath of your patron to claim what's due, demanding the target pay you in currency, fulfill an order, or stand down. The demand can't be obviously self-destructive, or the spell fails. If the target resists, you take your payment from its life force. The target must attempt a Will save. Regardless of the result of its save, the target is temporarily immune for 1 day.
 
@@ -20,7 +20,7 @@ You accuse the target of breaking its word to you and invoke the wrath of your p
 
 **Failure** As success, but if the target doesn't comply, it is [[Drained 1]] and takes 6d8 persistent,void damage.
 
-**Critical Failure** As success, but if the target doesn't comply, it is [[Drained 1|Drained 2]], [[Doomed|Doomed 1]], and takes 6d8 persistent,void damage. Even if the target completes your commands later, the spell doesn't end until all the conditions end.
+**Critical Failure** As success, but if the target doesn't comply, it is [[Drained 1|Drained 2]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]], and takes 6d8 persistent,void damage. Even if the target completes your commands later, the spell doesn't end until all the conditions end.
 
 * * *
 

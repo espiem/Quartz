@@ -12,14 +12,14 @@ license: OGL
 ---
 # Perfected Robes
 ## Item 22
-### [rare](rare "Rare Rarity Trait")[[artifact]][[divine]][[invested]]
+### [rare](rare "Rare Rarity Trait")[[artifact]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[invested]]
 
 
 **Price** 0 gp; 
 **Bulk** L; **Size** med
 **Usage** worn
 
-These unadorned white robes, fastened with simple brass pins in the shape of a human hand, can't be soiled or blemished. While wearing _perfected robes_, you don't need to eat, sleep, or drink, but you can if you choose to. The robes bless you with constant [[Spells/Truesight|Truesight]] (+32 counteract bonus). A creature who dons these robes without earning them is [[Conditions/Clumsy|Clumsy 3]], [[Conditions/Enfeebled|Enfeebled 3]], and [[Conditions/Stupefied|Stupefied 3]] while wearing them, gaining the true seeing but otherwise unable to use the robes' magic.
+These unadorned white robes, fastened with simple brass pins in the shape of a human hand, can't be soiled or blemished. While wearing _perfected robes_, you don't need to eat, sleep, or drink, but you can if you choose to. The robes bless you with constant [[Spells/Truesight|Truesight]] (+32 counteract bonus). A creature who dons these robes without earning them is [[Conditions/Clumsy|Clumsy 3]], [[Conditions/Enfeebled|Enfeebled 3]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 3]] while wearing them, gaining the true seeing but otherwise unable to use the robes' magic.
 
 **Activate** `pf2:0` envision
 

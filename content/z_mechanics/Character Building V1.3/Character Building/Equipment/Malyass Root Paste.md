@@ -24,4 +24,4 @@ Malyass root paste sees use to impede opponents in athletic competitions, in add
 
 **Stage 2** [[Clumsy 1|Clumsy 2]] and -20-foot status penalty to all Speeds (1 minute)
 
-**Stage 3** [[Clumsy 1|Clumsy 3]], [[Off-Guard]], and -30-foot status penalty to all Speeds
+**Stage 3** [[Clumsy 1|Clumsy 3]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]], and -30-foot status penalty to all Speeds

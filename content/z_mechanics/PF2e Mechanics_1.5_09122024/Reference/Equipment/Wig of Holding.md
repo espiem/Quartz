@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wig of Holding
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[extradimensional]][[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[extradimensional]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 45 gp; 

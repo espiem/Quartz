@@ -13,7 +13,7 @@ license: OGL
 ---
 # Protective Spirit Mask
 ## Feat 20
-### [rare](rare "Rare Rarity Trait")[[archetype]][[druid]][[wizard]]
+### [rare](rare "Rare Rarity Trait")[[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Druid]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Wizard]]
 
 **Category** class; 
 
@@ -21,7 +21,7 @@ license: OGL
 
 **Prerequisites** Druid Dedication or Wizard Dedication
 * * *
-Your mask carries the protective instincts of White Bull, the Horn Forger, and no one will hurt your allies while you have anything to say about it. Immediately after you Cast a non-cantrip Spell that targets only one ally, you can choose to have the spell also give that creature a +1 circumstance bonus to AC until the start of your next turn. [[Feat_Feature Effects/Effect_ Protective Spirit Mask|Effect: Protective Spirit Mask]]
+Your mask carries the protective instincts of White Bull, the Horn Forger, and no one will hurt your allies while you have anything to say about it. Immediately after you Cast a non-cantrip Spell that targets only one ally, you can choose to have the spell also give that creature a +1 circumstance bonus to AC until the start of your next turn. [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Protective Spirit Mask|Effect: Protective Spirit Mask]]
 
 You also gain the [[Adventure-Specific Actions/Protector's Interdiction|Protector's Interdiction]] reaction.
 

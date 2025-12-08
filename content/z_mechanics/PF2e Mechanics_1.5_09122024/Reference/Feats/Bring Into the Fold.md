@@ -16,7 +16,7 @@ license: ORC
 ---
 # Bring Into the Fold `pf2:2`
 ## Feat 16
-### [[auditory]][[emotion]][[linguistic]][[mental]][[mythic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[linguistic]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[mythic]]
 
 **Category** class; 
 

@@ -12,7 +12,7 @@ tags:
 
 This massive branch has been cut into a general club shape but still bears several knots and has a number of runes carved along its length. The _deflecting branch_ is a _+2 greater striking greatclub_.
 
-On a critical hit, you knock the target [[Prone]].
+On a critical hit, you knock the target [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].
 
 * * *
 
@@ -22,7 +22,7 @@ On a critical hit, you knock the target [[Prone]].
 
 **Trigger** You are the target of a physical ranged attack
 
-**Requirements** You're aware of the attack and are not [[Off-Guard]] against it
+**Requirements** You're aware of the attack and are not [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] against it
 
 * * *
 

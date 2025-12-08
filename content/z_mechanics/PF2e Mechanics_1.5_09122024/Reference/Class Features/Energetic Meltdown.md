@@ -19,7 +19,7 @@ license: OGL
 
 As you channel energy through your deviant abilities, some of it turns back on you, spiking your body temperature or dancing across your skin.
 
-[[Feat_Feature Effects/Effect_ Energetic Meltdown|Effect: Energetic Meltdown]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Energetic Meltdown|Effect: Energetic Meltdown]]
 
 **Mild Backlash** You take damage equal to your level as energy scours your body.
 

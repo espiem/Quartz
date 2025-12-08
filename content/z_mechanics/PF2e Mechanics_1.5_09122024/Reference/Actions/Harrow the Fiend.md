@@ -26,7 +26,7 @@ license: OGL
 
 **Effect** You gain a +1 status bonus on all Strikes or spell attack rolls against fiends for the duration of combat. Once during combat, you can draw a harrow card after you determine if a Strike or spell attack on a fiend hits but before you determine damage or effects caused to the fiend. If you draw a card from the suit of Hammers, increase the degree of success of your Strike or spell attack by one.
 
-[[Feat_Feature Effects/Effect_ Harrow the Fiend|Effect: Harrow the Fiend]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Harrow the Fiend|Effect: Harrow the Fiend]]
 
 *Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

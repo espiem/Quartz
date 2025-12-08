@@ -12,7 +12,7 @@ license: ORC
 ---
 # Greater Crossblooded Evolution
 ## Feat 18
-### [[sorcerer]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]]
 
 **Category** class; 
 

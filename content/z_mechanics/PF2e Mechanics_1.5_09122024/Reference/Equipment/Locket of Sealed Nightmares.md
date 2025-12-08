@@ -12,7 +12,7 @@ license: OGL
 ---
 # Locket of Sealed Nightmares
 ## Item 19
-### [rare](rare "Rare Rarity Trait")[[illusion]][[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[illusion]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 36000 gp; 

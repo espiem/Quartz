@@ -15,7 +15,7 @@ license: ORC
 ---
 # Netherwalk Incense
 ## Item 11
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]][[shadow]][[teleportation]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[shadow]][[teleportation]]
 
 **Category** other; 
 **Price** 300 gp; 

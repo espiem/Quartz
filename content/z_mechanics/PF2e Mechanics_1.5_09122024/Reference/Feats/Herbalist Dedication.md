@@ -25,7 +25,7 @@ You can create natural remedies. You gain the [[PF2e Journals/Archetypes/Advance
 
 You become an expert in Nature and can use Nature instead of Crafting to Craft alchemical consumables with the healing trait. You don't need to be trained in Crafting to do so, and you can use healer's tools instead of alchemist's tools.
 
-[[PF2e Journals/Archetypes/Herbalist|Herbalist]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Herbalist|Herbalist]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

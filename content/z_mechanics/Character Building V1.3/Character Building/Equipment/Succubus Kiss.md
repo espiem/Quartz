@@ -8,7 +8,7 @@ tags:
 ---
 
 # Succubus Kiss
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-succubus-kiss.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-alchemical-items-drugs-succubus-kiss.webp|150]]
 
 **Activate** 1 Interact
 
@@ -26,8 +26,8 @@ The save for addiction to succubus kiss is DC 28 fortitude, and the addiction ha
 
 **Stage 2** as stage 1 plus [[Drained 1]] (1 hour)
 
-**Stage 3** as stage 2 plus [[Blinded|Blindness]] or [[Deafened|Deafness]] (1 hour)
+**Stage 3** as stage 2 plus [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blindness]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafness]] (1 hour)
 
 **Stage 4** blindness and deafness (1 hour)
 
-**Stage 5** [[Unconscious]]
+**Stage 5** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]]

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Entertainer's Lute
 ## Item 4
-### [[coda]][[occult]][[staff]]
+### [[coda]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[staff]]
 
 
 **Price** 90 gp; 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Panache
 ## Feat 1
-### [[swashbuckler]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** classfeature; 
 
@@ -21,7 +21,7 @@ license: ORC
 
 You care as much about the way you accomplish something as whether you actually accomplish it in the first place. When you perform an action with particular style, you can leverage this moment of verve to perform spectacular, deadly maneuvers. This heightened state of flair is called panache.
 
-[[Feat_Feature Effects/Effect_ Panache|Effect: Panache]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Panache|Effect: Panache]]
 
 You gain panache by performing actions that have the bravado trait. [[Actions/Tumble Through|Tumble Through]] and additional actions determined by your swashbuckler's style gain the bravado trait when you use them. The GM might determine that a check to perform a particularly daring action, such as swinging on a chandelier or sliding down a drapery, can gain the bravado trait. These checks typically involve at least a single action and a non-trivial DC. Normally, you gain and use panache only in combat encounters; when an encounter ends, you lose panache.
 

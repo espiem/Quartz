@@ -13,7 +13,7 @@ license: ORC
 ---
 # Toxic Skin `pf2:r`
 
-### [[grippli]][[poison]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Grippli]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** defensive; 
 

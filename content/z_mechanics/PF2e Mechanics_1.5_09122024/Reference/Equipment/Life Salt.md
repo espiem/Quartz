@@ -13,7 +13,7 @@ license: OGL
 ---
 # Life Salt
 ## Item 5
-### [[consumable]][[divine]][[vitality]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[vitality]]
 
 **Category** other; 
 **Price** 25 gp; 

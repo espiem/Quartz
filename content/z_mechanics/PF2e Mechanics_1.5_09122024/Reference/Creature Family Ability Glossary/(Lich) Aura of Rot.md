@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Lich) Aura of Rot
 
-### [[arcane]][[aura]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]]
 
 **Category** defensive; 
 

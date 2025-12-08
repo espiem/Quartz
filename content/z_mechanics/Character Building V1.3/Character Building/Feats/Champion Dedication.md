@@ -16,4 +16,4 @@ You are bound by your deity's anathema and must follow the champion's code and a
 
 * * *
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[Champion]] archetype.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]] archetype.

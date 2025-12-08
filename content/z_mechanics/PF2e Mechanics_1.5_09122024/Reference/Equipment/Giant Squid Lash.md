@@ -18,7 +18,7 @@ license: ORC
 ---
 # Giant Squid Lash
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[finesse]][[magical]][[nonlethal]][[reach]][[trip]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[nonlethal]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]][[trip]]
 
 |  |  |
 | -- | -- |

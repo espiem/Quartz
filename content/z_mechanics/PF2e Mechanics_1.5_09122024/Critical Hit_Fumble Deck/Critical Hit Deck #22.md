@@ -8,7 +8,7 @@ tags:
 ---
 # Bone Masher
 
-> Normal damage. **Crit Effect:** Either the target is [[Conditions/Clumsy|Clumsy 2]] and takes a [[Other Effects/Effect_ -10-foot status penalty to your land Speed|-10-foot status penalty to your land Speed]] or is [[Conditions/Clumsy|Clumsy 2]] and can't use one of its arms (your choice). Either effect last until healed.
+> Normal damage. **Crit Effect:** Either the target is [[Conditions/Clumsy|Clumsy 2]] and takes a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -10-foot status penalty to your land Speed|-10-foot status penalty to your land Speed]] or is [[Conditions/Clumsy|Clumsy 2]] and can't use one of its arms (your choice). Either effect last until healed.
 
 `Bludgeoning`
 
@@ -26,6 +26,6 @@ tags:
 
 # Hypnotic Link
 
-> If this is a spell, the target takes normal damage and is [[Conditions/Controlled|Controlled]] by you until the end of its next turn.
+> If this is a spell, the target takes normal damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Controlled|Controlled]] by you until the end of its next turn.
 
 `Bomb or Spell`

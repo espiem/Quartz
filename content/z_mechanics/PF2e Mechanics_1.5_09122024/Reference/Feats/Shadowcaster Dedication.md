@@ -26,7 +26,7 @@ You gain the [[Spells/Cloak of Shadow|Cloak of Shadow]] domain spell. It costs 1
 
 * * *
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Shadowcaster|Shadowcaster]] archetype.
+**Special** You can't select another dedication feat until you've gained two other feats from the [[Shadowcaster|Shadowcaster]] archetype.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

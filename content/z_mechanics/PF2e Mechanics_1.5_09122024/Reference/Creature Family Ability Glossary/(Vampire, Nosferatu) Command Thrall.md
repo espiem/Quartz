@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Vampire, Nosferatu) Command Thrall `pf2:0`
 
-### [[auditory]][[divine]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** offensive; 
 

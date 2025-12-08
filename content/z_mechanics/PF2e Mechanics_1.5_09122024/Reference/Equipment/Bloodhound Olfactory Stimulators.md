@@ -10,7 +10,7 @@ license: OGL
 ---
 # Bloodhound Olfactory Stimulators
 ## Item 5
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 136 gp; 
@@ -29,7 +29,7 @@ These _olfactory stimulators_ can be enhanced to better localize scents.
 
 **Effect** Your olfactory stimulators twitch as they gather even more information. You gain imprecise scent with a range of 30 feet for 1 minute.
 
-[[Equipment Effects/Effect_ Bloodhound Olfactory Stimulators|Effect: Bloodhound Olfactory Stimulators]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Bloodhound Olfactory Stimulators|Effect: Bloodhound Olfactory Stimulators]]
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

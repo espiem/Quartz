@@ -13,7 +13,7 @@ license: OGL
 ---
 # Plate of Yled (Major)
 ## Item 11
-### [rare](rare "Rare Rarity Trait")[[bulwark]][[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[bulwark]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** heavy; **Group** plate
 **Price** 1160 gp; 

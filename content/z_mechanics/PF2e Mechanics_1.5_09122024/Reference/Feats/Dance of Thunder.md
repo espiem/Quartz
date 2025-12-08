@@ -12,7 +12,7 @@ license: OGL
 ---
 # Dance of Thunder `pf2:3`
 ## Feat 14
-### [[concentrate]][[gunslinger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Gunslinger]]
 
 **Category** class; 
 
@@ -21,7 +21,7 @@ license: OGL
 
 **Frequency** once per minute
 
-**Requirements** You're wielding a loaded firearm or crossbow and are not [[Conditions/Fatigued|Fatigued]].
+**Requirements** You're wielding a loaded firearm or crossbow and are not [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]].
 
 * * *
 

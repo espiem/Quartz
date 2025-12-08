@@ -8,7 +8,7 @@ tags:
 ---
 
 # Fungal Infestation
-![[icons-consumables-mushrooms-umbontae-bumpy-purple.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-consumables-mushrooms-umbontae-bumpy-purple.webp|150]]
 
 Toxic spores swarm over creatures in the area, causing them to erupt in grotesque fungal growths. These noxious growths deal 2d6 persistent,poison, and each creature must attempt a Fortitude save.
 

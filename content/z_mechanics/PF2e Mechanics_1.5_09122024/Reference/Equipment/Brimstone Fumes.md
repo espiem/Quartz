@@ -15,7 +15,7 @@ license: ORC
 ---
 # Brimstone Fumes
 ## Item 16
-### [[alchemical]][[consumable]][[inhaled]][[poison]]
+### [[alchemical]][[consumable]][[inhaled]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 1500 gp; 

@@ -8,7 +8,7 @@ tags:
 ---
 # Decision Paralysis
 
-> You are [[Conditions/Slowed|Slowed 1]] until the end of your next turn.
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] until the end of your next turn.
 
 `Melee`
 
@@ -20,12 +20,12 @@ tags:
 
 # Stinging Failure
 
-> Until healed, you take a [[Other Effects/Effect_ -2 circumstance penalty to attack rolls made with this attack until healed|-2 circumstance penalty to attack rolls made with this attack until healed]].
+> Until healed, you take a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -2 circumstance penalty to attack rolls made with this attack until healed|-2 circumstance penalty to attack rolls made with this attack until healed]].
 
 `Unarmed`
 
 # Cursed
 
-> You are [[Conditions/Doomed|Doomed 1]].
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]].
 
 `Spell`

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Silvertongue Mutagen (Lesser)
-![[icons-consumables-potions-potion-bottle-corked-fancy-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-consumables-potions-potion-bottle-corked-fancy-blue.webp|150]]
 
 **Activate** A Interact
 

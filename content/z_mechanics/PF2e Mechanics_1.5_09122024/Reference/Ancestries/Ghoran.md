@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ghoran
 
-### [rare](rare "Rare Rarity Trait")[[ghoran]][[humanoid]][[plant]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Ghoran]][[humanoid]][[plant]]
 
 
 
@@ -21,7 +21,7 @@ license: OGL
 
 These intelligent plant people, created by a long-dead druid, possess a sort of immortality through their seeds—unless these are destroyed by external events other than merely the ravages of time.
 
-[[PF2e Journals/Ancestries/Ghoran|Ghoran]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Ghoran|Ghoran]]
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

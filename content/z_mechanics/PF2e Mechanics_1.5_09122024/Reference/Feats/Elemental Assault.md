@@ -13,7 +13,7 @@ license: OGL
 ---
 # Elemental Assault `pf2:1`
 ## Feat 1
-### [[arcane]][[concentrate]][[suli]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[suli]]
 
 **Category** ancestry; 
 

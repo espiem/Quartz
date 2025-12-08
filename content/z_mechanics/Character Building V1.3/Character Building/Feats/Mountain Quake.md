@@ -14,7 +14,7 @@ tags:
 
 * * *
 
-You stomp, shaking the earth beneath you. Creatures on the ground within a 20 foot emanation take damage equal to your Strength modifier (minimum 0), which they can resist with a DC resolve fortitude save against your class DC. On a failure, they also fall [[Prone]].
+You stomp, shaking the earth beneath you. Creatures on the ground within a 20 foot emanation take damage equal to your Strength modifier (minimum 0), which they can resist with a DC resolve fortitude save against your class DC. On a failure, they also fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].
 
 After you use this action, you can't use it again for 1d4 rounds.
 

@@ -26,6 +26,6 @@ tags:
 
 # Funny Bone
 
-> The target laughs uncontrollably until the end of its next turn. While laughing, it is [[Conditions/Slowed|Slowed 1]] and can't use reactions.
+> The target laughs uncontrollably until the end of its next turn. While laughing, it is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] and can't use reactions.
 
 `Bomb or Spell`

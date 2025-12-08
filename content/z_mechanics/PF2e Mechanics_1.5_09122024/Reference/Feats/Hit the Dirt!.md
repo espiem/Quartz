@@ -11,7 +11,7 @@ license: OGL
 ---
 # Hit the Dirt! `pf2:r`
 ## Feat 1
-### [[gunslinger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Gunslinger]]
 
 **Category** class; 
 
@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-You fling yourself out of harm's way. You [[Actions/Leap|Leap]]. Your movement gives you a +2 circumstance bonus to AC against the triggering attack. Regardless of whether or not the triggering attack hits, you land [[Conditions/Prone|Prone]] after completing your Leap.
+You fling yourself out of harm's way. You [[Actions/Leap|Leap]]. Your movement gives you a +2 circumstance bonus to AC against the triggering attack. Regardless of whether or not the triggering attack hits, you land [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] after completing your Leap.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

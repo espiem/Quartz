@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Mountain Man
-![[icons-sundries-gaming-playing-cards-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Shield (Con)
 
@@ -16,7 +16,7 @@ tags:
 
 * * *
 
-_The Mountain Man_ represents creatures with incredible physical power. As long as you have _The Mountain Man_ invested, it grants you a +2 item bonus to Athletics checks to [[Force Open]], [[Grapple]], [[Shove]], or [[Trip]]. This increases to a +3 item bonus if you are at least 17th level.
+_The Mountain Man_ represents creatures with incredible physical power. As long as you have _The Mountain Man_ invested, it grants you a +2 item bonus to Athletics checks to [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Force Open]], [[Grapple]], [[Shove]], or [[Trip]]. This increases to a +3 item bonus if you are at least 17th level.
 
 **Activate** 2 command, Interact
 

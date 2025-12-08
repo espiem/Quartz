@@ -10,7 +10,7 @@ license: OGL
 ---
 # Flask of Fellowship
 ## Item 2
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 25 gp; 
@@ -29,7 +29,7 @@ This is a metal drinking flask, 4 inches in diameter and 10 inches tall. Its scr
 
 The GM can disallow the flask's use if it doesn't make sense in the moment for you to pull out a flask and start pouring, if drinks are inappropriate for the occasion, or if your target is absolutely not interested in sharing a drink with you. Drinks from the flask of fellowship are entirely social; they won't intoxicate anyone, nor alleviate serious thirst.
 
-[[Equipment Effects/Effect_ Flask of Fellowship|Effect: Flask of Fellowship]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Flask of Fellowship|Effect: Flask of Fellowship]]
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

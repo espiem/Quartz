@@ -20,4 +20,4 @@ This _+2 resilient [[Invisibility]] chain shirt_ is itself invisible. Other crea
 
 * * *
 
-**Effect** You Stride and turn partially invisible, becoming [[Concealed]] until the end of your next turn or until you use a hostile action, whichever comes first. As normal, you can use the concealment from this activation to [[Hide]].
+**Effect** You Stride and turn partially invisible, becoming [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] until the end of your next turn or until you use a hostile action, whichever comes first. As normal, you can use the concealment from this activation to [[Hide]].

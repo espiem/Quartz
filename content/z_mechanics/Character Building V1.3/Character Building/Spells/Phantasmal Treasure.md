@@ -16,7 +16,7 @@ A phantasmal image of the most precious thing imaginable to the target appears i
 
 **Critical Success** The target is unaffected.
 
-**Success** The target becomes [[Fascinated]] with the treasure, and the duration is until the end of its turn. The target can also try to disbelieve the illusion if it touches the treasure [[Seek|Seeks]] to examine it, or speaks to it if the illusion appears to be a person or the like. If the target disbelieves the illusion, the spell ends.
+**Success** The target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] with the treasure, and the duration is until the end of its turn. The target can also try to disbelieve the illusion if it touches the treasure [[Seek|Seeks]] to examine it, or speaks to it if the illusion appears to be a person or the like. If the target disbelieves the illusion, the spell ends.
 
 **Failure** As success, but the duration is 1 minute.
 

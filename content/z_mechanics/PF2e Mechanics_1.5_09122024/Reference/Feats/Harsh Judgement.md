@@ -12,7 +12,7 @@ license: OGL
 ---
 # Harsh Judgement `pf2:1`
 ## Feat 4
-### [[archetype]][[vigilante]]
+### [[archetype]][[Vigilante]]
 
 **Category** class; 
 
@@ -24,7 +24,7 @@ Choose one creature you can see, and loudly declare the creature's life forfeit 
 
 You typically can use Harsh Judgment only during an encounter, and if you try to use it to declare someone's life forfeit during exploration or downtime, you are likely to start an encounter.
 
-[[Feat_Feature Effects/Effect_ Harsh Judgement|Effect: Harsh Judgement]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Harsh Judgement|Effect: Harsh Judgement]]
 
 *Source: Pathfinder Adventure: Night of the Gray Death*
 *OGL*

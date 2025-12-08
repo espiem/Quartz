@@ -13,7 +13,7 @@ license: ORC
 ---
 # Monkey's Paw
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[cursed]][[magical]][[misfortune]]
+### [rare](rare "Rare Rarity Trait")[[cursed]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[misfortune]]
 
 
 **Price** 0 gp; 

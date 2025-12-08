@@ -8,7 +8,7 @@ tags:
 ---
 
 # Organsight
-![[systems-pf2e-icons-spells-organsight.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-organsight.webp|150]]
 
 You see the target as though it's dissected and arrayed before you. For the duration, you gain a +2 circumstance bonus on Medicine checks against the target that depend on its organs, but a -2 circumstance penalty on Medicine checks depending on seeing its skin.
 

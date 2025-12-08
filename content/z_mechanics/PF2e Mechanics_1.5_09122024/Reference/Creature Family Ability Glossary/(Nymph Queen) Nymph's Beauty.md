@@ -16,7 +16,7 @@ license: ORC
 ---
 # (Nymph Queen) Nymph's Beauty
 
-### [[aura]][[emotion]][[mental]][[primal]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[primal]][[visual]]
 
 **Category** defensive; 
 

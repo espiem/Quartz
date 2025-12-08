@@ -12,7 +12,7 @@ license: OGL
 ---
 # Depth Charge II
 ## Item 7
-### [[consumable]][[magical]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 55 gp; 

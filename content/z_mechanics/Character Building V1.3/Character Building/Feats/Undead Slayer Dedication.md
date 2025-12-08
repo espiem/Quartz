@@ -12,4 +12,4 @@ tags:
 
 Your training has prepared you to recognize most undead on sight. You become trained in two Lore skills, each about a specific type of undead, or become an expert if you were already trained. You gain the [[Slayer's Identification]] free action.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[Undead Slayer]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/Character Building V1.3/Character Building/Feats/Undead Slayer]] archetype.

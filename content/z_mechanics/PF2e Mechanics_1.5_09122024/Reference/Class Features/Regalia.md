@@ -11,7 +11,7 @@ license: OGL
 ---
 # Regalia
 ## Feat 1
-### [[thaumaturge]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]]
 
 **Category** classfeature; 
 
@@ -40,7 +40,7 @@ Your regalia implement makes you seem more confident and inspiring with each suc
 
 Your regalia grants you the true gravitas of rulership, tying together the hearts and minds of your allies and making it impossible for you to leave a bad impression. If you roll a critical failure on a check to [[Actions/Coerce|Coerce]], Make an Impression, or Request, you get a failure instead. When others use Follow the Expert to follow you, you grant them a +3 circumstance bonus if you are trained or +4 if you are an expert or above.
 
-Allies in your inspiring aura aren't [[Conditions/Off-Guard|Off-Guard]] from being flanked unless you too are flanked. If one of your allies in the aura is clumsy, enfeebled, frightened, sickened, or stupefied, the status penalty your ally takes from the condition is 1 lower than the condition's value as long as the ally remains in the aura, unless you too are affected by the same condition.
+Allies in your inspiring aura aren't [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] from being flanked unless you too are flanked. If one of your allies in the aura is clumsy, enfeebled, frightened, sickened, or stupefied, the status penalty your ally takes from the condition is 1 lower than the condition's value as long as the ally remains in the aura, unless you too are affected by the same condition.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

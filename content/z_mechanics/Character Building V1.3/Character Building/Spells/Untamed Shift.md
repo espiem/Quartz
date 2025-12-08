@@ -8,7 +8,7 @@ tags:
 ---
 
 # Untamed Shift
-![[systems-pf2e-icons-spells-wild-morph.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-wild-morph.webp|150]]
 
 You transform just a part of your body. Choose any one effect that matches an untamed order feat you have.
 

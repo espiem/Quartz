@@ -20,7 +20,7 @@ The DC required to successfully awaken a portal varies based on the strength and
 
 **Success** As critical success, but if the portal's other side is not awakened, this side remains awakened for only 1d6 days before it fades and falls dormant again.
 
-**Failure** You fail to activate the portal, and magical backlash leaves you [[Stupefied|Stupefied 1]] for 24 hours.
+**Failure** You fail to activate the portal, and magical backlash leaves you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for 24 hours.
 
 **Critical Failure** As failure, but in addition, a hostile creature is drawn through the portal and immediately attacks anyone present. The creature drawn through the portal varies, according to the portal's nature; in the Abomination Vaults, the creature conjured depends on the dungeon level where the ritual was attempted, as listed below.
 

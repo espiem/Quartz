@@ -14,7 +14,7 @@ Kobolds admire well-designed objects, especially if it gives them an opportunity
 
 **Activate** R
 
-**Trigger** You're [[Grabbed]]
+**Trigger** You're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]]
 
 * * *
 

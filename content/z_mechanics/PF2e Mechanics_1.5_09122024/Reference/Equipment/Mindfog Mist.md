@@ -15,7 +15,7 @@ license: ORC
 ---
 # Mindfog Mist
 ## Item 15
-### [[alchemical]][[consumable]][[inhaled]][[poison]]
+### [[alchemical]][[consumable]][[inhaled]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 1000 gp; 
@@ -34,11 +34,11 @@ Mindfog mist can be used to undermine spellcasters, as its effect on a victim's 
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** [[Conditions/Stupefied|Stupefied 2]] (1 round)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (1 round)
 
-**Stage 2** [[Conditions/Confused|Confused]] and [[Conditions/Stupefied|Stupefied 3]] (1 round)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 3]] (1 round)
 
-**Stage 3** [[Conditions/Confused|Confused]] and [[Conditions/Stupefied|Stupefied 4]] (1 round)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 4]] (1 round)
 
 *Source: Pathfinder GM Core*
 *ORC*

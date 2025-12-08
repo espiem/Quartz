@@ -18,9 +18,9 @@ The deceiving creature's tongue splits like a serpent's tongue. The creature tak
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is [[Stupefied|Stupefied 1]] for 1d4 rounds.
+**Failure** The creature takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for 1d4 rounds.
 
-**Critical Failure** As failure, but the creature takes double damage and is [[Stupefied|Stupefied 2]] for 1d4 rounds.
+**Critical Failure** As failure, but the creature takes double damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] for 1d4 rounds.
 
 * * *
 

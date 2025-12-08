@@ -18,9 +18,9 @@ You summon a tumultuous cloud of ash and smoke. The cloud is difficult terrain f
 
 **Success** The target takes half damage.
 
-**Failure** The target takes full damage and is [[Dazzled]] for 1 round.
+**Failure** The target takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round.
 
-**Critical Failure** The target takes double damage and is [[Blinded]] for 1 round.
+**Critical Failure** The target takes double damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round.
 
 * * *
 

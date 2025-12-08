@@ -24,7 +24,7 @@ Your experience with magic and its traditions lets you specialize in the casting
 
 Choose up to two 4th-level spell trickster archetype feats for which you meet the spell-casting prerequisite. You gain those feats, ignoring their level prerequisite.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Spell Trickster|Spell Trickster]] archetype. The two feats you gain from taking the dedication don't count toward this total.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[Spell Trickster|Spell Trickster]] archetype. The two feats you gain from taking the dedication don't count toward this total.
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

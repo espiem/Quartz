@@ -8,7 +8,7 @@ tags:
 ---
 
 # Disperse into Air
-![[systems-pf2e-icons-spells-disperse-into-air.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-disperse-into-air.webp|150]]
 
 **Trigger** You take damage from an enemy or a hazard.
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Rusting Carapace
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[laminar]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[laminar]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** light; **Group** composite
 **Price** 476 gp; 

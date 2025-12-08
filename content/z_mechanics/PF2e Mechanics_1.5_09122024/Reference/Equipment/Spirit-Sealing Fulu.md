@@ -14,7 +14,7 @@ license: OGL
 ---
 # Spirit-Sealing Fulu
 ## Item 3
-### [[consumable]][[fulu]][[incapacitation]][[magical]]
+### [[consumable]][[fulu]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** fulu; 
 **Price** 10 gp; 
@@ -27,7 +27,7 @@ license: OGL
 
 * * *
 
-This classic fulu seals the void energy within an undead, freezing it in its tracks. Upon affixing, the target undead must attempt a DC 17 Will check save or be [[Conditions/Paralyzed|Paralyzed]] for 1 round.
+This classic fulu seals the void energy within an undead, freezing it in its tracks. Upon affixing, the target undead must attempt a DC 17 Will check save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]] for 1 round.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

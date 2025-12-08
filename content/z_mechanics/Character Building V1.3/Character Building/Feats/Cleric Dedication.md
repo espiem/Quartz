@@ -14,4 +14,4 @@ You cast spells like a cleric. You gain the Cast a Spell activity. You can prepa
 
 * * *
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[Cleric]] archetype.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]] archetype.

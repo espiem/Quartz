@@ -12,7 +12,7 @@ license: OGL
 ---
 # Tamper `pf2:1`
 ## Feat 1
-### [[inventor]][[manipulate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Feats/Inventor]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** class; 
 
@@ -23,9 +23,9 @@ You tamper with a foe's weapon or armor, using a free hand. Choose either a weap
 
 * * *
 
-**Critical Success** Your tampering is incredibly effective. If you tampered with a weapon, the enemy takes a -2 circumstance penalty to attack rolls and damage rolls with that weapon. If you tampered with armor, the armor hampers the enemy's movement, making the enemy [[Conditions/Off-Guard|Off-Guard]] and inflicting a -10-foot penalty to its Speeds. The effect lasts until the enemy Interacts to remove it, regardless of which one you used. [[Feat_Feature Effects/Effect_ Armor Tampered With (Critical Success)|Effect: Armor Tampered With (Critical Success)]] [[Feat_Feature Effects/Effect_ Weapon Tampered With (Critical Success)|Effect: Weapon Tampered With (Critical Success)]]
+**Critical Success** Your tampering is incredibly effective. If you tampered with a weapon, the enemy takes a -2 circumstance penalty to attack rolls and damage rolls with that weapon. If you tampered with armor, the armor hampers the enemy's movement, making the enemy [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] and inflicting a -10-foot penalty to its Speeds. The effect lasts until the enemy Interacts to remove it, regardless of which one you used. [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Armor Tampered With (Critical Success)|Effect: Armor Tampered With (Critical Success)]] [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Weapon Tampered With (Critical Success)|Effect: Weapon Tampered With (Critical Success)]]
 
-**Success** Your tampering is temporarily effective. As critical success, but the effect ends at the start of your next turn, even if the enemy doesn't Interact to end it. [[Feat_Feature Effects/Effect_ Armor Tampered With (Success)|Effect: Armor Tampered With (Success)]] [[Feat_Feature Effects/Effect_ Weapon Tampered With (Success)|Effect: Weapon Tampered With (Success)]]
+**Success** Your tampering is temporarily effective. As critical success, but the effect ends at the start of your next turn, even if the enemy doesn't Interact to end it. [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Armor Tampered With (Success)|Effect: Armor Tampered With (Success)]] [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Weapon Tampered With (Success)|Effect: Weapon Tampered With (Success)]]
 
 **Critical Failure** Your tampering backfires dramatically, creating a small explosion from your own tools or gear. You take fire damage equal to your level.
 

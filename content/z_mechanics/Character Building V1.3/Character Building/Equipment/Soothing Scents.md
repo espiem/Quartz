@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-Performers popularized these bundles of aromatic herbs to calm the mind and ward off misfortune before a big show, though soldier bards have found them especially useful for clearing fear during particularly tumultuous battles. Adding this catalyst to a _[[Soothe]]_ spell also causes the spell to reduce the target's [[Frightened]] condition value by 1.
+Performers popularized these bundles of aromatic herbs to calm the mind and ward off misfortune before a big show, though soldier bards have found them especially useful for clearing fear during particularly tumultuous battles. Adding this catalyst to a _[[Soothe]]_ spell also causes the spell to reduce the target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened]] condition value by 1.

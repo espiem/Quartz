@@ -15,7 +15,7 @@ license: ORC
 ---
 # Sprout Fruit `pf2:1`
 ## Feat 2
-### [rare](rare "Rare Rarity Trait")[[deviant]][[healing]][[magical]][[plant]]
+### [rare](rare "Rare Rarity Trait")[[deviant]][[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[plant]]
 
 **Category** class; 
 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Identify Alchemy
 
-### [[concentrate]][[exploration]][[secret]][[skill]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[exploration]][[secret]][[skill]]
 
 **Category** interaction; 
 

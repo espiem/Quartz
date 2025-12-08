@@ -22,7 +22,7 @@ On a hit against an undead creature that is specifically vulnerable to sunlight,
 
 **Success** The undead is unaffected.
 
-**Failure** The undead is [[Slowed]] for 1 round.
+**Failure** The undead is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] for 1 round.
 
 **Critical Failure** The undead is slowed 1 for 1 minute.
 

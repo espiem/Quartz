@@ -20,6 +20,6 @@ There are various types of _aeon stones_, each with a different appearance and m
 
 * * *
 
-When you would die from the [[Dying]] condition (typically at dying 4), this smooth pink stone automatically activates and reduces your dying value to 1 less than would normally kill you (typically to dying 3). The stone then permanently turns into a [[Aeon Stone (Consumed)]]. You can benefit from this ability only once per day, even if you have multiple such stones.
+When you would die from the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying]] condition (typically at dying 4), this smooth pink stone automatically activates and reduces your dying value to 1 less than would normally kill you (typically to dying 3). The stone then permanently turns into a [[Aeon Stone (Consumed)]]. You can benefit from this ability only once per day, even if you have multiple such stones.
 
 The resonant power allows you to cast 1st-rank _[[Heal]]_ as a divine innate spell once per day.

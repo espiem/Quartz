@@ -15,7 +15,7 @@ license: ORC
 ---
 # Bless Ally `pf2:1`
 
-### [[concentrate]][[divine]][[fortune]][[mythic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[fortune]][[mythic]]
 
 **Category** interaction; 
 

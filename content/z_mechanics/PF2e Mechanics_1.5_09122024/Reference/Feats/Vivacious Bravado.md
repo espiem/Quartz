@@ -12,14 +12,14 @@ license: ORC
 ---
 # Vivacious Bravado `pf2:1`
 ## Feat 8
-### [[swashbuckler]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 
 
 
 
-**Requirements** You gained [[Feat_Feature Effects/Effect_ Panache|Panache]] this turn.
+**Requirements** You gained [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Panache|Panache]] this turn.
 
 * * *
 

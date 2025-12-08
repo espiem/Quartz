@@ -14,7 +14,7 @@ tags:
 
 # Everything you Got
 
-> You are [[Conditions/Fatigued|Fatigued]].
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]].
 
 `Ranged`
 
@@ -26,6 +26,6 @@ tags:
 
 # You made 'em Tougher
 
-> The target gains [[Other Effects/Effect_ Resistance 5 to all damage|Resistance 5 to all damage]] until the start of its next turn.
+> The target gains [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ Resistance 5 to all damage|Resistance 5 to all damage]] until the start of its next turn.
 
 `Spell`

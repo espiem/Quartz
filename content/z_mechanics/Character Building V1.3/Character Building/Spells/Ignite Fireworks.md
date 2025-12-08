@@ -16,7 +16,7 @@ A brilliant and clamorous display of sparks and colorful fireworks explode aroun
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is [[Dazzled]] for 1 round.
+**Success** The creature takes half damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round.
 
 **Failure** The creature takes full damage and is dazzled for 3 rounds.
 

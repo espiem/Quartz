@@ -16,7 +16,7 @@ license: OGL
 ---
 # Tin Cobra
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[mechanical]][[poison]][[snare]][[trap]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[consumable]][[mechanical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 23 gp; 

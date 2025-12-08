@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ankle Bite `pf2:r`
 ## Feat 5
-### [[goblin]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Goblin]]
 
 **Category** ancestry; 
 
@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Fang Sharpener or razortooth goblin heritage
 * * *
-**Trigger** A foe gives you the [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] condition using a part of its body.
+**Trigger** A foe gives you the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]] condition using a part of its body.
 
 * * *
 

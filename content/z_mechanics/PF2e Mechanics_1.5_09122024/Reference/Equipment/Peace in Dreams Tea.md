@@ -14,7 +14,7 @@ license: OGL
 ---
 # Peace in Dreams Tea
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]][[tea]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]][[tea]]
 
 **Category** potion; 
 **Price** 50 gp; 
@@ -27,7 +27,7 @@ license: OGL
 
 This creamy tea is made from warm soy milk steeped with whole, dried chrysanthemum flowers and honey and brewed from when the sun first touches the horizon to when it has fully set. Consuming this tea causes mild drowsiness, aids in sleep, and protects from harmful mental effects. You gain a +1 item bonus to all saving throws against mental effects for 1 hour.
 
-[[Equipment Effects/Effect_ Peace in Dreams Tea|Effect: Peace in Dreams Tea]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Peace in Dreams Tea|Effect: Peace in Dreams Tea]]
 
 * * *
 

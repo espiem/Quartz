@@ -13,7 +13,7 @@ license: ORC
 ---
 # Sanctify Armament `pf2:1`
 ## Feat 8
-### [[cleric]][[divine]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 **Category** class; 
 

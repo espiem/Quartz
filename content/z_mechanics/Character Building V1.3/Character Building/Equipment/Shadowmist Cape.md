@@ -20,7 +20,7 @@ This black cape flows more like a vaporous liquid than fabric. The cape grants y
 
 * * *
 
-**Effect** Attempt a Stealth check against the triggering creature's Perception DC. If you roll a success, you're [[Hidden]] from that creature until the end of your next turn or until right after you use a hostile action against that creature. If you roll a critical success, you're hidden from that creature until the end of your next turn, even if you use hostile actions against that creature.
+**Effect** Attempt a Stealth check against the triggering creature's Perception DC. If you roll a success, you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]] from that creature until the end of your next turn or until right after you use a hostile action against that creature. If you roll a critical success, you're hidden from that creature until the end of your next turn, even if you use hostile actions against that creature.
 
 * * *
 

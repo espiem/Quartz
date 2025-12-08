@@ -12,7 +12,7 @@ license: ORC
 ---
 # Desperate Prayer `pf2:0`
 ## Feat 1
-### [[champion]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]]
 
 **Category** class; 
 

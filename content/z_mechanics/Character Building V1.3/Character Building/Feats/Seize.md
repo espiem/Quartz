@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-You seize your foe and pull it close. The foe you hit is [[Grabbed]] as if you succeeded at an Athletics check to [[Grapple]] the foe.
+You seize your foe and pull it close. The foe you hit is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] as if you succeeded at an Athletics check to [[Grapple]] the foe.

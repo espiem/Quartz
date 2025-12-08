@@ -8,7 +8,7 @@ tags:
 ---
 
 # Frozen Lava of Blackpeak
-![[icons-magic-fire-barrier-shield-explosion-yellow.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-magic-fire-barrier-shield-explosion-yellow.webp|150]]
 
 **Activate** A (manipulate)
 

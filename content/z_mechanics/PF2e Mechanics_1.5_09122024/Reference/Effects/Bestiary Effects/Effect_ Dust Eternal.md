@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Everything in the aura is [[Conditions/Concealed|Concealed]].
+Everything in the aura is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]].
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

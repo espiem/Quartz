@@ -35,7 +35,7 @@ You gain inner serenity, but you find violence off-putting.
 
 **Duration** 1 minute.
 
-[[Equipment Effects/Effect_ Serene Mutagen (Lesser)|Effect: Serene Mutagen (Lesser)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Serene Mutagen (Lesser)|Effect: Serene Mutagen (Lesser)]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

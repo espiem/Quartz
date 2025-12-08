@@ -11,7 +11,7 @@ license: OGL
 ---
 # The Silent Whisper
 ## Feat 1
-### [[psychic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** classfeature; 
 
@@ -58,7 +58,7 @@ surface: [[Spells/Forbidden Thought|Forbidden Thought]]
 
 deeper: [[Spells/Shatter Mind|Shatter Mind]]
 
-**Amp** You increase the area of the spell to your choice of a 30-foot cone or 60-foot cone, and the damage dice for the spell change to d10s. Creatures that fail are [[Conditions/Stupefied|Stupefied 1]] until the start of your next turn (or [[Conditions/Stupefied|Stupefied 2]] on a critical failure).
+**Amp** You increase the area of the spell to your choice of a 30-foot cone or 60-foot cone, and the damage dice for the spell change to d10s. Creatures that fail are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] until the start of your next turn (or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] on a critical failure).
 
 deepest: [[Spells/Contagious Idea|Contagious Idea]]
 

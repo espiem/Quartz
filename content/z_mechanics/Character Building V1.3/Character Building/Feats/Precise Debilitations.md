@@ -13,4 +13,4 @@ tags:
 You attack with great precision. Add the following debilitations to the list you can choose from when you use [[Debilitating Strike]].
 
 *   **Debilitation** The target takes an additional 2d6 precision damage from your attacks.
-*   **Debilitation** The target becomes [[Off-Guard]].
+*   **Debilitation** The target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]].

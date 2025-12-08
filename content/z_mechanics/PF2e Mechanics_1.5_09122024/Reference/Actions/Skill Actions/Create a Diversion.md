@@ -13,7 +13,7 @@ license: ORC
 ---
 # Create a Diversion `pf2:1`
 
-### [[mental]][[skill]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[skill]]
 
 **Category** interaction; 
 
@@ -26,7 +26,7 @@ Attempt a single Deception check and compare it to the Perception DCs of the cre
 
 * * *
 
-**Success** You become [[Conditions/Hidden|Hidden]] to each creature whose Perception DC is less than or equal to your result. (The hidden condition allows you to [[Actions/Sneak|Sneak]] away.) This lasts until the end of your turn or until you do anything except Step or use the Stealth skill to Hide or Sneak. If you Strike a creature, the creature remains [[Conditions/Off-Guard|Off-Guard]] against that attack, and you then become observed. If you do anything else, you become observed just before you act unless the GM determines otherwise.
+**Success** You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]] to each creature whose Perception DC is less than or equal to your result. (The hidden condition allows you to [[Actions/Sneak|Sneak]] away.) This lasts until the end of your turn or until you do anything except Step or use the Stealth skill to Hide or Sneak. If you Strike a creature, the creature remains [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] against that attack, and you then become observed. If you do anything else, you become observed just before you act unless the GM determines otherwise.
 
 **Failure** You don't divert the attention of any creatures whose Perception DC exceeds your result, and those creatures are aware you were trying to trick them.
 

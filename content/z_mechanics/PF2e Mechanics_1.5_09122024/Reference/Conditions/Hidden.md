@@ -17,7 +17,7 @@ license: ORC
 
 
 
-While you're hidden from a creature, that creature knows the space you're in but can't tell precisely where you are. You typically become hidden by using Stealth to [[Actions/Hide|Hide]]. When [[Actions/Seek|Seeking]] a creature using only imprecise senses, it remains hidden, rather than [[Conditions/Observed|Observed]]. A creature you're hidden from is [[Conditions/Off-Guard|Off-Guard]] to you, and it must succeed at a DC 11 Flat check when targeting you with an attack, spell, or other effect or it fails to affect you. Area effects aren't subject to this flat check.
+While you're hidden from a creature, that creature knows the space you're in but can't tell precisely where you are. You typically become hidden by using Stealth to [[Actions/Hide|Hide]]. When [[Actions/Seek|Seeking]] a creature using only imprecise senses, it remains hidden, rather than [[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Conditions/Observed|Observed]]. A creature you're hidden from is [[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Conditions/Off-Guard|Off-Guard]] to you, and it must succeed at a DC 11 Flat check when targeting you with an attack, spell, or other effect or it fails to affect you. Area effects aren't subject to this flat check.
 
 A creature might be able to use the seek action to try to observe you.
 

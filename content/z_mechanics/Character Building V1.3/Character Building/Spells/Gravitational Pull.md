@@ -10,7 +10,7 @@ tags:
 # Gravitational Pull
 ![[systems-pf2e-icons-spells-gravitational-pull.webp|150]]
 
-By suddenly altering gravity, you pull the target toward you. The target is pulled 10 feet closer to you unless it succeeds at a Fortitude save. On a critical failure, it's also knocked [[Prone]]. The effects of this spell change depending on the number of actions you spend when you Cast this Spell.
+By suddenly altering gravity, you pull the target toward you. The target is pulled 10 feet closer to you unless it succeeds at a Fortitude save. On a critical failure, it's also knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]]. The effects of this spell change depending on the number of actions you spend when you Cast this Spell.
 
 1 **(somatic)** The spell targets one creature.
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Swirling Sand
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[catalyst]][[consumable]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[catalyst]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** catalyst; 
 **Price** 52 gp; 

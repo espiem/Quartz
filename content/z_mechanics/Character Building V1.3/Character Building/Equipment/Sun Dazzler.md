@@ -18,8 +18,8 @@ This metallic tube has a complex array of lenses and prisms at one end and a hat
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Dazzled]] for 1 round.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round.
 
-**Failure** The creature is [[Blinded]] for 1 round or until it spends an Interact action to rub its eyes, ending the blinded condition.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round or until it spends an Interact action to rub its eyes, ending the blinded condition.
 
 **Critical Failure** The creature is blinded for 1 round.

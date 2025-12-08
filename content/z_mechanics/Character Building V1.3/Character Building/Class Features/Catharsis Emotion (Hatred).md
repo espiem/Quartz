@@ -8,7 +8,7 @@ tags:
 ---
 
 # Catharsis Emotion (Hatred)
-![[systems-pf2e-icons-spells-bestial-curse.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-bestial-curse.webp|150]]
 
 Your unabashed hatred consumes your soul and causes your foe to falter. Your emotional focus is an individual enemy you detest.
 
@@ -16,7 +16,7 @@ Your unabashed hatred consumes your soul and causes your foe to falter. Your emo
 
 **Catharsis Activation** You can Step or Stride. You must end this movement closer to your emotional focus.
 
-**Emotional Fervor** Your emotional focus is [[Off-Guard]] to you and takes a –2 status penalty to saves against your spells. You're off-guard to your emotional focus and take a –2 status penalty to saves against it. Spell: _[[Blood Vendetta]]_
+**Emotional Fervor** Your emotional focus is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] to you and takes a –2 status penalty to saves against your spells. You're off-guard to your emotional focus and take a –2 status penalty to saves against it. Spell: _[[Blood Vendetta]]_
 
 **Emotional Fallout** You become [[Stunned 1|Stunned 2]].
 

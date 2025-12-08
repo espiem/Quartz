@@ -12,14 +12,14 @@ license: OGL
 ---
 # Post Snipers
 
-### [[downtime]][[manipulate]]
+### [[downtime]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** defensive; 
 
 
 
 
-The Narlmarch Wardens are skilled hunters, but by taking a few of these archers out of the army's ranks and posting them on [[Conditions/Hidden|Hidden]] locations on rooftops or in trees throughout the battlefield, the PCs can maximize their potential.
+The Narlmarch Wardens are skilled hunters, but by taking a few of these archers out of the army's ranks and posting them on [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]] locations on rooftops or in trees throughout the battlefield, the PCs can maximize their potential.
 
 * * *
 

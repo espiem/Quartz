@@ -16,11 +16,11 @@ You create a phantasmal image of the most beautiful creature imaginable to the t
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is intrigued by the vision, becoming [[Stupefied|Stupefied 1]] for 1 round.
+**Success** The target is intrigued by the vision, becoming [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for 1 round.
 
-**Failure** The target is entranced by the vision, becoming stupefied 1 for 1 round and moving toward the image's location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way. The target is then [[Fascinated]] by the illusion for 1 round.
+**Failure** The target is entranced by the vision, becoming stupefied 1 for 1 round and moving toward the image's location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way. The target is then [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] by the illusion for 1 round.
 
-**Critical Failure** As failure, except the target is [[Stupefied|Stupefied 2]] and becomes fascinated by the illusion for 1 minute instead of 1 round.
+**Critical Failure** As failure, except the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] and becomes fascinated by the illusion for 1 minute instead of 1 round.
 
 * * *
 

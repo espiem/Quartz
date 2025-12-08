@@ -10,7 +10,7 @@ license: OGL
 ---
 # Shield of the Unified Legion
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 13200 gp; 
@@ -21,7 +21,7 @@ This high-grade orichalcum shield (Hardness 16, HP 64, and BT 32) bears a +3 maj
 
 It gleams brightly in any light, drawing attention at all times.
 
-When you Raise this Shield, ephemeral reflections of it appear in front of each of your allies within 30 feet, granting them its +2 circumstance bonus to AC for as long as they are within 30 feet of you and your shield is raised. [[Equipment Effects/Effect_ Shield of the Unified Legion|Effect: Shield of the Unified Legion]]
+When you Raise this Shield, ephemeral reflections of it appear in front of each of your allies within 30 feet, granting them its +2 circumstance bonus to AC for as long as they are within 30 feet of you and your shield is raised. [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Shield of the Unified Legion|Effect: Shield of the Unified Legion]]
 
 * * *
 

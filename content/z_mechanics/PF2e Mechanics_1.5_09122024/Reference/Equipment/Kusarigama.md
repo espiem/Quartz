@@ -16,7 +16,7 @@ license: OGL
 ---
 # Kusarigama
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[monk]][[reach]][[trip]][[versatile-b]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]][[trip]][[versatile-b]]
 
 |  |  |
 | -- | -- |

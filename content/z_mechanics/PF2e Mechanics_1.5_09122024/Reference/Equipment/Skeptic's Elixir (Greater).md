@@ -28,7 +28,7 @@ license: OGL
 
 This elixir sharpens your mind and allows you to see through lies, falsehoods, and magical trickery. You gain a +3 item bonus to Perception checks and Perception DCs to notice falsehoods, whether they're spoken lies or written deceit. You gain this same item bonus to Will saves.
 
-[[Equipment Effects/Effect_ Skeptic's Elixir (Greater)|Effect: Skeptic's Elixir (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Skeptic's Elixir (Greater)|Effect: Skeptic's Elixir (Greater)]]
 
 *Source: Pathfinder #163: Ruins of Gauntlight*
 *OGL*

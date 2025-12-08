@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-You become surrounded by a swirling storm of rain, sand, snow, or clouds, whichever of those suits your bound terrain. This activity has traits appropriate to the storm you create-typically earth for sand and water for rain, snow, or clouds. You become [[Concealed]] for 1 minute. You can't use this concealment to Hide or [[Sneak]], as normal for concealment that makes your position obvious.
+You become surrounded by a swirling storm of rain, sand, snow, or clouds, whichever of those suits your bound terrain. This activity has traits appropriate to the storm you create-typically earth for sand and water for rain, snow, or clouds. You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] for 1 minute. You can't use this concealment to Hide or [[Sneak]], as normal for concealment that makes your position obvious.

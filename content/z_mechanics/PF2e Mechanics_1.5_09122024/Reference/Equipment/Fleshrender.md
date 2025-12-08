@@ -16,7 +16,7 @@ license: ORC
 ---
 # Fleshrender
 ## Item 18
-### [unique](unique "Unique Rarity Trait")[[agile]][[finesse]][[magical]][[twin]]
+### [unique](unique "Unique Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[twin]]
 
 |  |  |
 | -- | -- |

@@ -16,6 +16,6 @@ tags:
 
 Your nanites fly out of your body, swarming around you in a cloud.
 
-You become [[Concealed]] for a number of rounds equal to half your level. You can't use this concealment to [[Hide]] or [[Sneak]], as normal for concealment that makes your position obvious.
+You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] for a number of rounds equal to half your level. You can't use this concealment to [[Hide]] or [[Sneak]], as normal for concealment that makes your position obvious.
 
 While Nanite Shroud is active, you can't use other abilities that require the use of your nanites.

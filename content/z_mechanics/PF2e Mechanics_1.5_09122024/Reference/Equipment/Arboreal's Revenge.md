@@ -15,7 +15,7 @@ license: OGL
 ---
 # Arboreal's Revenge
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[concussive]][[cursed]][[magical]][[scatter-10]]
+### [rare](rare "Rare Rarity Trait")[[concussive]][[cursed]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[scatter-10]]
 
 |  |  |
 | -- | -- |
@@ -47,7 +47,7 @@ The arboreal haunting the firearm can use the following two effects whenever it 
 
 **Effect** The arboreal haunting the blunderbuss attempts to regrow itself into a new physical body by sprouting from the bodies of all the creatures that the firearm recently harmed. You and all creatures within 60 feet damaged by _arboreal's revenge_ within the last minute must attempt a DC 20 Fortitude check saving throw. On a failure, they take a -10-foot circumstance penalty to their Speeds as roots rapidly sprout from their wounds, which lasts until they [[Actions/Escape|Escape]] (DC 20).
 
-[[Equipment Effects/Effect_ Arboreal's Revenge (Speed Penalty)|Effect: Arboreal's Revenge (Speed Penalty)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Arboreal's Revenge (Speed Penalty)|Effect: Arboreal's Revenge (Speed Penalty)]]
 
 * * *
 

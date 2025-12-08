@@ -13,7 +13,7 @@ tags:
 
 * * *
 
-You move up, down, or across an incline. Unless it's particularly easy, you must attempt an Athletics check. The GM determines the DC based on the nature of the incline and environmental circumstances. You're [[Off-Guard]] unless you have a climb Speed.
+You move up, down, or across an incline. Unless it's particularly easy, you must attempt an Athletics check. The GM determines the DC based on the nature of the incline and environmental circumstances. You're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] unless you have a climb Speed.
 
 * * *
 
@@ -21,7 +21,7 @@ You move up, down, or across an incline. Unless it's particularly easy, you must
 
 **Success** You move up, across, or safely down the incline for 5 feet per 20 feet of your land Speed (a total of 5 feet for most PCs, minimum 5 feet if your Speed is below 20 feet).
 
-**Critical Failure** You fall. If you began the climb on stable ground, you fall and land [[Prone]].
+**Critical Failure** You fall. If you began the climb on stable ground, you fall and land [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].
 
 ## Sample Climb Tasks
 

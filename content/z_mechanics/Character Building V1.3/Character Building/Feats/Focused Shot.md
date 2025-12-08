@@ -16,4 +16,4 @@ tags:
 
 You achieve a state of perfect calm before unleashing your attack, opening your mind to the minute movements of the world around you to increase your accuracy.
 
-Make a ranged weapon Strike against a target within your weapon's first range increment. This Strike ignores the target's [[Concealed]] condition and all cover.
+Make a ranged weapon Strike against a target within your weapon's first range increment. This Strike ignores the target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] condition and all cover.

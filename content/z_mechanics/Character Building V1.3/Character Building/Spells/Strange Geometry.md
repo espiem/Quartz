@@ -8,7 +8,7 @@ tags:
 ---
 
 # Strange Geometry
-![[icons-commodities-stone-stone-cratered-brown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-commodities-stone-stone-cratered-brown.webp|150]]
 
 You cause the areas to appear to swell, bend, and break, twisting together in a bizarre spatial geometry. The cubes of the spell's area can't be adjacent to one another. A creature must attempt a Will save if it's in one of the cubes when you Cast the Spell, or if it later enters one of the areas, with the following effects. A creature interacting with the illusion can also attempt a Will save to disbelieve the illusion, as normal.
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Obsession
 
-### [rare](rare "Rare Rarity Trait")[[occult]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** deityboon; 
 

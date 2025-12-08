@@ -11,7 +11,7 @@ license: OGL
 ---
 # Boots of Elvenkind
 ## Item 5
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 145 gp; 
@@ -28,7 +28,7 @@ These tall, pointed boots are made from soft, supple black or green leather and 
 
 **Effect** Until the end of your turn, you ignore difficult terrain when moving on the ground. If you're wearing a [[Equipment/Cloak of Elvenkind|Cloak of Elvenkind]], you also gain a +5-foot status bonus to your land Speed until the end of your turn.
 
-[[Equipment Effects/Effect_ Boots of Elvenkind|Effect: Boots of Elvenkind]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Boots of Elvenkind|Effect: Boots of Elvenkind]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

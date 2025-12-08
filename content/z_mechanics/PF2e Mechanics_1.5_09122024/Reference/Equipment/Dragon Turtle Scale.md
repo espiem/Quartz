@@ -14,7 +14,7 @@ license: ORC
 ---
 # Dragon Turtle Scale
 ## Item 4
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 13 gp; 
@@ -31,7 +31,7 @@ This shimmering green scale is usually attached to a golden clasp or chain.
 
 When you activate the scale, for 1 minute you gain a swim Speed equal to half your land Speed.
 
-[[Equipment Effects/Effect_ Dragon Turtle Scale|Effect: Dragon Turtle Scale]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Dragon Turtle Scale|Effect: Dragon Turtle Scale]]
 
 *Source: Pathfinder GM Core*
 *ORC*

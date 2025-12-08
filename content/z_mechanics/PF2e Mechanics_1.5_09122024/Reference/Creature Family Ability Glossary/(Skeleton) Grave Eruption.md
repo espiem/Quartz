@@ -21,7 +21,7 @@ license: OGL
 
 * * *
 
-**Effect** The skeleton erupts from the ground, Stands, and makes a melee Strike. The target is [[Conditions/Off-Guard|Off-Guard]] against this Strike. If the Strike hits, the target is [[Conditions/Frightened|Frightened 1]] (or [[Conditions/Frightened|Frightened 2]] on a critical hit).
+**Effect** The skeleton erupts from the ground, Stands, and makes a melee Strike. The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] against this Strike. If the Strike hits, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]] (or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] on a critical hit).
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

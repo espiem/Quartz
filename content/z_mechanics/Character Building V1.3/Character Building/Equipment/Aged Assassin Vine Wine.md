@@ -8,7 +8,7 @@ tags:
 ---
 
 # Aged Assassin Vine Wine
-![[icons-consumables-drinks-wine-amphora-clay-pink.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-consumables-drinks-wine-amphora-clay-pink.webp|150]]
 
 **Activate** 1 Interact
 

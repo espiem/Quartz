@@ -18,8 +18,8 @@ Smother shroud robs a victim of distinguishing features, making it difficult for
 
 **Maximum Duration** 10 rounds
 
-**Stage 1** 2d4 poison and [[Dazzled]] (1 round)
+**Stage 1** 2d4 poison and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] (1 round)
 
 **Stage 2** 3d4 poison, dazzled, a –4 status penalty to Perception checks to hear and smell, and must succeed at a DC 10 flat to take actions with the auditory trait or the action is lost (1 round)
 
-**Stage 3** 4d4 poison, [[Blinded]], [[Deafened]], unable to smell, unable to take actions with the auditory trait, and unable to breathe
+**Stage 3** 4d4 poison, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]], unable to smell, unable to take actions with the auditory trait, and unable to breathe

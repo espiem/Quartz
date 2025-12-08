@@ -15,7 +15,7 @@ license: OGL
 ---
 # Psychometric Assessment
 
-### [[concentrate]][[emotion]][[exploration]][[mental]][[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[exploration]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** interaction; 
 

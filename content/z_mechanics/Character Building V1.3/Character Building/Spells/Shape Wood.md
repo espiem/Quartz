@@ -8,6 +8,6 @@ tags:
 ---
 
 # Shape Wood
-![[icons-magic-nature-barrier-shield-wood-vines.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-nature-barrier-shield-wood-vines.webp|150]]
 
 You shape the wood into a rough shape of your choice. The shaping power is too crude to produce with intricate parts, fine details, moving pieces, or the like. You cannot use this spell to enhance the value of the wooden object you are shaping.

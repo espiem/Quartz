@@ -14,6 +14,6 @@ You execute your finishing moves with spectacular flair, adding special effects 
 
 *   **Battledancer** You can Step as a free action immediately after the finisher.
 *   **Braggart** If the foe was temporarily immune to your [[Demoralize]], their temporary immunity ends.
-*   **Fencer** The foe is [[Off-Guard]] until your next turn.
-*   **Gymnast** If the foe is [[Grabbed]], [[Restrained]], or [[Prone]], you gain a circumstance bonus to the damage roll equal to twice the number of weapon damage dice.
+*   **Fencer** The foe is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until your next turn.
+*   **Gymnast** If the foe is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]], you gain a circumstance bonus to the damage roll equal to twice the number of weapon damage dice.
 *   **Wit** The foe takes a -2 circumstance penalty to attack rolls against you until the start of your next turn.

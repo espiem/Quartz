@@ -12,14 +12,14 @@ license: ORC
 ---
 # Nature's Edge
 ## Feat 9
-### [[ranger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]]
 
 **Category** classfeature; 
 
 
 
 
-You always find the weak points in your foes' defenses when they're on unfavorable terrain. Enemies are [[Conditions/Off-Guard|Off-Guard]] to you if they're in difficult terrain.
+You always find the weak points in your foes' defenses when they're on unfavorable terrain. Enemies are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] to you if they're in difficult terrain.
 
 *Source: Pathfinder Player Core*
 *ORC*

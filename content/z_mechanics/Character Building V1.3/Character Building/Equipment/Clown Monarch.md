@@ -18,7 +18,7 @@ A victim of clown monarch is amusing to behold as they repeatedly suffer slapsti
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** falls [[Prone]] and must succeed at a DC 5 flat when attempting a Stand action or the action fails and is lost (1 round)
+**Stage 1** falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] and must succeed at a DC 5 flat when attempting a Stand action or the action fails and is lost (1 round)
 
 **Stage 2** as stage 1 but a DC 10 flat (1 round)
 

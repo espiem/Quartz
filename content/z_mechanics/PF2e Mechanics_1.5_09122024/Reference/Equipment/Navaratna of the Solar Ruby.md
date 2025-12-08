@@ -12,7 +12,7 @@ license: ORC
 ---
 # Navaratna of the Solar Ruby
 ## Item 13
-### [unique](unique "Unique Rarity Trait")[[artifact]][[divine]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 
 **Price** 0 gp; 

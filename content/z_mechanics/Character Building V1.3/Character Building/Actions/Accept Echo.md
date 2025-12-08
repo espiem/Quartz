@@ -8,7 +8,7 @@ tags:
 ---
 
 # Accept Echo
-![[systems-pf2e-icons-spells-mirror-image.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Actions/zz_asset-files/systems-pf2e-icons-spells-mirror-image.webp|150]]
 
 **Frequency** once per day
 

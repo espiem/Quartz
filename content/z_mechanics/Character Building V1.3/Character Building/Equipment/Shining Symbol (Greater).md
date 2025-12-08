@@ -8,7 +8,7 @@ tags:
 ---
 
 # Shining Symbol (Greater)
-![[icons-commodities-treasure-broach-jewel-gold-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-commodities-treasure-broach-jewel-gold-blue.webp|150]]
 
 If you worship a deity, this golden amulet transforms into your deity's religious symbol when you invest it. You gain a +2 item bonus to Religion. The symbol casts dim light in a 20 foot emanation.
 

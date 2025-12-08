@@ -21,7 +21,7 @@ license: ORC
 
 
 
-You have been given a powerful blessing of battle that is also your cursed doom. As long as you aren't wearing heavy armor or wielding a shield, spears and polearms you wield gain the parry trait. If the weapon already has the parry trait, increase the bonus when parrying to +2. In addition, you deal an additional amount of damage equal to your [[Conditions/Doomed|Doomed]] value with weapons in the spear and polearm groups. This damage is the same type as the required weapon.
+You have been given a powerful blessing of battle that is also your cursed doom. As long as you aren't wearing heavy armor or wielding a shield, spears and polearms you wield gain the parry trait. If the weapon already has the parry trait, increase the bonus when parrying to +2. In addition, you deal an additional amount of damage equal to your [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed]] value with weapons in the spear and polearm groups. This damage is the same type as the required weapon.
 
 [[PF2e Journals/Archetypes/Warrior of Legend|Warrior of Legend]]
 

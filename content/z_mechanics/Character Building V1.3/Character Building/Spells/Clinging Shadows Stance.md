@@ -8,7 +8,7 @@ tags:
 ---
 
 # Clinging Shadows Stance
-![[systems-pf2e-icons-spells-clinging-shadows-stance.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-clinging-shadows-stance.webp|150]]
 
 You adopt the stance of clinging shadows. You can make shadow grasp [[Strike|Strikes]]. These deal 1d4 void damage; are in the brawling group; and have the agile, grapple, reach, and unarmed traits.
 

@@ -20,6 +20,6 @@ Your reputation as a Firebrand precedes you, and you need only make a simple ges
 
 **Failure** The target is [[Stunned 1|Stunned 2]].
 
-**Critical Failure** The target is [[Paralyzed]] until the end of your next turn.
+**Critical Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] until the end of your next turn.
 
 **Special** This feat has either the arcane or occult trait, matching the choice you made when you took Mesmerizing Gaze.

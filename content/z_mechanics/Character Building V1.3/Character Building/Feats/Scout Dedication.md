@@ -12,6 +12,6 @@ tags:
 
 You are a highly skilled scout, capable of providing your allies a timely warning of any danger. You gain the [[Scout's Warning]] ranger feat.
 
-When you're using the [[Scout]] exploration activity, you grant your allies a +2 circumstance bonus to their initiative rolls instead of a +1 circumstance bonus.
+When you're using the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Scout]] exploration activity, you grant your allies a +2 circumstance bonus to their initiative rolls instead of a +1 circumstance bonus.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[Scout]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Scout]] archetype.

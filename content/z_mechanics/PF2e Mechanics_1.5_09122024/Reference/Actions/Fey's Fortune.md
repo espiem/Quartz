@@ -13,7 +13,7 @@ license: ORC
 ---
 # Fey's Fortune `pf2:0`
 
-### [[concentrate]][[fortune]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[fortune]]
 
 **Category** interaction; 
 

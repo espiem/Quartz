@@ -16,7 +16,7 @@ license: ORC
 ---
 # Vyre's Bliss
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[ingested]][[poison]][[virulent]]
+### [rare](rare "Rare Rarity Trait")[[alchemical]][[consumable]][[ingested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[virulent]]
 
 **Category** poison; 
 **Price** 8500 gp; 
@@ -33,13 +33,13 @@ Vyre's Bliss is a toxin that looks and tastes like fine wine.
 
 **Maximum Duration** 24 hours
 
-**Stage 1** [[Conditions/Off-Guard|Off-Guard]] and [[Conditions/Stupefied|Stupefied 1]] (1 round)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (1 round)
 
-**Stage 2** off-guard, [[Conditions/Clumsy|Clumsy 1]], and [[Conditions/Stupefied|Stupefied 2]] (1 round)
+**Stage 2** off-guard, [[Conditions/Clumsy|Clumsy 1]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (1 round)
 
-**Stage 3** off-guard, [[Conditions/Clumsy|Clumsy 2]], and [[Conditions/Stupefied|Stupefied 3]] (1 round)
+**Stage 3** off-guard, [[Conditions/Clumsy|Clumsy 2]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 3]] (1 round)
 
-**Stage 4** clumsy 2, stupefied 3, and [[Conditions/Unconscious|Unconscious]] (8 hours)
+**Stage 4** clumsy 2, stupefied 3, and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] (8 hours)
 
 *Source: Pathfinder #206: Bring the House Down*
 *ORC*

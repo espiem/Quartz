@@ -13,7 +13,7 @@ license: ORC
 ---
 # Multishot Stance `pf2:1`
 ## Feat 16
-### [[fighter]][[stance]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]][[stance]]
 
 **Category** class; 
 

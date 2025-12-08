@@ -17,7 +17,7 @@ license: ORC
 
 
 
-If you're unnoticed by a creature, that creature has no idea you're present. When you're unnoticed, you're also [[Conditions/Undetected|Undetected]]. This matters for abilities that can be used only against targets totally unaware of your presence.
+If you're unnoticed by a creature, that creature has no idea you're present. When you're unnoticed, you're also [[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Conditions/Undetected|Undetected]]. This matters for abilities that can be used only against targets totally unaware of your presence.
 
 *Source: Pathfinder Player Core*
 *ORC*

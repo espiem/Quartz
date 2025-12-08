@@ -16,7 +16,7 @@ license: OGL
 ---
 # Frightful Moan `pf2:2`
 ## Feat 4
-### [[archetype]][[auditory]][[divine]][[emotion]][[fear]][[mental]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** class; 
 
@@ -32,9 +32,9 @@ You lament your fate, forcing each living creature in a 30-foot emanation to att
 
 **Success** The creature is unaffected and temporarily immune to Frightful Moans for 1 minute.
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 1]].
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Critical Failure** The creature is [[Conditions/Frightened|Frightened 2]].
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

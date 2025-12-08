@@ -13,7 +13,7 @@ license: OGL
 ---
 # Lumber Lord's Axe
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[sweep]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[sweep]]
 
 |  |  |
 | -- | -- |

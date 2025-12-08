@@ -8,13 +8,13 @@ tags:
 ---
 
 # Spiritsight Tea
-![[icons-consumables-plants-dried-herb-bundle-brown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-consumables-plants-dried-herb-bundle-brown.webp|150]]
 
 **Activate** 1 Interact or 10 minutes (concentrate, Interact)
 
 * * *
 
-Spiritsight tea exudes a soft blue glow, creating illumination equal to that of a candle. When consumed, your eyes take on a soft glow as well, and you can see [[Invisible]] creatures and objects for 10 minutes; such creatures appear to you as translucent shapes, and they're [[Concealed]] to you. You gain a +1 item bonus to Perception checks to [[Seek]] incorporeal creatures.
+Spiritsight tea exudes a soft blue glow, creating illumination equal to that of a candle. When consumed, your eyes take on a soft glow as well, and you can see [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]] creatures and objects for 10 minutes; such creatures appear to you as translucent shapes, and they're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] to you. You gain a +1 item bonus to Perception checks to [[Seek]] incorporeal creatures.
 
 * * *
 

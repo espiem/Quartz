@@ -8,7 +8,7 @@ tags:
 ---
 
 # Spellbook of Redundant Enchantment
-![[icons-sundries-gaming-playing-cards-black.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-black.webp|150]]
 
 When opening the book, whispers can be heard on the wind, or laughter rings in the distance.
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Frenzy Oil
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[contact]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 1500 gp; 
@@ -33,11 +33,11 @@ This oil, which is pressed from vrock spores and mixed with a combination of aca
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 4d6 mental damage, [[Conditions/Quickened|Quickened 1]], attack nearby creatures as if [[Conditions/Confused|Confused]] (1 round)
+**Stage 1** 4d6 mental damage, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened 1]], attack nearby creatures as if [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]] (1 round)
 
 **Stage 2** 6d6 mental damage, attack nearby creatures as if confused (1 round)
 
-**Stage 3** 8d6 mental damage, [[Conditions/Fatigued|Fatigued]], attack nearby creatures as if confused (1 round)
+**Stage 3** 8d6 mental damage, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]], attack nearby creatures as if confused (1 round)
 
 *Source: Pathfinder #149: Against the Scarlet Triad*
 *OGL*

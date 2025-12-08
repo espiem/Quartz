@@ -14,7 +14,7 @@ license: ORC
 ---
 # Sacred Valkyrie Helm
 ## Item 19
-### [rare](rare "Rare Rarity Trait")[[apex]][[holy]][[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[apex]][[holy]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 40000 gp; 

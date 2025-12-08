@@ -14,7 +14,7 @@ license: ORC
 ---
 # Freezing Ammunition
 ## Item 5
-### [[cold]][[consumable]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Cold]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 25 gp; 
@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-This chilly ammunition is dark blue and cold to the touch. When activated _freezing ammunition_ hits a target, the target must succeed at a DC 19 Fortitude check save or be [[Conditions/Slowed|Slowed 1]] for 1 round by the intense cold (slowed 1 for 1 minute on a critical failure).
+This chilly ammunition is dark blue and cold to the touch. When activated _freezing ammunition_ hits a target, the target must succeed at a DC 19 Fortitude check save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] for 1 round by the intense cold (slowed 1 for 1 minute on a critical failure).
 
 *Source: Pathfinder Player Core 2*
 *ORC*

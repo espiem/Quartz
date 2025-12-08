@@ -10,7 +10,7 @@ tags:
 # Appearance of Wealth
 ![[systems-pf2e-icons-spells-appearance-of-wealth.webp|150]]
 
-You create a brief vision of immense wealth filling the spell's area. Each creature within 20 feet of the area that could be enticed by material wealth must attempt a Will saving throw. A creature that enters the area automatically disbelieves the illusion, and disbelieving the illusion ends any [[Fascinated]] condition imposed by the spell. As long as you Sustain the Spell, other creatures react to the treasure like they would any other illusion, but they are not at risk of becoming Fascinated.
+You create a brief vision of immense wealth filling the spell's area. Each creature within 20 feet of the area that could be enticed by material wealth must attempt a Will saving throw. A creature that enters the area automatically disbelieves the illusion, and disbelieving the illusion ends any [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] condition imposed by the spell. As long as you Sustain the Spell, other creatures react to the treasure like they would any other illusion, but they are not at risk of becoming Fascinated.
 
 * * *
 

@@ -22,8 +22,8 @@ When eaten or smoked, pesh gives users a sense of well-being, sometimes with hal
 
 **Maximum Duration** 6 hours
 
-**Stage 1** [[Stupefied|Stupefied 1]] and a +2 item bonus to saves versus fear effects (1 minute)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] and a +2 item bonus to saves versus fear effects (1 minute)
 
 **Stage 2** 1 temporary Hit Point per level (first time you reach this stage only), +2 item bonus to saves versus fear effects, [[Clumsy 1]], and stupefied 1 (1 minute)
 
-**Stage 3** [[Clumsy 1|Clumsy 2]] and [[Stupefied|Stupefied 2]] (1 hour)
+**Stage 3** [[Clumsy 1|Clumsy 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (1 hour)

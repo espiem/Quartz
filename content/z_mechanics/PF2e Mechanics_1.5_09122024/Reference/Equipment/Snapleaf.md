@@ -14,7 +14,7 @@ license: OGL
 ---
 # Snapleaf
 ## Item 3
-### [[consumable]][[illusion]][[magical]][[talisman]]
+### [[consumable]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 9 gp; 

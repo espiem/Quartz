@@ -19,7 +19,7 @@ license: OGL
 ---
 # Infinite Expanse of Bluest Heaven `pf2:3`
 ## Feat 18
-### [[air]][[illusion]][[impulse]][[kineticist]][[mental]][[overflow]][[primal]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[illusion]][[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[overflow]][[primal]][[visual]]
 
 **Category** class; 
 
@@ -32,9 +32,9 @@ An illusion of a limitless expanse with an impossibly blue sky makes all within 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Off-Guard|Off-Guard]].
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]].
 
-**Failure** The creature is off-guard. It is [[Conditions/Fleeing|Fleeing]] from the illusory sky but is also disoriented; any time it uses an action to attempt to flee, it must succeed at a DC 11 Flat check or flee to a space that's still within the illusion. The GM determines where the creatures ends up, but the creature can't stay stationary if it's able to move.
+**Failure** The creature is off-guard. It is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing|Fleeing]] from the illusory sky but is also disoriented; any time it uses an action to attempt to flee, it must succeed at a DC 11 Flat check or flee to a space that's still within the illusion. The GM determines where the creatures ends up, but the creature can't stay stationary if it's able to move.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

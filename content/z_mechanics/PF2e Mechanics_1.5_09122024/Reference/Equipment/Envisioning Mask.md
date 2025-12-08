@@ -12,7 +12,7 @@ license: OGL
 ---
 # Envisioning Mask
 ## Item 11
-### [[invested]][[magical]][[mental]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 
 **Price** 1200 gp; 

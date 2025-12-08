@@ -19,7 +19,7 @@ license: ORC
 
 
 
-You blend in with unnatural subtlety. When you are [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]], increase the DC of the flat check to target you to 6 if you're concealed or 12 if you're hidden.
+You blend in with unnatural subtlety. When you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]], increase the DC of the flat check to target you to 6 if you're concealed or 12 if you're hidden.
 
 *Source: Pathfinder Player Core*
 *ORC*

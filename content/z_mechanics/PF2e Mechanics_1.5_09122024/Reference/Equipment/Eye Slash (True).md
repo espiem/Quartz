@@ -12,7 +12,7 @@ license: OGL
 ---
 # Eye Slash (True)
 ## Item 17
-### [[invested]][[magical]][[tattoo]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[tattoo]]
 
 
 **Price** 15000 gp; 

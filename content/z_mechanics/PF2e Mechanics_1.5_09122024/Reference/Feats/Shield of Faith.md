@@ -12,7 +12,7 @@ license: ORC
 ---
 # Shield of Faith
 ## Feat 10
-### [[cleric]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]]
 
 **Category** class; 
 
@@ -22,7 +22,7 @@ license: ORC
 * * *
 Residual energy from your domain spells bolsters your defenses. When you spend a Focus Point to cast a domain spell, you gain a +1 status bonus to your AC until the start of your next turn.
 
-[[Feat_Feature Effects/Effect_ Shield of Faith|Effect: Shield of Faith]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Shield of Faith|Effect: Shield of Faith]]
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Demon's Lantern
-![[icons-sundries-gaming-playing-cards-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Keys (Dex)
 
@@ -26,4 +26,4 @@ _The Demon's Lantern_ represents trickery and feats of legerdemain. As long as y
 
 * * *
 
-**Effect** You release a flash of lights and attempt a Reflex saving throw. If your saving throw is higher than the attack roll for the triggering attack, it misses. If the attack misses, the attacker is [[Dazzled]] until the end of your next turn.
+**Effect** You release a flash of lights and attempt a Reflex saving throw. If your saving throw is higher than the attack roll for the triggering attack, it misses. If the attack misses, the attacker is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] until the end of your next turn.

@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Mana Wastes Mutant) Revolting Appearance
 
-### [[arcane]][[aura]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[visual]]
 
 **Category** offensive; 
 

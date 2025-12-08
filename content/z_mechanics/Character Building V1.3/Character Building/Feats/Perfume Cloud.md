@@ -20,8 +20,8 @@ You issue a cloud of your fragrance like a full-body sneeze—but one that might
 
 **Critical Success** No effect.
 
-**Success** The creature is [[Dazzled]] for 1 round.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round.
 
 **Failure** The creature is dazzled and can see only 10 feet away for 1 round.
 
-**Critical Failure** The creature is [[Blinded]] for 1 round.
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round.

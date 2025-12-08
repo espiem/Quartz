@@ -15,7 +15,7 @@ license: ORC
 ---
 # Fearflower Nectar
 ## Item 4
-### [[alchemical]][[consumable]][[injury]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 16 gp; 
@@ -32,11 +32,11 @@ The nectar of a night-blooming desert flower attacks a victim's central nervous 
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 1d6 poison damage and [[Conditions/Frightened|Frightened 1]] (1 round)
+**Stage 1** 1d6 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]] (1 round)
 
-**Stage 2** 1d6 poison damage and [[Conditions/Frightened|Frightened 2]] (1 round)
+**Stage 2** 1d6 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] (1 round)
 
-**Stage 3** 1d6 poison damage and [[Conditions/Frightened|Frightened 3]] (1 round)
+**Stage 3** 1d6 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]] (1 round)
 
 *Source: Pathfinder GM Core*
 *ORC*

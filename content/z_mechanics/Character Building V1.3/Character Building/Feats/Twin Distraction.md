@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-Your movements with two weapons are so swift and disorienting that they befuddle your opponent. When using [[Twin Feint]], if both your Strikes deal damage to a targeted creature, the target must succeed at a will saving throw against your class DC or become [[Stupefied|Stupefied 1]] until the end of your next turn.
+Your movements with two weapons are so swift and disorienting that they befuddle your opponent. When using [[Twin Feint]], if both your Strikes deal damage to a targeted creature, the target must succeed at a will saving throw against your class DC or become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] until the end of your next turn.

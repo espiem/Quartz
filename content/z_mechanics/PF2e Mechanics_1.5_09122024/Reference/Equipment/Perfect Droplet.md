@@ -12,7 +12,7 @@ license: OGL
 ---
 # Perfect Droplet
 ## Item 3
-### [[magical]][[spellheart]][[water]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellheart]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 
 **Price** 55 gp; 
@@ -24,7 +24,7 @@ Intense blue water magically holds its shape-a perfect sphere. The spell DC of a
 *   **Armor** You gain resistance 2 to water effects and attacks by water creatures.
 *   **Weapon** After you cast a water spell by Activating the _droplet_, your body becomes mistlike. Until the end of the turn, you can move through enemies' spaces, treating each square in their spaces as difficult terrain. You can't move through creatures that have the water trait in this way.
 
-[[Equipment Effects/Effect_ Perfect Droplet - Armor|Effect: Perfect Droplet - Armor]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Perfect Droplet - Armor|Effect: Perfect Droplet - Armor]]
 
 * * *
 

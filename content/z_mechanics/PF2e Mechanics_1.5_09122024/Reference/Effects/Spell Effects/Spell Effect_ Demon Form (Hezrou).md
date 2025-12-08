@@ -28,7 +28,7 @@ You transform into a Large demon battle form. While in this form, you gain the d
 
 You also gain specific abilities based on the type of demon you choose:
 
-*   **Babau** Speed 25 feet; **Melee** `pf2:1` longspear (reach 10 feet), **Damage** 2d8+10 piercing plus 1d6 spirit; **Melee** `pf2:1` jaws, **Damage** 2d10 piercing plus 1d6 spirit; **Melee** `pf2:1` claw (agile), **Damage** 2d4 slashing plus 1d6 spirit; all Strikes deal 2d6 additional precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures.
+*   **Babau** Speed 25 feet; **Melee** `pf2:1` longspear (reach 10 feet), **Damage** 2d8+10 piercing plus 1d6 spirit; **Melee** `pf2:1` jaws, **Damage** 2d10 piercing plus 1d6 spirit; **Melee** `pf2:1` claw (agile), **Damage** 2d4 slashing plus 1d6 spirit; all Strikes deal 2d6 additional precision damage to [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] creatures.
 *   **Hezrou** Speed 30 feet, swim 30 feet; **Melee** `pf2:1` jaws (reach 10 feet), **Damage** 2d12+10 piercing plus 1d6 spirit, and you can spend an action after a hit to Grab the target; **Melee** `pf2:1` claw (agile, reach 10 feet), **Damage** 2d8 slashing plus 1d6 spirit.
 *   **Nabasu** Speed 25 feet, fly 40 feet; **Melee** `pf2:1` jaws, **Damage** 2d10+10 piercing plus 1d6 spirit; **Melee** `pf2:1` claw (agile), **Damage** 2d6 slashing plus 1d6 spirit.
 *   **Vrock** Speed 25 feet, fly 35 feet; resistance 10 to electricity; **Melee** `pf2:1` beak, **Damage** 2d8+10 piercing plus 1d6 spirit; **Melee** `pf2:1` claw (agile), **Damage** 2d6 slashing plus 1d6 spirit; **Melee** `pf2:1` talon (agile), **Damage** 2d6 slashing plus 1d6 spirit.

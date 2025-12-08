@@ -8,7 +8,7 @@ tags:
 ---
 
 # One with the Land
-![[icons-environment-wilderness-tree-oak.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-environment-wilderness-tree-oak.webp|150]]
 
 You merge with an adjacent natural feature with enough volume to fit you and your worn and held possessions, such as the ground or a large tree. Your merged form is visible within the feature, and creatures can target and attack you normally, though you have cover and can use it to Hide or Take Cover within the feature. You can cast spells while in the feature as long as they don't require line of effect beyond the feature. You can Dismiss the spell. While merged, you gain the following additional benefits.
 

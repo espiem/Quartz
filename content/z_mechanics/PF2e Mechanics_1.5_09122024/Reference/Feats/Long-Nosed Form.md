@@ -15,7 +15,7 @@ license: ORC
 ---
 # Long-Nosed Form `pf2:1`
 ## Feat 5
-### [[concentrate]][[polymorph]][[primal]][[tengu]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[polymorph]][[primal]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Tengu]]
 
 **Category** ancestry; 
 

@@ -16,11 +16,11 @@ You cause the creature's vision to become particularly sensitive. The creature m
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Dazzled]] for 1 round.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round.
 
 **Failure** The creature is dazzled for 1 minute.
 
-**Critical Failure** The creature gains [[Light Blindness]] for 1 minute. If the creature is already exposed to bright light, it immediately becomes [[Blinded]], as it isn't acclimated to its newly acquired light blindness.
+**Critical Failure** The creature gains [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Light Blindness]] for 1 minute. If the creature is already exposed to bright light, it immediately becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]], as it isn't acclimated to its newly acquired light blindness.
 
 * * *
 

@@ -14,4 +14,4 @@ tags:
 
 An opaque shell of drifting, iridescent runes covers the area, creating a bubble. You can choose to make the burst smaller, in 10-foot increments. The runes don't block travel, but those inside the bubble can't perceive those outside it and vice versa. Detection and scrying effects are likewise blocked.
 
-Creatures sleeping within the bubble are immune to dreams sent by spells. Those sleeping 8 hours reduce their [[Doomed]] condition by 2 instead of 1.
+Creatures sleeping within the bubble are immune to dreams sent by spells. Those sleeping 8 hours reduce their [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed]] condition by 2 instead of 1.

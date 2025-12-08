@@ -15,7 +15,7 @@ license: OGL
 ---
 # Donchak
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[hampering]][[reach]][[tethered]][[thrown-20]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[hampering]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]][[tethered]][[thrown-20]]
 
 |  |  |
 | -- | -- |

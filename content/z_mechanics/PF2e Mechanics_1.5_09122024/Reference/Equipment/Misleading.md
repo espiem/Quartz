@@ -11,14 +11,14 @@ license: OGL
 ---
 # Misleading
 ## Item 16
-### [[illusion]][[magical]]
+### [[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 8000 gp; 
 **Bulk** 0; **Size** med
 **Usage** etched-onto-light-armor
 
-This rune attempts to obfuscate your location through illusory trickery. When you're [[Conditions/Concealed|Concealed]], the DC of the flat check to target you with an effect is 6 instead of 5.
+This rune attempts to obfuscate your location through illusory trickery. When you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]], the DC of the flat check to target you with an effect is 6 instead of 5.
 
 **Activate** `pf2:2` command, envision
 

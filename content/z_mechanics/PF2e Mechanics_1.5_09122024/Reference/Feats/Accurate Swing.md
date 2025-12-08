@@ -12,7 +12,7 @@ license: OGL
 ---
 # Accurate Swing
 ## Feat 8
-### [[archetype]][[vigilante]]
+### [[archetype]][[Vigilante]]
 
 **Category** class; 
 

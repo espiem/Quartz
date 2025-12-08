@@ -16,6 +16,6 @@ Sealed with a vial containing the ashes from your childhood home, you traded the
 
 **Frequency** once per day
 
-**Trigger** You start your turn [[Off-Guard]] or [[Confused]]
+**Trigger** You start your turn [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]]
 
 **Effect** A speck of ash from the vial sealing your _bargained contract_ appears out of nowhere on your tongue, bringing your senses into focus. You suppress the off-guard or confused condition until the start of your next turn. You can use this free action when you are confused, even though you normally can't take actions of your choice when confused.

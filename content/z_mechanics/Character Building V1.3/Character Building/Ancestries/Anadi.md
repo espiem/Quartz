@@ -12,4 +12,4 @@ tags:
 
 _Anadi people are reclusive, sapient spiders who hail from the jungles of southern Garund. Though they act in many ways like natural-born shapeshifters, their twin forms actually stem from carefully developed magic._
 
-_[[Anadi]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Anadi]]_

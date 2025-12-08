@@ -21,7 +21,7 @@ license: OGL
 * * *
 Your keen senses and ability to process battlefield information have dramatically improved, allowing you to drastically reduce the advantage of unseen foes. You and allies in your overwatch field gain a +2 circumstance bonus when using the Seek action to find hidden or undetected creatures within the overwatch field. You and your allies don't have to succeed at a flat check to target a concealed creature within your overwatch field. When you or an ally targets a hidden creature in your overwatch field, reduce the DC of the flat check to 5.
 
-[[Feat_Feature Effects/Effect_ Control Tower|Effect: Control Tower]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Control Tower|Effect: Control Tower]]
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

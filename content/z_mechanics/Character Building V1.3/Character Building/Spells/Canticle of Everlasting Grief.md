@@ -8,7 +8,7 @@ tags:
 ---
 
 # Canticle of Everlasting Grief
-![[systems-pf2e-icons-spells-canticle-of-everlasting-grief.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-canticle-of-everlasting-grief.webp|150]]
 
 You create a melody distilled from pure grief, conveying the inevitable loss of everything your target cherishes, audible to only them. The target takes 10d6 mental damage depending on its Will save. A creature cursed by this spell can't benefit from circumstance or status bonuses, for the duration noted in the degree of success.
 
@@ -16,8 +16,8 @@ You create a melody distilled from pure grief, conveying the inevitable loss of 
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes half damage, is [[Frightened|Frightened 1]], and is cursed for 1 round.
+**Success** The target takes half damage, is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]], and is cursed for 1 round.
 
-**Failure** The target takes full damage, is [[Frightened|Frightened 3]], and is cursed for 1 week.
+**Failure** The target takes full damage, is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]], and is cursed for 1 week.
 
-**Critical Failure** The target takes double damage, is [[Frightened|Frightened 4]], and is cursed for an unlimited duration. While the curse remains, the target's allies are also affected by the curse while within 15 feet of the creature.
+**Critical Failure** The target takes double damage, is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 4]], and is cursed for an unlimited duration. While the curse remains, the target's allies are also affected by the curse while within 15 feet of the creature.

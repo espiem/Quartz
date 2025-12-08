@@ -26,7 +26,7 @@ license: ORC
 
 **Effect** The ally rolls the triggering check twice and takes the better of the two results. That ally then becomes temporarily immune to your Inspired Stratagem until your next daily preparations.
 
-[[Feat_Feature Effects/Effect_ Inspired Stratagem|Effect: Inspired Stratagem]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Inspired Stratagem|Effect: Inspired Stratagem]]
 
 *Source: Pathfinder Player Core*
 *ORC*

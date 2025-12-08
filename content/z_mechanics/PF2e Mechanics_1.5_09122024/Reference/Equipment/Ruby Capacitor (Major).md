@@ -13,7 +13,7 @@ license: OGL
 ---
 # Ruby Capacitor (Major)
 ## Item 18
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 4500 gp; 

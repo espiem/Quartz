@@ -16,7 +16,7 @@ You blind the target. The effect is determined by the target's Fortitude save. T
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Blinded]] until its next turn begins.
+**Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] until its next turn begins.
 
 **Failure** The target is Blinded for 1 minute.
 

@@ -11,7 +11,7 @@ license: ORC
 ---
 # Twisting Twine (Moderate)
 ## Item 5
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 125 gp; 

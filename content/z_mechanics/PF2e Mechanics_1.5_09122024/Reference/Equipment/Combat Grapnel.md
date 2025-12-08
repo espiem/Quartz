@@ -15,7 +15,7 @@ license: OGL
 ---
 # Combat Grapnel
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[finesse]][[grapple]][[tethered]][[thrown-20]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[grapple]][[tethered]][[thrown-20]]
 
 |  |  |
 | -- | -- |

@@ -13,14 +13,14 @@ license: OGL
 ---
 # Robe of the Archmagi (Greater)
 ## Item 19
-### [uncommon](uncommon "Uncommon Rarity Trait")[[comfort]][[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[comfort]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** unarmored; 
 **Price** 32000 gp; 
 **Bulk** 1; **Size** med
 **Usage** wornarmor
 
-Embroidered with fine silver thread in ornate arcane patterns, these robes come in one of three colors depending on their attuned alignment. Good robes are gold, neutral robes are light blue, and evil robes are red. An evil or good robe gains the appropriate trait. The robes benefit only characters who can cast arcane spells and whose alignment on the good-evil axis matches that of the robe. If your alignment does not match that of the robe, or you are not an arcane spellcaster, you are instead [[Conditions/Stupefied|Stupefied 2]] while wearing a _robe of the archmagi_. This condition can't be removed in any way until you remove the robe.
+Embroidered with fine silver thread in ornate arcane patterns, these robes come in one of three colors depending on their attuned alignment. Good robes are gold, neutral robes are light blue, and evil robes are red. An evil or good robe gains the appropriate trait. The robes benefit only characters who can cast arcane spells and whose alignment on the good-evil axis matches that of the robe. If your alignment does not match that of the robe, or you are not an arcane spellcaster, you are instead [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] while wearing a _robe of the archmagi_. This condition can't be removed in any way until you remove the robe.
 
 The robes are _+2 greater resilient explorer's clothing_, and they grant a +1 circumstance bonus to saving throws against arcane spells and resistance 10 to damage from arcane spells.
 

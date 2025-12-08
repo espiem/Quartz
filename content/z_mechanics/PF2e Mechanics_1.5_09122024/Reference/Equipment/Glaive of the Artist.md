@@ -15,7 +15,7 @@ license: OGL
 ---
 # Glaive of the Artist
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[forceful]][[magical]][[reach]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[forceful]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]]
 
 |  |  |
 | -- | -- |
@@ -48,7 +48,7 @@ This _+2 [[Equipment/Holy|Holy]] greater striking glaive_ has a long, multi-tail
 
 **Effect** You thrust the blade of the glaive into the ground, activating the power of the banner. (The blade can penetrate any non-metallic surface when used in this way, and does not leave a mark when withdrawn.) As long as the glaive is thrust into the ground and standing upright, all allies within 60 feet who can see the glaive's banner gain a +2 item bonus to Performance checks.
 
-[[Equipment Effects/Effect_ Glaive of the Artist|Effect: Glaive of the Artist]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Glaive of the Artist|Effect: Glaive of the Artist]]
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

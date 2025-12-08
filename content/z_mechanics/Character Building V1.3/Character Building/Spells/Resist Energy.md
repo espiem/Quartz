@@ -8,7 +8,7 @@ tags:
 ---
 
 # Resist Energy
-![[icons-magic-defensive-shield-barrier-deflect-teal.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-defensive-shield-barrier-deflect-teal.webp|150]]
 
 A shield of elemental energy protects a creature against one type of energy damage. Choose acid, cold, electricity, fire, or sonic damage. The target and its gear gain resistance 5 against the damage type you chose.
 

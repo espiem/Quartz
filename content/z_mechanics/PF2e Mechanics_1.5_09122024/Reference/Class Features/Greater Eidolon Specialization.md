@@ -11,7 +11,7 @@ license: OGL
 ---
 # Greater Eidolon Specialization
 ## Feat 15
-### [[summoner]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Summoner]]
 
 **Category** classfeature; 
 

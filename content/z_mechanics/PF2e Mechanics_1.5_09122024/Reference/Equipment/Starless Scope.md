@@ -11,7 +11,7 @@ license: OGL
 ---
 # Starless Scope
 ## Item 9
-### [unique](unique "Unique Rarity Trait")[[divine]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 650 gp; 

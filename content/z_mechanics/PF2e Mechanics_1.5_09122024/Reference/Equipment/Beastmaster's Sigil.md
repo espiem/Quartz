@@ -11,7 +11,7 @@ license: OGL
 ---
 # Beastmaster's Sigil
 ## Item 5
-### [[magical]][[spellheart]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellheart]]
 
 
 **Price** 160 gp; 
@@ -24,11 +24,11 @@ This silver disc displays an ever-changing etching of an animal. When you affix 
 *   **Melee Weapon** The sigil grants you a +1 item bonus to Athletics checks to [[Actions/Trip|Trip]].
 *   **Ranged Weapon** If you critically hit with the affixed weapon, and the target is adjacent to a creature summoned with the sigil, the target takes 1d6 persistent bleed damage.
 
-[[Equipment Effects/Effect_ Beastmaster's Sigil - Armor|Effect: Beastmaster's Sigil - Armor]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Beastmaster's Sigil - Armor|Effect: Beastmaster's Sigil - Armor]]
 
-[[Equipment Effects/Effect_ Beastmaster's Sigil - Melee Weapon|Effect: Beastmaster's Sigil - Melee Weapon]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Beastmaster's Sigil - Melee Weapon|Effect: Beastmaster's Sigil - Melee Weapon]]
 
-[[Equipment Effects/Effect_ Beastmaster's Sigil - Ranged Weapon|Effect: Beastmaster's Sigil - Ranged Weapon]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Beastmaster's Sigil - Ranged Weapon|Effect: Beastmaster's Sigil - Ranged Weapon]]
 
 * * *
 

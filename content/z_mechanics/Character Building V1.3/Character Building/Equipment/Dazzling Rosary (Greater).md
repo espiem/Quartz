@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-When energy courses through these lustrous beads, they glow brightly in the sacred colors of the spellcaster's faith. A _[[Spiritual Weapon]]_ empowered with this catalyst flashes with bright light when it critically Strikes a target, causing the target to be [[Dazzled]] until the beginning of your next turn. The rosary can be used with a _spiritual weapon_ of any level.
+When energy courses through these lustrous beads, they glow brightly in the sacred colors of the spellcaster's faith. A _[[Spiritual Weapon]]_ empowered with this catalyst flashes with bright light when it critically Strikes a target, causing the target to be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] until the beginning of your next turn. The rosary can be used with a _spiritual weapon_ of any level.

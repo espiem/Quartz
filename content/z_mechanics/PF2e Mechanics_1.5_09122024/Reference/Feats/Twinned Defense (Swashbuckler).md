@@ -12,7 +12,7 @@ license: OGL
 ---
 # Twinned Defense (Swashbuckler) `pf2:1`
 ## Feat 14
-### [[stance]][[swashbuckler]]
+### [[stance]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 

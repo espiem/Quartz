@@ -13,14 +13,14 @@ license: ORC
 ---
 # Incredible Aim `pf2:2`
 ## Feat 8
-### [[concentrate]][[fighter]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]]
 
 **Category** class; 
 
 
 
 
-By spending a moment to focus, you can ensure your attack strikes true. Make a ranged weapon Strike. On this Strike, you gain a +2 circumstance bonus to the attack roll and ignore the target's [[Conditions/Concealed|Concealed]] condition.
+By spending a moment to focus, you can ensure your attack strikes true. Make a ranged weapon Strike. On this Strike, you gain a +2 circumstance bonus to the attack roll and ignore the target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] condition.
 
 *Source: Pathfinder Player Core*
 *ORC*

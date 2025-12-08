@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Path Maiden) Sour Victory `pf2:r`
 
-### [[curse]][[misfortune]][[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Curse]][[misfortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** offensive; 
 

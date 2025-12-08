@@ -12,14 +12,14 @@ license: OGL
 ---
 # Words of Wisdom (Lesser)
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[tattoo]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[tattoo]]
 
 
 **Price** 100 gp; 
 **Bulk** 0; **Size** med
 **Usage** tattooed-on-the-body
 
-Yrisette developed these unique tattoos after months of tinkering and experimentation. This tattoo is always of a saying that has meaning to the person who wears it. While the words are [[Conditions/Hidden|Hidden]] within a larger pattern and are nearly impossible to discern at a glance, they lend gravitas and power to the wearer's words. When the tattoo is applied, choose whether the phrase is of threatening words (Intimidation), persuasive words (Deception), or dramatic words (Performance).
+Yrisette developed these unique tattoos after months of tinkering and experimentation. This tattoo is always of a saying that has meaning to the person who wears it. While the words are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]] within a larger pattern and are nearly impossible to discern at a glance, they lend gravitas and power to the wearer's words. When the tattoo is applied, choose whether the phrase is of threatening words (Intimidation), persuasive words (Deception), or dramatic words (Performance).
 
 **Activate** `pf2:1` Command
 

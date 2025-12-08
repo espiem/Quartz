@@ -18,7 +18,7 @@ Elegant silver filigree contains the body of this ephemeral item, which is made 
 
 * * *
 
-**Critical Success** The target takes double damage and is [[Dazzled]] until the start of your next turn. If it has a weakness to silver or a resistance that can be bypassed by silver, it's also [[Enfeebled 1]] for 1 minute.
+**Critical Success** The target takes double damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] until the start of your next turn. If it has a weakness to silver or a resistance that can be bypassed by silver, it's also [[Enfeebled 1]] for 1 minute.
 
 **Success** The target takes full damage and is dazzled until the start of your next turn.
 

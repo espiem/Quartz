@@ -16,8 +16,8 @@ This snare uses tightly wound springs, clockwork, and shrapnel to cause devastat
 
 **Critical Success** The creature in unaffected,
 
-**Success** The creature takes half damage and is [[Deafened]] for 1 round.
+**Success** The creature takes half damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 round.
 
-**Failure** The creature takes full damage, 2d6 persistent,piercing damage, and is [[Deafened]] for 1 minute.
+**Failure** The creature takes full damage, 2d6 persistent,piercing damage, and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 minute.
 
-**Critical Failure** The creature takes double damage, 4d6 persistent,piercing damage, and is [[Deafened]] for 1 minute.
+**Critical Failure** The creature takes double damage, 4d6 persistent,piercing damage, and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 minute.

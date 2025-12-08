@@ -12,7 +12,7 @@ license: OGL
 ---
 # Quick Stow (Swordmaster) `pf2:1`
 ## Feat 8
-### [[archetype]][[manipulate]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** class; 
 

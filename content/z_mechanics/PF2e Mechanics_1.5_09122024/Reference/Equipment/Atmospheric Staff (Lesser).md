@@ -16,7 +16,7 @@ license: OGL
 ---
 # Atmospheric Staff (Lesser)
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[air]][[magical]][[staff]][[two-hand-d8]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

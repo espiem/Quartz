@@ -12,7 +12,7 @@ license: OGL
 ---
 # Candlecap
 ## Item 1
-### [[invested]][[light]][[magical]]
+### [[invested]][[light]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 12 gp; 

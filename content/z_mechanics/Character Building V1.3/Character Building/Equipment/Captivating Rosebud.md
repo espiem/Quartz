@@ -26,7 +26,7 @@ Named because of its popularity among thieves to distract any authorities in pur
 
 **Failure** As success, but a –2 penalty.
 
-**Critical Failure** As success, but a –2 penalty and the creature is [[Fascinated]] by the rosebush.
+**Critical Failure** As success, but a –2 penalty and the creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] by the rosebush.
 
 * * *
 

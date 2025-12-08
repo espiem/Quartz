@@ -15,7 +15,7 @@ license: ORC
 ---
 # Orc Necksplitter
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[forceful]][[orc]][[sweep]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[forceful]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Orc]][[sweep]]
 
 |  |  |
 | -- | -- |

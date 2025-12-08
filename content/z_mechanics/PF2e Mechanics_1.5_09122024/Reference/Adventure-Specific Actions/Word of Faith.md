@@ -27,7 +27,7 @@ license: OGL
 
 * * *
 
-**Effect** Placing your hand on yourself or an ally, you heal their wounds and bolster their spirit. The target regains 1d8 healing HP per item level and reduces their [[Conditions/Frightened|Frightened]] value by 1.
+**Effect** Placing your hand on yourself or an ally, you heal their wounds and bolster their spirit. The target regains 1d8 healing HP per item level and reduces their [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]] value by 1.
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

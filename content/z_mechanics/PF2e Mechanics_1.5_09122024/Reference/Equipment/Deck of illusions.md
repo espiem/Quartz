@@ -11,7 +11,7 @@ license: OGL
 ---
 # Deck of illusions
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 200 gp; 
@@ -20,7 +20,7 @@ license: OGL
 
 This set of 34 parchment cards usually comes in a velvet bag or simple leather wrap. Each card depicts a different creature, monster, or other being that, when the deck is activated, immediately appears as a believable, life-size illusion. You can look at the card's artwork, but no magical effect takes place until you Activate the deck, shuffling and drawing randomly.
 
-[[Rollable Tables/Deck of Illusions Cards|Deck of Illusions Cards]]
+[[Deck of Illusions Cards|Deck of Illusions Cards]]
 
 * * *
 

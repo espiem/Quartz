@@ -18,7 +18,7 @@ license: OGL
 
 
 
-**Trigger** A creature attempts a flat check to target you because you're [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]] due to fog, haze, mist, or smoke
+**Trigger** A creature attempts a flat check to target you because you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]] due to fog, haze, mist, or smoke
 
 * * *
 

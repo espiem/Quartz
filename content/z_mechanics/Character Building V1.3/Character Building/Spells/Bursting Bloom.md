@@ -18,7 +18,7 @@ You cause a rose bush to sprout from the chest of a foe, bursting out of its bod
 
 **Success** The creature takes half damage and no persistent damage.
 
-**Failure** The creature takes full damage and persistent damage and is [[Encumbered]] for 4 rounds.
+**Failure** The creature takes full damage and persistent damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Encumbered]] for 4 rounds.
 
 **Critical Failure** The creature takes double damage and persistent damage and is encumbered for 1 minute.
 

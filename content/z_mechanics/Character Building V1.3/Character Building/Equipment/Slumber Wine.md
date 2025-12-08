@@ -22,8 +22,8 @@ Slumber wine sees its greatest use in games of intrigue, where an absence can be
 
 **Maximum Duration** 7 days
 
-**Stage 1** [[Unconscious]] (1 day)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] (1 day)
 
-**Stage 2** [[Unconscious]] (2 days)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] (2 days)
 
-**Stage 3** [[Unconscious]] (3 days)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] (3 days)

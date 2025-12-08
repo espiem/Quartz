@@ -12,4 +12,4 @@ tags:
 
 _The mind can perceive truths hidden to fine-tuned instruments, house more secrets than any tome, and move objects and hearts more deftly than any lever. By delving into both the conscious and subconscious aspects of your inner self, you have awoken to the might of psychic magic, allowing you to cast spells not through incantations or gestures but by the power of your will alone. While the thin line between your mind and reality means that a single errant thought could have unintended consequences for yourself and your companions, you know that anything is possible, if you can imagine it._
 
-_[[Psychic]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Classes/Psychic]]_

@@ -18,4 +18,4 @@ The first 12 pages of this tome tell the same story in two languages: 6 pages in
 
 * * *
 
-**Effect** If your next action is to cast a cold spell that deals damage, all creatures damaged by the spell are also [[Dazzled]] for 3 rounds by light refracting and reflecting within and around the spell's chilling effects. If an affected creature critically failed its save against the required spell, or if you critically succeeded on your spell attack roll against the creature, it's instead [[Blinded]] for 1 round and then dazzled for 3 rounds.
+**Effect** If your next action is to cast a cold spell that deals damage, all creatures damaged by the spell are also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 3 rounds by light refracting and reflecting within and around the spell's chilling effects. If an affected creature critically failed its save against the required spell, or if you critically succeeded on your spell attack roll against the creature, it's instead [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round and then dazzled for 3 rounds.

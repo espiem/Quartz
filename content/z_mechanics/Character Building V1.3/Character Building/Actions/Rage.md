@@ -8,13 +8,13 @@ tags:
 ---
 
 # Rage
-![[icons-skills-wounds-injury-face-impact-orange.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Actions/zz_asset-files/icons-skills-wounds-injury-face-impact-orange.webp|150]]
 
-**Requirements** You aren't [[Fatigued]] or raging.
+**Requirements** You aren't [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] or raging.
 
 * * *
 
-You tap into your inner fury and begin raging. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies you can perceive, or until you fall [[Unconscious]], whichever comes first. You can't voluntarily stop raging. While you are raging:
+You tap into your inner fury and begin raging. You gain a number of temporary Hit Points equal to your level plus your Constitution modifier. This frenzy lasts for 1 minute, until there are no enemies you can perceive, or until you fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]], whichever comes first. You can't voluntarily stop raging. While you are raging:
 
 *   You deal 2 additional damage with melee weapons and unarmed attacks. This additional damage is halved if your weapon or unarmed attack is agile.
 *   You take a -1 penalty to AC.

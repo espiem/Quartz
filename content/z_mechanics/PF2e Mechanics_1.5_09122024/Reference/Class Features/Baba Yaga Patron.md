@@ -11,7 +11,7 @@ license: OGL
 ---
 # Baba Yaga Patron
 ## Feat 1
-### [rare](rare "Rare Rarity Trait")[[witch]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Witch]]
 
 **Category** classfeature; 
 

@@ -10,7 +10,7 @@ tags:
 ---
 
 # Infuse Vitality
-![[icons-weapons-swords-sword-gold-holy.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-weapons-swords-sword-gold-holy.webp|150]]
 
 You empower attacks with vital energy. The number of targets is equal to the number of actions you spent casting this spell. Each target's unarmed and weapon Strikes deal an extra 1d4 vitality damage. (This damage typically damages only undead). If you have the holy trait, you can add that trait to this spell and to the Strikes affected by the spell.
 

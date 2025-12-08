@@ -20,8 +20,8 @@ Your skin glows with intensity. Creatures within 10 feet who can see you must su
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Dazzled]] for 1 round.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round.
 
-**Failure** The creature is [[Blinded]] for 1 round and dazzled for 4 rounds.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round and dazzled for 4 rounds.
 
 **Critical Failure** The creature is blinded for 4 rounds and dazzled for 10 minutes.

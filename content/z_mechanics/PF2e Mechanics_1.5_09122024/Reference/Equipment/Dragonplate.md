@@ -14,7 +14,7 @@ license: ORC
 ---
 # Dragonplate
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[bulwark]][[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[bulwark]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** heavy; **Group** plate
 **Price** 10000 gp; 

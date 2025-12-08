@@ -12,7 +12,7 @@ tags:
 
 **Frequency** once per minute
 
-**Requirements** You're wielding a loaded firearm or crossbow and are not [[Fatigued]].
+**Requirements** You're wielding a loaded firearm or crossbow and are not [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]].
 
 * * *
 

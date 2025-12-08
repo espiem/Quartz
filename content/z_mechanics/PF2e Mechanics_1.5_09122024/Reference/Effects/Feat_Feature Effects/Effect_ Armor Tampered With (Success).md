@@ -18,7 +18,7 @@ license: OGL
 
 Granted by [[Feats/Tamper|Tamper]]
 
-You are [[Conditions/Off-Guard|Off-Guard]] and take a -10-foot penalty to your Speeds.
+You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] and take a -10-foot penalty to your Speeds.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

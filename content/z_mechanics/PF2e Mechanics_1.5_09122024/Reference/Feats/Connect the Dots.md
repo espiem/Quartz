@@ -15,7 +15,7 @@ license: ORC
 ---
 # Connect the Dots `pf2:2`
 ## Feat 6
-### [[auditory]][[concentrate]][[investigator]][[linguistic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Investigator]][[linguistic]]
 
 **Category** class; 
 
@@ -34,7 +34,7 @@ Ephemeral connections between people, places, and concepts are invisible to most
 
 **Failure** You fail to make a connection.
 
-**Critical Failure** You misconstrue a vital piece of information, which temporarily disconcerts you. You are [[Conditions/Stupefied|Stupefied 1]] until the end of your next turn.
+**Critical Failure** You misconstrue a vital piece of information, which temporarily disconcerts you. You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] until the end of your next turn.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

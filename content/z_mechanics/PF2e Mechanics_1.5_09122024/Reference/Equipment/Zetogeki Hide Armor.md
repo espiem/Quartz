@@ -14,7 +14,7 @@ license: ORC
 ---
 # Zetogeki Hide Armor
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[earth]][[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[earth]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** medium; **Group** leather
 **Price** 500 gp; 

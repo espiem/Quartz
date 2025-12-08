@@ -26,8 +26,8 @@ Once a stick of pyronite's fuse is lit, it explodes at the end of your turn, reg
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is [[Deafened]] for 1 round.
+**Success** The creature takes half damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 round.
 
 **Failure** The creature takes full damage and is deafened for 1 minute.
 
-**Critical Failure** The creature takes double damage and is knocked [[Prone]], [[Stunned 1]], and deafened for 1 hour.
+**Critical Failure** The creature takes double damage and is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]], [[Stunned 1]], and deafened for 1 hour.

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Rekindled Light `pf2:r`
 ## Feat 5
-### [[healing]][[kitsune]][[vitality]]
+### [[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Kitsune]][[vitality]]
 
 **Category** ancestry; 
 
@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-You temporarily drain your star orb familiar's energy to save an ally. The target avoids being knocked out and remains at 1 Hit Point, and their [[Conditions/Wounded|Wounded]] condition increases by 1. The target then regains Hit Points equal to your level. When the familiar's energy is drained, it becomes dormant until your next daily preparations.
+You temporarily drain your star orb familiar's energy to save an ally. The target avoids being knocked out and remains at 1 Hit Point, and their [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded|Wounded]] condition increases by 1. The target then regains Hit Points equal to your level. When the familiar's energy is drained, it becomes dormant until your next daily preparations.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

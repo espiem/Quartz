@@ -8,7 +8,7 @@ tags:
 ---
 
 # Lay on Hands
-![[systems-pf2e-icons-spells-lay-on-hands.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-lay-on-hands.webp|150]]
 
 Your hands become infused with vitality energy, healing a living creature or damaging an undead creature with a touch.
 

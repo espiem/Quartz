@@ -12,7 +12,7 @@ license: ORC
 ---
 # Vomit Stomach `pf2:r`
 ## Feat 5
-### [[grippli]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Grippli]]
 
 **Category** ancestry; 
 
@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-In dire circumstances you can vomit out your stomach to expel toxins. Reduce your sickened condition by 2 and immediately attempt a saving throw with a +2 circumstance bonus against any ingested poisons you have been exposed to within the last minute. You become [[Conditions/Off-Guard|Off-Guard]] for 1 round as your exposed stomach makes you especially vulnerable to attacks.
+In dire circumstances you can vomit out your stomach to expel toxins. Reduce your sickened condition by 2 and immediately attempt a saving throw with a +2 circumstance bonus against any ingested poisons you have been exposed to within the last minute. You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] for 1 round as your exposed stomach makes you especially vulnerable to attacks.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

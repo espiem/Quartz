@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Spells/Strength of Mind|Strength of Mind]]
 
-You gain a +1 status bonus to saving throws against mental effects and against effects that hinder movement (including those that reduce Speed or apply the [[Conditions/Grabbed|Grabbed]], [[Conditions/Immobilized|Immobilized]], or [[Conditions/Restrained|Restrained]] conditions). This bonus increases to +2 if the source of the effect has the fear trait.
+You gain a +1 status bonus to saving throws against mental effects and against effects that hinder movement (including those that reduce Speed or apply the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]] conditions). This bonus increases to +2 if the source of the effect has the fear trait.
 
 *Source: Pathfinder #209: Destroyer's Doom*
 *ORC*

@@ -30,7 +30,7 @@ A wellspring of magic fills you with power that's not fully under your control. 
 
 * * *
 
-**Critical Success** You temporarily recover an expended spell slot of any rank of your choice. The temporary spell slot lasts for 1 minute, and if you don't use it by then, you experience an immediate [[Rollable Tables/Wellspring Surges|Wellspring Surges]].
+**Critical Success** You temporarily recover an expended spell slot of any rank of your choice. The temporary spell slot lasts for 1 minute, and if you don't use it by then, you experience an immediate [[Wellspring Surges|Wellspring Surges]].
 
 **Success** As critical success, except you randomly determine the rank of spell slot from among yourspell rankspell levels (or all your ranks of spell slots if you have fewer than three). The slot lasts 3 rounds instead of 1 minute.
 
@@ -46,7 +46,7 @@ You can gain a temporary spell slot no more than twice per day. If you would gai
 
 When your wellspring magic goes out of control, it becomes a wellspring surge. Typically, this happens when you fail the flat check from wellspring magic, but other wellspring mage feats have effects that sometimes cause you to generate a wellspring surge, or might even cause your foes to do so.
 
-Roll 1d20 and use the _[[Rollable Tables/Wellspring Surges|Wellspring Surges]]_ rolltable to determine the surge's effect. If the effect calls for a damage type, the GM chooses the type based on the types of spells you know or your current location. The wellspring surge uses your spell DC. You have no control over the way your wellspring surge manifests. You are the point of origin for your wellspring surges, and you are not excluded from their effects. If you force a foe to generate a surge, they are the origin point of that surge instead.
+Roll 1d20 and use the _[[Wellspring Surges|Wellspring Surges]]_ rolltable to determine the surge's effect. If the effect calls for a damage type, the GM chooses the type based on the types of spells you know or your current location. The wellspring surge uses your spell DC. You have no control over the way your wellspring surge manifests. You are the point of origin for your wellspring surges, and you are not excluded from their effects. If you force a foe to generate a surge, they are the origin point of that surge instead.
 
 If your wellspring was granted by a being like a god or muse, the entity's intentions might sometimes alter the results of wellspring surges, or move the point of origin for an area to any point within 30 feet if the GM determines this fits the situation. For example, instead of uncontrolled damage, the entity might choose to damage only creatures opposing its plan, even if they are your allies.
 

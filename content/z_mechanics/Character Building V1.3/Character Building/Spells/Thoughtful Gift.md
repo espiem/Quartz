@@ -10,7 +10,7 @@ tags:
 # Thoughtful Gift
 ![[systems-pf2e-icons-spells-thoughtful-gift.webp|150]]
 
-You teleport one object of light or negligible Bulk held in your hand to the target. The object appears instantly in the target's hand, if they have a free hand, or at their feet if they don't. The target knows what object you are attempting to send them. If the target is [[Unconscious]] or refuses to accept your gift, or if the spell would teleport a creature (even if the creature is inside an extradimensional container), the spell fails.
+You teleport one object of light or negligible Bulk held in your hand to the target. The object appears instantly in the target's hand, if they have a free hand, or at their feet if they don't. The target knows what object you are attempting to send them. If the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] or refuses to accept your gift, or if the spell would teleport a creature (even if the creature is inside an extradimensional container), the spell fails.
 
 * * *
 

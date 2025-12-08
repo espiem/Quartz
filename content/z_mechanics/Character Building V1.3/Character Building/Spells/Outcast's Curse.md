@@ -16,7 +16,7 @@ You afflict the target with a curse that makes its presence abrasive and off-put
 
 **Critical Success** The target is unaffected.
 
-**Success** For 10 minutes, the target must roll twice and use the worse result whenever attempting a Deception, Diplomacy, Intimidation, or Performance check, and creatures they encounter have an initial attitude toward them of one step worse (for instance, [[Unfriendly]] instead of [[Indifferent]]).
+**Success** For 10 minutes, the target must roll twice and use the worse result whenever attempting a Deception, Diplomacy, Intimidation, or Performance check, and creatures they encounter have an initial attitude toward them of one step worse (for instance, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unfriendly]] instead of [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Indifferent]]).
 
 **Failure** As success, but the effect is permanent.
 

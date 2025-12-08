@@ -18,4 +18,4 @@ tags:
 
 * * *
 
-You intone a prayer to the dwarven deities Torag or Angradd, willing a higher power to guide your aim in the heat of battle. On your next Strike with a ranged weapon before the end of your turn, you gain a +2 circumstance bonus to your attack roll and ignore your target's [[Concealed]] condition, as well as your target's lesser, standard, and greater cover.
+You intone a prayer to the dwarven deities Torag or Angradd, willing a higher power to guide your aim in the heat of battle. On your next Strike with a ranged weapon before the end of your turn, you gain a +2 circumstance bonus to your attack roll and ignore your target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] condition, as well as your target's lesser, standard, and greater cover.

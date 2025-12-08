@@ -15,7 +15,7 @@ license: ORC
 ---
 # Alicorn Trigger
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[concussive]][[fatal-aim-d12]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[concussive]][[fatal-aim-d12]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 |  |  |
 | -- | -- |
@@ -41,9 +41,9 @@ This _+2 greater striking jezail_ features a preserved alicorn horn mounted unde
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is [[Conditions/Dazzled|Dazzled]] 1.
+**Success** The creature takes half damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] 1.
 
-**Failure** The creature takes full damage and is [[Conditions/Blinded|Blinded]] for 1 round.
+**Failure** The creature takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] for 1 round.
 
 **Critical Failure** The creature takes double damage and is blinded for 1 minute.
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Quickened Attunement `pf2:0`
 ## Feat 16
-### [[archetype]][[concentrate]][[spellshape]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[spellshape]]
 
 **Category** class; 
 

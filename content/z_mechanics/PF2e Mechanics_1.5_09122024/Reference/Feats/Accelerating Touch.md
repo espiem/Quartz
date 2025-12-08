@@ -11,7 +11,7 @@ license: OGL
 ---
 # Accelerating Touch
 ## Feat 4
-### [[champion]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]]
 
 **Category** class; 
 
@@ -21,7 +21,7 @@ license: OGL
 * * *
 Your healing energies are infused with bounding energy. A creature that recovers Hit Points from your [[Spells/Lay on Hands|Lay on Hands]] gains a +10-foot status bonus to its Speed until the end of its next turn.
 
-[[Spell Effects/Spell Effect_ Accelerating Touch|Spell Effect: Accelerating Touch]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Spell Effects/Spell Effect_ Accelerating Touch|Spell Effect: Accelerating Touch]]
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Chalice
 ## Feat 1
-### [[thaumaturge]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]]
 
 **Category** classfeature; 
 
@@ -34,7 +34,7 @@ Your reinforced chalice can collect a creature's life force to become empowered.
 
 ### **Paragon Benefit**
 
-When you or an ally drain the chalice, the overwhelming vitality it's collected helps you overcome many ailments. Reduce the drinker's [[Conditions/Clumsy|Clumsy]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Frightened|Frightened]], [[Conditions/Stupefied|Stupefied]], and [[Conditions/Stunned|Stunned]] values by 1. (This reduces the stunned condition only if it has a condition value, not when it has a duration.) The drinker also reduces its [[Conditions/Drained|Drained]] value by 1, but it can reduce its drained condition by Drinking from the Chalice only once per day.
+When you or an ally drain the chalice, the overwhelming vitality it's collected helps you overcome many ailments. Reduce the drinker's [[Conditions/Clumsy|Clumsy]], [[Conditions/Enfeebled|Enfeebled]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied]], and [[Conditions/Stunned|Stunned]] values by 1. (This reduces the stunned condition only if it has a condition value, not when it has a duration.) The drinker also reduces its [[Conditions/Drained|Drained]] value by 1, but it can reduce its drained condition by Drinking from the Chalice only once per day.
 
 In addition, the chalice attempts to counteract all poisons, diseases, and curses afflicting the drinker, using half your level rounded up as the counteract rank and your class DC - 10 as the counteract modifier. If the chalice fails to counteract a given affliction for a drinker, it can't attempt to counteract that affliction again until midnight.
 

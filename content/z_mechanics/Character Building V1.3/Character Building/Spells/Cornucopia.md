@@ -8,7 +8,7 @@ tags:
 ---
 
 # Cornucopia
-![[systems-pf2e-icons-spells-goodberry.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-goodberry.webp|150]]
 
 Vines twine into a wicker horn in your hands, and out spills a single fruit, nut, or similar small bit of produce. A creature who eats the produce with an Interact action regains 1d6+4 HP. The cornucopia, as well as any unconsumed pieces of fruit, wither away at the end of the duration.
 

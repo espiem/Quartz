@@ -14,7 +14,7 @@ license: ORC
 ---
 # Contagious Spell `pf2:1`
 ## Feat 18
-### [[concentrate]][[mythic]][[spellshape]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[mythic]][[spellshape]]
 
 **Category** class; 
 

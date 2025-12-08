@@ -16,4 +16,4 @@ tags:
 
 This flask is filled with a murky purple gas that briefly interferes with normal brain activity. A dread ampoule deals 1d6 mental damage and 1 mental splash damage.
 
-On a hit, the target becomes [[Frightened|Frightened 1]], or [[Frightened|Frightened 2]] on a critical hit. Many types also grant an item bonus to attack rolls.
+On a hit, the target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] on a critical hit. Many types also grant an item bonus to attack rolls.

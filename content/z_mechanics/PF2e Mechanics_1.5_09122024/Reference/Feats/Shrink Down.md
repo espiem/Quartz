@@ -14,7 +14,7 @@ license: OGL
 ---
 # Shrink Down `pf2:1`
 ## Feat 4
-### [[concentrate]][[eidolon]][[evolution]][[summoner]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[eidolon]][[evolution]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Summoner]]
 
 **Category** class; 
 

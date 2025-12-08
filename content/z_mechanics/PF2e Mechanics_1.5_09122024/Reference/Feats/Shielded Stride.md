@@ -12,7 +12,7 @@ license: ORC
 ---
 # Shielded Stride
 ## Feat 4
-### [[fighter]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]]
 
 **Category** class; 
 

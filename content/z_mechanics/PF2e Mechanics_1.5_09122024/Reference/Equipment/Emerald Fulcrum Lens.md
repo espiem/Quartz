@@ -12,7 +12,7 @@ license: OGL
 ---
 # Emerald Fulcrum Lens
 ## Item 10
-### [unique](unique "Unique Rarity Trait")[[invested]][[occult]][[void]]
+### [unique](unique "Unique Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[void]]
 
 
 **Price** 1000 gp; 
@@ -31,7 +31,7 @@ This concave green lens is pitted and flawed; its jagged edges can cut those who
 
 **Effect** You grasp the _Emerald Fulcrum Lens_ in one hand, regain 30 Hit Points, and gain a +2 item bonus to saving throws against magic for 1 round.
 
-[[Equipment Effects/Effect_ Emerald Fulcrum Lens (Saving Throw)|Effect: Emerald Fulcrum Lens (Saving Throw)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Emerald Fulcrum Lens (Saving Throw)|Effect: Emerald Fulcrum Lens (Saving Throw)]]
 
 * * *
 

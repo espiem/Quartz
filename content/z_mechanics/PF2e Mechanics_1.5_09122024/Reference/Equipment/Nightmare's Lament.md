@@ -16,7 +16,7 @@ license: ORC
 ---
 # Nightmare's Lament
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[fatal-d8]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[fatal-d8]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 |  |  |
 | -- | -- |

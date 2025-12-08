@@ -8,7 +8,7 @@ tags:
 ---
 # This sword is Heavy
 
-> You are [[Conditions/Fatigued|Fatigued]].
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]].
 
 `Melee`
 
@@ -20,7 +20,7 @@ tags:
 
 # Awkward Attack
 
-> You are [[Other Effects/Effect_ Off-Guard until end of your next turn|Effect: Off-Guard until end of your next turn]].
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ Off-Guard until end of your next turn|Effect: Off-Guard until end of your next turn]].
 
 `Unarmed`
 

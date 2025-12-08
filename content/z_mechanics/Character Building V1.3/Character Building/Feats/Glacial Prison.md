@@ -16,7 +16,7 @@ Intense cold swirls around your foe, covering it in frost that slows it down and
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Slowed]] until the end of its next turn.
+**Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] until the end of its next turn.
 
 **Failure** The target is frozen solid. It can't act, its AC is 9, it has Hardness 5, and it's immune to other cold effects, critical hits, and precision damage. This lasts until the end of your next turn, but if the target is affected by a hostile action, this effect ends immediately after that action.
 

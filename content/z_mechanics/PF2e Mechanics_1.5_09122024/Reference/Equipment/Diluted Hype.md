@@ -15,7 +15,7 @@ license: OGL
 ---
 # Diluted Hype
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** drug; 
 **Price** 20 gp; 
@@ -32,9 +32,9 @@ A synthetic adrenaline supplement that increases awareness and reaction time. Di
 
 **Maximum Duration** 1 minute
 
-**Stage 1** [[Conditions/Quickened|Quickened]] and can use the additional action to Step (1 round)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened]] and can use the additional action to Step (1 round)
 
-**Stage 2** [[Conditions/Stupefied|Stupefied 1]] (1 round)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (1 round)
 
 **Stage 3** [[Conditions/Drained|Drained 1]] and stupefied 1 (1 round)
 

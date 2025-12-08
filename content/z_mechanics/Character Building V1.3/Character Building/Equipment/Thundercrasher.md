@@ -10,7 +10,7 @@ tags:
 # Thundercrasher
 ![[icons-weapons-guns-gun-blunderbuss-worn-brown.webp|150]]
 
-While looking straight down the barrel of this _+1 striking blunderbuss_, the spark gun's magical core is visible amid several reflectors. All damage dealt by a thundercrasher is sonic damage. On a critical hit, the target must succeed at a Fortitude save against your class DC or be [[Deafened]] for 1 minute.
+While looking straight down the barrel of this _+1 striking blunderbuss_, the spark gun's magical core is visible amid several reflectors. All damage dealt by a thundercrasher is sonic damage. On a critical hit, the target must succeed at a Fortitude save against your class DC or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 minute.
 
 **Activate** 2 Interact
 

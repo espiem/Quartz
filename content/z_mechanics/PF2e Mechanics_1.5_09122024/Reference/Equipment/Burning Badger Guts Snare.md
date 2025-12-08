@@ -15,7 +15,7 @@ license: OGL
 ---
 # Burning Badger Guts Snare
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[fire]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 170 gp; 

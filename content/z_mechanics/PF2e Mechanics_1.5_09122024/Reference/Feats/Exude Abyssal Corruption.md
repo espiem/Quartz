@@ -13,7 +13,7 @@ license: OGL
 ---
 # Exude Abyssal Corruption `pf2:1`
 ## Feat 8
-### [[archetype]][[manipulate]][[poison]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** class; 
 

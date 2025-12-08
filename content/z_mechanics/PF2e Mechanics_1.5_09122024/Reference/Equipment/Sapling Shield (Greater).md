@@ -10,7 +10,7 @@ license: OGL
 ---
 # Sapling Shield (Greater)
 ## Item 12
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 1820 gp; 

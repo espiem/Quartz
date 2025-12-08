@@ -12,7 +12,7 @@ license: OGL
 ---
 # Final Blade
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[artifact]][[death]][[occult]]
+### [rare](rare "Rare Rarity Trait")[[artifact]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Death]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 
 **Price** 0 gp; 

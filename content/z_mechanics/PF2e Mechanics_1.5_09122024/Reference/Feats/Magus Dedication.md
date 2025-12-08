@@ -25,7 +25,7 @@ You cast spells like a magus, gaining a spellbook with four common arcane cantri
 
 * * *
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Magus|Magus]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Magus|Magus]] archetype.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

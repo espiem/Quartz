@@ -13,7 +13,7 @@ license: OGL
 ---
 # Seek Injustice `pf2:3`
 
-### [[concentrate]][[magical]][[revelation]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[revelation]]
 
 **Category** bonus; 
 

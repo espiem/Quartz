@@ -13,7 +13,7 @@ license: ORC
 ---
 # Keen Magical Detection
 ## Feat 12
-### [[fortune]][[wizard]]
+### [[fortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Wizard]]
 
 **Category** class; 
 

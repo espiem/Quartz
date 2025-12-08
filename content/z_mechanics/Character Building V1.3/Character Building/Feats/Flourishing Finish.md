@@ -18,6 +18,6 @@ Attempt a Performance check, comparing the result to the Will DC of each foe wit
 
 * * *
 
-**Critical Success** The target is [[Frightened|Frightened 2]].
+**Critical Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
 **Success** The target is frightened 1.

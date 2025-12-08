@@ -12,7 +12,7 @@ license: ORC
 ---
 # Wand of Widening (3rd-Rank Spell)
 ## Item 8
-### [[magical]][[wand]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wand]]
 
 
 **Price** 500 gp; 

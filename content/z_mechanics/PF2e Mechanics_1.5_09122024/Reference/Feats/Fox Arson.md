@@ -13,7 +13,7 @@ license: ORC
 ---
 # Fox Arson
 ## Feat 9
-### [[fire]][[kitsune]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Kitsune]]
 
 **Category** ancestry; 
 

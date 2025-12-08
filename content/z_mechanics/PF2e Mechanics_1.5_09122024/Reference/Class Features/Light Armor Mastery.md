@@ -15,7 +15,7 @@ license: ORC
 ---
 # Light Armor Mastery
 ## Feat 19
-### [[investigator]][[kineticist]][[rogue]][[swashbuckler]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Investigator]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** classfeature; 
 

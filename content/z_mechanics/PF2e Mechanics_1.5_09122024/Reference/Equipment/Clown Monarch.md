@@ -14,7 +14,7 @@ license: OGL
 ---
 # Clown Monarch
 ## Item 5
-### [[alchemical]][[consumable]][[injury]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 21 gp; 
@@ -29,7 +29,7 @@ A victim of clown monarch is amusing to behold as they repeatedly suffer slapsti
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** falls [[Conditions/Prone|Prone]] and must succeed at a DC 5 Flat check when attempting a Stand action or the action fails and is lost (1 round)
+**Stage 1** falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] and must succeed at a DC 5 Flat check when attempting a Stand action or the action fails and is lost (1 round)
 
 **Stage 2** as stage 1 but a DC 10 Flat check (1 round)
 

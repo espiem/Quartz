@@ -26,4 +26,4 @@ Specialists in Kyonin prepare this emerald-green beverage.
 
 **Stage 2** [[Drained 1|Drained 2]] (1 hour)
 
-**Stage 3** [[Stupefied|Stupefied 4]] (1 hour)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 4]] (1 hour)

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Holy Prayer Beads (Greater)
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[healing]][[vitality]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[healing]][[vitality]]
 
 
 **Price** 1400 gp; 

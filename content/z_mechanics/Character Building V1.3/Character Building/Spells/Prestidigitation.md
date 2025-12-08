@@ -8,7 +8,7 @@ tags:
 ---
 
 # Prestidigitation
-![[icons-magic-symbols-runes-triangle-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-symbols-runes-triangle-blue.webp|150]]
 
 The simplest magic does your bidding. You can perform simple magical effects for as long as you Sustain the spell. Each time you Sustain the spell, you can choose one of four options.
 

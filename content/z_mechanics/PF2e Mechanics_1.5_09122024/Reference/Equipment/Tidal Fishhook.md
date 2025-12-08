@@ -17,7 +17,7 @@ license: OGL
 ---
 # Tidal Fishhook
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[finesse]][[grapple]][[magical]][[tethered]][[thrown-20]][[water]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[grapple]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[tethered]][[thrown-20]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 |  |  |
 | -- | -- |

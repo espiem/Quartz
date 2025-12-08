@@ -13,7 +13,7 @@ license: OGL
 ---
 # Fane's Fourberie `pf2:1`
 ## Feat 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[rogue]][[stance]][[swashbuckler]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]][[stance]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Gray Shadow
-![[systems-pf2e-icons-spells-gray-shadow.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-gray-shadow.webp|150]]
 
 You pray over a dying creature, drawing its shadow into your service as long as its owner is stooped at death's door.
 

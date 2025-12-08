@@ -8,6 +8,6 @@ tags:
 ---
 
 # Stonesense
-![[systems-pf2e-icons-spells-magic-stone.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-magic-stone.webp|150]]
 
 You gain tremorsense as an imprecise sense to a range of 100 feet, but you can only sense vibrations through natural stone (not masonry, adobe, or any other manufactured edifice).

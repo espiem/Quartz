@@ -16,11 +16,11 @@ You create a phantasmal image of the most fearsome creature imaginable to the ta
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes 4d6 mental damage and is [[Frightened|Frightened 1]].
+**Success** The target takes 4d6 mental damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Failure** The target takes 8d6 mental damage and is [[Frightened|Frightened 2]].
+**Failure** The target takes 8d6 mental damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
-**Critical Failure** The target is so afraid it might die. It must attempt a Fortitude save; if the target fails, it dies. On a successful Fortitude save, the target takes 12d6 mental damage, is [[Fleeing]] until the end of its next turn, and is [[Frightened|Frightened 4]]. This effect has the incapacitation trait.
+**Critical Failure** The target is so afraid it might die. It must attempt a Fortitude save; if the target fails, it dies. On a successful Fortitude save, the target takes 12d6 mental damage, is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing]] until the end of its next turn, and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 4]]. This effect has the incapacitation trait.
 
 * * *
 

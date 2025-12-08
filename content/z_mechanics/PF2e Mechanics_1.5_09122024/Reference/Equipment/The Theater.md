@@ -13,7 +13,7 @@ license: OGL
 ---
 # The Theater
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[harrow-court]][[invested]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[harrow-court]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 
@@ -26,7 +26,7 @@ license: OGL
 
 * * *
 
-_The Theater_ represents prophecy and how prophets can't change the unfolding pageantry of fate. As long as you have _The Theater_ invested and as long as you are not already [[Conditions/Doomed|Doomed]], when you would gain the doomed condition, attempt a DC 10 Flat check. On a success, you do not gain the doomed condition.
+_The Theater_ represents prophecy and how prophets can't change the unfolding pageantry of fate. As long as you have _The Theater_ invested and as long as you are not already [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed]], when you would gain the doomed condition, attempt a DC 10 Flat check. On a success, you do not gain the doomed condition.
 
 **Activate** `pf2:r` (fortune) envision
 

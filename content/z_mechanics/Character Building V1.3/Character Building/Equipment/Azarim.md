@@ -8,7 +8,7 @@ tags:
 ---
 
 # Azarim
-![[systems-pf2e-icons-equipment-weapons-rapier.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-rapier.webp|150]]
 
 **Perception**: +12; darkvision 30 feet, hearing 30 feet (imprecise)
 

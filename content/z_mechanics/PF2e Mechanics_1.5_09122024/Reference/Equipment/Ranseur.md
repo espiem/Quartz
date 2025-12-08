@@ -14,7 +14,7 @@ license: ORC
 ---
 # Ranseur
 ## Item 0
-### [[disarm]][[reach]]
+### [[disarm]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]]
 
 |  |  |
 | -- | -- |

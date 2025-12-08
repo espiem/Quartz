@@ -13,7 +13,7 @@ license: OGL
 ---
 # Phantasmal Doorknob
 ## Item 6
-### [[emotion]][[magical]][[mental]][[spellheart]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[spellheart]]
 
 
 **Price** 215 gp; 
@@ -23,11 +23,11 @@ license: OGL
 This ornate doorknob can open doors both material and metaphysical, revealing dreams and nightmares. The spell DC of any spell cast by activating this item is 20.
 
 *   **Armor** You gain a +1 item bonus to Thievery checks to Pick a Lock.
-*   **Weapon** If you critically succeed at a Strike with the weapon, the target is [[Conditions/Dazzled|Dazzled]] until the end of its next turn.
+*   **Weapon** If you critically succeed at a Strike with the weapon, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] until the end of its next turn.
 
-[[Equipment Effects/Effect_ Phantasmal Doorknob - Armor|Effect: Phantasmal Doorknob - Armor]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Phantasmal Doorknob - Armor|Effect: Phantasmal Doorknob - Armor]]
 
-[[Equipment Effects/Effect_ Phantasmal Doorknob - Weapon|Effect: Phantasmal Doorknob - Weapon]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Phantasmal Doorknob - Weapon|Effect: Phantasmal Doorknob - Weapon]]
 
 * * *
 

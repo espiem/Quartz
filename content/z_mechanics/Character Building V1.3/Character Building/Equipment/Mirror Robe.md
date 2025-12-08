@@ -26,8 +26,8 @@ Thousands of small, reflective, mirrored glass shards have been carefully stitch
 
 **Activate** 1 Interact (visual)
 
-**Requirements** The mirror robe was last activated to divert attention away from you and you are [[Hidden]] or [[Undetected]] by at least one foe
+**Requirements** The mirror robe was last activated to divert attention away from you and you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Undetected]] by at least one foe
 
 * * *
 
-**Effect** You draw attention toward yourself. Choose one foe to which you were hidden or undetected. You reveal yourself to all, becoming observed. The foe you chose diverts its attention to you, becoming [[Off-Guard]] to your allies until the beginning of your next turn. If you are [[Invisible]] or otherwise can't become [[Observed]], you can't use this activation.
+**Effect** You draw attention toward yourself. Choose one foe to which you were hidden or undetected. You reveal yourself to all, becoming observed. The foe you chose diverts its attention to you, becoming [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] to your allies until the beginning of your next turn. If you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]] or otherwise can't become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Observed]], you can't use this activation.

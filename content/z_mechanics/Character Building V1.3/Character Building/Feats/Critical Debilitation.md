@@ -18,8 +18,8 @@ Your debilitations are especially effective on your most powerful attacks. Whene
     
     **Critical Success** The target is unaffected.
     
-    **Success** The target is [[Slowed]] until the end of your next turn.
+    **Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] until the end of your next turn.
     
-    **Failure** The target is [[Slowed|Slowed 2]] until the end of your next turn.
+    **Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]] until the end of your next turn.
     
-    **Critical Failure** The target is [[Paralyzed]] until the end of your next turn.
+    **Critical Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] until the end of your next turn.

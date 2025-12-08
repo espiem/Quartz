@@ -10,7 +10,7 @@ tags:
 # Whirling Scarves
 ![[systems-pf2e-icons-spells-whirling-scarves.webp|150]]
 
-You surround yourself in a vortex of whirling colorful scarves of force that obfuscate you and disorient your foes. You gain the benefits of the [[Concealed]] condition, but only against ranged and melee attacks. When a melee attack fails to hit you because of the flat check for the Concealed condition, the scarves snag the weapon or unarmed attack, and the creature takes a -1 circumstance penalty to further attacks with that weapon or unarmed attack until the end of its turn (or the end of its next turn, if it wasn't the creature's turn). The timing of the scarves' movement is harder to predict for ranged attackers, so the flat check for the Concealed condition against ranged attacks increases from DC 5 to DC 6. You can Dismiss this spell.
+You surround yourself in a vortex of whirling colorful scarves of force that obfuscate you and disorient your foes. You gain the benefits of the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] condition, but only against ranged and melee attacks. When a melee attack fails to hit you because of the flat check for the Concealed condition, the scarves snag the weapon or unarmed attack, and the creature takes a -1 circumstance penalty to further attacks with that weapon or unarmed attack until the end of its turn (or the end of its next turn, if it wasn't the creature's turn). The timing of the scarves' movement is harder to predict for ranged attackers, so the flat check for the Concealed condition against ranged attacks increases from DC 5 to DC 6. You can Dismiss this spell.
 
 * * *
 

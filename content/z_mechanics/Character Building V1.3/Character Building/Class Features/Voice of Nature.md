@@ -10,6 +10,6 @@ tags:
 ---
 
 # Voice of Nature
-![[icons-creatures-amphibians-treefrog-leaf-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-creatures-amphibians-treefrog-leaf-green.webp|150]]
 
 You gain your choice of the [[Animal Empathy]] or [[Plant Empathy]] druid feat.

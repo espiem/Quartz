@@ -14,7 +14,7 @@ license: OGL
 ---
 # Animal-Turning Fulu
 ## Item 1
-### [rare](rare "Rare Rarity Trait")[[consumable]][[fulu]][[magical]][[talisman]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[fulu]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** fulu; 
 **Price** 4 gp; 
@@ -27,7 +27,7 @@ license: OGL
 
 * * *
 
-Frightened animals depicted on this fulu flee in all directions from a central figure (traditionally represented by a human hunter, but sometimes depicted as a skeletal undead creature or even a fiend with long, broken arms). You activate this fulu, gaining a +2 item bonus to AC against the triggering Strike. If this causes the Strike to miss, you become [[Conditions/Concealed|Concealed]] from the triggering creature until the start of your next turn.
+Frightened animals depicted on this fulu flee in all directions from a central figure (traditionally represented by a human hunter, but sometimes depicted as a skeletal undead creature or even a fiend with long, broken arms). You activate this fulu, gaining a +2 item bonus to AC against the triggering Strike. If this causes the Strike to miss, you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] from the triggering creature until the start of your next turn.
 
 *Source: Pathfinder #196: The Summer That Never Was*
 *OGL*

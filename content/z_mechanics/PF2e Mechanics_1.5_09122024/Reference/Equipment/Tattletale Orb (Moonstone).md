@@ -12,7 +12,7 @@ license: OGL
 ---
 # Tattletale Orb (Moonstone)
 ## Item 16
-### [rare](rare "Rare Rarity Trait")[[cursed]][[magical]][[scrying]]
+### [rare](rare "Rare Rarity Trait")[[cursed]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[scrying]]
 
 
 **Price** 7500 gp; 

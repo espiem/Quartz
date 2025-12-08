@@ -16,4 +16,4 @@ This device is a human-sized skull crafted entirely from metal plating and clock
 
 Throw Skull 2 (manipulate)
 
-The creature detaches its skull bomb and hurls the volatile explosive at a point within 30 feet. The skull explodes, dealing 7d6 fire damage to creatures within a 15 foot burst (DC 24 Basic reflex save). The skull is permanently destroyed and can't be used again, and the throwing creature is permanently [[Blinded]] and headless.
+The creature detaches its skull bomb and hurls the volatile explosive at a point within 30 feet. The skull explodes, dealing 7d6 fire damage to creatures within a 15 foot burst (DC 24 Basic reflex save). The skull is permanently destroyed and can't be used again, and the throwing creature is permanently [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] and headless.

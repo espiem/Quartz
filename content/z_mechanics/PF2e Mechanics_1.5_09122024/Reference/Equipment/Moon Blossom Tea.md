@@ -14,7 +14,7 @@ license: OGL
 ---
 # Moon Blossom Tea
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]][[tea]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]][[tea]]
 
 **Category** potion; 
 **Price** 150 gp; 
@@ -27,7 +27,7 @@ license: OGL
 
 This bright and citrusy tea is traditionally made with green tea combined with orange rind shavings and flower petals plucked during a full moon. Some claim to be able to tell the difference if these petals were plucked at other times, but this does not alter the tea's effects. The tea leaves have a chance to anticipate unexpected encounters. After consuming the tea, you gain a +2 item bonus to all initiative rolls for 1 hour and gain the following reaction.
 
-[[Equipment Effects/Effect_ Moon Blossom Tea|Effect: Moon Blossom Tea]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Moon Blossom Tea|Effect: Moon Blossom Tea]]
 
 **Evade Peril** `pf2:r` (envision)
 

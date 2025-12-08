@@ -12,6 +12,6 @@ tags:
 
 The more people you have looking at you, the more content you are, and you take every opportunity to show up others when their performances are less than perfect.
 
-You gain the [[Upstage]] reaction. In addition, when you [[Earn Income]], if the level of the task is higher than your level, you gain a +1 circumstance bonus to your check to Earn Income.
+You gain the [[Upstage]] reaction. In addition, when you [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/GM Screen/Earn Income]], if the level of the task is higher than your level, you gain a +1 circumstance bonus to your check to Earn Income.
 
 **Special** You can't select another dedication feat until you have gained two other feats from the [[Celebrity]] archetype.

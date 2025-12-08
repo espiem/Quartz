@@ -20,9 +20,9 @@ To determine the card, draw a card from a harrow deck. If you don't have a harro
 
 **3\. Shields (Con)** Boon: The target gains temporary Hit Points equal to twice the spell's level; Bane: The target is [[Drained 1]].
 
-**4\. Books (Int)** Boon: The target gains a +1 status bonus to skill checks; Bane: The target is [[Stupefied|Stupefied 1]].
+**4\. Books (Int)** Boon: The target gains a +1 status bonus to skill checks; Bane: The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]].
 
-**5\. Stars (Wis)** Boon: The target gains a +1 status bonus to saving throws; Bane: The target is [[Confused]].
+**5\. Stars (Wis)** Boon: The target gains a +1 status bonus to saving throws; Bane: The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]].
 
 **6\. Crowns (Cha)** Boon: The target can roll twice and take the higher result on a single check during the duration. This is a fortune effect; Bane: The target must roll twice and take the lower result on a single check of your choosing during the duration. This is a misfortune effect.
 

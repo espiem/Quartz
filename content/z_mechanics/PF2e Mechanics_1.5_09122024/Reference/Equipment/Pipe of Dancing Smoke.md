@@ -11,7 +11,7 @@ license: OGL
 ---
 # Pipe of Dancing Smoke
 ## Item 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fire]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 125 gp; 

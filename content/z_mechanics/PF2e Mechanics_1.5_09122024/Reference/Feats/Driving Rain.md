@@ -16,14 +16,14 @@ license: OGL
 ---
 # Driving Rain `pf2:3`
 ## Feat 6
-### [[impulse]][[kineticist]][[overflow]][[primal]][[water]]
+### [[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[overflow]][[primal]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 **Category** class; 
 
 
 
 
-Heavy drops of rain batter down, hitting like sling stones and impeding vision. Each creature in a 15-foot burst within 120 feet takes 0d8 bludgeoning damage with a Reflex check save against your class DC. Until the start of your next turn, all creatures are [[Conditions/Concealed|Concealed]] while in the area, and all creatures outside the area are concealed to creatures within it.
+Heavy drops of rain batter down, hitting like sling stones and impeding vision. Each creature in a 15-foot burst within 120 feet takes 0d8 bludgeoning damage with a Reflex check save against your class DC. Until the start of your next turn, all creatures are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] while in the area, and all creatures outside the area are concealed to creatures within it.
 
 * * *
 

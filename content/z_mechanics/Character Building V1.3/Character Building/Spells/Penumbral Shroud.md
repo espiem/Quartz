@@ -8,7 +8,7 @@ tags:
 ---
 
 # Penumbral Shroud
-![[icons-magic-air-wind-vortex-swirl-purple.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-air-wind-vortex-swirl-purple.webp|150]]
 
 You envelop the target in a shroud of shadow. The target perceives light as one step lower than it actually is (bright light becomes dim light, for example), affecting their ability to sense creatures and objects accordingly. The shroud also provides the target a +1 status bonus to saving throws against light effects. While this effect is helpful to creatures sensitive to light, if the creature is unwilling, it can attempt a Reflex save to avoid the shroud and reduce the effect.
 

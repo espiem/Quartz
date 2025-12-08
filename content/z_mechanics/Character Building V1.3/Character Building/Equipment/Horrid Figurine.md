@@ -22,4 +22,4 @@ Carved in a putrid jade, the color of disease, this figurine is a bloated humano
 
 * * *
 
-**Effect** Holding the figurine over your head and speaking a different command word causes those around to tremble in fear. Each creature in a 20 foot emanation must succeed at a DC 24 will save or become [[Frightened|Frightened 3]]. You're immune to this effect.
+**Effect** Holding the figurine over your head and speaking a different command word causes those around to tremble in fear. Each creature in a 20 foot emanation must succeed at a DC 24 will save or become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]]. You're immune to this effect.

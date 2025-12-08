@@ -12,7 +12,7 @@ license: ORC
 ---
 # Greater Mercy
 ## Feat 8
-### [[champion]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]]
 
 **Category** class; 
 
@@ -22,11 +22,11 @@ license: ORC
 * * *
 Your faith enhances your ability to remove conditions. Add the following options to the list of conditions you can counteract for any type of mercy you can grant.
 
-*   **Mercy of the Body** [[Conditions/Drained|Drained]], [[Conditions/Slowed|Slowed]]; if you're 16th level, add [[Conditions/Stunned|Stunned]]
+*   **Mercy of the Body** [[Conditions/Drained|Drained]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed]]; if you're 16th level, add [[Conditions/Stunned|Stunned]]
     
-*   **Mercy of Grace** [[Conditions/Immobilized|Immobilized]], [[Conditions/Restrained|Restrained]], [[Conditions/Slowed|Slowed]]; if you're 12th level, add [[Conditions/Petrified|Petrified]]; if you're 16th level, add [[Conditions/Stunned|Stunned]]
+*   **Mercy of Grace** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed]]; if you're 12th level, add [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Petrified|Petrified]]; if you're 16th level, add [[Conditions/Stunned|Stunned]]
     
-*   **Mercy of the Mind** [[Conditions/Confused|Confused]], [[Conditions/Controlled|Controlled]], [[Conditions/Slowed|Slowed]]; if you're 16th level, add [[Conditions/Doomed|Doomed]] and [[Conditions/Stunned|Stunned]].
+*   **Mercy of the Mind** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Controlled|Controlled]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed]]; if you're 16th level, add [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed]] and [[Conditions/Stunned|Stunned]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

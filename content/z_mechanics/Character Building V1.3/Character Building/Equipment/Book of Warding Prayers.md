@@ -8,7 +8,7 @@ tags:
 ---
 
 # Book of Warding Prayers
-![[icons-sundries-books-book-symbol-link-brown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-books-book-symbol-link-brown.webp|150]]
 
 Script in a language of the Outer Planes adorns this book's spine, and a deity's symbol is etched on its cover. _Books of warding prayers_ are each devoted to a particular deity and are also a religious symbol of that deity.
 

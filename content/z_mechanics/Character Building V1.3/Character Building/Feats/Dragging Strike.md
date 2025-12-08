@@ -12,7 +12,7 @@ tags:
 
 You aim your weapon to snag a foe's armor, clothing, or flesh to pull them closer.
 
-Make a melee Strike. If you hit a target that is your size or smaller, that creature is [[Off-Guard]] until the end of your current turn, and you can move it 5 feet toward you. When you move the creature, you can move the same distance in the same direction as it, even if you're adjacent to the target. This movement doesn't trigger reactions.
+Make a melee Strike. If you hit a target that is your size or smaller, that creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the end of your current turn, and you can move it 5 feet toward you. When you move the creature, you can move the same distance in the same direction as it, even if you're adjacent to the target. This movement doesn't trigger reactions.
 
 This Strike has the following failure effect.
 

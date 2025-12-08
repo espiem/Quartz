@@ -18,4 +18,4 @@ tags:
 
 * * *
 
-This dried claw from a mighty beast bestows upon you the ability of a predator. When you activate the claw, you learn to pounce on your prey in one fluid motion. You Stride and then Strike with the affixed weapon against one creature you were [[Undetected]] by. You remain undetected by the creature until after you Strike.
+This dried claw from a mighty beast bestows upon you the ability of a predator. When you activate the claw, you learn to pounce on your prey in one fluid motion. You Stride and then Strike with the affixed weapon against one creature you were [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Undetected]] by. You remain undetected by the creature until after you Strike.

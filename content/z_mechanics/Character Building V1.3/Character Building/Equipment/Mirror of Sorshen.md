@@ -14,7 +14,7 @@ The silvery glass of this oval mirror displays alluring sights. Its dark wooden 
 
 The _Mirror of Sorshen_ can form a bond with a spellcaster who has legendary proficiency in Arcana or Occultism, who becomes the mirror's owner. Regardless of where the mirror is, as long as the bond remains, the owner is aware of everything the mirror is currently reflecting and can use the mirror's activations.
 
-Whenever an intelligent creature looks in the mirror, they see an image of a person, creature, or item they find powerfully enticing in some way. The specific image varies depending on the observer, even when more than one creature is looking into the mirror at the same time. Observers are [[Fascinated]] by the images in the mirror unless they succeed at a DC 35 will save to end the fascination. At the GM's discretion, a truly innocent creature or a creature that has renounced all worldly pleasures might be immune to the mirror's fascination.
+Whenever an intelligent creature looks in the mirror, they see an image of a person, creature, or item they find powerfully enticing in some way. The specific image varies depending on the observer, even when more than one creature is looking into the mirror at the same time. Observers are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] by the images in the mirror unless they succeed at a DC 35 will save to end the fascination. At the GM's discretion, a truly innocent creature or a creature that has renounced all worldly pleasures might be immune to the mirror's fascination.
 
 **Activate—Second Glance** D (concentrate, emotion, incapacitation, visual)
 

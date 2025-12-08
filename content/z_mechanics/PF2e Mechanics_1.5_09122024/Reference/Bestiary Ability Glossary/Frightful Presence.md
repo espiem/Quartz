@@ -15,7 +15,7 @@ license: ORC
 ---
 # Frightful Presence
 
-### [[aura]][[emotion]][[fear]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Bestiary Ability Glossary/Aura]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** defensive; 
 
@@ -34,11 +34,11 @@ Regardless of the result of the saving throw, the creature is temporarily immune
 
 **Critical Success** The creature is unaffected by the presence.
 
-**Success** The creature is [[Conditions/Frightened|Frightened 1]].
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 2]].
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
-**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]].
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 4]].
 
 *Source: Pathfinder Monster Core*
 *ORC*

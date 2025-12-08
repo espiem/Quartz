@@ -10,4 +10,4 @@ tags:
 # Unbalancing Finisher
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You attack with a flashy assault that leaves your target off balance. Make a melee Strike. If you hit and deal damage, the target is [[Off-Guard]] until the end of your next turn.
+You attack with a flashy assault that leaves your target off balance. Make a melee Strike. If you hit and deal damage, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the end of your next turn.

@@ -10,7 +10,7 @@ tags:
 ---
 
 # Gecko Grip
-![[icons-creatures-invertebrates-spider-striped-web-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-invertebrates-spider-striped-web-red.webp|150]]
 
 Tiny clinging hairs sprout across the creature's hands and feet, offering purchase on nearly any surface. The target gains a climb Speed equal to its Speed.
 

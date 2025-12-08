@@ -8,7 +8,7 @@ tags:
 ---
 
 # Swarming Wasp Stings
-![[icons-creatures-invertebrates-fly-wasp-mosquito-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-invertebrates-fly-wasp-mosquito-green.webp|150]]
 
 You manifest a swarm of disembodied wasp stingers that stab creatures in the area, possibly poisoning them. Creatures in the affected area take 1d6 piercing damage. Each creature that takes piercing damage must attempt a Fortitude save.
 

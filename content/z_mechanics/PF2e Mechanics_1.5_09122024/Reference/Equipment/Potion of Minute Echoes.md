@@ -13,7 +13,7 @@ license: OGL
 ---
 # Potion of Minute Echoes
 ## Item 9
-### [[consumable]][[magical]][[potion]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 125 gp; 
@@ -26,7 +26,7 @@ license: OGL
 
 No matter how carefully you open this bottle, it always lets out an audible, echoing pop. For 1 minute after drinking this potion, you gain a +2 status bonus to Perception checks to hear. In addition, each time you Seek, your hearing becomes a precise sense until the beginning of your next turn, allowing you to pinpoint creatures' locations and otherwise perceive the world in detail by listening to the sound of echoes.
 
-[[Equipment Effects/Effect_ Potion of Minute Echoes|Effect: Potion of Minute Echoes]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Potion of Minute Echoes|Effect: Potion of Minute Echoes]]
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -10,4 +10,4 @@ tags:
 # What's That Up Your Sleeve
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-Whether as a dealer or player, you've learned to spot cheaters. When another creature attempts to [[Conceal an Object]] from you, use your Gambling Lore DC if it's higher than your Perception DC to determine whether they succeed. When you search a creature for a [[Concealed]] object, you can use Gambling Lore in place of Perception.
+Whether as a dealer or player, you've learned to spot cheaters. When another creature attempts to [[Conceal an Object]] from you, use your Gambling Lore DC if it's higher than your Perception DC to determine whether they succeed. When you search a creature for a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] object, you can use Gambling Lore in place of Perception.

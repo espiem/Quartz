@@ -10,4 +10,4 @@ tags:
 # Storm Born
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You are at home out in the elements, reveling in the power of nature unleashed. You do not take circumstance penalties to ranged spell attacks or Perception checks caused by weather, and your targeted spells don't require a flat check to succeed against a target [[Concealed]] by weather (such as fog).
+You are at home out in the elements, reveling in the power of nature unleashed. You do not take circumstance penalties to ranged spell attacks or Perception checks caused by weather, and your targeted spells don't require a flat check to succeed against a target [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] by weather (such as fog).

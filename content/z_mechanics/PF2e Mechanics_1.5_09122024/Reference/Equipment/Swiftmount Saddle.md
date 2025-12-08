@@ -13,7 +13,7 @@ license: OGL
 ---
 # Swiftmount Saddle
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[companion]][[invested]][[magical]][[primal]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[companion]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[primal]]
 
 
 **Price** 360 gp; 

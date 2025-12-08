@@ -24,7 +24,7 @@ license: OGL
 
 Crafting wine from assassin vine berries is a dangerous process, but the resulting ruby-red drink is rich and heady. Alchemical reagents added during fermentation concentrate the vine's connection to its environment and impart them onto the imbiber. For 1 minute after drinking a glass of assassin vine wine, you have tremorsense at a range of 30 feet.
 
-[[Equipment Effects/Effect_ Assassin Vine Wine|Effect: Assassin Vine Wine]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Assassin Vine Wine|Effect: Assassin Vine Wine]]
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

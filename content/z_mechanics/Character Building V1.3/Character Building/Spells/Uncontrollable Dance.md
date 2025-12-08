@@ -8,9 +8,9 @@ tags:
 ---
 
 # Uncontrollable Dance
-![[systems-pf2e-icons-spells-uncontrollable-dance.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-uncontrollable-dance.webp|150]]
 
-The target is overcome with an all-consuming urge to dance. For the duration of the spell, the target is [[Off-Guard]] and can't use reactions. While affected, the creature can't use move actions except to dance, using the Stride action to move up to half its Speed.
+The target is overcome with an all-consuming urge to dance. For the duration of the spell, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] and can't use reactions. While affected, the creature can't use move actions except to dance, using the Stride action to move up to half its Speed.
 
 * * *
 

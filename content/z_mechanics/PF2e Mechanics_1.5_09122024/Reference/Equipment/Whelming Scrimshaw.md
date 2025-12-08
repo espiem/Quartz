@@ -12,7 +12,7 @@ license: OGL
 ---
 # Whelming Scrimshaw
 ## Item 13
-### [[consumable]][[magical]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 500 gp; 

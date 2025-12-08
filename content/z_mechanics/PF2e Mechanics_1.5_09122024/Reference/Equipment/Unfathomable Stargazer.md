@@ -11,7 +11,7 @@ license: OGL
 ---
 # Unfathomable Stargazer
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[cursed]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[cursed]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 

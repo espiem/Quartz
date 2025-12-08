@@ -10,7 +10,7 @@ tags:
 # Sun Sight
 ![[icons-magic-perception-eye-ringed-glow-angry-small-red.webp|150]]
 
-Placed under the eyes like rays of light, this tattoo burns away illusions with the unmerciful brilliance of the sun. You gain a +2 bonus to Perception checks that involve sight. If you're [[Dazzled]], you receive a new save at the start of each of your turns to end your dazzled condition.
+Placed under the eyes like rays of light, this tattoo burns away illusions with the unmerciful brilliance of the sun. You gain a +2 bonus to Perception checks that involve sight. If you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]], you receive a new save at the start of each of your turns to end your dazzled condition.
 
 **Activate**1 to 3 envision
 

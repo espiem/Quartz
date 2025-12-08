@@ -8,7 +8,7 @@ tags:
 ---
 # Concussion
 
-> Normal damage. The target is [[Conditions/Confused|Confused]] for 1 minute and [[Conditions/Stupefied|Stupefied 2]] until healed.
+> Normal damage. The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]] for 1 minute and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] until healed.
 
 `Bludgeoning`
 

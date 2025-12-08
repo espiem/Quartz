@@ -15,7 +15,7 @@ license: ORC
 ---
 # Shortsword
 ## Item 0
-### [[agile]][[finesse]][[versatile-s]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[versatile-s]]
 
 |  |  |
 | -- | -- |

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Thumper Snare
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[auditory]][[clockwork]][[consumable]][[mechanical]][[snare]][[trap]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[clockwork]][[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 10 gp; 

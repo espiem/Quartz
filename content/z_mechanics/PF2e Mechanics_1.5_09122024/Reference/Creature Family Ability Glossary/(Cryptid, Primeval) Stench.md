@@ -12,16 +12,16 @@ license: OGL
 ---
 # (Cryptid, Primeval) Stench
 
-### [[aura]][[olfactory]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[olfactory]]
 
 **Category** offensive; 
 
 
 
 
-30 feet. A creature entering the emanation or starting its turn in the emanation must succeed at a Fortitude check save against the standard DC for the creature's level or become [[Conditions/Sickened|Sickened 1]] (plus [[Conditions/Slowed|Slowed 1]] as long as it's sickened on a critical failure). While within the emanation, affected creatures take a -2 circumstance penalty to saves against diseases and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.
+30 feet. A creature entering the emanation or starting its turn in the emanation must succeed at a Fortitude check save against the standard DC for the creature's level or become [[Conditions/Sickened|Sickened 1]] (plus [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] as long as it's sickened on a critical failure). While within the emanation, affected creatures take a -2 circumstance penalty to saves against diseases and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.
 
-[[Bestiary Effects/Effect_ Stench|Effect: Stench]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Bestiary Effects/Effect_ Stench|Effect: Stench]]
 
 *Source: Pathfinder Dark Archive*
 *OGL*

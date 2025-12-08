@@ -19,7 +19,7 @@ license: OGL
 
 When damaged, the clockwork attempts a DC 5 Flat check. On a failure, a plate of its armor falls loose. It takes a status penalty to AC equal to the number of lost plates (up to -4).
 
-[[Bestiary Effects/Effect_ Lost Plates|Effect: Lost Plates]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Bestiary Effects/Effect_ Lost Plates|Effect: Lost Plates]]
 
 *Source: Pathfinder Bestiary 3*
 *OGL*

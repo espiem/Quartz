@@ -12,7 +12,7 @@ license: ORC
 ---
 # Fell Rider
 ## Feat 9
-### [[hobgoblin]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Hobgoblin]]
 
 **Category** ancestry; 
 

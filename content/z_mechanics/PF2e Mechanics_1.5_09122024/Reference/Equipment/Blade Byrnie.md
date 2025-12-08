@@ -14,7 +14,7 @@ license: OGL
 ---
 # Blade Byrnie
 ## Item 7
-### [[flexible]][[invested]][[magical]][[noisy]]
+### [[flexible]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[noisy]]
 
 **Category** light; **Group** chain
 **Price** 360 gp; 

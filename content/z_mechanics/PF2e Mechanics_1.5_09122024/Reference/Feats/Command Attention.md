@@ -18,7 +18,7 @@ license: ORC
 ---
 # Command Attention `pf2:1`
 ## Feat 10
-### [[archetype]][[auditory]][[aura]][[concentrate]][[emotion]][[mental]][[visual]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[visual]]
 
 **Category** class; 
 

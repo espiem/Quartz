@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Waxworks
-![[icons-sundries-gaming-playing-cards-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Shield (Con)
 
@@ -16,7 +16,7 @@ tags:
 
 * * *
 
-The Waxworks represents helplessness and entropy. As long as you have this card invested, you gain a +2 item bonus to saving throws against effects that render you [[Clumsy 1|Clumsy]], [[Doomed]], [[Drained 1|Drained]], [[Enfeebled 1|Enfeebled]], or [[Fatigued]]. The item bonus increases to +3 if you are 20th level.
+The Waxworks represents helplessness and entropy. As long as you have this card invested, you gain a +2 item bonus to saving throws against effects that render you [[Clumsy 1|Clumsy]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed]], [[Drained 1|Drained]], [[Enfeebled 1|Enfeebled]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]]. The item bonus increases to +3 if you are 20th level.
 
 **Activate** 2 envision, Interact
 
@@ -30,8 +30,8 @@ The Waxworks represents helplessness and entropy. As long as you have this card 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes 2d6 persistent fire damage and 2d6 persistent mental damage. An affected creature or adjacent ally can reduce both of these values by 1d6 by spending an Interact action to scrape off the goo. Until the damage is reduced to 1d6 per type, the affected creature is also [[Confused]] (this is an emotion and mental effect).
+**Success** The creature takes 2d6 persistent fire damage and 2d6 persistent mental damage. An affected creature or adjacent ally can reduce both of these values by 1d6 by spending an Interact action to scrape off the goo. Until the damage is reduced to 1d6 per type, the affected creature is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] (this is an emotion and mental effect).
 
 **Failure** As success, but 4d6 persistent fire damage and 4d6 persistent mental damage.
 
-**Critical Failure** As success, but 6d6 persistent fire damage and 6d6 persistent mental damage, and the creature's speed is [[Slowed]] until the damage is reduced to 1d6 per type.
+**Critical Failure** As success, but 6d6 persistent fire damage and 6d6 persistent mental damage, and the creature's speed is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] until the damage is reduced to 1d6 per type.

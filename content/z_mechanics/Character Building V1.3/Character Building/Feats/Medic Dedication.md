@@ -12,10 +12,10 @@ tags:
 
 You become an expert in Medicine.
 
-When you succeed with [[Battle Medicine]] or [[Treat Wounds]], the target regains 5 additional HP at DC 20, 10 HP at DC 30, or 15 HP at DC 40.
+When you succeed with [[Battle Medicine]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/GM Screen/Treat Wounds]], the target regains 5 additional HP at DC 20, 10 HP at DC 30, or 15 HP at DC 40.
 
 Once per day, you can use Battle Medicine on a creature that's temporarily immune. If you're a master in Medicine, you can do so once per hour.
 
 * * *
 
-**Special** You can't select another dedication feat until you gain two other feats from the [[Medic]] archetype.
+**Special** You can't select another dedication feat until you gain two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Medic]] archetype.

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Fulu of the Stoic Ox
 ## Item 5
-### [[consumable]][[fulu]][[magical]][[talisman]]
+### [[consumable]][[fulu]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** fulu; 
 **Price** 25 gp; 

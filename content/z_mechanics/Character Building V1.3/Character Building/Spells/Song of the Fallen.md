@@ -20,8 +20,8 @@ If you target undead creatures, each undead must attempt a basic Will save.
 
 **Critical Success** The undead takes 5d6 vitality damage.
 
-**Success** The undead takes 10d6 vitality damage and is [[Slowed]] for 1 round.
+**Success** The undead takes 10d6 vitality damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] for 1 round.
 
-**Failure** The undead takes 100 vitality damage and is [[Slowed]] for 1 minute.
+**Failure** The undead takes 100 vitality damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] for 1 minute.
 
 **Critical Failure** The undead is destroyed.

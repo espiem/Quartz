@@ -13,7 +13,7 @@ license: ORC
 ---
 # Martyr `pf2:1`
 ## Feat 8
-### [[cleric]][[spellshape]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]][[spellshape]]
 
 **Category** class; 
 

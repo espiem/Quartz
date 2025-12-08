@@ -8,7 +8,7 @@ tags:
 ---
 
 # Pharasma
-![[systems-pf2e-icons-deity-Pharasma.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Deities/zz_asset-files/systems-pf2e-icons-deity-Pharasma.webp|150]]
 
 Ancient and powerful beyond even most other gods, Pharasma judges the souls of all who perish from her throne in the Boneyard. Through these judgments, the Lady of Graves ensures that the natural cycle of birth and death—the River of Souls—is not disrupted.
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Spiritual Weapon
-![[icons-skills-melee-strike-sword-slashing-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-melee-strike-sword-slashing-red.webp|150]]
 
 A weapon made of pure magical force materializes and attacks foes you designate within range. This weapon has a ghostly appearance and manifests as a club, a dagger, or your deity's favored weapon.
 

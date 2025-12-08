@@ -8,7 +8,7 @@ tags:
 ---
 
 # Earthworks
-![[icons-magic-earth-barrier-stone-explosion-debris.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-earth-barrier-stone-explosion-debris.webp|150]]
 
 With a ripple of earth, you raise small barriers from the ground. The ground in the area becomes difficult terrain. The spell's area is a 5 foot burst if you spent 1 action to cast it, a 10 foot burst if you spent 2 actions, or a 15 foot burst if you spent 3 actions. A creature can Interact to clear the barriers from one 5-foot square adjacent to it.
 

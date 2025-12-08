@@ -10,7 +10,7 @@ tags:
 ---
 
 # False Vitality
-![[systems-pf2e-icons-spells-false-life.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-false-life.webp|150]]
 
 You augment your flesh with the energies typically used to manipulate the undead. You gain 10 temporary Hit Points.
 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Miracle Worker
 ## Feat 18
-### [[alchemist]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-Your alchemical mastery can resuscitate the recently slain. You can administer a major or true elixir of life to a creature who has been dead for no more than 2 rounds. When you do, that creature is immediately returned to life with 1 Hit Point and becomes [[Conditions/Wounded|Wounded 1]].
+Your alchemical mastery can resuscitate the recently slain. You can administer a major or true elixir of life to a creature who has been dead for no more than 2 rounds. When you do, that creature is immediately returned to life with 1 Hit Point and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded|Wounded 1]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

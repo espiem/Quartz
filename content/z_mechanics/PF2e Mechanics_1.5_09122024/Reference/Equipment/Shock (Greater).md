@@ -12,7 +12,7 @@ license: ORC
 ---
 # Shock (Greater)
 ## Item 15
-### [[electricity]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Electricity]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 6500 gp; 

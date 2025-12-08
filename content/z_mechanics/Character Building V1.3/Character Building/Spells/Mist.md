@@ -12,4 +12,4 @@ tags:
 # Mist
 ![[icons-magic-air-fog-gas-smoke-dense-white.webp|150]]
 
-You call forth a cloud of mist. All creatures within the mist become [[Concealed]], and all creatures outside the mist become concealed to creatures within it. You can Dismiss the cloud.
+You call forth a cloud of mist. All creatures within the mist become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]], and all creatures outside the mist become concealed to creatures within it. You can Dismiss the cloud.

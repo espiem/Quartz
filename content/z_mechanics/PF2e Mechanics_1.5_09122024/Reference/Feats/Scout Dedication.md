@@ -23,7 +23,7 @@ license: ORC
 * * *
 You are a highly skilled scout, capable of guiding your allies, detecting imminent threats, and avoiding the attention of dangerous enemies. You can perform the [[Actions/Scout|Scout]] exploration activity at the same time as the [[Actions/Avoid Notice|Avoid Notice]] exploration activity. The bonus to initiative you grant when you Scout is +2 instead of +1.
 
-[[PF2e Journals/Archetypes/Scout|Scout]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Scout|Scout]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

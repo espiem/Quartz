@@ -15,7 +15,7 @@ license: OGL
 ---
 # Black King
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[concussive]][[magical]][[scatter-20]][[void]]
+### [rare](rare "Rare Rarity Trait")[[concussive]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[scatter-20]][[void]]
 
 |  |  |
 | -- | -- |
@@ -35,7 +35,7 @@ The _black king_ is a _+2 greater striking ashen blunderbuss_. While the dark me
 
 * * *
 
-**Effect** You unleash a blast of draining flame, dealing 5d6 fire + 5d6 void damage to all creatures in a 60 foot cone (DC 34 Reflex check save). Creatures who fail their saving throw are knocked back 5 feet. Creatures who critically fail are knocked back 10 feet and fall [[Conditions/Prone|Prone]].
+**Effect** You unleash a blast of draining flame, dealing 5d6 fire + 5d6 void damage to all creatures in a 60 foot cone (DC 34 Reflex check save). Creatures who fail their saving throw are knocked back 5 feet. Creatures who critically fail are knocked back 10 feet and fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 *Source: Pathfinder Lost Omens: Highhelm*
 *OGL*

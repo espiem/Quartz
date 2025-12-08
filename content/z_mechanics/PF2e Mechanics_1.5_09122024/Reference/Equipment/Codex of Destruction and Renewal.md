@@ -11,7 +11,7 @@ license: OGL
 ---
 # Codex of Destruction and Renewal
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[grimoire]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[grimoire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 70000 gp; 
@@ -36,7 +36,7 @@ An unsmiling mask, half obsidian and half ivory, is embossed on the cover of thi
 
 **Effect** If your next action is to cast a necromancy spell prepared from this grimoire that restores Hit Points, the spell renews the target constantly and perfectly. The spell grants the target regeneration 20, restoring 20 Hit Points at the start of its turn and preventing the target both from dying due to damage and from its dying condition increasing to a value that would result in its death. Each time the creature regains Hit Points from regeneration, it regrows all damaged or ruined organs; it can also regrow any severed body parts as a free action immediately after the body part is severed, with the original crumbling to ash. The effect lasts for 4 rounds.
 
-[[Equipment Effects/Effect_ Codex of Destruction and Renewal|Effect: Codex of Destruction and Renewal]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Codex of Destruction and Renewal|Effect: Codex of Destruction and Renewal]]
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

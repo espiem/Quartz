@@ -8,7 +8,7 @@ tags:
 ---
 # Off Balance
 
-> You take a [[Other Effects/Effect_ -2 circumstance penalty to attack rolls|-2 circumstance penalty to attack rolls]] until the end of your next turn.
+> You take a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -2 circumstance penalty to attack rolls|-2 circumstance penalty to attack rolls]] until the end of your next turn.
 
 `Melee`
 

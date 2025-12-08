@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-Your offense exploits your enemy's fear. Make a melee Strike against a frightened creature. If you hit and deal damage, the target becomes [[Off-Guard]] until its frightened condition ends. If the target was already off-guard to you when you damaged it with this Strike, it can't reduce its frightened value below 1 until the start of your next turn.
+Your offense exploits your enemy's fear. Make a melee Strike against a frightened creature. If you hit and deal damage, the target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until its frightened condition ends. If the target was already off-guard to you when you damaged it with this Strike, it can't reduce its frightened value below 1 until the start of your next turn.

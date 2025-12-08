@@ -24,7 +24,7 @@ You have a connection to mindless undead that allows you to communicate your int
 
 You become trained in Diplomacy; if already trained, you instead become trained in another skill of your choice.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Corpse Tender|Corpse Tender]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[Corpse Tender|Corpse Tender]] archetype.
 
 *Source: Pathfinder #181: Zombie Feast*
 *OGL*

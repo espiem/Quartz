@@ -12,7 +12,7 @@ license: OGL
 ---
 # Communication Pendants
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[auditory]][[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 3000 gp; 

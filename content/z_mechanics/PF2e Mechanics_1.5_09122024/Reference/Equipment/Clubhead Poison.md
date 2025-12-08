@@ -14,7 +14,7 @@ license: OGL
 ---
 # Clubhead Poison
 ## Item 12
-### [[alchemical]][[consumable]][[injury]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 340 gp; 
@@ -29,7 +29,7 @@ This poison is named for the strain of fungi from which it's distilled. Hallucin
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 3d8 poison, [[Conditions/Off-Guard|Off-Guard]], and can't take reactions (1 round)
+**Stage 1** 3d8 poison, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]], and can't take reactions (1 round)
 
 **Stage 2** 4d8 poison, off-guard, can't take reactions, [[Conditions/Stunned|Stunned 1]] (1 round)
 

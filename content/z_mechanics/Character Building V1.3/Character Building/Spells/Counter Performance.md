@@ -8,7 +8,7 @@ tags:
 ---
 
 # Counter Performance
-![[systems-pf2e-icons-spells-counter-performance.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-counter-performance.webp|150]]
 
 **Trigger** You or an ally within 60 feet rolls a saving throw against an auditory or visual effect.
 

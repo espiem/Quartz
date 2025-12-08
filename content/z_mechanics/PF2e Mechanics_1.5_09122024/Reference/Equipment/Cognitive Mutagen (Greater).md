@@ -35,7 +35,7 @@ Your mind becomes clear, but physical matters seem ephemeral.
 
 **Duration** 1 hour.
 
-[[Equipment Effects/Effect_ Cognitive Mutagen (Greater)|Effect: Cognitive Mutagen (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Cognitive Mutagen (Greater)|Effect: Cognitive Mutagen (Greater)]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

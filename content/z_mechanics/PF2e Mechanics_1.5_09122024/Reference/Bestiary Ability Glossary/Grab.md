@@ -18,7 +18,7 @@ license: ORC
 
 
 
-**Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]
+**Requirements** The monster's last action was a successful Strike that lists Grab in its damage entry, or the monster has a creature [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]]
 
 * * *
 

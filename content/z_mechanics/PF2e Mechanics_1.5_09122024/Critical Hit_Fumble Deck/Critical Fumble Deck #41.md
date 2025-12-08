@@ -8,13 +8,13 @@ tags:
 ---
 # All or Nothing
 
-> You take a [[Other Effects/Effect_ -1 circumstance penalty to attack rolls until you score a critical hit|-1 circumstance penalty to attack rolls until you score a critical hit]].
+> You take a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -1 circumstance penalty to attack rolls until you score a critical hit|-1 circumstance penalty to attack rolls until you score a critical hit]].
 
 `Melee`
 
 # Close to the Ear
 
-> You are [[Other Effects/Effect_ Deafened until end of your next turn|Effect: Deafened until end of your next turn]].
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ Deafened until end of your next turn|Effect: Deafened until end of your next turn]].
 
 `Ranged`
 

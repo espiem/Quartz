@@ -11,7 +11,7 @@ license: OGL
 ---
 # Past Life
 ## Feat 5
-### [[skeleton]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Skeleton]]
 
 **Category** ancestry; 
 

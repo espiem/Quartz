@@ -8,7 +8,7 @@ tags:
 ---
 
 # Glamorous Buckler
-![[systems-pf2e-icons-equipment-shields-specific-shields-glamorous-buckler.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-shields-specific-shields-glamorous-buckler.webp|150]]
 
 A glamorous buckler (Hardness 3, HP 6, BT 3) is lavishly decorated with gilding and inset gemstones that glitter in the light. While you have it raised, the glamorous buckler grants you a +1 item bonus to Deception checks to Feint.
 

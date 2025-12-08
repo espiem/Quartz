@@ -12,4 +12,4 @@ tags:
 
 You can squeeze out of tight situations surprisingly quickly, gaining an advantage against foes that try to pin you down. You gain the [[Quick Squeeze]] skill feat, and if you're a master in Acrobatics, you can [[Squeeze]] at full Speed.
 
-Whenever you successfully [[Escape]] using Acrobatics, the creature you Escaped from is [[Off-Guard]] against the next attack you make against it before the end of your next turn.
+Whenever you successfully [[Escape]] using Acrobatics, the creature you Escaped from is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] against the next attack you make against it before the end of your next turn.

@@ -36,7 +36,7 @@ While the eye is open, you gain the following benefits:
 *   you gain darkvision;
 *   you gain a +2 status bonus to Perception checks to Seek undetected and hidden creatures and to your Perception DC against Hide and Sneak.
 
-[[Feat_Feature Effects/Effect_ Eye of the Arclords|Effect: Eye of the Arclords]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Eye of the Arclords|Effect: Eye of the Arclords]]
 
 After your third eye closes, you are dazzled for an amount of time equal to how long you had it open.
 

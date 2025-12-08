@@ -18,7 +18,7 @@ Attempt an acrobatics check against the Reflex DC of an enemy adjacent to you.
 
 * * *
 
-**Critical Success** You move through the enemy's space to an unoccupied space on the other side of the enemy from your starting position. This movement doesn't trigger reactions. You can't move farther than your Speed, and you must end your movement adjacent to the enemy whose space you moved through. After moving, you make a melee Strike against the enemy whose space you moved through, and the enemy is [[Off-Guard]] against that Strike.
+**Critical Success** You move through the enemy's space to an unoccupied space on the other side of the enemy from your starting position. This movement doesn't trigger reactions. You can't move farther than your Speed, and you must end your movement adjacent to the enemy whose space you moved through. After moving, you make a melee Strike against the enemy whose space you moved through, and the enemy is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] against that Strike.
 
 **Success** As critical success, but the enemy isn't off-guard against the Strike.
 

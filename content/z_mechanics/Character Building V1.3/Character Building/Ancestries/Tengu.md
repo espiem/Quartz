@@ -12,4 +12,4 @@ tags:
 
 _Tengus are a gregarious and resourceful people that have spread far and wide from their ancestral home in Tian Xia, collecting and combining whatever innovations and traditions they happen across with those from their own long history._
 
-_[[Tengu]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Tengu]]_

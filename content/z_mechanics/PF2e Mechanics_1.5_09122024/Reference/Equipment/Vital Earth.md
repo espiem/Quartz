@@ -14,7 +14,7 @@ license: OGL
 ---
 # Vital Earth
 ## Item 9
-### [[consumable]][[earth]][[magical]]
+### [[consumable]][[earth]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 30 gp; 

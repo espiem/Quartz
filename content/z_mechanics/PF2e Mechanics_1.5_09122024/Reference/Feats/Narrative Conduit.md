@@ -14,7 +14,7 @@ license: OGL
 ---
 # Narrative Conduit
 ## Feat 6
-### [[archetype]][[auditory]][[linguistic]][[magical]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[linguistic]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** class; 
 

@@ -17,7 +17,7 @@ license: OGL
 ---
 # Orchard's Endurance `pf2:1`
 ## Feat 14
-### [[impulse]][[kineticist]][[plant]][[primal]][[stance]][[wood]]
+### [[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[plant]][[primal]][[stance]][[wood]]
 
 **Category** class; 
 
@@ -26,7 +26,7 @@ license: OGL
 
 Patches of bark appear on the skin of you and your nearby allies. You and your allies in your kinetic aura gain resistance 5 to bludgeoning and piercing damage. In addition, you and your affected allies roll flat checks to recover from persistent damage twice and take the higher result; this is a fortune effect.
 
-[[Feat_Feature Effects/Stance_ Orchard's Endurance|Stance: Orchard's Endurance]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Stance_ Orchard's Endurance|Stance: Orchard's Endurance]]
 
 * * *
 

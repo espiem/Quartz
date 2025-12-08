@@ -8,7 +8,7 @@ tags:
 ---
 
 # Elemental Sentinel
-![[icons-magic-earth-construct-stone-long-arms.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-earth-construct-stone-long-arms.webp|150]]
 
 You place a tiny elemental wisp within a single object, usually a mirror, statue, or other mundane-looking item, to serve as an alarm. Shattering or otherwise destroying the object frees the wisp and ends the ritual's effect even if the object is magically restored.
 

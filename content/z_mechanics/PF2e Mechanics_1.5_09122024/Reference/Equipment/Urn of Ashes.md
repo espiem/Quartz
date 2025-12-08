@@ -12,7 +12,7 @@ license: ORC
 ---
 # Urn of Ashes
 ## Item 9
-### [[magical]][[void]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[void]]
 
 
 **Price** 700 gp; 
@@ -23,7 +23,7 @@ This sealed pewter urn contains the ashes of a benevolent ancestor, with a slive
 
 **Activate—Doom the Urn** `pf2:r` (concentrate)
 
-**Trigger** You would become [[Conditions/Doomed|Doomed]], or your doomed value would increase
+**Trigger** You would become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed]], or your doomed value would increase
 
 **Requirements** The ashes aren't doomed
 

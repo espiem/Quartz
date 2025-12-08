@@ -8,7 +8,7 @@ tags:
 ---
 
 # Beheading Buzz Saw
-![[icons-environment-traps-saw-steel-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-environment-traps-saw-steel-grey.webp|150]]
 
 You compress molten scraps pulled from the Plane of Metal into a spinning disc with gruesome blades protruding from its edges. It wheels forward, slicing through anyone in its path. Each creature in the area takes 5d10 slashing damage and 4d6 persistent bleed damage, with a Reflex save.
 

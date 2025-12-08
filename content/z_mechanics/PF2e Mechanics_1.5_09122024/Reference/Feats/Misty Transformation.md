@@ -13,7 +13,7 @@ license: ORC
 ---
 # Misty Transformation `pf2:r`
 ## Feat 6
-### [[druid]][[primal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Druid]][[primal]]
 
 **Category** class; 
 
@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-You create a hazy cloud in a 5-foot burst centered on one corner of your space. If your new form is Large or larger, the cloud covers your entire space instead. All creatures within the area are [[Conditions/Concealed|Concealed]], and all others are concealed to them. The cloud lasts until the beginning of your next turn but is immediately dispersed by a strong wind.
+You create a hazy cloud in a 5-foot burst centered on one corner of your space. If your new form is Large or larger, the cloud covers your entire space instead. All creatures within the area are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]], and all others are concealed to them. The cloud lasts until the beginning of your next turn but is immediately dispersed by a strong wind.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

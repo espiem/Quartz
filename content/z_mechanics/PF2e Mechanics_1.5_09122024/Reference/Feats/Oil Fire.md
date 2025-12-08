@@ -15,7 +15,7 @@ license: ORC
 ---
 # Oil Fire `pf2:1`
 ## Feat 2
-### [[fire]][[inventor]][[manipulate]][[unstable]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Feats/Inventor]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[unstable]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ license: ORC
 
 **Prerequisites** armor innovation
 * * *
-**Requirements** You have a foe [[Conditions/Grabbed|Grabbed]].
+**Requirements** You have a foe [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]].
 
 * * *
 

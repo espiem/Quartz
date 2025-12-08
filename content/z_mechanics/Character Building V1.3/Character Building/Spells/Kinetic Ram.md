@@ -16,6 +16,6 @@ Gathering kinetic energy, you either focus it in a straight line or disperse it 
 
 1 The spell targets one creature within 15 feet.
 
-2 The spell targets one creature within 30 feet. The distance the target is pushed if it fails is doubled, and on a critical failure, the target is also knocked [[Prone]] and takes 1d6 bludgeoning damage.
+2 The spell targets one creature within 30 feet. The distance the target is pushed if it fails is doubled, and on a critical failure, the target is also knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] and takes 1d6 bludgeoning damage.
 
 3 The spell targets all creatures in a 5 foot emanation.

@@ -26,6 +26,6 @@ tags:
 
 # Concussive Blast
 
-> The target is pushed up to 10 feet and knocked [[Conditions/Prone|Prone]].
+> The target is pushed up to 10 feet and knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 `Bomb or Spell`

@@ -12,4 +12,4 @@ tags:
 
 _Known as itarii in their own language, strix are reclusive avian humanoids devoted to their homelands and their tribes. They defend their precious communities with broad wingspans and razor talons._
 
-_[[Strix]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Strix]]_

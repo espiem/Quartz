@@ -13,7 +13,7 @@ license: OGL
 ---
 # Summoner's Call `pf2:r`
 ## Feat 12
-### [[concentrate]][[summoner]][[teleportation]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Summoner]][[teleportation]]
 
 **Category** class; 
 

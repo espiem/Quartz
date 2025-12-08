@@ -16,7 +16,7 @@ license: ORC
 ---
 # Majestic Presence `pf2:1`
 ## Feat 13
-### [[dragonblood]][[emotion]][[fear]][[mental]][[visual]]
+### [[dragonblood]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[visual]]
 
 **Category** ancestry; 
 
@@ -29,11 +29,11 @@ By taking an impressive stance, the full force of your personality cows lesser b
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Conditions/Frightened|Frightened 1]].
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 2]].
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
-**Critical Failure** The creature is [[Conditions/Frightened|Frightened 4]].
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 4]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

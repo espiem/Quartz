@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-**Effect** Spring-Heeled Jack becomes [[Conditions/Invisible|Invisible]] for 1 round.
+**Effect** Spring-Heeled Jack becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible|Invisible]] for 1 round.
 
 *Source: Pathfinder Lost Omens: Monsters of Myth*
 *OGL*

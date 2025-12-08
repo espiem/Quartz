@@ -13,7 +13,7 @@ license: OGL
 ---
 # Hunter's Bow
 ## Item 3
-### [[deadly-d10]][[magical]]
+### [[deadly-d10]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 |  |  |
 | -- | -- |

@@ -12,7 +12,7 @@ license: ORC
 ---
 # (Floodslain) Vomit Flotsam `pf2:2`
 
-### [[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** offensive; 
 

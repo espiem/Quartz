@@ -10,14 +10,14 @@ license: OGL
 ---
 # Trackless (Greater)
 ## Item 10
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 900 gp; 
 **Bulk** 0; **Size** med
 **Usage** applied-to-footwear
 
-Trackless runes are common among hunters and trappers, as well as thieves and anyone [[Conditions/Fleeing|Fleeing]] pursuit. While wearing trackless footwear, you have a +4 item bonus to the DC to track you. However, this bonus doesn't stack with the status bonus from [[Spells/Vanishing Tracks|Vanishing Tracks]].
+Trackless runes are common among hunters and trappers, as well as thieves and anyone [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing|Fleeing]] pursuit. While wearing trackless footwear, you have a +4 item bonus to the DC to track you. However, this bonus doesn't stack with the status bonus from [[Spells/Vanishing Tracks|Vanishing Tracks]].
 
 **Activate** `pf2:2` command, envision
 

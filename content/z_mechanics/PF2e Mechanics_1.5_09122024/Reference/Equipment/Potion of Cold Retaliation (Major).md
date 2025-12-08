@@ -14,7 +14,7 @@ license: ORC
 ---
 # Potion of Cold Retaliation (Major)
 ## Item 18
-### [[consumable]][[magical]][[potion]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 5000 gp; 

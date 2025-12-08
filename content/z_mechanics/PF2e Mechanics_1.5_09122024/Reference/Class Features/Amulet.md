@@ -11,7 +11,7 @@ license: OGL
 ---
 # Amulet
 ## Feat 1
-### [[thaumaturge]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]]
 
 **Category** classfeature; 
 

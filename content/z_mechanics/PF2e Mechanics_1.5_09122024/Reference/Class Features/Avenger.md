@@ -12,7 +12,7 @@ license: ORC
 ---
 # Avenger
 ## Feat 1
-### [[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** classfeature; 
 
@@ -37,7 +37,7 @@ Trained to be a precise but brutal weapon by the priests of your faith, you esch
 
 You are trained in your deity's favored weapon. Whenever you gain a class feature that grants you expert or greater proficiency with simple or martial weapons, you also gain that proficiency rank with your deity's favored weapon.
 
-You can deal sneak attack damage with your deity's favored weapon, in addition to the weapons listed in the sneak attack class feature. When you critically succeed at an attack roll using your deity's favored weapon and the target has the [[Conditions/Off-Guard|Off-Guard]] condition, you also apply the weapon's critical specialization effect.
+You can deal sneak attack damage with your deity's favored weapon, in addition to the weapons listed in the sneak attack class feature. When you critically succeed at an attack roll using your deity's favored weapon and the target has the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] condition, you also apply the weapon's critical specialization effect.
 
 You're trained in your deity's divine skill and medium armor; if you're already trained in your deity's divine skill, you are instead trained in another skill of your choice. You can choose Strength as your key attribute modifier. When you gain light armor expertise, you also gain expert proficiency in medium armor, and when you gain light armor mastery, you also gain master proficiency in medium armor.
 

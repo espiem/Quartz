@@ -14,7 +14,7 @@ license: ORC
 ---
 # Absolve Sins `pf2:1`
 ## Feat 16
-### [rare](rare "Rare Rarity Trait")[[concentrate]][[mental]][[mythic]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[mythic]]
 
 **Category** class; 
 

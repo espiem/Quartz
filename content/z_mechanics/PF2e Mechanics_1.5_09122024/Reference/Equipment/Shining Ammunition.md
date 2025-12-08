@@ -14,7 +14,7 @@ license: ORC
 ---
 # Shining Ammunition
 ## Item 1
-### [[consumable]][[light]][[magical]]
+### [[consumable]][[light]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 3 gp; 
@@ -23,7 +23,7 @@ license: ORC
 
 _Shining ammunition_ gives off a faint glow. When shot, it sheds bright light in a 20-foot radius (and dim light to the next 20 feet) for 10 minutes. If it hits a target, it sticks, causing the target to shed light in the same radius. A creature can remove the ammunition with an Interact action, but the ammunition itself continues to glow for the rest of the duration or until destroyed.
 
-[[Equipment Effects/Effect_ Shining Ammunition|Effect: Shining Ammunition]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Shining Ammunition|Effect: Shining Ammunition]]
 
 *Source: Pathfinder GM Core*
 *ORC*

@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-You have specially augmented your wayfinder, devising a way for the device to reveal [[Conditions/Hidden|Hidden]] creatures. When you purchase this boon, you apply its benefits to one wayfinder in your possession, granting it the following activation ability.
+You have specially augmented your wayfinder, devising a way for the device to reveal [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]] creatures. When you purchase this boon, you apply its benefits to one wayfinder in your possession, granting it the following activation ability.
 
 Activate \[two-action\] command (evocation, good, light)
 

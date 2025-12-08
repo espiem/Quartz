@@ -11,7 +11,7 @@ license: OGL
 ---
 # Meld into Eidolon `pf2:3`
 ## Feat 1
-### [[summoner]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Summoner]]
 
 **Category** class; 
 

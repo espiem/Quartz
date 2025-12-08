@@ -12,7 +12,7 @@ license: ORC
 ---
 # Mountain Stronghold `pf2:1`
 ## Feat 6
-### [[monk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 **Category** class; 
 
@@ -26,7 +26,7 @@ license: ORC
 
 You focus on your connection to the earth and call upon the mountain to block attacks against you. You gain a +2 circumstance bonus to AC until the beginning of your next turn.
 
-[[Feat_Feature Effects/Effect_ Mountain Stronghold|Effect: Mountain Stronghold]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Mountain Stronghold|Effect: Mountain Stronghold]]
 
 * * *
 

@@ -19,7 +19,7 @@ license: ORC
 
 _There's no sight more beautiful to you than a strange brew bubbling in a beaker, and you consume your ingenious elixirs with abandon. You're fascinated by uncovering the secrets of science and the natural world, and you're constantly experimenting in your lab or on the go with inventive concoctions for every eventuality. You are fearless in the face of risk, hurling explosive or toxic creations at your foes. Your unique path toward greatness is lined with alchemical brews that push your mind and body to their limits._
 
-[[PF2e Journals/Classes/Alchemist|Alchemist]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist|Alchemist]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

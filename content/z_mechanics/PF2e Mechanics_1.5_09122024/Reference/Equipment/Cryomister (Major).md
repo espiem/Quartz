@@ -13,7 +13,7 @@ license: OGL
 ---
 # Cryomister (Major)
 ## Item 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[cold]][[consumable]][[gadget]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Cold]][[consumable]][[gadget]]
 
 **Category** gadget; 
 **Price** 2500 gp; 

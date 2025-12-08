@@ -8,7 +8,7 @@ tags:
 ---
 
 # Life Boost
-![[systems-pf2e-icons-spells-life-boost.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-life-boost.webp|150]]
 
 Life force from your patron floods into the target, ensuring they can continue doing your patron's will for just a little longer. The target gains fast healing 2.
 

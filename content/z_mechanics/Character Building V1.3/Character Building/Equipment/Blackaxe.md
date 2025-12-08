@@ -20,7 +20,7 @@ This potent weapon used by Treerazer is a +4 [[Corrosive (Greater)]] major strik
 
 * * *
 
-**Effect** You sense the world around _Blackaxe_ as though you were in its location and can use any of your innate spells through the link as if it were the source of the spell. If another creature is wielding Blackaxe, it must succeed at a DC 50 will or be [[Slowed|Slowed 2]] until it relinquishes the weapon.
+**Effect** You sense the world around _Blackaxe_ as though you were in its location and can use any of your innate spells through the link as if it were the source of the spell. If another creature is wielding Blackaxe, it must succeed at a DC 50 will or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]] until it relinquishes the weapon.
 
 * * *
 

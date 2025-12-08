@@ -12,4 +12,4 @@ tags:
 
 _The strength of your fist flows from your mind and spirit. You seek perfection-honing your body into a flawless instrument and your mind into an orderly bastion of wisdom. You're a fierce combatant renowned for martial arts skills and combat stances that grant you unique fighting moves. While the challenge of mastering many fighting styles drives you to great heights, you also enjoy meditating on philosophical questions and discovering new ways to obtain peace and enlightenment._
 
-_[[Monk]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Classes/Monk]]_

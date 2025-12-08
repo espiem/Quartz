@@ -14,7 +14,7 @@ license: ORC
 ---
 # Peony's Flourish `pf2:3`
 ## Feat 14
-### [[archetype]][[incapacitation]][[visual]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[visual]]
 
 **Category** class; 
 
@@ -30,7 +30,7 @@ As you spin around and create wide arching circles with your fans, you manifest 
 
 * * *
 
-**Critical Success** The creature is [[Conditions/Stunned|Stunned 3]] and [[Conditions/Dazzled|Dazzled]] for as long as they're stunned.
+**Critical Success** The creature is [[Conditions/Stunned|Stunned 3]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for as long as they're stunned.
 
 **Success** The creature is [[Conditions/Stunned|Stunned 1]] and dazzled for 1 round.
 

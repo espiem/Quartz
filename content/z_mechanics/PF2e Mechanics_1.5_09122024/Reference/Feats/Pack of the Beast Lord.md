@@ -14,7 +14,7 @@ license: ORC
 ---
 # Pack of the Beast Lord `pf2:3`
 ## Feat 18
-### [[auditory]][[concentrate]][[mythic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[mythic]]
 
 **Category** classfeature; 
 

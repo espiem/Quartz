@@ -12,7 +12,7 @@ license: OGL
 ---
 # Spell Echo Shot
 ## Item 19
-### [[consumable]][[magical]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 5500 gp; 

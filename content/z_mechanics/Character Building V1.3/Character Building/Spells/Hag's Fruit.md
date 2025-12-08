@@ -8,7 +8,7 @@ tags:
 ---
 
 # Hag's Fruit
-![[systems-pf2e-icons-spells-goodberry.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-goodberry.webp|150]]
 
 You imbue a single piece of fruit with a curse that leaves its victims in a magical sleep. The first person to eat the fruit within the spell's duration is subject to the Curse of Slumber, using your spell DC as the saving throw DC of the curse.
 

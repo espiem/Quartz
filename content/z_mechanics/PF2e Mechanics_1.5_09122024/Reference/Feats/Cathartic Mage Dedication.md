@@ -50,7 +50,7 @@ You gain the [[Actions/Catharsis|Catharsis]] reaction and the [[Actions/Settle E
 
 * * *
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Cathartic Mage|Cathartic Mage]] archetype.
+**Special** You can't select another dedication feat until you've gained two other feats from the [[Cathartic Mage|Cathartic Mage]] archetype.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

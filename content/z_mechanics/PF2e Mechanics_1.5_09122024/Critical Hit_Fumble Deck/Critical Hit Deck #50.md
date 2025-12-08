@@ -8,19 +8,19 @@ tags:
 ---
 # Tiring Blow
 
-> The target is [[Conditions/Fatigued|Fatigued]].
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]].
 
 `Bludgeoning`
 
 # Leg Wound
 
-> **Crit Effect:** The target takes a [[Other Effects/Effect_ -5-foot status penalty to your land Speed|-5-foot status penalty to land Speed]] until healed.
+> **Crit Effect:** The target takes a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -5-foot status penalty to your land Speed|-5-foot status penalty to land Speed]] until healed.
 
 `Piercing`
 
 # Spun Around
 
-> The target is [[Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
 
 `Slashing`
 

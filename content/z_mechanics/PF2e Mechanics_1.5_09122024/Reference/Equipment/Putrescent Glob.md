@@ -13,7 +13,7 @@ license: OGL
 ---
 # Putrescent Glob
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 65 gp; 
@@ -30,7 +30,7 @@ license: OGL
 
 * * *
 
-This repulsive, hairy glob dangles from the end of your weapon. When you activate the putrescent glob, the creature you damaged must succeed at a DC 23 Fortitude check save or its sickened condition increases to [[Conditions/Sickened|Sickened 2]], and it can't reduce its sickened condition until the end of its next turn. On a critical failure, it's also [[Conditions/Slowed|Slowed 1]] until the end of its next turn.
+This repulsive, hairy glob dangles from the end of your weapon. When you activate the putrescent glob, the creature you damaged must succeed at a DC 23 Fortitude check save or its sickened condition increases to [[Conditions/Sickened|Sickened 2]], and it can't reduce its sickened condition until the end of its next turn. On a critical failure, it's also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] until the end of its next turn.
 
 *Source: Pathfinder Adventure: The Slithering*
 *OGL*

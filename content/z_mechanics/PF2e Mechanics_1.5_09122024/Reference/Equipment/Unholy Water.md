@@ -17,7 +17,7 @@ license: ORC
 ---
 # Unholy Water
 ## Item 1
-### [[consumable]][[divine]][[splash]][[thrown]][[unholy]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[splash]][[thrown]][[unholy]]
 
 |  |  |
 | -- | -- |

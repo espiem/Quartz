@@ -12,14 +12,14 @@ license: OGL
 ---
 # Sun Sight
 ## Item 10
-### [[invested]][[magical]][[tattoo]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[tattoo]]
 
 
 **Price** 850 gp; 
 **Bulk** 0; **Size** med
 **Usage** tattooed-on-the-body
 
-Placed under the eyes like rays of light, this tattoo burns away illusions with the unmerciful brilliance of the sun. You gain a +2 bonus to Perception checks that involve sight. If you're [[Conditions/Dazzled|Dazzled]], you receive a new save at the start of each of your turns to end your dazzled condition.
+Placed under the eyes like rays of light, this tattoo burns away illusions with the unmerciful brilliance of the sun. You gain a +2 bonus to Perception checks that involve sight. If you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]], you receive a new save at the start of each of your turns to end your dazzled condition.
 
 **Activate** `pf2:1` to `pf2:3` envision
 

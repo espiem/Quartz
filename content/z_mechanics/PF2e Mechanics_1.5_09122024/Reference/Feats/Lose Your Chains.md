@@ -14,7 +14,7 @@ license: ORC
 ---
 # Lose Your Chains `pf2:r`
 ## Feat 16
-### [[auditory]][[linguistic]][[mythic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[linguistic]][[mythic]]
 
 **Category** class; 
 
@@ -22,7 +22,7 @@ license: ORC
 
 **Prerequisites** Broken Chain Dedication
 * * *
-**Trigger** An ally gains the [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] condition.
+**Trigger** An ally gains the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]] condition.
 
 * * *
 

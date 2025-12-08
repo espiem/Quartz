@@ -18,7 +18,7 @@ license: OGL
 ---
 # Guiding Star
 ## Item 7
-### [[agile]][[deadly-d6]][[divine]][[finesse]][[holy]][[thrown-20]][[versatile-s]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[deadly-d6]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[holy]][[thrown-20]][[versatile-s]]
 
 |  |  |
 | -- | -- |

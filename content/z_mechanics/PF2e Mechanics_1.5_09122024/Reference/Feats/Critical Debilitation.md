@@ -13,7 +13,7 @@ license: ORC
 ---
 # Critical Debilitation
 ## Feat 12
-### [[incapacitation]][[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 
@@ -29,11 +29,11 @@ Your debilitations are especially effective on your most powerful attacks. Whene
     
     **Critical Success** The target is unaffected.
     
-    **Success** The target is [[Conditions/Slowed|Slowed 1]] until the end of your next turn.
+    **Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] until the end of your next turn.
     
-    **Failure** The target is [[Conditions/Slowed|Slowed 2]] until the end of your next turn.
+    **Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]] until the end of your next turn.
     
-    **Critical Failure** The target is [[Conditions/Paralyzed|Paralyzed]] until the end of your next turn.
+    **Critical Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]] until the end of your next turn.
 
 *Source: Pathfinder Player Core*
 *ORC*

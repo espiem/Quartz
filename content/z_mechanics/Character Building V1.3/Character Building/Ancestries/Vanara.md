@@ -12,4 +12,4 @@ tags:
 
 Vanaras are inquisitive and mischievous monkey-like humanoids with short, soft fur, expressive eyes, and long, prehensile tails. Their handlike feet and agile builds serve them well in the jungle realms where most vanaras live.
 
-[[Vanara]]
+[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Vanara]]

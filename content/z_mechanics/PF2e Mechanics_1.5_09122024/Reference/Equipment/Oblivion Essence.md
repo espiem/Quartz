@@ -14,7 +14,7 @@ license: OGL
 ---
 # Oblivion Essence
 ## Item 19
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[injury]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[injury]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 6500 gp; 
@@ -31,7 +31,7 @@ Created from a daemon's powdered soul gems or refined from the waters of Abaddon
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 8d6 poison damage and [[Conditions/Slowed|Slowed 1]] (1 round)
+**Stage 1** 8d6 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] (1 round)
 
 **Stage 2** 10d6 poison damage, [[Conditions/Enfeebled|Enfeebled 2]], and slowed 1 (1 round)
 

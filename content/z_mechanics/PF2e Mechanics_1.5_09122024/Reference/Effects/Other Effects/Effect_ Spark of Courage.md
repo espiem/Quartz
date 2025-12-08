@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[PF2e Journals/Hero Point Deck/Spark of Courage|Spark of Courage]]
+Granted by [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Hero Point Deck/Spark of Courage|Spark of Courage]]
 
 You gain a +2 status bonus to attack rolls and skill checks until the end of your next turn.
 

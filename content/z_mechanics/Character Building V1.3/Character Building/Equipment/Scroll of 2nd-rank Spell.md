@@ -8,7 +8,7 @@ tags:
 ---
 
 # Scroll of 2nd-rank Spell
-![[icons-sundries-scrolls-scroll-symbol-eye-brown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-scrolls-scroll-symbol-eye-brown.webp|150]]
 
 Casting a Spell from a scroll requires holding the scroll in one hand and activating it with a Cast a Spell activity using the normal number of actions for that spell.
 

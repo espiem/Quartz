@@ -28,7 +28,7 @@ While working with less experienced Pathfinder allies, you provide vital advice 
 
 **Special**: A PC can only benefit from two mentor boons.
 
-[[Feat_Feature Effects/Effect_ Skillful Mentor Boon (PFS)|Effect: Skillful Mentor Boon (PFS)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Skillful Mentor Boon (PFS)|Effect: Skillful Mentor Boon (PFS)]]
 
 *Source: *
 *OGL*

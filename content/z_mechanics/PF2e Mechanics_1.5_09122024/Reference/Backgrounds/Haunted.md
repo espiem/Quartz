@@ -21,7 +21,7 @@ You are followed by a spirit or entity, either from childhood or since a momento
 
 Choose two attribute boosts. One must be to **Wisdom** or **Charisma**, and one is a free attribute boost.
 
-You are trained in Occultism and an additional skill in which the haunting entity is well-versed, determined by the GM. Any time you attempt a skill check for the entity's skill, the GM can offer you a +1 circumstance bonus to the check, as though the entity were [[Actions/Aid|Aiding]] you. If you accept but fail the check, you are [[Conditions/Frightened|Frightened 2]] ([[Conditions/Frightened|Frightened 4]] on a critical failure). The initial Frightened value can't be reduced by effects that would reduce or prevent the condition (such as a fighter's bravery).
+You are trained in Occultism and an additional skill in which the haunting entity is well-versed, determined by the GM. Any time you attempt a skill check for the entity's skill, the GM can offer you a +1 circumstance bonus to the check, as though the entity were [[Actions/Aid|Aiding]] you. If you accept but fail the check, you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] ([[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 4]] on a critical failure). The initial Frightened value can't be reduced by effects that would reduce or prevent the condition (such as a fighter's bravery).
 
 *Source: Pathfinder Player Core 2*
 *ORC*

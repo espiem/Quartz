@@ -8,7 +8,7 @@ tags:
 ---
 
 # Clawsong
-![[icons-creatures-claws-claw-hooked-purple.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-claws-claw-hooked-purple.webp|150]]
 
 You sing a fierce prayer, low and growling, and awaken the ancient spirit of a Terwa beast to guide and strengthen the target's unarmed blows.
 

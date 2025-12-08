@@ -8,7 +8,7 @@ tags:
 ---
 
 # Thousand-Pains Fulu (Blade)
-![[systems-pf2e-icons-equipment-consumables-fulus-fulu-fancy.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-fulus-fulu-fancy.webp|150]]
 
 **Duration** 1 minute
 

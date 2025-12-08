@@ -8,7 +8,7 @@ tags:
 ---
 
 # Forceful Hand
-![[systems-pf2e-icons-spells-forceful-hand.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-forceful-hand.webp|150]]
 
 A Medium floating, disembodied hand made of magical force appears in an unoccupied space adjacent to you, following you across the battlefield to shield you against your foes' attacks. Each time you Sustain the Spell, the hand moves to an unoccupied space of your choice adjacent to you. When you Sustain the Spell, you can have the hand Fly to an unoccupied space of your choice adjacent to an ally to protect that ally instead. The hand's movement does not trigger reactions based on creature movement.
 
@@ -36,4 +36,4 @@ The hand's actions and the cover it provides depend on what actions you take dur
 
 **Heightened (9th)** The hand has AC 35 and 90 Hit Points, and it is Large. When you Cast this Spell, you can choose to replace the hand's Manipulate or Attack option with Crush, Grasp, Punch, or Swat.
 
-*   **Crush** If the hand doesn't have a target grabbed, it Flies to an enemy of your choice within range and attempts to Strike that enemy with deadly crushing force. The hand's Strikes are melee spell attacks that deal 6d8 force damage. The hand's Strikes don't take or contribute to your multiple attack penalty. On a successful Strike, the target is grabbed by the hand until the end of your next turn, unless the hand moves or the target successfully Escapes against your spell DC. However, if the hand has a target grabbed when it uses Crush, it instead [[Constrict|Constricts]] the target, dealing 6d8 force damage with a basic Fortitude save. 
+*   **Crush** If the hand doesn't have a target grabbed, it Flies to an enemy of your choice within range and attempts to Strike that enemy with deadly crushing force. The hand's Strikes are melee spell attacks that deal 6d8 force damage. The hand's Strikes don't take or contribute to your multiple attack penalty. On a successful Strike, the target is grabbed by the hand until the end of your next turn, unless the hand moves or the target successfully Escapes against your spell DC. However, if the hand has a target grabbed when it uses Crush, it instead [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Constrict|Constricts]] the target, dealing 6d8 force damage with a basic Fortitude save. 

@@ -21,7 +21,7 @@ license: OGL
 
 You know how to set explosives to cause the maximum possible damage to buildings and other structures. You become trained in Engineering Lore or become an expert in it if you were already trained. You gain the [[Actions/Set Explosives|Set Explosives]] action.
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Demolitionist|Demolitionist]] archetype.
+**Special** You can't select another dedication feat until you've gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Demolitionist|Demolitionist]] archetype.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

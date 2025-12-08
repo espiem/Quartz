@@ -11,7 +11,7 @@ license: OGL
 ---
 # Plum Deluge `pf2:3`
 ## Feat 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemist]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist]]
 
 **Category** class; 
 

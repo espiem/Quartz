@@ -11,7 +11,7 @@ license: OGL
 ---
 # Mindsponge
 ## Item 9
-### [unique](unique "Unique Rarity Trait")[[mental]][[occult]]
+### [unique](unique "Unique Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 
 **Price** 700 gp; 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bloodline: Psychopomp
 ## Feat 1
-### [[sorcerer]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]]
 
 **Category** classfeature; 
 
@@ -30,7 +30,7 @@ For good or ill, your ancestors' deeds drew the attention of psychopomps, or you
 
 **Blood Magic** The border between life and death becomes blurred to you. Either you gain a +2 status bonus to Fortitude saving throws for 1 round, or a target takes 1 damage per spell rank. The damage is void if the target is living or vitality if the target is undead. If the spell already deals that type of damage, combine it with the spell's initial damage before determining weaknesses and resistances.
 
-[[Feat_Feature Effects/Effect_ Psychopomp Blood Magic (Self)|Effect: Psychopomp Blood Magic (Self)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Psychopomp Blood Magic (Self)|Effect: Psychopomp Blood Magic (Self)]]
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

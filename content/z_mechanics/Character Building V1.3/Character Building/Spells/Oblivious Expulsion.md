@@ -12,7 +12,7 @@ tags:
 
 Severing ties with a member of a cult courts danger and threatens to undermine the secrecy of the group, whether that secrecy protects its worshippers or enables them to operate in the shadows. Many cults end their association with a wayward member on the edge of a blade, but there are options that preserve both secrecy and the life of the expelled member. An oblivious expulsion removes knowledge of the cult but is time-consuming enough that a cult usually reserves it for only the most well-regarded members who nevertheless need to be removed-or for sleeper agents the cult wishes to place among society and activate later.
 
-It's difficult to cast this ritual unless the target is willing or [[Restrained]]. If the creature is unwilling to accept the ritual, it can attempt a Will save to negate the effect. The effects of the ritual depend on the results of your Occultism check.
+It's difficult to cast this ritual unless the target is willing or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]]. If the creature is unwilling to accept the ritual, it can attempt a Will save to negate the effect. The effects of the ritual depend on the results of your Occultism check.
 
 * * *
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Look but Don't Touch `pf2:2`
 ## Feat 13
-### [[ghoran]][[poison]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Ghoran]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** ancestry; 
 

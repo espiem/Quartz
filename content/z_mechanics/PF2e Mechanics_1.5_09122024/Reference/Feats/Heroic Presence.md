@@ -14,7 +14,7 @@ license: ORC
 ---
 # Heroic Presence `pf2:1`
 ## Feat 17
-### [[emotion]][[human]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Human]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** ancestry; 
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Dragon Form
-![[icons-creatures-reptiles-dragon-horned-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-reptiles-dragon-horned-blue.webp|150]]
 
 Calling upon powerful magic, you gain a Large dragon battle form. When you Cast this Spell, choose one type of common dragon or another type to which your GM allows access. While in this form, you gain the dragon trait. You have hands in this battle form and can take manipulate actions. You can Dismiss the spell.
 

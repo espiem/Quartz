@@ -11,7 +11,7 @@ license: OGL
 ---
 # Azarketi Purification
 ## Feat 9
-### [[azarketi]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Azarketi]]
 
 **Category** ancestry; 
 
@@ -22,7 +22,7 @@ You can cast [[Spells/Cleanse Cuisine|Cleanse Cuisine]] as a primal innate spell
 
 You can also use your innate _cleanse cuisine_ on a touched creature instead of a liquid to purify their blood, giving that creature a +2 status bonus for 1 minute on their ongoing saves against poisons already present in their body when you cast the spell.
 
-[[Feat_Feature Effects/Effect_ Azarketi Purification|Effect: Azarketi Purification]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Azarketi Purification|Effect: Azarketi Purification]]
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

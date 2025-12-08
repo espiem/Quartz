@@ -14,7 +14,7 @@ license: ORC
 ---
 # Jian of Life's Duality
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[versatile-p]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |

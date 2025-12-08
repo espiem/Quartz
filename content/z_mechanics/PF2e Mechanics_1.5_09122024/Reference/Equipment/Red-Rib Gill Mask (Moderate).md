@@ -37,7 +37,7 @@ After Activating the mask, you also gain the listed item bonus to Fortitude save
 
 The item bonus is +2, or +3 against Dead Man's Breath, and the duration is 1 hour.
 
-[[Equipment Effects/Effect_ Red-Rib Gill Mask (Moderate)|Effect: Red-Rib Gill Mask (Moderate)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Red-Rib Gill Mask (Moderate)|Effect: Red-Rib Gill Mask (Moderate)]]
 
 *Source: Pathfinder #171: Hurricane's Howl*
 *OGL*

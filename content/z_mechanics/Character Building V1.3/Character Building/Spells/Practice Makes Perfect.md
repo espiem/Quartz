@@ -8,7 +8,7 @@ tags:
 ---
 
 # Practice Makes Perfect
-![[icons-magic-symbols-clover-luck-white-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-symbols-clover-luck-white-green.webp|150]]
 
 **Trigger** You or an ally within range fails a skill check for a skill in which you or they are trained.
 

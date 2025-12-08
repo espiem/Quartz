@@ -18,7 +18,7 @@ You befuddle your target with strange impulses, causing it to act randomly. The 
 
 **Success** The target babbles incoherently and is [[Stunned 1]].
 
-**Failure** The target is [[Confused]] for 1 minute. It can attempt a new save at the end of each of its turns to end the confusion.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] for 1 minute. It can attempt a new save at the end of each of its turns to end the confusion.
 
 **Critical Failure** The target is Confused for 1 minute, with no save to end early.
 

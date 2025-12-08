@@ -17,7 +17,7 @@ license: OGL
 ---
 # Lightning Rod `pf2:3`
 ## Feat 6
-### [[air]][[composite]][[impulse]][[kineticist]][[metal]][[primal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[composite]][[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[metal]][[primal]]
 
 **Category** class; 
 

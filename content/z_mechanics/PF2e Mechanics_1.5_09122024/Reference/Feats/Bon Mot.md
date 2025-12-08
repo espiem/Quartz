@@ -18,7 +18,7 @@ license: ORC
 ---
 # Bon Mot `pf2:1`
 ## Feat 1
-### [[auditory]][[concentrate]][[emotion]][[general]][[linguistic]][[mental]][[skill]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[general]][[linguistic]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[skill]]
 
 **Category** skill; 
 
@@ -38,7 +38,7 @@ The target can end the effect early with a retort to your Bon Mot. This can eith
 
 **Critical Failure** Your quip is atrocious. You take the same penalty an enemy would take had you succeeded. This ends after 1 minute or if you issue another Bon Mot and succeed.
 
-[[Feat_Feature Effects/Effect_ Bon Mot|Effect: Bon Mot]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Bon Mot|Effect: Bon Mot]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

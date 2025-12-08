@@ -13,7 +13,7 @@ license: OGL
 ---
 # Elements of Creation
 
-### [[air]][[earth]][[water]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[earth]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 **Category** offensive; 
 

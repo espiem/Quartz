@@ -26,6 +26,6 @@ This impressive _+3 greater resilient greater fortification bastion plate_ is bu
 
 **Frequency** once per day
 
-**Trigger** You would gain or increase the [[Doomed]] or [[Wounded]] condition
+**Trigger** You would gain or increase the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded]] condition
 
 **Effect** You avoid gaining or increasing the condition. If the triggering effect imposes both doomed and wounded, choose only one to prevent. This doesn't remove either of the conditions if you already have them, nor does it prevent the same triggering effect from giving or increasing the prevented condition later.

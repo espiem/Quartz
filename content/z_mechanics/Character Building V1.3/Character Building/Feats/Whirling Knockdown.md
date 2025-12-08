@@ -20,7 +20,7 @@ Make a ranged firearm Strike against a creature within the reach of your melee w
 
 * * *
 
-**Critical Success** The target falls and lands [[Prone]]. It takes 2d6 bludgeoning damage from the fall.
+**Critical Success** The target falls and lands [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]]. It takes 2d6 bludgeoning damage from the fall.
 
 **Success** The target falls and lands prone.
 

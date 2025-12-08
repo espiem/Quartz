@@ -8,7 +8,7 @@ tags:
 ---
 
 # Witchwyrd Beacon
-![[systems-pf2e-icons-equipment-vehicles-vonthoss-golden-bridge-protective-barrier-effect.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-vehicles-vonthoss-golden-bridge-protective-barrier-effect.webp|150]]
 
 Made of djezet, orichalcum, and luminous, resonant crystal, a _witchwyrd beacon_ looks like a series of concentric rings mounted on rods that allow the rings to rotate independently of each other. These potent items are used by the Pactmasters of Katapesh to facilitate swift travel and are only rarely entrusted to others.
 

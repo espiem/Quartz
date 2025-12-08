@@ -8,7 +8,7 @@ tags:
 ---
 
 # Charitable Urge
-![[icons-commodities-currency-coins-plain-stack-gold-yellow.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-commodities-currency-coins-plain-stack-gold-yellow.webp|150]]
 
 You speak on the virtue of charity, compelling the target to give away its possessions. The target must attempt a Will save. If the target has no items on its person, the spell fails.
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Enveloping Light (Greater)
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[tattoo]][[vitality]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[tattoo]][[vitality]]
 
 
 **Price** 650 gp; 

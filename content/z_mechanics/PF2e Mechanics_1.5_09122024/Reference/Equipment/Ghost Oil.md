@@ -13,7 +13,7 @@ license: OGL
 ---
 # Ghost Oil
 ## Item 4
-### [[consumable]][[magical]][[oil]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[oil]]
 
 **Category** oil; 
 **Price** 18 gp; 
@@ -22,7 +22,7 @@ license: OGL
 
 The vials containing this translucent, unsubstantial oil are always cold to the touch. Applying _ghost oil_ to a melee weapon you're wielding or carrying causes it to become semitransparent and gain the effects of a _[[Equipment/Ghost Touch|Ghost Touch]]_ rune, but it also makes the weapon unable to harm corporeal creatures. The oil has no effect when applied to another creature's weapon. The effect of the oil lasts for 1 minute.
 
-[[Equipment Effects/Effect_ Ghost Oil|Effect: Ghost Oil]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Ghost Oil|Effect: Ghost Oil]]
 
 *Source: Pathfinder Lost Omens: Knights of Lastwall*
 *OGL*

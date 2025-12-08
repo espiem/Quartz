@@ -8,7 +8,7 @@ tags:
 ---
 
 # Oil of Weightlessness
-![[icons-tools-laboratory-bowl-mixing.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-tools-laboratory-bowl-mixing.webp|150]]
 
 **Activate** 1 (manipulate)
 

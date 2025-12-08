@@ -13,7 +13,7 @@ license: ORC
 ---
 # Cleft Head Marking (Greater)
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]][[tattoo]]
+### [rare](rare "Rare Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[tattoo]]
 
 
 **Price** 850 gp; 
@@ -26,7 +26,7 @@ Caution and misdirection are the hallmarks of your hold. You've encountered more
 
 **Frequency** once per day
 
-**Trigger** You Strike a creature that has the [[Conditions/Off-Guard|Off-Guard]] condition with a weapon attack
+**Trigger** You Strike a creature that has the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] condition with a weapon attack
 
 * * *
 

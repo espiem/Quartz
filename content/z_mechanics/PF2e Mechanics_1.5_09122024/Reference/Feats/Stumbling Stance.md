@@ -13,7 +13,7 @@ license: ORC
 ---
 # Stumbling Stance `pf2:1`
 ## Feat 1
-### [[monk]][[stance]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]][[stance]]
 
 **Category** class; 
 
@@ -25,7 +25,7 @@ You enter a seemingly unfocused stance that mimics the movements of the inebriat
 
 While in this stance, you gain a +1 circumstance bonus to Deception checks to [[Actions/Feint|Feint]]. The only Strikes you can make are stumbling swing unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the agile, backstabber, finesse, nonlethal, and unarmed traits.
 
-If an enemy hits you with a melee Strike while in this stance, it becomes [[Conditions/Off-Guard|Off-Guard]] against the next stumbling swing Strike you make against it before the end of your next turn.
+If an enemy hits you with a melee Strike while in this stance, it becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] against the next stumbling swing Strike you make against it before the end of your next turn.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

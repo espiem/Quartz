@@ -16,7 +16,7 @@ license: OGL
 ---
 # Flayleaf
 
-### [[alchemical]][[consumable]][[drug]][[ingested]][[inhaled]][[poison]]
+### [[alchemical]][[consumable]][[drug]][[ingested]][[inhaled]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** drug; 
 **Price** 1 gp; 
@@ -37,11 +37,11 @@ The flayleaf plant is relatively common, though the mildly euphoric effects of s
 
 **Stage 1** +1 item bonus to saving throws against mental effects (1 hour)
 
-**Stage 2** [[Conditions/Fatigued|Fatigued]] and +1 item bonus to saving throws against mental effects (1 hour)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]] and +1 item bonus to saving throws against mental effects (1 hour)
 
-**Stage 3** fatigued and [[Conditions/Stupefied|Stupefied 1]] (1 hour)
+**Stage 3** fatigued and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (1 hour)
 
-**Stage 4** fatigued, [[Conditions/Frightened|Frightened 2]], [[Conditions/Stupefied|Stupefied 2]] (1 hour)
+**Stage 4** fatigued, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (1 hour)
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

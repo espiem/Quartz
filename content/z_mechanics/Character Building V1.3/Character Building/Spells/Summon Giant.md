@@ -8,7 +8,7 @@ tags:
 ---
 
 # Summon Giant
-![[systems-pf2e-icons-spells-summon-giant.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-summon-giant.webp|150]]
 
 You summon a creature that has the giant trait and whose level is 5 or lower to fight for you.
 

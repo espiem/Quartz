@@ -11,7 +11,7 @@ license: OGL
 ---
 # Wing Step `pf2:1`
 ## Feat 9
-### [[strix]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Strix]]
 
 **Category** ancestry; 
 

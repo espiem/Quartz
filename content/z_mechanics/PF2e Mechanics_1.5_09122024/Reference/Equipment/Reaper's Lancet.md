@@ -18,7 +18,7 @@ license: OGL
 ---
 # Reaper's Lancet
 ## Item 5
-### [unique](unique "Unique Rarity Trait")[[agile]][[concealable]][[finesse]][[magical]][[parry]][[poison]][[twin]]
+### [unique](unique "Unique Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[concealable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[parry]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[twin]]
 
 |  |  |
 | -- | -- |

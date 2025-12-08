@@ -17,7 +17,7 @@ license: OGL
 ---
 # Water Bomb (Lesser)
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[nonlethal]][[splash]][[water]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[nonlethal]][[splash]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 |  |  |
 | -- | -- |
@@ -33,7 +33,7 @@ license: OGL
 
 * * *
 
-This bladder of water explodes when put under pressure or upon being punctured, dealing minimal damage, neutralizing acids, and dousing flames. The bomb deals 1 nonlethal bludgeoning damage and 1 nonlethal bludgeoning splash damage. On a hit, if the target is suffering from [[Conditions/Persistent Damage|Persistent Acid or Persistent Fire Damage]], it can attempt a flat check to end that persistent damage immediately. As this is particularly effective assistance, the DC of the flat check is reduced from 15 to 10 for this check. On a hit against an unattended, non-magical fire, the bomb extinguishes the fire, or extinguishes one square of fire for a larger fire.
+This bladder of water explodes when put under pressure or upon being punctured, dealing minimal damage, neutralizing acids, and dousing flames. The bomb deals 1 nonlethal bludgeoning damage and 1 nonlethal bludgeoning splash damage. On a hit, if the target is suffering from [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Persistent Damage|Persistent Acid or Persistent Fire Damage]], it can attempt a flat check to end that persistent damage immediately. As this is particularly effective assistance, the DC of the flat check is reduced from 15 to 10 for this check. On a hit against an unattended, non-magical fire, the bomb extinguishes the fire, or extinguishes one square of fire for a larger fire.
 
 *Source: Pathfinder #176: Lost Mammoth Valley*
 *OGL*

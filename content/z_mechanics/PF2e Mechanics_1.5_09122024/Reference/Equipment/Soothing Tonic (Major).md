@@ -25,7 +25,7 @@ license: OGL
 
 Soothing tonic is a pleasantly savory concoction that speeds your natural healing, so your wounds recover faster over time. You gain fast healing 10 for 1 minute.
 
-[[Equipment Effects/Effect_ Soothing Tonic (Major)|Effect: Soothing Tonic (Major)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Soothing Tonic (Major)|Effect: Soothing Tonic (Major)]]
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

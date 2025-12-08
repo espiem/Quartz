@@ -15,7 +15,7 @@ license: OGL
 ---
 # Elven Absinthe
 ## Item 5
-### [[alchemical]][[consumable]][[drug]][[ingested]][[poison]]
+### [[alchemical]][[consumable]][[drug]][[ingested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** drug; 
 **Price** 25 gp; 
@@ -38,7 +38,7 @@ Specialists in Kyonin prepare this emerald-green beverage.
 
 **Stage 2** [[Conditions/Drained|Drained 2]] (1 hour)
 
-**Stage 3** [[Conditions/Stupefied|Stupefied 4]] (1 hour)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 4]] (1 hour)
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

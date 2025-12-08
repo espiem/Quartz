@@ -13,7 +13,7 @@ license: OGL
 ---
 # Community Knowledge `pf2:r`
 ## Feat 1
-### [[concentrate]][[kashrishi]][[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Kashrishi]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** ancestry; 
 

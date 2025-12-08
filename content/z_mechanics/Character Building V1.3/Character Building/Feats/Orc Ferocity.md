@@ -16,4 +16,4 @@ tags:
 
 * * *
 
-Fierceness in battle runs through your blood, and you refuse to fall from your injuries no matter how terrible they may be. You avoid being knocked out and remain at 1 Hit Point, and your [[Wounded]] condition increases by 1.
+Fierceness in battle runs through your blood, and you refuse to fall from your injuries no matter how terrible they may be. You avoid being knocked out and remain at 1 Hit Point, and your [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded]] condition increases by 1.

@@ -13,7 +13,7 @@ license: OGL
 ---
 # The Trumpet
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[harrow-court]][[invested]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[harrow-court]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 
@@ -34,7 +34,7 @@ _The Trumpet_ represents timely warning. As long as you have _The Trumpet_ inves
 
 * * *
 
-**Effect** A blast of inspiring noise erupts from the card in a 60-foot cone. Creatures in the area take 14d6 sonic damage (with a Fortitude check save equal to your class DC or spell DC). Creatures that fail the save are [[Conditions/Deafened|Deafened]] for 1 round (1 minute on a critical failure). The damage increases to 16d6 sonic if you're at least 13th level, to 18d6 sonic if you're at least 15th level, to 20d6 sonic if you're at least 17th level, and to 22d6 sonic if you're at least 19th level.
+**Effect** A blast of inspiring noise erupts from the card in a 60-foot cone. Creatures in the area take 14d6 sonic damage (with a Fortitude check save equal to your class DC or spell DC). Creatures that fail the save are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]] for 1 round (1 minute on a critical failure). The damage increases to 16d6 sonic if you're at least 13th level, to 18d6 sonic if you're at least 15th level, to 20d6 sonic if you're at least 17th level, and to 22d6 sonic if you're at least 19th level.
 
 *Source: Pathfinder #190: The Choosing*
 *OGL*

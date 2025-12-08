@@ -8,7 +8,7 @@ tags:
 ---
 
 # Shadow Blast
-![[icons-magic-unholy-beam-impact-purple.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-unholy-beam-impact-purple.webp|150]]
 
 You shape the shadow substance of the Netherworld into a blast. Choose acid, bludgeoning, cold, electricity, fire, force, piercing, slashing, sonic, or spirit damage; and choose a 30 foot cone, a 15 foot burst within 120 feet, or a 50 foot line. The blast deals 6d8 damage of the type you chose to each creature in the area.
 

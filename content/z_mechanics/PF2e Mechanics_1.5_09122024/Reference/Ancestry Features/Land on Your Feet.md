@@ -12,14 +12,14 @@ license: ORC
 ---
 # Land on Your Feet
 
-### [[catfolk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Catfolk]]
 
 **Category** ancestryfeature; 
 
 
 
 
-When you fall, you take only half the normal damage and don't land [[Conditions/Prone|Prone]].
+When you fall, you take only half the normal damage and don't land [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

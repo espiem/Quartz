@@ -8,7 +8,7 @@ tags:
 ---
 
 # Cloak of Light
-![[icons-skills-targeting-target-glowing-yellow.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-targeting-target-glowing-yellow.webp|150]]
 
 You surround yourself in holy light that restores the living and rebuffs undead. You glow with bright light in a 30-foot radius and dim light to the next 30 feet.
 

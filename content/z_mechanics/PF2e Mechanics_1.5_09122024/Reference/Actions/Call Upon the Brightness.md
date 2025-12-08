@@ -10,7 +10,7 @@ license: OGL
 ---
 # Call Upon the Brightness `pf2:r`
 
-### [[concentrate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]]
 
 
 
@@ -23,7 +23,7 @@ license: OGL
 
 You gain a +1 status bonus to the triggering check, or a +2 status bonus if the result of the augury was "woe" and you proceeded anyway.
 
-[[Feat_Feature Effects/Effect_ Brightness Seeker|Effect: Brightness Seeker]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Brightness Seeker|Effect: Brightness Seeker]]
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Blink Blade
-![[systems-pf2e-icons-equipment-weapons-dagger.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-dagger.webp|150]]
 
 The blade of this _+2 striking dagger_ is etched with whirling portals, and a single blue sapphire adorns its hilt. It feels lightweight and is always slightly warm to the touch.
 
@@ -16,7 +16,7 @@ The blade of this _+2 striking dagger_ is etched with whirling portals, and a si
 
 **Frequency** once per day
 
-**Effect** You cast _[[Translocate]]_. The space you leave and the one you appear in are filled with puffs of smoke that make anyone within [[Concealed]] until they leave the smoke or until the end of your next turn, at which point the smoke dissipates. When used in strong winds, the smoke disperses immediately.
+**Effect** You cast _[[Translocate]]_. The space you leave and the one you appear in are filled with puffs of smoke that make anyone within [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] until they leave the smoke or until the end of your next turn, at which point the smoke dissipates. When used in strong winds, the smoke disperses immediately.
 
 * * *
 

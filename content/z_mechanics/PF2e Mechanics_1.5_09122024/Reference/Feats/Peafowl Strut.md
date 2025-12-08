@@ -12,7 +12,7 @@ license: OGL
 ---
 # Peafowl Strut `pf2:1`
 ## Feat 10
-### [[flourish]][[monk]]
+### [[flourish]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 **Category** class; 
 

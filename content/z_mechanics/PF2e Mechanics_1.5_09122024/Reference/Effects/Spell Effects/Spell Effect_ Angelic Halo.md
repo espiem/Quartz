@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Granted by [[Spell Effects/Aura_ Angelic Halo|Aura: Angelic Halo]].
+Granted by [[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Effects/Spell Effects/Aura_ Angelic Halo|Aura: Angelic Halo]].
 
 If you are healed by a heal spell, you gain a status bonus to Hit Points regained equal to double the heal spell's rank.
 

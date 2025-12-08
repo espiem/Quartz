@@ -16,9 +16,9 @@ You raise your religious symbol and create a blinding flash of light. Each creat
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Dazzled]] for 1 round.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round.
 
-**Failure** The creature is [[Blinded]] for 1 round and Dazzled for 1 minute. The creature can spend an Interact action rubbing its eyes to end the Blinded condition.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round and Dazzled for 1 minute. The creature can spend an Interact action rubbing its eyes to end the Blinded condition.
 
 **Critical Failure** The creature is Blinded for 1 round and Dazzled for 1 hour.
 

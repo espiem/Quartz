@@ -12,7 +12,7 @@ license: OGL
 ---
 # Alertness
 ## Feat 3
-### [[inventor]][[magus]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Inventor]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Magus]]
 
 **Category** classfeature; 
 

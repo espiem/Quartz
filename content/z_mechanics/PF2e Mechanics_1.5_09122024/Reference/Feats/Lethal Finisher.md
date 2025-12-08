@@ -14,7 +14,7 @@ license: ORC
 ---
 # Lethal Finisher `pf2:1`
 ## Feat 18
-### [[death]][[finisher]][[swashbuckler]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Death]][[finisher]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 

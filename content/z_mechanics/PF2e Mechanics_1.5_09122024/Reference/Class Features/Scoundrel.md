@@ -12,7 +12,7 @@ license: ORC
 ---
 # Scoundrel
 ## Feat 1
-### [[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** classfeature; 
 
@@ -21,7 +21,7 @@ license: ORC
 
 You use fast-talking, flattery, and a silver tongue to avoid danger and escape tricky situations. You might be a grifter or con artist, or you might use your skills in certain reputable professions, like a barrister or diplomat.
 
-When you successfully [[Actions/Feint|Feint]], the target is [[Conditions/Off-Guard|Off-Guard]] against your melee attacks until the end of your next turn. On a critical success, the target is off-guard against all melee attacks until the end of your next turn, not just yours.
+When you successfully [[Actions/Feint|Feint]], the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] against your melee attacks until the end of your next turn. On a critical success, the target is off-guard against all melee attacks until the end of your next turn, not just yours.
 
 If you Feint while wielding an agile or finesse melee weapon, you can step immediately after the Feint as a free action. You're trained in Deception and Diplomacy. You can choose Charisma as your key attribute.
 

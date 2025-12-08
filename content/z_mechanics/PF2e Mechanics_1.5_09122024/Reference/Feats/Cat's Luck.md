@@ -13,7 +13,7 @@ license: ORC
 ---
 # Cat's Luck `pf2:0`
 ## Feat 1
-### [[catfolk]][[fortune]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Catfolk]][[fortune]]
 
 **Category** ancestry; 
 

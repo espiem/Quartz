@@ -12,7 +12,7 @@ license: OGL
 ---
 # Purge of Moments `pf2:3`
 ## Feat 16
-### [[archetype]][[concentrate]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]]
 
 **Category** class; 
 

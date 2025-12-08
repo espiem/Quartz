@@ -8,7 +8,7 @@ tags:
 ---
 
 # Nymph's Token
-![[systems-pf2e-icons-spells-nymphs-token.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-nymphs-token.webp|150]]
 
 You grant an ally a token of favor. You create a token, such as a lock of your hair or a flower, that persists for the spell's duration; as part of Casting the Spell, you can [[Interact]] to pass the token to an ally within your reach.
 

@@ -10,7 +10,7 @@ tags:
 # Horizon Thunder Sphere
 ![[systems-pf2e-icons-spells-horizon-thunder-sphere.webp|150]]
 
-You gather magical energy into your palm, forming a concentrated ball of electricity that crackles and rumbles like impossibly distant thunder. Make a ranged spell attack roll against your target's AC. On a success, you deal 3d6 electricity damage. On a critical success, the target takes double damage and is [[Dazzled]] for 1 round. The number of actions you spend when Casting this Spell determines the range and other parameters.
+You gather magical energy into your palm, forming a concentrated ball of electricity that crackles and rumbles like impossibly distant thunder. Make a ranged spell attack roll against your target's AC. On a success, you deal 3d6 electricity damage. On a critical success, the target takes double damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round. The number of actions you spend when Casting this Spell determines the range and other parameters.
 
 2 This spell has a range of 30 feet.
 

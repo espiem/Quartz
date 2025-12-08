@@ -12,7 +12,7 @@ license: ORC
 ---
 # Stage Magician's Cloak
 ## Item 13
-### [unique](unique "Unique Rarity Trait")[[invested]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 3000 gp; 
@@ -27,7 +27,7 @@ This black velvet cloak has a silvery blue iridescent lining. The cloak can be w
 
 **Frequency** once per day
 
-**Effect** Distracting colorful smoke blasts outward from the cloak in a 10-foot emanation, causing all creatures in the area to become [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn (DC 30 Will check save). If you were previously [[Conditions/Concealed|Concealed]], [[Conditions/Hidden|Hidden]], or undetected, you lose those conditions. You become [[Conditions/Quickened|Quickened]] for 1 round and may use the extra action to Interact, Strike, or Stride.
+**Effect** Distracting colorful smoke blasts outward from the cloak in a 10-foot emanation, causing all creatures in the area to become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the start of your next turn (DC 30 Will check save). If you were previously [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]], or undetected, you lose those conditions. You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened]] for 1 round and may use the extra action to Interact, Strike, or Stride.
 
 * * *
 

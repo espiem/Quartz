@@ -10,7 +10,7 @@ license: OGL
 ---
 # Ivory Baton (Greater)
 ## Item 19
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 35000 gp; 
@@ -39,7 +39,7 @@ This white, slender rod bears intricately carved reliefs of magnificent animals 
 
 **Effect** You closely direct the actions of one construct you control and can see within 60 feet. That construct gains a +1 status bonus to attack rolls, damage rolls, and saving throws (except saving throws against the ivory baton).
 
-[[Equipment Effects/Effect_ Ivory Baton|Effect: Ivory Baton]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Ivory Baton|Effect: Ivory Baton]]
 
 *Source: Pathfinder Lost Omens: Monsters of Myth*
 *OGL*

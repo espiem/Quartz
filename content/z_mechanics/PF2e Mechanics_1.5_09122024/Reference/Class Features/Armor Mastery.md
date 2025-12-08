@@ -14,7 +14,7 @@ license: ORC
 ---
 # Armor Mastery
 ## Feat 13
-### [[barbarian]][[champion]][[fighter]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]]
 
 **Category** classfeature; 
 

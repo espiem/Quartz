@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Living Vessel Dedication; your entity is an aberration or outer entity
 * * *
-**Requirements** You have a foe [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** You have a foe [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]].
 
 * * *
 

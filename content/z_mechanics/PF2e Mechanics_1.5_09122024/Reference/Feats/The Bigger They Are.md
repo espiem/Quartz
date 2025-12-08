@@ -13,7 +13,7 @@ license: ORC
 ---
 # The Bigger They Are `pf2:1`
 ## Feat 12
-### [[bravado]][[swashbuckler]]
+### [[bravado]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 
@@ -30,7 +30,7 @@ With reckless speed, you dash, jump and swing around a creature to find a more v
 
 **Failure** Your movement ends, and you trigger reactions as if you had moved out of the square you started in.
 
-**Critical Failure** As failure, and you fall [[Conditions/Prone|Prone]].
+**Critical Failure** As failure, and you fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 [[Feat_Feature Effects/Effect_ The Bigger They Are|Effect: The Bigger They Are]]
 

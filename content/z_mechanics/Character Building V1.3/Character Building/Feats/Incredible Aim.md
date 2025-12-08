@@ -10,4 +10,4 @@ tags:
 # Incredible Aim
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-By spending a moment to focus, you can ensure your attack strikes true. Make a ranged weapon Strike. On this Strike, you gain a +2 circumstance bonus to the attack roll and ignore the target's [[Concealed]] condition.
+By spending a moment to focus, you can ensure your attack strikes true. Make a ranged weapon Strike. On this Strike, you gain a +2 circumstance bonus to the attack roll and ignore the target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] condition.

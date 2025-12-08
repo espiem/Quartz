@@ -18,4 +18,4 @@ This large jug always seems to contain just enough of the holder's favorite alco
 
 * * *
 
-**Effect** You take a long swig on the jug and then Recall Knowledge about a creature you can see, with a +2 circumstance bonus to the check. If you fail but don't critically fail this check, you get a success instead. You're then [[Stupefied|Stupefied 1]] for 3 rounds.
+**Effect** You take a long swig on the jug and then Recall Knowledge about a creature you can see, with a +2 circumstance bonus to the check. If you fail but don't critically fail this check, you get a success instead. You're then [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for 3 rounds.

@@ -16,6 +16,6 @@ Though expensive, these single-use alchemical bombs are often used by police for
 
 The bomb can be thrown up to 30 feet, causing it to explode, spraying the aerosolized pepper dust in a 15 foot burst{15-foot-radius burst}. All creatures in the area must succeed at a DC 18 reflex save to avoid inhaling the dust or getting it in their eyes.
 
-On a failed save, the creature is [[Blinded]] for 1 round and then [[Dazzled]] for 1 round.
+On a failed save, the creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round and then [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round.
 
 On a critical failure, the creature is blinded for 1 round, [[Sickened 1]], and dazzled until it removes the sickened condition.

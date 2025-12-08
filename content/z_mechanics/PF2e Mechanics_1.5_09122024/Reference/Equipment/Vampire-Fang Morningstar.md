@@ -13,7 +13,7 @@ license: OGL
 ---
 # Vampire-Fang Morningstar
 ## Item 8
-### [[magical]][[versatile-p]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |

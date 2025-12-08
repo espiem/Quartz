@@ -17,7 +17,7 @@ license: OGL
 ---
 # Jax
 ## Item 8
-### [unique](unique "Unique Rarity Trait")[[combination]][[concussive]][[cursed]][[divine]][[fatal-aim-d10]][[intelligent]]
+### [unique](unique "Unique Rarity Trait")[[combination]][[concussive]][[cursed]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[fatal-aim-d10]][[intelligent]]
 
 |  |  |
 | -- | -- |

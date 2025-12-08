@@ -8,9 +8,9 @@ tags:
 ---
 
 # Divinity Leech
-![[systems-pf2e-icons-spells-divinity-leech.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-divinity-leech.webp|150]]
 
-You disrupt the connection between a divine caster or deific servitor and their deity, blocking their use of divine power. If the target fails its save, it is [[Fatigued]].
+You disrupt the connection between a divine caster or deific servitor and their deity, blocking their use of divine power. If the target fails its save, it is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]].
 
 For the spell's duration, whenever the target casts a divine spell, you regain 6d6 Hit Points and the target must attempt another Will save with the following effects.
 

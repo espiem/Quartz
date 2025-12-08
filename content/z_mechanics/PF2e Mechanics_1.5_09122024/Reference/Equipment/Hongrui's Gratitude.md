@@ -11,7 +11,7 @@ license: OGL
 ---
 # Hongrui's Gratitude
 ## Item 3
-### [unique](unique "Unique Rarity Trait")[[invested]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 60 gp; 
@@ -30,7 +30,7 @@ Given as thanks for honoring the memories of three unfortunate travelers who met
 
 **Effect** With a wave of the cloak to the left, you cause the image of the lantern-holding companion on the cloak to vanish. A floating red lantern appears at your side and follows you at an arm's length while casting bright light in a 20-foot radius (and dim light for the next 20 feet) like a torch. For 1 hour, while the light from this lantern is active, you gain a +1 item bonus to Diplomacy checks. You can Activate the cloak again to dismiss the torch.
 
-[[Equipment Effects/Effect_ Hongrui's Gratitude (Lantern)|Effect: Hongrui's Gratitude (Lantern)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Hongrui's Gratitude (Lantern)|Effect: Hongrui's Gratitude (Lantern)]]
 
 * * *
 
@@ -42,7 +42,7 @@ Given as thanks for honoring the memories of three unfortunate travelers who met
 
 **Effect** With a wave of the cloak to the right, you cause the image of the umbrella-holding companion on the cloak to vanish. An indestructible red wax paper umbrella appears above you and follows you, shielding you from weather effects, such as rain or bright sunlight. For 1 hour, while this umbrella is active, you gain a +1 item bonus to Survival checks. You can Activate the cloak again to dismiss the umbrella.
 
-[[Equipment Effects/Effect_ Hongrui's Gratitude (Umbrella)|Effect: Hongrui's Gratitude (Umbrella)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Hongrui's Gratitude (Umbrella)|Effect: Hongrui's Gratitude (Umbrella)]]
 
 *Source: Pathfinder #196: The Summer That Never Was*
 *OGL*

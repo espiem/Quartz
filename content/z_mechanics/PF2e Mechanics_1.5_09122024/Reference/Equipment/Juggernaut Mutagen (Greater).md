@@ -35,7 +35,7 @@ Your body becomes sturdy and ponderous.
 
 **Duration** 1 hour.
 
-[[Equipment Effects/Effect_ Juggernaut Mutagen (Greater)|Effect: Juggernaut Mutagen (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Juggernaut Mutagen (Greater)|Effect: Juggernaut Mutagen (Greater)]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

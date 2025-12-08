@@ -10,7 +10,7 @@ tags:
 # Clinch Strike
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Trigger** A creature you had [[Grabbed]] or [[Restrained]] successfully Escapes.
+**Trigger** A creature you had [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]] successfully Escapes.
 
 * * *
 

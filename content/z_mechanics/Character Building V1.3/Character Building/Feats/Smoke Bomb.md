@@ -20,4 +20,4 @@ You cause the bomb to create a cloud of thick smoke, in addition to its normal e
 
 When thrown, the bomb creates a cloud of smoke in a 10-foot-radius burst. You choose which corner of the target's space (or the space in which the bomb lands) the cloud is centered on.
 
-Creatures within that area have the [[Concealed]] condition, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dissipated by a strong wind.
+Creatures within that area have the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] condition, and all other creatures are concealed to them. The smoke lasts for 1 minute or until dissipated by a strong wind.

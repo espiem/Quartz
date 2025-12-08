@@ -28,7 +28,7 @@ You become trained in Religion and your deity's associated skill; for each of th
 
 You become trained in light armor and medium armor. If you already were trained in light armor and medium armor, you gain training in heavy armor as well. Whenever you gain a class feature that grants you expert or greater proficiency in any type of armor (but not unarmored defense), you also gain that proficiency in the armor types granted to you by this feat. If you have a class feature that grants you expert proficiency in unarmored defense and you're 13th level or higher, you also become an expert in the armor types granted to you by this feat.
 
-[[PF2e Journals/Archetypes/Champion|Champion]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Champion|Champion]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

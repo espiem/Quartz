@@ -14,7 +14,7 @@ license: OGL
 ---
 # Energizing Tea
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]][[tea]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]][[tea]]
 
 **Category** potion; 
 **Price** 20 gp; 
@@ -27,7 +27,7 @@ license: OGL
 
 This sweet and refreshing tea is made by adding a mixture of honey, lemon slices, and sliced ginger. This is considered to be the bare minimum when serving energizing tea, and many go above and beyond by adding additional citrus fruits or berries to the mix or refusing to serve the tea at all without accompanying it with a full platter of spiced pastries and sweets. This golden tea has energizing properties and, when consumed, grants you a +1 item bonus to Athletics and Acrobatics checks for 10 minutes.
 
-[[Equipment Effects/Effect_ Energizing Tea|Effect: Energizing Tea]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Energizing Tea|Effect: Energizing Tea]]
 
 * * *
 

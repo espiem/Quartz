@@ -15,7 +15,7 @@ license: OGL
 ---
 # Carver-cutter (Greater)
 ## Item 13
-### [[magical]][[sweep]][[wood]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[sweep]][[wood]]
 
 |  |  |
 | -- | -- |

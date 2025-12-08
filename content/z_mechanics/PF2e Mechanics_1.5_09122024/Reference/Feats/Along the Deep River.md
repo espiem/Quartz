@@ -12,7 +12,7 @@ license: ORC
 ---
 # Along the Deep River
 ## Feat 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[sprite]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/2-Mechanics V1.3/Bestiary/bestiary-1/sprite]]
 
 **Category** ancestry; 
 

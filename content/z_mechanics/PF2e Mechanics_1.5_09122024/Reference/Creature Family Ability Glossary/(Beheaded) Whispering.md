@@ -14,14 +14,14 @@ license: OGL
 ---
 # (Beheaded) Whispering
 
-### [[aura]][[emotion]][[fear]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** offensive; 
 
 
 
 
-30 feet. The beheaded constantly whispers twisted incantations in unknown languages secret and foul. Foes that enter or begin their turn in the area must succeed at a Will save or be [[Conditions/Stupefied|Stupefied 1]]. The aura uses the moderate DC for the beheaded's level.
+30 feet. The beheaded constantly whispers twisted incantations in unknown languages secret and foul. Foes that enter or begin their turn in the area must succeed at a Will save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]]. The aura uses the moderate DC for the beheaded's level.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

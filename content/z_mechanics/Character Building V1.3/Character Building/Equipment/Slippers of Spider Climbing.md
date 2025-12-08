@@ -8,7 +8,7 @@ tags:
 ---
 
 # Slippers of Spider Climbing
-![[icons-equipment-feet-boots-collared-leather-white.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-equipment-feet-boots-collared-leather-white.webp|150]]
 
 These soft slippers are made of fine gray silk. If the slippers are left unattended for a while, they tend to attract spiders that nest inside.
 

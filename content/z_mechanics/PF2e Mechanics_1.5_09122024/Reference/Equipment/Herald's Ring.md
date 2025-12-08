@@ -12,7 +12,7 @@ license: ORC
 ---
 # Herald's Ring
 ## Item 13
-### [unique](unique "Unique Rarity Trait")[[invested]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 3000 gp; 

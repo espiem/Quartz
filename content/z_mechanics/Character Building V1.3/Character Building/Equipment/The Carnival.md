@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Carnival
-![[icons-sundries-gaming-playing-cards-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Star (Wis)
 
@@ -16,7 +16,7 @@ tags:
 
 * * *
 
-_The Carnival_ represents false dreams. When you have _The Carnival_ invested, your flat check DCs to obtain reliable information from divination effects (such as _[[Augury]]_ or _[[Read Fate]]_, or the activation of this card) are reduced by 2 (but not to less than 2). Casting a divination effect with a flat check, whether or not the flat check succeeds, gives a series of subtly different visions that don't confuse the meaning but make you [[Stupefied|Stupefied 1]] for 1 round. If you're at least 17th level, the flat check is instead reduced by 3.
+_The Carnival_ represents false dreams. When you have _The Carnival_ invested, your flat check DCs to obtain reliable information from divination effects (such as _[[Augury]]_ or _[[Read Fate]]_, or the activation of this card) are reduced by 2 (but not to less than 2). Casting a divination effect with a flat check, whether or not the flat check succeeds, gives a series of subtly different visions that don't confuse the meaning but make you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for 1 round. If you're at least 17th level, the flat check is instead reduced by 3.
 
 **Activate** 1 (divination, prediction) envision
 

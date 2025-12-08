@@ -14,7 +14,7 @@ license: OGL
 ---
 # Call Implement `pf2:1`
 ## Feat 2
-### [[arcane]][[manipulate]][[teleportation]][[thaumaturge]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[teleportation]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]]
 
 **Category** class; 
 

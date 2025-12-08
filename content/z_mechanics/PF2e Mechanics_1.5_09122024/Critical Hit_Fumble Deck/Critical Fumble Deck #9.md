@@ -8,7 +8,7 @@ tags:
 ---
 # Attack the Darkness
 
-> Your enemies are [[Conditions/Concealed|Concealed]] from you until the end of your next turn.
+> Your enemies are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] from you until the end of your next turn.
 
 `Melee`
 

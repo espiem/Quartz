@@ -20,4 +20,4 @@ tags:
 
 * * *
 
-This repulsive, hairy glob dangles from the end of your weapon. When you activate the putrescent glob, the creature you damaged must succeed at a DC 23 fortitude save or its sickened condition increases to [[Sickened 1|Sickened 2]], and it can't reduce its sickened condition until the end of its next turn. On a critical failure, it's also [[Slowed]] until the end of its next turn.
+This repulsive, hairy glob dangles from the end of your weapon. When you activate the putrescent glob, the creature you damaged must succeed at a DC 23 fortitude save or its sickened condition increases to [[Sickened 1|Sickened 2]], and it can't reduce its sickened condition until the end of its next turn. On a critical failure, it's also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] until the end of its next turn.

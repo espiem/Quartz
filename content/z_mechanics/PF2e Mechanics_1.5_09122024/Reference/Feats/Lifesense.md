@@ -13,7 +13,7 @@ license: ORC
 ---
 # Lifesense
 ## Feat 5
-### [[divine]][[duskwalker]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[duskwalker]]
 
 **Category** ancestry; 
 

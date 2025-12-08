@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bloodline Robe
 ## Item 12
-### [[focused]][[invested]][[magical]]
+### [[focused]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 2000 gp; 
@@ -29,7 +29,7 @@ Each _bloodline robe_ has a design that befits a particular sorcerer bloodline, 
 
 * * *
 
-**Effect** You're [[Conditions/Quickened|Quickened]] on your next turn. You can use the extra action only as part of Casting a bloodline spell.
+**Effect** You're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened]] on your next turn. You can use the extra action only as part of Casting a bloodline spell.
 
 **Activate** `pf2:0` envision
 

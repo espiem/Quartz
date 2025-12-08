@@ -13,7 +13,7 @@ license: ORC
 ---
 # Remake the World
 ## Feat 20
-### [[divine]][[exemplar]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[exemplar]]
 
 **Category** class; 
 

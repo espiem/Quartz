@@ -14,7 +14,7 @@ license: ORC
 ---
 # Bespell Strikes `pf2:0`
 ## Feat 4
-### [[oracle]][[sorcerer]][[wizard]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Oracle]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Wizard]]
 
 **Category** class; 
 

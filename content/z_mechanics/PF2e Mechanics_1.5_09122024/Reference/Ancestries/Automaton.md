@@ -11,7 +11,7 @@ license: OGL
 ---
 # Automaton
 
-### [rare](rare "Rare Rarity Trait")[[automaton]][[construct]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Automaton]][[construct]]
 
 
 
@@ -20,7 +20,7 @@ license: OGL
 
 _These intelligent constructs house actual souls and represent what remains of a dying empire's last attempt at greatness. Automatons combine technological ingenuity with magical power, creating a blended being wholly unique to Golarion._
 
-[[PF2e Journals/Ancestries/Automaton|Automaton]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Automaton|Automaton]]
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Invisibility
 ## Item 8
-### [[illusion]][[magical]]
+### [[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 500 gp; 

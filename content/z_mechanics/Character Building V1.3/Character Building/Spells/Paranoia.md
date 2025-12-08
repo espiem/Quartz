@@ -8,7 +8,7 @@ tags:
 ---
 
 # Paranoia
-![[icons-magic-fire-flame-burning-eye.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-flame-burning-eye.webp|150]]
 
 You cause the target to see all other creatures as dire threats. The target is stricken by intense paranoia toward all creatures around it and must attempt a Will save.
 
@@ -16,7 +16,7 @@ You cause the target to see all other creatures as dire threats. The target is s
 
 **Critical Success** The target is unaffected.
 
-**Success** The target believes everyone it sees is a potential threat. It becomes [[Unfriendly]] to all creatures to which it wasn't already hostile, even those that were previously allies. It treats no one as an ally. The spell ends after 1 round.
+**Success** The target believes everyone it sees is a potential threat. It becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unfriendly]] to all creatures to which it wasn't already hostile, even those that were previously allies. It treats no one as an ally. The spell ends after 1 round.
 
 **Failure** As success, but the effect lasts 1 minute.
 

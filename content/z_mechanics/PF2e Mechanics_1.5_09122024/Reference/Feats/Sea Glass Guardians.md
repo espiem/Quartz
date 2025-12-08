@@ -16,7 +16,7 @@ license: OGL
 ---
 # Sea Glass Guardians `pf2:1`
 ## Feat 12
-### [[impulse]][[kineticist]][[primal]][[stance]][[water]]
+### [[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[primal]][[stance]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 **Category** class; 
 
@@ -27,7 +27,7 @@ Eerily beautiful elemental water beings race around you, eager to protect and he
 
 If any creature affected is critically hit or critically fails at a saving throw against an attack, effect from an enemy, or hazard and remains above 0 HP, the guardians reach out to heal that creature. The creature regains 4d8+(floor((max(12,1)-12)/3)\*4+8 healing HP, and the impulse ends. If the creature is in water, the healing dice are d10s instead of d8s.
 
-[[Feat_Feature Effects/Stance_ Sea Glass Guardians|Stance: Sea Glass Guardians]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Stance_ Sea Glass Guardians|Stance: Sea Glass Guardians]]
 
 * * *
 

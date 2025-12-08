@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Ghlaunder leeches your energy from you as easily as blood. Any time you fail a Fortitude save, you become [[Conditions/Fatigued|Fatigued]] in addition to all other effects.
+Ghlaunder leeches your energy from you as easily as blood. Any time you fail a Fortitude save, you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]] in addition to all other effects.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

@@ -20,7 +20,7 @@ A spiked glove is attached to the front of this _buckler_, functioning as _+1 st
 
 * * *
 
-**Effect** You activate the shield's inner light. Attempt a melee Strike with the duelist's beacon. On a hit, the target must succeed at a DC 22 fortitude save or be [[Blinded]] for 1 round. On a critical hit, the target uses the result one degree of success worse than it rolled for its Fortitude save.
+**Effect** You activate the shield's inner light. Attempt a melee Strike with the duelist's beacon. On a hit, the target must succeed at a DC 22 fortitude save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round. On a critical hit, the target uses the result one degree of success worse than it rolled for its Fortitude save.
 
 | Hardness | HP | BT |
 | --- | --- | --- |

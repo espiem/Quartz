@@ -14,6 +14,6 @@ You perform music so perfect that the target may die of joy or sorrow. Once targ
 
 **16th or Lower** The target dies instantly.
 
-**17th** If the target has 50 Hit Points or fewer, it dies instantly; otherwise, it drops to 0 Hit Points and becomes [[Dying|Dying 1]].
+**17th** If the target has 50 Hit Points or fewer, it dies instantly; otherwise, it drops to 0 Hit Points and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying|Dying 1]].
 
 **18th or Higher** The target takes 50 untyped damage. If this brings it to 0 Hit Points, it dies instantly.

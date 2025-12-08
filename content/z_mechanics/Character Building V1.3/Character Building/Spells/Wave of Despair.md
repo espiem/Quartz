@@ -18,7 +18,7 @@ You inflict despair on creatures in the area. The effects for each creature are 
 
 **Critical Success** The creature is unaffected.
 
-**Success** For 1 round, the creature can't use reactions and must attempt another save at the start of its turn; on a failure, it is [[Slowed]] for that turn as it sobs uncontrollably.
+**Success** For 1 round, the creature can't use reactions and must attempt another save at the start of its turn; on a failure, it is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] for that turn as it sobs uncontrollably.
 
 **Failure** As success, but the duration is 1 minute.
 

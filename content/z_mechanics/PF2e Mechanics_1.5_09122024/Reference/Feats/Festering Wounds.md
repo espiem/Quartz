@@ -13,7 +13,7 @@ license: OGL
 ---
 # Festering Wounds
 ## Feat 12
-### [[archetype]][[disease]][[divine]]
+### [[archetype]][[disease]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 **Category** class; 
 

@@ -11,7 +11,7 @@ license: ORC
 ---
 # Brilliant
 ## Item 12
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 2000 gp; 
@@ -20,7 +20,7 @@ license: ORC
 
 This rune causes a weapon to transform into pure, brilliant energy. The weapon deals an additional 1d4 fire damage on a successful Strike, as well as 1d4 spirit damage to fiends and 1d4 vitality damage to undead.
 
-On a critical hit, the target must succeed at a DC 29 Fortitude check or be [[Conditions/Blinded|Blinded]] for 1 round.
+On a critical hit, the target must succeed at a DC 29 Fortitude check or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] for 1 round.
 
 * * *
 

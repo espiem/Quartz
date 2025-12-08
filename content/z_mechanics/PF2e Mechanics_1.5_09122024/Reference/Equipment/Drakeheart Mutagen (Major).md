@@ -35,7 +35,7 @@ Your skin grows scales like a drake, and your eyesight become sharp and your pup
 
 **Duration** 1 hour or until you use Final Surge, whichever comes first.
 
-[[Equipment Effects/Effect_ Drakeheart Mutagen (Major)|Effect: Drakeheart Mutagen (Major)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Drakeheart Mutagen (Major)|Effect: Drakeheart Mutagen (Major)]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

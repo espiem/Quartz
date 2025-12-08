@@ -10,7 +10,7 @@ tags:
 ---
 
 # Runic Body
-![[systems-pf2e-icons-spells-magic-fang.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-magic-fang.webp|150]]
 
 Glowing runes appear on the target's body. All its unarmed attacks become _+1 striking_ unarmed attacks, gaining a +1 item bonus to attack rolls and increasing the number of damage dice to two.
 

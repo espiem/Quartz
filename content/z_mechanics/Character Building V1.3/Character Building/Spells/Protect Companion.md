@@ -8,7 +8,7 @@ tags:
 ---
 
 # Protect Companion
-![[icons-equipment-shield-kite-wooden-oak-glow.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-equipment-shield-kite-wooden-oak-glow.webp|150]]
 
 You extend your aura, as a magical shield that protects your eidolon or minion. The target gains a +1 circumstance bonus to AC until the start of your next turn. You gain the [[Life Block]] reaction; after using the reaction, the spell ends and you can't cast protect companion again for 10 minutes.
 

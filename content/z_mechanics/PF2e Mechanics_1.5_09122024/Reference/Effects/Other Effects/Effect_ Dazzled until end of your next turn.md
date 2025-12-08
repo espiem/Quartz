@@ -18,7 +18,7 @@ license: OGL
 
 **Effect applied by [[Critical Hit_Fumble Deck/Critical Fumble Deck #51|Critical Fumble Deck #51]], [[Critical Hit_Fumble Deck/Critical Fumble Deck #52|Critical Fumble Deck #52]]**
 
-You are [[Conditions/Dazzled|Dazzled]] until the end of your next turn.
+You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] until the end of your next turn.
 
 *Source: Pathfinder Critical Decks*
 *OGL*

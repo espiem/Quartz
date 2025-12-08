@@ -14,7 +14,7 @@ license: OGL
 ---
 # Piranha Kiss
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[disarm]][[finesse]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[disarm]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]]
 
 |  |  |
 | -- | -- |

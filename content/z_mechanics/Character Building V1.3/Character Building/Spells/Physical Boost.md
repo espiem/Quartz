@@ -8,6 +8,6 @@ tags:
 ---
 
 # Physical Boost
-![[systems-pf2e-icons-spells-physical-boost.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-physical-boost.webp|150]]
 
 You temporarily improve the target's physique. The target gains a +2 status bonus to the next Acrobatics check, Athletics check, Fortitude save, or Reflex save it attempts.

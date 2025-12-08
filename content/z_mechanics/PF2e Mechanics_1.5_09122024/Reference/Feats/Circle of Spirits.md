@@ -14,7 +14,7 @@ license: ORC
 ---
 # Circle of Spirits `pf2:1`
 ## Feat 1
-### [[animist]][[apparition]][[concentrate]]
+### [[animist]][[apparition]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]]
 
 **Category** class; 
 

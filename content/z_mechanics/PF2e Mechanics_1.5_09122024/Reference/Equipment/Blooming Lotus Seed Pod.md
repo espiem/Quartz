@@ -15,7 +15,7 @@ license: OGL
 ---
 # Blooming Lotus Seed Pod
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[plant]][[wood]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[plant]][[wood]]
 
 **Category** other; 
 **Price** 68 gp; 

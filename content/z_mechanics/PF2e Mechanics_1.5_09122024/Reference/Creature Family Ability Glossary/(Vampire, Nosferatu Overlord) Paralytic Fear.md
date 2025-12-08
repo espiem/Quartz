@@ -15,7 +15,7 @@ license: OGL
 ---
 # (Vampire, Nosferatu Overlord) Paralytic Fear `pf2:1`
 
-### [[divine]][[emotion]][[fear]][[incapacitation]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** offensive; 
 
@@ -32,11 +32,11 @@ license: OGL
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Immobilized|Immobilized]] by fear until the end of the nosferatu's next turn.
+**Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]] by fear until the end of the nosferatu's next turn.
 
-**Failure** The target is [[Conditions/Restrained|Restrained]] and takes a -2 circumstance penalty to its Fortitude DC against the nosferatu's Drink Blood ability until the end of the nosferatu's next turn.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]] and takes a -2 circumstance penalty to its Fortitude DC against the nosferatu's Drink Blood ability until the end of the nosferatu's next turn.
 
-**Critical Failure** As failure, and the target is [[Conditions/Frightened|Frightened 2]].
+**Critical Failure** As failure, and the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
 *Source: Pathfinder Bestiary 3*
 *OGL*

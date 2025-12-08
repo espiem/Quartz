@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ceremony of Sun's Gift
 ## Feat 17
-### [[conrasu]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Conrasu]]
 
 **Category** ancestry; 
 

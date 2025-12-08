@@ -15,7 +15,7 @@ license: ORC
 ---
 # Palm-Leaf Silhouette
 ## Feat 13
-### [[exploration]][[extradimensional]][[occult]][[wayang]]
+### [[exploration]][[extradimensional]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[wayang]]
 
 **Category** ancestry; 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Timeline-Splitting Spell `pf2:3`
 ## Feat 18
-### [[archetype]][[concentrate]][[manipulate]][[spellshape]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[spellshape]]
 
 **Category** class; 
 

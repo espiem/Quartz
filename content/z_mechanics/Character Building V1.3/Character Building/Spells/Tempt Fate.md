@@ -8,7 +8,7 @@ tags:
 ---
 
 # Tempt Fate
-![[icons-commodities-currency-coin-inset-lightning-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-commodities-currency-coin-inset-lightning-green.webp|150]]
 
 **Trigger** You or an ally within range attempts a saving throw.
 

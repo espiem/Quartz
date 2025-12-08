@@ -18,7 +18,7 @@ A ghostly iron maiden snaps shut on the target and drains its vitality for your 
 
 **Success** The target takes half damage.
 
-**Failure** The target is briefly trapped within the vampiric maiden. The target takes full damage and is [[Immobilized]] by the iron maiden for 1 round or until it uses an [[Interact]] action to extricate itself, whichever comes first.
+**Failure** The target is briefly trapped within the vampiric maiden. The target takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] by the iron maiden for 1 round or until it uses an [[Interact]] action to extricate itself, whichever comes first.
 
 **Critical Failure** The target takes double damage and is Immobilized by the vampiric maiden for 1 round or until it [[Escape|Escapes]](the DC is your spell DC), whichever comes first.
 

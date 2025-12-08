@@ -8,7 +8,7 @@ tags:
 ---
 
 # Untamed Form
-![[icons-creatures-amphibians-treefrog-leaf-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-amphibians-treefrog-leaf-green.webp|150]]
 
 You reach within for a different part of yourself, and you set it free, transforming your body into another form. You can polymorph into any form listed in _[[Pest Form]]_, which lasts 10 minutes. All other _untamed form_ shapes last 1 minute. You can add more shapes to your _untamed form_ list with druid feats; your feat might grant you some or all of the shapes from a given polymorph spell.
 

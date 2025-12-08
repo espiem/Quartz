@@ -12,7 +12,7 @@ license: ORC
 ---
 # Raging Thrower
 ## Feat 1
-### [[barbarian]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]]
 
 **Category** class; 
 

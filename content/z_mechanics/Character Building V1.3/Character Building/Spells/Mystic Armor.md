@@ -10,7 +10,7 @@ tags:
 ---
 
 # Mystic Armor
-![[systems-pf2e-icons-spells-mage-armor.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-mage-armor.webp|150]]
 
 You ward yourself with shimmering magical energy, gaining a +1 item bonus to AC and a maximum Dexterity modifier of +5. While wearing _mystic armor_, you use your unarmored proficiency to calculate your AC.
 

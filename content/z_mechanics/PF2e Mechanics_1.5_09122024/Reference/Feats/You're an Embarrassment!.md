@@ -26,7 +26,7 @@ license: OGL
 
 Some Firebrands can't stand it when their allies are ruining their moment, and you're no different. Your loud and forceful condemnation of an ally succumbing to an incapacitation effect gives them a second chance to impress you and shake off the effect. Your ally rerolls the triggering Will saving throw with a +1 circumstance bonus. Regardless of the result of the save, your ally is temporarily immune to You're an Embarrassment! for 10 minutes.
 
-[[Feat_Feature Effects/Effect_ You're an Embarrassment|Effect: You're an Embarrassment]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ You're an Embarrassment|Effect: You're an Embarrassment]]
 
 *Source: Pathfinder Lost Omens: Firebrands*
 *OGL*

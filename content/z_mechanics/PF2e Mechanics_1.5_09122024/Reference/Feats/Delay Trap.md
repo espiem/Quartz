@@ -12,7 +12,7 @@ license: ORC
 ---
 # Delay Trap `pf2:r`
 ## Feat 8
-### [[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 
@@ -33,7 +33,7 @@ You try to jam the workings of a trap to delay its effects. Attempt a Thievery c
 
 **Failure** No effect.
 
-**Critical Failure** You're [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn.
+**Critical Failure** You're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the start of your next turn.
 
 *Source: Pathfinder Player Core*
 *ORC*

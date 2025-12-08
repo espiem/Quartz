@@ -10,7 +10,7 @@ tags:
 # Borrow an Arcane Spell
 ![[systems-pf2e-icons-actions-Passive.webp|150]]
 
-If you're an arcane spellcaster who prepares from a spellbook, you can attempt to prepare a spell from someone else's spellbook. The GM sets the DC for the check based on the spell's level and rarity; it's typically a bit easier than [[Learn a Spell|Learning the Spell]].
+If you're an arcane spellcaster who prepares from a spellbook, you can attempt to prepare a spell from someone else's spellbook. The GM sets the DC for the check based on the spell's level and rarity; it's typically a bit easier than [[z_mechanics/Character Building V1.3/Character Building/Actions/Learn a Spell|Learning the Spell]].
 
 * * *
 

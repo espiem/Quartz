@@ -8,7 +8,7 @@ tags:
 ---
 
 # Allfood
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tapas-brewers-regret.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-equipment-alchemical-items-alchemical-tapas-brewers-regret.webp|150]]
 
 You transform one object into an edible substance that any living creature can chew, swallow, and safely digest. This allfood always has a bland taste and slightly gooey consistency, regardless of its original nature. One bulk of allfood provides enough sustenance to feed one Medium creature for a day.
 

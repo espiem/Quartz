@@ -18,7 +18,7 @@ You create an illusory duplicate of your ally's ranged attack to confuse your op
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Off-Guard]] against the triggering attack.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] against the triggering attack.
 
 **Failure** The creature is off-guard against the triggering attack and takes full damage from your illusory projectile.
 

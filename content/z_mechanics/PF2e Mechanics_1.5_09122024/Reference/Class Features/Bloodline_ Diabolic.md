@@ -12,7 +12,7 @@ license: ORC
 ---
 # Bloodline: Diabolic
 ## Feat 1
-### [[sorcerer]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]]
 
 **Category** classfeature; 
 
@@ -31,7 +31,7 @@ Devils are evil with a silver tongue, and one of your ancestors dallied in darkn
 
 **Blood Magic—Tongue of Flame** Your tongue becomes laced with the fires of Hell, and you can either lash out at a foe with it or swallow it to make your lies more palatable. Either a target takes 1 fire damage per spell rank (if the spell already deals initial fire damage, combine this with the spell's initial damage before determining weaknesses and resistances), or you gain a +2 status bonus to Deception checks for 1 round.
 
-[[Feat_Feature Effects/Effect_ Diabolic Blood Magic (Self)|Effect: Diabolic Blood Magic (Self)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Diabolic Blood Magic (Self)|Effect: Diabolic Blood Magic (Self)]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

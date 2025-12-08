@@ -14,18 +14,18 @@ tags:
 
 # Recoil
 
-> You are pushed 5 feet backwards and fall [[Conditions/Prone|Prone]].
+> You are pushed 5 feet backwards and fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 `Ranged`
 
 # Punctured Foot
 
-> You take 1d4 bleed. Until this effect ends, you take a [[Other Effects/Effect_ -10-foot circumstance penalty to your land Speed|-10-foot circumstance penalty to your land Speed]].
+> You take 1d4 bleed. Until this effect ends, you take a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -10-foot circumstance penalty to your land Speed|-10-foot circumstance penalty to your land Speed]].
 
 `Unarmed`
 
 # Mental Backlash
 
-> Until healed, you are [[Conditions/Stupefied|Stupefied 3]].
+> Until healed, you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 3]].
 
 `Spell`

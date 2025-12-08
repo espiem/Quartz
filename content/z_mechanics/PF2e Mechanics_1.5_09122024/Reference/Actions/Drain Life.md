@@ -12,7 +12,7 @@ license: OGL
 ---
 # Drain Life `pf2:2`
 
-### [[divine]][[eidolon]][[void]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[eidolon]][[void]]
 
 
 

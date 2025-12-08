@@ -8,7 +8,7 @@ tags:
 ---
 
 # Fiery Body
-![[icons-magic-fire-elemental-fire-humanoid.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-elemental-fire-humanoid.webp|150]]
 
 You become living flame, giving you fire immunity, resistance 10 to precision damage, and weakness 5 to cold and to water. Any creature that touches you or damages you with an unarmed attack or non-reach melee weapon takes 3d6 fire damage.
 

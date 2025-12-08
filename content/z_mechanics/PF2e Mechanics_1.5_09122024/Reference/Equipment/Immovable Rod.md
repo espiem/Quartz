@@ -10,7 +10,7 @@ license: OGL
 ---
 # Immovable Rod
 ## Item 9
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 600 gp; 

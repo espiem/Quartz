@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-You shout in defiance, filling you with a sudden burst of healing. Just before applying the attack's damage, you recover 10d4+20 Hit Points. If this is enough to prevent the attack from bringing you to 0 Hit Points, you don't become [[Unconscious]] or [[Dying]]. Either way, cheating death is difficult, and you can't use hero's defiance again until you Refocus or the next time you prepare. Hero's defiance cannot be used against effects with the death trait or that would leave no remains, such as disintegrate.
+You shout in defiance, filling you with a sudden burst of healing. Just before applying the attack's damage, you recover 10d4+20 Hit Points. If this is enough to prevent the attack from bringing you to 0 Hit Points, you don't become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying]]. Either way, cheating death is difficult, and you can't use hero's defiance again until you Refocus or the next time you prepare. Hero's defiance cannot be used against effects with the death trait or that would leave no remains, such as disintegrate.

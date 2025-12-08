@@ -8,7 +8,7 @@ tags:
 ---
 
 # Fulu of the Drunken Monkey
-![[systems-pf2e-icons-equipment-consumables-fulus-fulu-modest.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-fulus-fulu-modest.webp|150]]
 
 **Usage** affixed to armor
 

@@ -34,7 +34,7 @@ This mutagen calcifies your body making it as hard as stone.
 
 **Duration** 1 hour.
 
-[[Equipment Effects/Effect_ Stone Body Mutagen (Moderate)|Effect: Stone Body Mutagen (Moderate)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Stone Body Mutagen (Moderate)|Effect: Stone Body Mutagen (Moderate)]]
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

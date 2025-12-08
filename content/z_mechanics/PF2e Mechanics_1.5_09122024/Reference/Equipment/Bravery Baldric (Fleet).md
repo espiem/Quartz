@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bravery Baldric (Fleet)
 ## Item 5
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 150 gp; 

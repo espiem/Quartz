@@ -18,6 +18,6 @@ All is well as long as you appear well, but you get caught up in the moment and 
 
 **Emotional Fervor** Each time you cast an illusion spell, until the start of your next turn, any critical failure you roll on an attack roll or saving throw is a failure instead. Spell: _[[Dizzying Colors]]_
 
-**Emotional Fallout** You momentarily lose track of what's real, becoming [[Confused]] for 1 round. Spell: mirror image
+**Emotional Fallout** You momentarily lose track of what's real, becoming [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] for 1 round. Spell: mirror image
 
 **Focus Spell** _[[Veil of Confidence]]_

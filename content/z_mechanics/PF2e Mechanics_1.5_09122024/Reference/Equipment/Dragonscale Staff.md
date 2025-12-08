@@ -16,7 +16,7 @@ license: OGL
 ---
 # Dragonscale Staff
 ## Item 6
-### [[magical]][[monk]][[parry]][[reach]][[trip]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]][[parry]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]][[trip]]
 
 |  |  |
 | -- | -- |

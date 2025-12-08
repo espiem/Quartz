@@ -18,9 +18,9 @@ Gnawing worms materialize within the flesh of the target creature, dealing 4d6 p
 
 **Success** The target takes full initial damage but no persistent damage, and the spell ends immediately.
 
-**Failure** The target takes full initial and persistent damage and is [[Off-Guard]] due to the pain for as long as it takes persistent damage.
+**Failure** The target takes full initial and persistent damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] due to the pain for as long as it takes persistent damage.
 
-**Critical Failure** As failure, but the target takes double the initial damage and is also [[Slowed]] by the pain for as long as it takes persistent damage.
+**Critical Failure** As failure, but the target takes double the initial damage and is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] by the pain for as long as it takes persistent damage.
 
 * * *
 

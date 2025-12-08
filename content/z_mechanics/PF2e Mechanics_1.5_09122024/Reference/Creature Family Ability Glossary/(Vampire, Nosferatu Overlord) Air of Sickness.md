@@ -11,7 +11,7 @@ license: OGL
 ---
 # (Vampire, Nosferatu Overlord) Air of Sickness
 
-### [[aura]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]]
 
 **Category** offensive; 
 
@@ -20,7 +20,7 @@ license: OGL
 
 30 feet. A creature entering or starting its turn in the aura must attempt a Fortitude check save with a moderate DC for the nosferatu's level. On a failure, the creature is [[Conditions/Sickened|Sickened 1]] and takes a -2 status penalty to saves made to resist diseases and remove the sickened condition for 1 hour.
 
-[[Bestiary Effects/Effect_ Air of Sickness|Effect: Air of Sickness]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Bestiary Effects/Effect_ Air of Sickness|Effect: Air of Sickness]]
 
 *Source: Pathfinder Bestiary 3*
 *OGL*

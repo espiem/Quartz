@@ -19,8 +19,8 @@ tags:
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Dazzled]] until the end of the current turn.
+**Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] until the end of the current turn.
 
-**Failure** The target is [[Blinded]] until the end of the current turn.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] until the end of the current turn.
 
 **Critical Failure** The target is blinded until the end of the current turn and dazzled for 1 minute.

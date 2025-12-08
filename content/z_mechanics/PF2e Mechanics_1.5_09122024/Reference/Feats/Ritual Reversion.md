@@ -14,7 +14,7 @@ license: ORC
 ---
 # Ritual Reversion
 ## Feat 5
-### [[leshy]][[polymorph]][[primal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Leshy]][[polymorph]][[primal]]
 
 **Category** ancestry; 
 

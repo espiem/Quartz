@@ -14,7 +14,7 @@ license: OGL
 ---
 # Skyrider Sword
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[air]][[magical]][[versatile-p]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |
@@ -39,7 +39,7 @@ This _+2 greater striking shock greatsword_ has a broad, flat blade that can sup
 
 **Effect** You leap upon your sword as it soars through the air for up to 10 minutes. You gain a fly Speed of 25 feet or your land Speed, whichever is slower, but you can't Strike with your weapon except via the weapon's other activation (see below). You can Dismiss the activation, and it ends automatically if you cease holding the weapon with at least one hand.
 
-[[Equipment Effects/Effect_ Skyrider Sword|Effect: Skyrider Sword]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Skyrider Sword|Effect: Skyrider Sword]]
 
 * * *
 

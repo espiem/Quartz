@@ -14,7 +14,7 @@ license: OGL
 ---
 # Gorgon's Breath
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 475 gp; 
@@ -31,11 +31,11 @@ Gorgon's breath is a fine powder that can easily enter living creatures' bloodst
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** [[Conditions/Slowed|Slowed 1]] (1 round)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] (1 round)
 
 **Stage 2** 4d6 bludgeoning and slowed 1 (1 round)
 
-**Stage 3** [[Conditions/Petrified|Petrified]] (1 round)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Petrified|Petrified]] (1 round)
 
 **Stage 4** petrified permanently
 

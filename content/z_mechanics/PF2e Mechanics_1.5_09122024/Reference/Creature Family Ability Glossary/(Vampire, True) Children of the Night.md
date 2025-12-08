@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Vampire, True) Children of the Night
 
-### [[divine]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** interaction; 
 

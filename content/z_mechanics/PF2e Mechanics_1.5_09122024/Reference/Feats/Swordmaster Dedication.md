@@ -24,7 +24,7 @@ Your Swords training taught you to never lose hold of your weapon. You gain a +2
 
 * * *
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Swordmaster|Swordmaster]] archetype.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[Swordmaster|Swordmaster]] archetype.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

@@ -16,9 +16,9 @@ You blast the area with grit that scours away soil and gets into creatures' eyes
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[Dazzled]] for 1 minute or until it uses an Interact action to get the sand out of its eyes.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 minute or until it uses an Interact action to get the sand out of its eyes.
 
-**Critical Failure** As failure, but the creature is also [[Blinded]] for its next action.
+**Critical Failure** As failure, but the creature is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for its next action.
 
 * * *
 

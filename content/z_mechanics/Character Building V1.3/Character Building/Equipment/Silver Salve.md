@@ -10,7 +10,7 @@ tags:
 ---
 
 # Silver Salve
-![[icons-consumables-drinks-alcohol-spirits-bottle-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-consumables-drinks-alcohol-spirits-bottle-blue.webp|150]]
 
 **Activate** A (manipulate)
 

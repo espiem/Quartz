@@ -12,7 +12,7 @@ license: ORC
 ---
 # Dragon's Presence
 ## Feat 1
-### [[kobold]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Kobold]]
 
 **Category** ancestry; 
 

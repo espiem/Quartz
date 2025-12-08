@@ -25,7 +25,7 @@ Your rune magic increases, and you practice with your school's associated weapon
 
 * * *
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Runelord|Runelord]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[Runelord|Runelord]] archetype.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Astringent Venom
 ## Item 12
-### [[alchemical]][[consumable]][[contact]][[poison]][[virulent]]
+### [[alchemical]][[consumable]][[contact]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[virulent]]
 
 **Category** poison; 
 **Price** 350 gp; 
@@ -36,7 +36,7 @@ This oily, dark-purple powder gives off the distinct odor of boiled leather. Whe
 
 **Stage 2** 8d6 poison (1 round)
 
-**Stage 3** 10d6 poison and [[Conditions/Confused|Confused]] (1 round)
+**Stage 3** 10d6 poison and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]] (1 round)
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

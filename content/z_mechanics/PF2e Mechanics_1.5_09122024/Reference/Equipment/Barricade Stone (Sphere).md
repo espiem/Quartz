@@ -13,7 +13,7 @@ license: OGL
 ---
 # Barricade Stone (Sphere)
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[structure]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[structure]]
 
 **Category** other; 
 **Price** 40 gp; 
@@ -34,7 +34,7 @@ Upon landing, the stone instantly and permanently expands. The stone grows to it
 
 **Type: Sphere**
 
-This smooth marble keeps its shape when activated, growing into a spherical boulder 10 feet in diameter. If stationary, the boulder can be pushed 5 feet with a successful DC 24 Athletics check. If the marble was thrown or slung, the boulder retains its momentum, moving 25 feet away from you each round. A creature in the boulder's way takes 4d6 bludgeoning damage (DC 20 Reflex check save; on a failure, the creature is knocked [[Conditions/Prone|Prone]]).
+This smooth marble keeps its shape when activated, growing into a spherical boulder 10 feet in diameter. If stationary, the boulder can be pushed 5 feet with a successful DC 24 Athletics check. If the marble was thrown or slung, the boulder retains its momentum, moving 25 feet away from you each round. A creature in the boulder's way takes 4d6 bludgeoning damage (DC 20 Reflex check save; on a failure, the creature is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]]).
 
 *Source: Pathfinder #171: Hurricane's Howl*
 *OGL*

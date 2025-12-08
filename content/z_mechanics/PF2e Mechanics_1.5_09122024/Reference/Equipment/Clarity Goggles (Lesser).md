@@ -11,7 +11,7 @@ license: OGL
 ---
 # Clarity Goggles (Lesser)
 ## Item 8
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 425 gp; 

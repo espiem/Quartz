@@ -24,7 +24,7 @@ You can use Arcana, Occultism, Religion, or Society to Decipher Writing by medit
 
 Additionally, you gain resistance 10 to damage from hazards associated with crystals.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Crystal Keeper|Crystal Keeper]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[Crystal Keeper|Crystal Keeper]] archetype.
 
 *Source: Pathfinder #148: Fires of the Haunted City*
 *OGL*

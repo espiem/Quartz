@@ -18,6 +18,6 @@ While dormant, this tattoo appears to be a simple flower bud, but when activated
 
 * * *
 
-**Effect** Choose a willing ally you can see within 30 feet. Your ally seems more charming, though no one can pinpoint why. They gain a +1 status bonus to Diplomacy checks for 10 minutes. Once on their next turn, the ally can attempt to draw a creature's attention. To do so, the ally must spend 1 action (which has the emotion, mental, and visual traits) to select a creature the ally can see and make eye contact in a way the target can see. The target must succeed at a DC 20 will save or be [[Fascinated]] with your ally until the end of that ally's next turn. If the save succeeds or the effect ends, the target is temporarily immune to being fascinated by any _magnolia bewitching bloom_ for 24 hours.
+**Effect** Choose a willing ally you can see within 30 feet. Your ally seems more charming, though no one can pinpoint why. They gain a +1 status bonus to Diplomacy checks for 10 minutes. Once on their next turn, the ally can attempt to draw a creature's attention. To do so, the ally must spend 1 action (which has the emotion, mental, and visual traits) to select a creature the ally can see and make eye contact in a way the target can see. The target must succeed at a DC 20 will save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] with your ally until the end of that ally's next turn. If the save succeeds or the effect ends, the target is temporarily immune to being fascinated by any _magnolia bewitching bloom_ for 24 hours.
 
 

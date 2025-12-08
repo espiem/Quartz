@@ -13,7 +13,7 @@ license: OGL
 ---
 # Terrain Form `pf2:1`
 ## Feat 10
-### [[archetype]][[concentrate]][[divine]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 **Category** class; 
 

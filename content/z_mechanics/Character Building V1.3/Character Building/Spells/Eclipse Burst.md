@@ -22,7 +22,7 @@ If the globe overlaps with an area of magical light or affects a creature affect
 
 **Failure** The creature takes full damage.
 
-**Critical Failure** The creature takes double damage and becomes [[Blinded]] by the darkness for an unlimited duration.
+**Critical Failure** The creature takes double damage and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] by the darkness for an unlimited duration.
 
 * * *
 

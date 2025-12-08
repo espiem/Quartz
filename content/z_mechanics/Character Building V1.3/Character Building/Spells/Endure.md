@@ -8,7 +8,7 @@ tags:
 ---
 
 # Endure
-![[icons-skills-wounds-injury-face-impact-orange.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-wounds-injury-face-impact-orange.webp|150]]
 
 You invigorate the touched creature's mind and urge it to press on. You grant the touched creature 5 temporary Hit Points.
 

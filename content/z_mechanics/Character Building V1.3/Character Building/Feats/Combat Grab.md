@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-Using your prior attack to shift your opponent's guard, you take another swing and grab them. Make a melee Strike while keeping one hand free. If the Strike hits, you grab the target using your free hand. The creature remains [[Grabbed]] until the end of your next turn or until it [[Escape|Escapes]], whichever comes first.
+Using your prior attack to shift your opponent's guard, you take another swing and grab them. Make a melee Strike while keeping one hand free. If the Strike hits, you grab the target using your free hand. The creature remains [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] until the end of your next turn or until it [[Escape|Escapes]], whichever comes first.

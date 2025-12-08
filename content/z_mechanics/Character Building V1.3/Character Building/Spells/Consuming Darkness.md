@@ -20,7 +20,7 @@ Your shadow wriggles before spreading out from you, forming a gateway of clingin
 
 **Failure** As success, but the creature takes full damage and a 10-foot circumstance penalty.
 
-**Critical Failure** The creature is absorbed into the shadows, where it can be seen below the surface; it takes double damage and is [[Immobilized]] for 1 round or until it [[Escape|Escapes]].
+**Critical Failure** The creature is absorbed into the shadows, where it can be seen below the surface; it takes double damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] for 1 round or until it [[Escape|Escapes]].
 
 * * *
 

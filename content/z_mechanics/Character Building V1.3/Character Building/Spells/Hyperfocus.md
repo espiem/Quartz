@@ -8,7 +8,7 @@ tags:
 ---
 
 # Hyperfocus
-![[icons-creatures-eyes-human-single-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-eyes-human-single-blue.webp|150]]
 
 You sharpen a creature's senses, though more distant objects become hazy, indistinct, or muted to it.
 

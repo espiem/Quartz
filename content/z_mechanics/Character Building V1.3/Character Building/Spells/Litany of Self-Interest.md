@@ -8,7 +8,7 @@ tags:
 ---
 
 # Litany of Self-Interest
-![[icons-commodities-currency-coins-plain-stack-gold-yellow.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-commodities-currency-coins-plain-stack-gold-yellow.webp|150]]
 
 You give a speech that fills your target with a drive to improve themself to the exclusion of assisting others. A creature that wants to gain the benefit of this spell and doesn't care about its limitations can voluntarily fail the save. The target then becomes temporarily immune to all your litanies for 1 minute.
 

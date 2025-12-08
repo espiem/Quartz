@@ -11,7 +11,7 @@ license: OGL
 ---
 # Improved Command Undead
 ## Feat 10
-### [[cleric]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]]
 
 **Category** class; 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Sandcastle
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[earth]][[magical]][[structure]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[earth]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[structure]]
 
 
 **Price** 1250 gp; 

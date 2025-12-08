@@ -13,7 +13,7 @@ license: OGL
 ---
 # Manifest Soulforged Armament `pf2:1`
 
-### [[concentrate]][[divine]][[extradimensional]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[extradimensional]]
 
 **Category** interaction; 
 

@@ -8,6 +8,6 @@ tags:
 ---
 
 # Mantis Form
-![[icons-creatures-invertebrates-fly-wasp-mosquito-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-invertebrates-fly-wasp-mosquito-green.webp|150]]
 
 You become a mantis. You gain the effects of _[[Insect Form]]_, heightened to mantis form's level, and you can only transform into a mantis.

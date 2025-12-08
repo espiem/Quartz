@@ -14,7 +14,7 @@ tags:
 
 # Sucking chest Wound
 
-> The target is [[Conditions/Fatigued|Fatigued]].
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]].
 
 `Piercing`
 

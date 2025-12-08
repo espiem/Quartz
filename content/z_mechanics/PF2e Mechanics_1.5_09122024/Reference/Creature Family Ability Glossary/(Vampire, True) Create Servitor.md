@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Vampire, True) Create Servitor
 
-### [[divine]][[downtime]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[downtime]]
 
 **Category** offensive; 
 

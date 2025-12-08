@@ -12,7 +12,7 @@ license: ORC
 ---
 # Divine Grace `pf2:r`
 ## Feat 2
-### [[champion]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]]
 
 **Category** class; 
 

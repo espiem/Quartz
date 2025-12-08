@@ -8,7 +8,7 @@ tags:
 ---
 
 # Interdisciplinary Incantation
-![[icons-magic-symbols-runes-triangle-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-symbols-runes-triangle-blue.webp|150]]
 
 **Trigger** A creature within 30 feet casts an arcane spell.
 

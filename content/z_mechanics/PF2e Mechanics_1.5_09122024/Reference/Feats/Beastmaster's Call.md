@@ -15,7 +15,7 @@ license: ORC
 ---
 # Beastmaster's Call `pf2:1`
 ## Feat 12
-### [[archetype]][[auditory]][[concentrate]][[primal]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[primal]]
 
 **Category** class; 
 

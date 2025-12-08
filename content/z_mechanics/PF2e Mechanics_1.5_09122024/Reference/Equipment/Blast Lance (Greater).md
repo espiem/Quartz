@@ -16,7 +16,7 @@ license: OGL
 ---
 # Blast Lance (Greater)
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[fire]][[jousting-d6]][[magical]][[reach]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[jousting-d6]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]]
 
 |  |  |
 | -- | -- |

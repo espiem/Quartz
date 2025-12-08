@@ -12,4 +12,4 @@ tags:
 
 **Activate** 1 Interact
 
-When you drink the thick, slate-colored immovable potion, you become anchored in place, even defying gravity, rendering you [[Immobilized]] for 1 minute or until you Dismiss the activation. While you are immobilized this way, the DC to move you from your place, including knocking you [[Prone]], is 40.
+When you drink the thick, slate-colored immovable potion, you become anchored in place, even defying gravity, rendering you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] for 1 minute or until you Dismiss the activation. While you are immobilized this way, the DC to move you from your place, including knocking you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]], is 40.

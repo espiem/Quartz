@@ -11,7 +11,7 @@ license: OGL
 ---
 # Automated Impediments
 ## Feat 15
-### [[inventor]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Inventor]]
 
 **Category** classfeature; 
 

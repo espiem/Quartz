@@ -12,4 +12,4 @@ tags:
 
 In the heat of battle, you are capable of amazing feats of strength.
 
-While you are [[Rage|Raging]], increase your encumbered and maximum Bulk limits by 2; you also gain a +1 status bonus to Athletics checks to lift heavy objects, [[Escape]], and [[Force Open]].
+While you are [[Rage|Raging]], increase your encumbered and maximum Bulk limits by 2; you also gain a +1 status bonus to Athletics checks to lift heavy objects, [[Escape]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Force Open]].

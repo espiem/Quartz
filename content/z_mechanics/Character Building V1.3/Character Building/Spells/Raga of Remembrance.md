@@ -14,9 +14,9 @@ You scribe occult symbols on unblighted Vudran ground, laying the ceramics withi
 
 * * *
 
-**Critical Success** A towering, ethereal avatar of Vanitapati manifests around you, surrounded by swirling spirits. The avatar weakens Kothogaz's spirit. While Kothogaz is within 1 mile of you, it is [[Frightened|Frightened 2]] and is permanently destroyed if reduced to 0 Hit Points.
+**Critical Success** A towering, ethereal avatar of Vanitapati manifests around you, surrounded by swirling spirits. The avatar weakens Kothogaz's spirit. While Kothogaz is within 1 mile of you, it is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] and is permanently destroyed if reduced to 0 Hit Points.
 
-**Success** As critical success, but Kothogaz is [[Frightened|Frightened 1]].
+**Success** As critical success, but Kothogaz is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
 **Failure** The dead come to your aid, but their presence is unnerving. As success, but Kothogaz isn't frightened, and the primary and secondary casters take a -1 status penalty to saving throws against emotion effects.
 

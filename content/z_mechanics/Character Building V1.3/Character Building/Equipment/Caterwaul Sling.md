@@ -18,4 +18,4 @@ Made of shiny brown leather, this _+1 striking sling_ has a single white thread 
 
 * * *
 
-**Effect** You pull the white thread free, then whirl the sling in circles at high speed. It lets out an ear-piercing wave of sound. Each creature in a 30 foot cone takes 4d6 sonic damage (DC 21 Basic fortitude save). Any creature that fails is [[Deafened]] for 1 round, or 1 hour on a critical failure.
+**Effect** You pull the white thread free, then whirl the sling in circles at high speed. It lets out an ear-piercing wave of sound. Each creature in a 30 foot cone takes 4d6 sonic damage (DC 21 Basic fortitude save). Any creature that fails is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 round, or 1 hour on a critical failure.

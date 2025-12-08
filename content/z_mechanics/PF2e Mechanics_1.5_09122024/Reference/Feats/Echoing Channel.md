@@ -15,7 +15,7 @@ license: ORC
 ---
 # Echoing Channel `pf2:1`
 ## Feat 18
-### [[animist]][[cleric]][[concentrate]][[spellshape]]
+### [[animist]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[spellshape]]
 
 **Category** class; 
 

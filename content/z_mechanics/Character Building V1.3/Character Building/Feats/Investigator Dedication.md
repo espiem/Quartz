@@ -12,4 +12,4 @@ tags:
 
 You gain the [[On the Case]] class feature, which grants you both the [[Pursue a Lead]] activity and [[Clue In]] reaction. You become trained in Society and another skill of your choice. If you were already trained in Society, you instead become trained in an additional skill of your choice. You also become trained in investigator class DC.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[Investigator]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Investigator]] archetype.

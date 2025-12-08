@@ -8,7 +8,7 @@ tags:
 ---
 
 # Phase Familiar
-![[systems-pf2e-icons-spells-phase-familiar.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-phase-familiar.webp|150]]
 
 **Trigger** Your familiar would take damage.
 

@@ -16,7 +16,7 @@ If you use 2 actions to cast the spell, increase the size of the emanation to 10
 
 If you use 3 actions to cast the spell, increase the size of the emanation to 20 feet and the damage to 4d6 force damage and 4d12 electricity damage.
 
-Each creature attempts one basic Reflex save that applies to both types of damage On a failed save, the creature is [[Deafened]] for 1 round; on a critical failure, the creature also takes 2d12 persistent,electricity damage and is deafened for 1 minute.
+Each creature attempts one basic Reflex save that applies to both types of damage On a failed save, the creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 round; on a critical failure, the creature also takes 2d12 persistent,electricity damage and is deafened for 1 minute.
 
 * * *
 

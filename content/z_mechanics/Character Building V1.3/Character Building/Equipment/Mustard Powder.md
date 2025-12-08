@@ -18,7 +18,7 @@ Concocted from the formulas provided by otherworldly refugees to Irrisen, mustar
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 1d6 poison and [[Dazzled]] (1 round)
+**Stage 1** 1d6 poison and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] (1 round)
 
 **Stage 2** 2d4 poison, dazzled, [[Sickened 1]], and unable to smell (1 round)
 

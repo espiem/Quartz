@@ -13,7 +13,7 @@ license: ORC
 ---
 # Aegis for the Innocent `pf2:1`
 ## Feat 14
-### [[manipulate]][[mythic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[mythic]]
 
 **Category** class; 
 
@@ -31,11 +31,11 @@ The target gains a +1 status bonus to AC. Any enemy within the barrier, or enter
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature becomes [[Conditions/Dazzled|Dazzled]] for 1 round and treats the space within the barrier as difficult terrain.
+**Success** The creature becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for 1 round and treats the space within the barrier as difficult terrain.
 
 **Failure** The creature becomes dazzled for 1 minute, is pushed 10 feet, and treats the space within the barrier as difficult terrain. If a creature would be pushed into a solid barrier or another creature, it stops at that point and takes 2d6 bludgeoning damage.
 
-**Critical Failure** As failure, but the creature is also [[Conditions/Blinded|Blinded]] for 1 round.
+**Critical Failure** As failure, but the creature is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] for 1 round.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

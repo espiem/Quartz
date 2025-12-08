@@ -8,7 +8,7 @@ tags:
 ---
 
 # Draw Ire
-![[icons-skills-targeting-target-glowing-yellow.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-targeting-target-glowing-yellow.webp|150]]
 
 You cause mental distress to a creature, goading it to strike back at you. You deal 1d10 mental damage to the creature and cause it to take a -1 status penalty to attack rolls against creatures other than you. The creature must attempt a Will saving throw.
 

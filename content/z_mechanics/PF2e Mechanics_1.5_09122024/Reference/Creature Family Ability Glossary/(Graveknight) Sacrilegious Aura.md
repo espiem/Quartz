@@ -14,7 +14,7 @@ license: ORC
 ---
 # (Graveknight) Sacrilegious Aura
 
-### [[aura]][[divine]][[void]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[void]]
 
 **Category** defensive; 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Sighting Shot
 ## Item 8
-### [[consumable]][[light]][[magical]]
+### [[consumable]][[light]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 72 gp; 

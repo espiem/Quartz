@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Affinity Ablaze) Speakers to the Winds: All is One, One is All `pf2:3`
 
-### [[concentrate]][[emotion]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 

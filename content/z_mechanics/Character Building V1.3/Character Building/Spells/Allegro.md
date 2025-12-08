@@ -10,4 +10,4 @@ tags:
 # Allegro
 ![[systems-pf2e-icons-spells-allegro.webp|150]]
 
-You perform rapidly, speeding up your ally. The ally becomes [[Quickened]] and can use the additional action to Strike, Stride, or Step.
+You perform rapidly, speeding up your ally. The ally becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]] and can use the additional action to Strike, Stride, or Step.

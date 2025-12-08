@@ -10,7 +10,7 @@ tags:
 # Grasping Earth
 ![[systems-pf2e-icons-spells-grasping-earth.webp|150]]
 
-Handlike protrusions of rock and soil grab and bury creatures. Each creature in the area when you cast the spell, and each creature that ends its turn in the area during the spell's duration, must attempt a Fortitude save. The first time each round you Sustain this spell, each creature still [[Grabbed]] by the earth takes 1d6 bludgeoning damage, and each creature [[Restrained]] by the earth takes 2d6 bludgeoning damage. A creature can attempt to [[Escape]], rolling against your spell DC.
+Handlike protrusions of rock and soil grab and bury creatures. Each creature in the area when you cast the spell, and each creature that ends its turn in the area during the spell's duration, must attempt a Fortitude save. The first time each round you Sustain this spell, each creature still [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] by the earth takes 1d6 bludgeoning damage, and each creature [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]] by the earth takes 2d6 bludgeoning damage. A creature can attempt to [[Escape]], rolling against your spell DC.
 
 * * *
 

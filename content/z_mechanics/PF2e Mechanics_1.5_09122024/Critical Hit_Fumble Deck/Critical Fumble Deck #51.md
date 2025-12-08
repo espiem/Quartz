@@ -8,13 +8,13 @@ tags:
 ---
 # Fog of War
 
-> You are [[Other Effects/Effect_ Dazzled until end of your next turn|Effect: Dazzled until end of your next turn]].
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ Dazzled until end of your next turn|Effect: Dazzled until end of your next turn]].
 
 `Melee`
 
 # Bull's Eye
 
-> Your attack ricochets and hits you near the eye. You are [[Conditions/Blinded|Blinded]] until the end of your next turn.
+> Your attack ricochets and hits you near the eye. You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] until the end of your next turn.
 
 `Ranged`
 
@@ -26,6 +26,6 @@ tags:
 
 # Everything to Fear
 
-> You are [[Conditions/Frightened|Frightened 3]].
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]].
 
 `Spell`

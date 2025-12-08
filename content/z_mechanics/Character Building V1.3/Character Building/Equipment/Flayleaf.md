@@ -24,8 +24,8 @@ The flayleaf plant is relatively common, though the mildly euphoric effects of s
 
 **Stage 1** +1 item bonus to saving throws against mental effects (1 hour)
 
-**Stage 2** [[Fatigued]] and +1 item bonus to saving throws against mental effects (1 hour)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] and +1 item bonus to saving throws against mental effects (1 hour)
 
-**Stage 3** fatigued and [[Stupefied|Stupefied 1]] (1 hour)
+**Stage 3** fatigued and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (1 hour)
 
-**Stage 4** fatigued, [[Frightened|Frightened 2]], [[Stupefied|Stupefied 2]] (1 hour)
+**Stage 4** fatigued, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (1 hour)

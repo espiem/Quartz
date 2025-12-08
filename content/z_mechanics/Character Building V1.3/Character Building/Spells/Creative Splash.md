@@ -16,7 +16,7 @@ A deluge of paint or colorful illusions descend on the area, reflecting your per
 
 | 1d4 | Color | Failure | Critical Failure |
 | ---- | ---- | ---- | ---- |
-| 1 | White | [[Dazzled]] for 1 round | Dazzled for 1 minute |
+| 1 | White | [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round | Dazzled for 1 minute |
 | 2 | Red | [[Enfeebled 1]] for 1 round | [[Enfeebled 1\|Enfeebled 2]] for 1 round |
-| 3 | Yellow | [[Frightened\|Frightened 1]] | [[Frightened\|Frightened 2]] |
+| 3 | Yellow | [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened\|Frightened 1]] | [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened\|Frightened 2]] |
 | 4 | Blue | [[Clumsy 1]] for 1 round | [[Clumsy 1\|Clumsy 2]] for 1 round |

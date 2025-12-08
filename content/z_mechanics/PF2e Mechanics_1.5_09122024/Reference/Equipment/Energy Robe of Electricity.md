@@ -11,7 +11,7 @@ license: OGL
 ---
 # Energy Robe of Electricity
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 900 gp; 
@@ -30,7 +30,7 @@ This brightly colored linen robe is covered in delicate embroidery depicting cre
 
 **Effect** You speak a command word, and the embroidered threads in the robe glow vividly. You gain a fly Speed equal to your Speed for 1 minute.
 
-[[Equipment Effects/Effect_ Energy Robe of Electricity|Effect: Energy Robe of Electricity]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Energy Robe of Electricity|Effect: Energy Robe of Electricity]]
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

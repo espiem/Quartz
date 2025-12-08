@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Erastil curses your table and punishes you for relying on others' hard work. Any food you didn't grow, gather, or otherwise harvest yourself tastes like ash and leaves you [[Conditions/Fatigued|Fatigued]].
+Erastil curses your table and punishes you for relying on others' hard work. Any food you didn't grow, gather, or otherwise harvest yourself tastes like ash and leaves you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]].
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

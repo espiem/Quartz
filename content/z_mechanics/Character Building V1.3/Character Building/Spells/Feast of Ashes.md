@@ -16,7 +16,7 @@ You curse the target with a hunger no food can sate. You can Dismiss the spell. 
 
 **Critical Success** The creature is unaffected and is temporarily immune for 1 hour.
 
-**Success** The creature is [[Fatigued]] for 1 round.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] for 1 round.
 
 **Failure** The creature is immediately afflicted by hunger as if it hadn't eaten food in days. It becomes Fatigued and takes 1d4 damage each day that can't be healed until it sates its hunger. No amount of eating can sate the creature's hunger during the spell's duration. After the spell's duration, the creature takes damage from starvation.
 

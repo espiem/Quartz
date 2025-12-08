@@ -14,7 +14,7 @@ license: ORC
 ---
 # Temple Sword
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[monk]][[trip]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]][[trip]]
 
 |  |  |
 | -- | -- |

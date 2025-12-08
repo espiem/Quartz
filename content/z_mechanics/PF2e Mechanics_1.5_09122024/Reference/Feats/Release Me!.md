@@ -21,11 +21,11 @@ license: ORC
 
 **Prerequisites** Broken Chain Dedication
 * * *
-**Requirements** An enemy has you [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** An enemy has you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]].
 
 * * *
 
-Your retribution against one who would detain you is swift and dangerous. Make a melee Strike against the creature who has you [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]]. You can still make this attack even if you are restrained, though not if you are wielding a two-handed weapon. Unless your Strike is a critical failure, you can then attempt a check to [[Actions/Escape|Escape]]. If the creature who has you grabbed or restrained is the target of your Ultimatum of Liberation, you gain a +2 circumstance bonus to this check. Both the Strike and the Escape count toward your multiple attack penalty, but it doesn't increase until you've made both rolls.
+Your retribution against one who would detain you is swift and dangerous. Make a melee Strike against the creature who has you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]]. You can still make this attack even if you are restrained, though not if you are wielding a two-handed weapon. Unless your Strike is a critical failure, you can then attempt a check to [[Actions/Escape|Escape]]. If the creature who has you grabbed or restrained is the target of your Ultimatum of Liberation, you gain a +2 circumstance bonus to this check. Both the Strike and the Escape count toward your multiple attack penalty, but it doesn't increase until you've made both rolls.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

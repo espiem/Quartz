@@ -13,14 +13,14 @@ license: ORC
 ---
 # Master Strike `pf2:0`
 
-### [[incapacitation]][[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** offensive; 
 
 
 
 
-**Trigger** Your Strike hits an [[Conditions/Off-Guard|Off-Guard]] creature and deals damage.
+**Trigger** Your Strike hits an [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] creature and deals damage.
 
 * * *
 
@@ -32,9 +32,9 @@ The target attempts a Fortitude check save against your class DC. It then become
 
 **Success** The target is [[Conditions/Enfeebled|Enfeebled 2]] until the end of your next turn.
 
-**Failure** The target is [[Conditions/Paralyzed|Paralyzed]] for 4 rounds.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]] for 4 rounds.
 
-**Critical Failure** The target is paralyzed for 4 rounds, knocked [[Conditions/Unconscious|Unconscious]] for 2 hours, or killed (your choice).
+**Critical Failure** The target is paralyzed for 4 rounds, knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] for 2 hours, or killed (your choice).
 
 *Source: Pathfinder Player Core*
 *ORC*

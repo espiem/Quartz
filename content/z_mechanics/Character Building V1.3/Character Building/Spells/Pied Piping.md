@@ -16,7 +16,7 @@ Your performance enraptures listeners, compelling them to follow you. Each creat
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Fascinated]] with you.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] with you.
 
 **Failure** The creature is fascinated by you and uses all its actions to move toward you and compliment your performance. This effect ends if a hostile action is used against the affected creature.
 

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Clawdancer Dedication
 * * *
-**Requirements** You're [[Conditions/Prone|Prone]].
+**Requirements** You're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 * * *
 

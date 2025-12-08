@@ -14,7 +14,7 @@ license: ORC
 ---
 # Reflect Spell
 ## Feat 14
-### [[sorcerer]][[witch]][[wizard]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Witch]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Wizard]]
 
 **Category** class; 
 

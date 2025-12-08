@@ -13,7 +13,7 @@ license: OGL
 ---
 # Beast Gunner Dedication
 ## Feat 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[dedication]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[dedication]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** class; 
 
@@ -29,7 +29,7 @@ If you already cast arcane or primal spells from spell slots, you learn one addi
 
 You also gain [[Actions/Spellsling|Spellsling]].
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Beast Gunner|Beast Gunner]] archetype.
+**Special** You can't select another dedication feat until you've gained two other feats from the [[Beast Gunner|Beast Gunner]] archetype.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

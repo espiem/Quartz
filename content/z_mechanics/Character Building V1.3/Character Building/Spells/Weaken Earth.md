@@ -8,7 +8,7 @@ tags:
 ---
 
 # Weaken Earth
-![[icons-commodities-stone-clay-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-commodities-stone-clay-grey.webp|150]]
 
 You weaken the bonds that hold earth and stone together. If your target has Hardness, you can affect one contiguous object, up to a 5-foot cube, or one creature, decreasing the Hardness by 5, to a minimum of 0. If the target lacks Hardness, it gains weakness 3 to physical damage. A target with a Fortitude modifier can attempt a Fortitude saving throw, negating the effect on a success.
 

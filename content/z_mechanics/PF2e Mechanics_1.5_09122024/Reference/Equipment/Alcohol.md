@@ -15,7 +15,7 @@ license: OGL
 ---
 # Alcohol
 
-### [[alchemical]][[consumable]][[drug]][[ingested]][[poison]]
+### [[alchemical]][[consumable]][[drug]][[ingested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** drug; 
 **Price** 1 cp; 
@@ -36,15 +36,15 @@ If you fail a saving throw against alcohol other than initial saves, the afflict
 
 **Stage 1** +1 item bonus to saving throws against fear (10 minutes)
 
-**Stage 2** [[Conditions/Off-Guard|Off-Guard]], +1 item bonus to saving throws against fear effects (10 minutes)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]], +1 item bonus to saving throws against fear effects (10 minutes)
 
-**Stage 3** [[Conditions/Clumsy|Clumsy 1]], off-guard, [[Conditions/Stupefied|Stupefied 2]] (10 minutes)
+**Stage 3** [[Conditions/Clumsy|Clumsy 1]], off-guard, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (10 minutes)
 
 **Stage 4** [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Sickened|Sickened 2]] (10 minutes)
 
 **Stage 5** clumsy 2, sickened 2, and stupefied 2 (10 minutes)
 
-**Stage 6** [[Conditions/Unconscious|Unconscious]] (8 hours)
+**Stage 6** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] (8 hours)
 
 **Stage 7** death
 

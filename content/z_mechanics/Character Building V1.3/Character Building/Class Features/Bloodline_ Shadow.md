@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bloodline: Shadow
-![[systems-pf2e-icons-features-classes-shadow.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-features-classes-shadow.webp|150]]
 
 Whether due to a velstrac's manipulations or a planar jaunt gone horribly wrong, your bloodline was infused with a vein of shadow.
 

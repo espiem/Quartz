@@ -13,7 +13,7 @@ license: OGL
 ---
 # Focused Juggler `pf2:0`
 ## Feat 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[concentrate]][[manipulate]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** class; 
 

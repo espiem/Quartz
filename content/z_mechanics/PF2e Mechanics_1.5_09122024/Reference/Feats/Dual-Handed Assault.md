@@ -13,7 +13,7 @@ license: ORC
 ---
 # Dual-Handed Assault `pf2:1`
 ## Feat 4
-### [[fighter]][[flourish]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]][[flourish]]
 
 **Category** class; 
 

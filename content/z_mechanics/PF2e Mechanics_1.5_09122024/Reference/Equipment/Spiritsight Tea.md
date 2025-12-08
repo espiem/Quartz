@@ -14,7 +14,7 @@ license: OGL
 ---
 # Spiritsight Tea
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]][[tea]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]][[tea]]
 
 **Category** potion; 
 **Price** 60 gp; 
@@ -25,9 +25,9 @@ license: OGL
 
 * * *
 
-Spiritsight tea exudes a soft blue glow, creating illumination equal to that of a candle. When consumed, your eyes take on a soft glow as well, and you can see [[Conditions/Invisible|Invisible]] creatures and objects for 10 minutes; such creatures appear to you as translucent shapes, and they're [[Conditions/Concealed|Concealed]] to you. You gain a +1 item bonus to Perception checks to [[Actions/Seek|Seek]] incorporeal creatures.
+Spiritsight tea exudes a soft blue glow, creating illumination equal to that of a candle. When consumed, your eyes take on a soft glow as well, and you can see [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible|Invisible]] creatures and objects for 10 minutes; such creatures appear to you as translucent shapes, and they're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] to you. You gain a +1 item bonus to Perception checks to [[Actions/Seek|Seek]] incorporeal creatures.
 
-[[Equipment Effects/Effect_ Spiritsight Tea|Effect: Spiritsight Tea]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Spiritsight Tea|Effect: Spiritsight Tea]]
 
 * * *
 

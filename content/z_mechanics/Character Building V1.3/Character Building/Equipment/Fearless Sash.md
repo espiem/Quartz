@@ -18,4 +18,4 @@ A feeling of security radiates out from this sash made of fine yellow fabric. Yo
 
 * * *
 
-**Effect** You and each ally in a 5 foot emanation reduce your [[Frightened]] values by 1.
+**Effect** You and each ally in a 5 foot emanation reduce your [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened]] values by 1.

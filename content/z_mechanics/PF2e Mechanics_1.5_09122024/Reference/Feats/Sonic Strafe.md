@@ -14,7 +14,7 @@ license: ORC
 ---
 # Sonic Strafe `pf2:2`
 ## Feat 16
-### [[air]][[archetype]][[sonic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[archetype]][[sonic]]
 
 **Category** class; 
 
@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-You can now achieve such flight speeds that your passage splits the very air. Fly twice. Any creature that is adjacent to you at any point during your movement takes 10d6 sonic damage (Fortitude check save against your class DC). On a critical failure, the creature is also [[Conditions/Deafened|Deafened]] for 1 hour.
+You can now achieve such flight speeds that your passage splits the very air. Fly twice. Any creature that is adjacent to you at any point during your movement takes 10d6 sonic damage (Fortitude check save against your class DC). On a critical failure, the creature is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]] for 1 hour.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

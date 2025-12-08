@@ -8,13 +8,13 @@ tags:
 ---
 # Cracked Rib
 
-> The target is [[Conditions/Fatigued|Fatigued]].
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]].
 
 `Bludgeoning`
 
 # Momentum
 
-> You gain a [[Other Effects/Effect_ +2 circumstance bonus to attack rolls|+2 circumstance bonus to attack rolls]] until the end of your next turn.
+> You gain a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ +2 circumstance bonus to attack rolls|+2 circumstance bonus to attack rolls]] until the end of your next turn.
 
 `Piercing`
 

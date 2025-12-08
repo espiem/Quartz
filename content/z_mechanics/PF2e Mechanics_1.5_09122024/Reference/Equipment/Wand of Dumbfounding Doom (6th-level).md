@@ -16,7 +16,7 @@ license: OGL
 ---
 # Wand of Dumbfounding Doom (6th-level)
 ## Item 14
-### [[emotion]][[fear]][[incapacitation]][[magical]][[mental]][[prediction]][[wand]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[prediction]][[wand]]
 
 
 **Price** 4500 gp; 
@@ -31,7 +31,7 @@ Carvings of skulls, monsters, and all manner of violence decorate this wand of b
 
 * * *
 
-**Effect** You cast 6th-rank [[Spells/Impending Doom|Impending Doom]], showing the target a potential death that's gruesome and absurd. If the target becomes [[Conditions/Frightened|Frightened]] by the spell, it also becomes [[Conditions/Stupefied|Stupefied]] with a value 1 higher than the frightened value. This lasts for the duration of the spell.
+**Effect** You cast 6th-rank [[Spells/Impending Doom|Impending Doom]], showing the target a potential death that's gruesome and absurd. If the target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]] by the spell, it also becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied]] with a value 1 higher than the frightened value. This lasts for the duration of the spell.
 
 * * *
 

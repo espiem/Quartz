@@ -8,7 +8,7 @@ tags:
 ---
 
 # Agitate
-![[systems-pf2e-icons-spells-agitate.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-agitate.webp|150]]
 
 You send the target's mind and body into overdrive, forcing it to become restless and hyperactive. During the duration, the target must Stride, Fly, or Swim at least once each turn or take 2d8 mental damage that turn. The duration of this effect depends on the target's Will save. The GM might decide to add additional move actions to the list for creatures who possess only a more unusual form of movement.
 

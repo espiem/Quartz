@@ -12,4 +12,4 @@ tags:
 
 _Many warriors rely on brute force, weighty armor, or cumbersome weapons. For you, battle is a dance where you move among foes with style and grace. You dart among combatants with flair and land powerful finishing moves with a flick of the wrist and a flash of the blade, all while countering attacks with elegant ripostes that keep enemies off balance. Harassing and thwarting your foes lets you charm fate and cheat death time and again with aplomb and plenty of flair._
 
-_[[Swashbuckler]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Classes/Swashbuckler]]_

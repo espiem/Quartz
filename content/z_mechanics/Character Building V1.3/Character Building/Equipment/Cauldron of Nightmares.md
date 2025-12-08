@@ -8,7 +8,7 @@ tags:
 ---
 
 # Cauldron of Nightmares
-![[systems-pf2e-icons-equipment-other-magic-pots-walking-cauldron.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-other-magic-pots-walking-cauldron.webp|150]]
 
 Engraved with carvings of tortured souls, this green cauldron has two abilities that allow it to capture nightmares and then unleash them on the world.
 

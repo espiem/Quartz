@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-You load an extra dose of powder into your shot, causing it to belch a cloud of smoke. You make a Strike with your firearm and create a cloud of smoke in a 20 foot emanation centered on your location. Creatures are [[Concealed]] while within the smoke, and creatures outside the area are concealed to creatures within the smoke. The smoke dissipates at the start of your next turn. If your Strike is a critical failure, your firearm misfires.
+You load an extra dose of powder into your shot, causing it to belch a cloud of smoke. You make a Strike with your firearm and create a cloud of smoke in a 20 foot emanation centered on your location. Creatures are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] while within the smoke, and creatures outside the area are concealed to creatures within the smoke. The smoke dissipates at the start of your next turn. If your Strike is a critical failure, your firearm misfires.

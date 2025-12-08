@@ -11,7 +11,7 @@ license: OGL
 ---
 # Vanara
 
-### [uncommon](uncommon "Uncommon Rarity Trait")[[humanoid]][[vanara]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[humanoid]][[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Vanara]]
 
 
 
@@ -20,7 +20,7 @@ license: OGL
 
 Vanaras are inquisitive and mischievous monkey-like humanoids with short, soft fur, expressive eyes, and long, prehensile tails. Their handlike feet and agile builds serve them well in the jungle realms where most vanaras live.
 
-[[PF2e Journals/Ancestries/Vanara|Vanara]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Vanara|Vanara]]
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

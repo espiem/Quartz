@@ -12,7 +12,7 @@ license: OGL
 ---
 # Assessing Tatzlford's Defenses
 
-### [[concentrate]][[downtime]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[downtime]]
 
 **Category** defensive; 
 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Signature Spells
 ## Feat 3
-### [[bard]][[oracle]][[psychic]][[sorcerer]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Bard]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Oracle]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]]
 
 **Category** classfeature; 
 

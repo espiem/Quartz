@@ -13,7 +13,7 @@ license: ORC
 ---
 # Know-It-All
 ## Feat 8
-### [[bard]][[thaumaturge]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Bard]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]]
 
 **Category** class; 
 

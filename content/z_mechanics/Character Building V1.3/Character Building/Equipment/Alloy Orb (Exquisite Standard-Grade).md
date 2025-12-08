@@ -8,7 +8,7 @@ tags:
 ---
 
 # Alloy Orb (Exquisite Standard-Grade)
-![[icons-commodities-metal-fragments-steel-ring.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-commodities-metal-fragments-steel-ring.webp|150]]
 
 **Activate** A (concentrate)
 

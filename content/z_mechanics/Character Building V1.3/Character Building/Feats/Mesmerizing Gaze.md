@@ -12,6 +12,6 @@ tags:
 
 When you meet someone's gaze, they are unable to look away.
 
-Choose one target creature. That creature must succeed at a Will save or be [[Fascinated]] until the end of your next turn; the DC for this save is equal to your class DC or spell DC, whichever is higher. If the creature succeeds at its save or its fascination ends due to a hostile action, it becomes temporarily immune to your Mesmerizing Gaze for 1 day.
+Choose one target creature. That creature must succeed at a Will save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] until the end of your next turn; the DC for this save is equal to your class DC or spell DC, whichever is higher. If the creature succeeds at its save or its fascination ends due to a hostile action, it becomes temporarily immune to your Mesmerizing Gaze for 1 day.
 
 When you select this feat, it gains either the arcane or occult trait; once you make this choice, you can't change it.

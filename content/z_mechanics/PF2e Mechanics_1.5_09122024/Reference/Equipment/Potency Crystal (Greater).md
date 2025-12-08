@@ -14,7 +14,7 @@ license: ORC
 ---
 # Potency Crystal (Greater)
 ## Item 9
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 150 gp; 
@@ -29,7 +29,7 @@ license: ORC
 
 This fluorite crystal glows with a strange phosphorescence. When you activate the crystal, the weapon becomes a _+2 greater striking weapon_ on the Strike and until the end of this turn, gaining a +2 item bonus to the attack roll and increasing the damage to three weapon damage dice.
 
-[[Equipment Effects/Effect_ Potency Crystal (Greater)|Effect: Potency Crystal (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Potency Crystal (Greater)|Effect: Potency Crystal (Greater)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

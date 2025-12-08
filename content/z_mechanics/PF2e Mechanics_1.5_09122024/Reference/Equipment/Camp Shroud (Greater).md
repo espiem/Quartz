@@ -13,7 +13,7 @@ license: OGL
 ---
 # Camp Shroud (Greater)
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[illusion]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 500 gp; 

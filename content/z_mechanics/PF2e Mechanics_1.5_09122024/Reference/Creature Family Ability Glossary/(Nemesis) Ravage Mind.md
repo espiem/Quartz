@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Nemesis) Ravage Mind `pf2:2`
 
-### [[mental]][[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** offensive; 
 
@@ -32,7 +32,7 @@ license: ORC
 
 **Success** The creature takes 7d6 mental damage.
 
-**Failure** The creature takes 14d6 mental damage and is [[Conditions/Confused|Confused]] for 1 minute.
+**Failure** The creature takes 14d6 mental damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]] for 1 minute.
 
 **Critical Failure** The creature takes 21d6 mental damage and is [[Conditions/Stunned|Stunned 3]]; when they recover from being stunned, they're confused for 1 minute.
 

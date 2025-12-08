@@ -22,6 +22,6 @@ Toad tears can be mixed with any other foodstuff or drink, but the poison can al
 
 **Maximum Duration** 30 minutes
 
-**Stage 1** [[Stupefied|Stupefied 1]] (10 minutes)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (10 minutes)
 
-**Stage 2** stupefied 1 and [[Confused]] (1 minute)
+**Stage 2** stupefied 1 and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] (1 minute)

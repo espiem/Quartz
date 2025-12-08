@@ -8,7 +8,7 @@ tags:
 ---
 
 # Tenacious Stance
-![[icons-magic-earth-strike-fist-stone-light.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Actions/zz_asset-files/icons-magic-earth-strike-fist-stone-light.webp|150]]
 
 **Requirements** You are wearing armor
 

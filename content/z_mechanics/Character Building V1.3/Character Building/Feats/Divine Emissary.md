@@ -14,5 +14,5 @@ Your familiar is a divine emissary, sent to you by your deity or patron and infu
 
 *   [[Erudite]]
 *   [[Luminous]]
-*   [[Medic]]
+*   [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Medic]]
 *   [[Radiant]]

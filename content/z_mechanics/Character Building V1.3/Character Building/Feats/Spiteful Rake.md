@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-Your instincts sing of spite and malice, and you've learned a devastating trick: go for the eyes. You make a claw Strike. If you hit and deal damage, the target is [[Dazzled]] for 1 round. On a critical hit, the target is instead [[Blinded]] for 1 round and dazzled until restored to maximum hit points.
+Your instincts sing of spite and malice, and you've learned a devastating trick: go for the eyes. You make a claw Strike. If you hit and deal damage, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round. On a critical hit, the target is instead [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round and dazzled until restored to maximum hit points.

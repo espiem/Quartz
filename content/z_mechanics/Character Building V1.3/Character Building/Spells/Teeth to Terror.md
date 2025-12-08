@@ -18,9 +18,9 @@ The target believes its teeth are falling out, crawling along its face, stabbing
 
 **Success** The target takes half damage and no persistent mental damage.
 
-**Failure** The target takes full damage and persistent mental damage and is [[Frightened|Frightened 1]].
+**Failure** The target takes full damage and persistent mental damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Critical Failure** The target takes full damage and persistent mental damage and is [[Frightened|Frightened 3]].
+**Critical Failure** The target takes full damage and persistent mental damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]].
 
 * * *
 

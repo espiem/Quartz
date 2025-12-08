@@ -13,7 +13,7 @@ license: ORC
 ---
 # Goring Horn
 ## Item 7
-### [[graft]][[invested]][[magical]]
+### [[graft]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 320 gp; 

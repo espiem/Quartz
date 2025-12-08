@@ -13,7 +13,7 @@ license: ORC
 ---
 # Regurgitate Mutagen
 ## Feat 4
-### [[alchemist]][[manipulate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** class; 
 

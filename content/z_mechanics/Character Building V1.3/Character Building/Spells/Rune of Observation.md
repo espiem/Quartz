@@ -10,7 +10,7 @@ tags:
 ---
 
 # Rune of Observation
-![[icons-magic-perception-orb-eye-scrying.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-perception-orb-eye-scrying.webp|150]]
 
 You inscribe an invisible eye-shaped rune in the air, creating a sensor as [[Clairvoyance]]. When created, this eye must be in your line of sight.
 

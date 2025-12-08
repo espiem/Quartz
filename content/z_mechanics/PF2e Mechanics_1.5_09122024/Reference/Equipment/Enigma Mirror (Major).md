@@ -12,7 +12,7 @@ license: OGL
 ---
 # Enigma Mirror (Major)
 ## Item 13
-### [[illusion]][[magical]][[spellheart]]
+### [[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellheart]]
 
 
 **Price** 2750 gp; 

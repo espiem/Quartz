@@ -12,7 +12,7 @@ license: OGL
 ---
 # Guardian Ghosts `pf2:r`
 ## Feat 8
-### [[archetype]][[divine]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 **Category** class; 
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Resolute Mind Wrap
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 360 gp; 
@@ -30,7 +30,7 @@ The followers of the Tan Sugi monastery understood the value of protecting the m
 
 **Effect** The _resolute mind wrap_ clings more tightly to your head, granting you a +1 item bonus to your Will saving throw. If you succeed at this saving throw, the resistance to mental damage granted by the _resolute mind wrap_ increases to 10 for 1 minute.
 
-[[Equipment Effects/Effect_ Resolute Mind Wrap|Effect: Resolute Mind Wrap]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Resolute Mind Wrap|Effect: Resolute Mind Wrap]]
 
 *Source: Pathfinder #197: Let the Leaves Fall*
 *OGL*

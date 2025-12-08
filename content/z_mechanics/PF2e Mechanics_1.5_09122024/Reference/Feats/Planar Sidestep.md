@@ -19,7 +19,7 @@ license: OGL
 ---
 # Planar Sidestep `pf2:r`
 ## Feat 13
-### [[arcane]][[ardande]][[concentrate]][[naari]][[oread]][[suli]][[sylph]][[talos]][[undine]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[ardande]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[naari]][[oread]][[suli]][[sylph]][[talos]][[undine]]
 
 **Category** ancestry; 
 

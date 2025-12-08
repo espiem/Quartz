@@ -12,7 +12,7 @@ license: OGL
 ---
 # Magnetic Suit (Greater)
 ## Item 10
-### [[aura]][[consumable]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[consumable]]
 
 **Category** other; 
 **Price** 200 gp; 

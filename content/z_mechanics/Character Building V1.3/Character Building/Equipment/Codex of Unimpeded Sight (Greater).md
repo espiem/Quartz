@@ -8,7 +8,7 @@ tags:
 ---
 
 # Codex of Unimpeded Sight (Greater)
-![[icons-sundries-books-book-eye-pink.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-books-book-eye-pink.webp|150]]
 
 A female figure peers through her blindfold from the cover of this stately tome.
 

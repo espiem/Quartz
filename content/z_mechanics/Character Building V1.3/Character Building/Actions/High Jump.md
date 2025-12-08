@@ -19,4 +19,4 @@ You Stride, then make a vertical Leap and attempt a DC 30 Athletics check to inc
 
 **Failure** You Leap normally.
 
-**Critical Failure** You don't Leap at all, and instead you fall [[Prone]] in your space.
+**Critical Failure** You don't Leap at all, and instead you fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] in your space.

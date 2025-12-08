@@ -13,7 +13,7 @@ license: ORC
 ---
 # Swirl Crimson Shroud `pf2:1`
 
-### [[general]][[manipulate]]
+### [[general]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** defensive; 
 

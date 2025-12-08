@@ -14,7 +14,7 @@ license: OGL
 ---
 # Nightmare Vapor
 ## Item 16
-### [[alchemical]][[consumable]][[inhaled]][[poison]]
+### [[alchemical]][[consumable]][[inhaled]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 1400 gp; 
@@ -33,11 +33,11 @@ Purportedly sourced from any number of outlandish locales, nightmare vapor is mo
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** [[Conditions/Confused|Confused]] (1 round)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]] (1 round)
 
-**Stage 2** confused and [[Conditions/Off-Guard|Off-Guard]] (1 round)
+**Stage 2** confused and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] (1 round)
 
-**Stage 3** confused, off-guard, and [[Conditions/Stupefied|Stupefied 2]] (1 round)
+**Stage 3** confused, off-guard, and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (1 round)
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Sky Master Mask
 ## Feat 20
-### [rare](rare "Rare Rarity Trait")[[archetype]][[druid]][[wizard]]
+### [rare](rare "Rare Rarity Trait")[[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Druid]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Wizard]]
 
 **Category** class; 
 

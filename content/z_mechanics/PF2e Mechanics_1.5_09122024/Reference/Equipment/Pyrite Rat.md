@@ -10,7 +10,7 @@ license: OGL
 ---
 # Pyrite Rat
 ## Item 2
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 32 gp; 

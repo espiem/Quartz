@@ -24,4 +24,4 @@ This potent drug is distilled from a certain tropical vine into a deep-red syrup
 
 **Stage 1** [[Drained 1]], +1 item bonus to weapon and unarmed attack rolls, Acrobatics checks, and Athletics checks (10 minutes)
 
-**Stage 2** [[Slowed]] (1 hour)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] (1 hour)

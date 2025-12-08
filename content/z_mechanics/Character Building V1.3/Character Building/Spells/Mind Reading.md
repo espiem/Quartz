@@ -8,7 +8,7 @@ tags:
 ---
 
 # Mind Reading
-![[systems-pf2e-icons-spells-mind-reading.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-mind-reading.webp|150]]
 
 With a cursory mental touch, you attempt to read the target's mind. It must attempt a Will save. The target then becomes temporarily immune to your mind reading for 1 hour.
 

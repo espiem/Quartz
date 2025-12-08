@@ -11,7 +11,7 @@ license: OGL
 ---
 # Inspiring Spotlight
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[light]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[light]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 650 gp; 
@@ -32,7 +32,7 @@ Creatures within the line gain a +1 item bonus to saving throws and Charisma-bas
 
 The beam remains in place for 1 minute or until you push the right-hand button with another Interact action to extinguish the light.
 
-[[Equipment Effects/Effect_ Inspiring Spotlight|Effect: Inspiring Spotlight]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Inspiring Spotlight|Effect: Inspiring Spotlight]]
 
 *Source: Pathfinder #152: Legacy of the Lost God*
 *OGL*

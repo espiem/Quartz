@@ -12,7 +12,7 @@ license: ORC
 ---
 # Fighter Weapon Mastery
 ## Feat 5
-### [[fighter]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]]
 
 **Category** classfeature; 
 

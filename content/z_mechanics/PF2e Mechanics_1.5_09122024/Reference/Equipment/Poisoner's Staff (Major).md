@@ -14,7 +14,7 @@ license: OGL
 ---
 # Poisoner's Staff (Major)
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[staff]][[two-hand-d8]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

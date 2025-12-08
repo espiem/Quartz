@@ -20,7 +20,7 @@ You channel the fury of divinity against your foes. You deal 4d10 spirit damage 
 
 **Failure** The creature takes full damage and is [[Sickened 1]].
 
-**Critical Failure** The creature takes full damage and is [[Sickened 1|Sickened 2]]; while it's sickened, it's also [[Slowed]].
+**Critical Failure** The creature takes full damage and is [[Sickened 1|Sickened 2]]; while it's sickened, it's also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]].
 
 * * *
 

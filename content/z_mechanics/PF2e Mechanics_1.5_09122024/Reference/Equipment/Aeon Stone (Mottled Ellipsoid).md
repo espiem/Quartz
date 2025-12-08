@@ -11,7 +11,7 @@ license: OGL
 ---
 # Aeon Stone (Mottled Ellipsoid)
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 6100 gp; 

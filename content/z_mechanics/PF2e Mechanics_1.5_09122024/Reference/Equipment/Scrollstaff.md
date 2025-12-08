@@ -13,7 +13,7 @@ license: OGL
 ---
 # Scrollstaff
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[two-hand-d8]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

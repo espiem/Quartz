@@ -15,7 +15,7 @@ license: OGL
 ---
 # Whispering Staff
 ## Item 20
-### [[apex]][[magical]][[staff]][[two-hand-d8]]
+### [[apex]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -32,9 +32,9 @@ This gnarled wooden staff is carved with humanoid faces in various emotional sta
 
 **Frequency** once per round
 
-**Effect** Through the staff's strange whispering, you gain a glimpse into the mind and desires of one creature you can see within 30 feet. Until the end of your next turn, that creature is [[Conditions/Off-Guard|Off-Guard]] to you and takes a –2 circumstance penalty to saving throws against your spells.
+**Effect** Through the staff's strange whispering, you gain a glimpse into the mind and desires of one creature you can see within 30 feet. Until the end of your next turn, that creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] to you and takes a –2 circumstance penalty to saving throws against your spells.
 
-[[Equipment Effects/Effect_ Whispering Staff (Enemy)|Effect: Whispering Staff (Enemy)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Whispering Staff (Enemy)|Effect: Whispering Staff (Enemy)]]
 
 * * *
 
@@ -52,7 +52,7 @@ This gnarled wooden staff is carved with humanoid faces in various emotional sta
 
 **Effect** You twirl the staff in three consecutive circles and call for the whispers to speak up. For the next minute, you and all allies within a 30-foot emanation around you can hear your staff's whispers clearly and distinctly, gaining benefit from their advice and mental protection. Whenever you and your affected allies attempt to Recall Knowledge or attempt a saving throw against a mental effect, you roll twice and take the better result. This is a fortune effect.
 
-[[Equipment Effects/Effect_ Whispering Staff (Ally)|Effect: Whispering Staff (Ally)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Whispering Staff (Ally)|Effect: Whispering Staff (Ally)]]
 
 * * *
 

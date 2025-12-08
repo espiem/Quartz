@@ -14,4 +14,4 @@ You instantly transport yourself from one shadow to another. Teleport yourself a
 
 * * *
 
-**Heightened (8th)** When you arrive at your destination, you can become [[Invisible]] until the end of your next turn or until you are no longer in an area of dim light or darkness, whichever comes first. The invisibility is an illusion effect.
+**Heightened (8th)** When you arrive at your destination, you can become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]] until the end of your next turn or until you are no longer in an area of dim light or darkness, whichever comes first. The invisibility is an illusion effect.

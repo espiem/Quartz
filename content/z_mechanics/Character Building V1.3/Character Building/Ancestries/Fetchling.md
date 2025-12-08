@@ -12,4 +12,4 @@ tags:
 
 _Once human and now something apart, fetchlings display the Shadow Plane's ancient influence through monochrome complexions, glowing eyes, and the casting of supernatural shadows._
 
-_[[Fetchling]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Fetchling]]_

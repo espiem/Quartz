@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-With a sharp whistle or wave of your hands, you distract an opponent from the fact that one of your allies is about to attack them. Choose a target and an ally, both of whom must be within 30 feet. The target is [[Off-Guard]] against the first Strike the ally makes on their next turn; if your ally doesn't Strike that target, the effect is lost. Depending on how you describe your distraction, this action gains either the auditory or visual trait.
+With a sharp whistle or wave of your hands, you distract an opponent from the fact that one of your allies is about to attack them. Choose a target and an ally, both of whom must be within 30 feet. The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] against the first Strike the ally makes on their next turn; if your ally doesn't Strike that target, the effect is lost. Depending on how you describe your distraction, this action gains either the auditory or visual trait.

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Tempest of Shades
-![[systems-pf2e-icons-spells-tempest-of-shades.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-tempest-of-shades.webp|150]]
 
 You channel the forces of undeath to briefly call forth an amalgam of the vengeful dead slain by your enemies and allies alike. This amalgam manifests as a large tornado of insubstantial, howling faces. It occupies the space of a Huge creature and has a Speed of 60 feet.
 
@@ -31,8 +31,8 @@ You channel the forces of undeath to briefly call forth an amalgam of the vengef
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Frightened|Frightened 1]].
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Failure** The creature is [[Frightened|Frightened 3]].
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]].
 
-**Critical Failure** The creature is frightened 3. It's also [[Fleeing]] for 1 round or until it's no longer frightened, whichever comes first.
+**Critical Failure** The creature is frightened 3. It's also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing]] for 1 round or until it's no longer frightened, whichever comes first.

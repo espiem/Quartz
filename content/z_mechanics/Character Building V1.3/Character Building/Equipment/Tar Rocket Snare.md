@@ -16,7 +16,7 @@ You coat a small firework with a thick layer of resin and tar, so it sticks firm
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is dealt a glancing blow by the rocket and becomes [[Off-Guard]] until the start of its next turn.
+**Success** The creature is dealt a glancing blow by the rocket and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the start of its next turn.
 
 **Failure** The rocket's coating of tar and resin sticks to the creature, and it can't be shaken loose. The creature becomes off-guard for 1 round, and [[Clumsy 1]] for 1 minute or until it Escapes (DC 20).
 

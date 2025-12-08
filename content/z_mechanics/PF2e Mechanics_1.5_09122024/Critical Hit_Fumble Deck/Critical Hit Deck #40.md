@@ -8,13 +8,13 @@ tags:
 ---
 # Breathless
 
-> The target is [[Conditions/Fatigued|Fatigued]].
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]].
 
 `Bludgeoning`
 
 # Spun Around
 
-> The target is [[Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
 
 `Piercing`
 

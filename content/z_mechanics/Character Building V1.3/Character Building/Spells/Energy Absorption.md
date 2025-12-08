@@ -8,7 +8,7 @@ tags:
 ---
 
 # Energy Absorption
-![[icons-magic-water-orb-water-bubbles-teal.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-water-orb-water-bubbles-teal.webp|150]]
 
 **Trigger** An effect would deal acid, cold, electricity, or fire damage to you
 

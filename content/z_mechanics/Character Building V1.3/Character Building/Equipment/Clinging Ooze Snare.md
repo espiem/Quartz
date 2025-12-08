@@ -20,6 +20,6 @@ When a creature triggers a clinging ooze snare, the snare creates a short lived 
 
 **Success** The creature takes half damage
 
-**Failure** The target takes full damage and is [[Off-Guard]] until the start of their next turn as the ooze impedes their movement.
+**Failure** The target takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the start of their next turn as the ooze impedes their movement.
 
-**Critical Failure** The target takes double damage and is both off-guard and [[Immobilized]] for 1 round. The target can [[Escape]] (DC 21) to end this effect early.
+**Critical Failure** The target takes double damage and is both off-guard and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] for 1 round. The target can [[Escape]] (DC 21) to end this effect early.

@@ -10,7 +10,7 @@ tags:
 # Haunting Hymn
 ![[systems-pf2e-icons-spells-haunting-hymn.webp|150]]
 
-You echo a jarring hymn that only creatures in the area can hear. The hymn deals 1d8 sonic damage, with a basic Fortitude save. If a target critically fails the save, it's also [[Deafened]] for 1 minute.
+You echo a jarring hymn that only creatures in the area can hear. The hymn deals 1d8 sonic damage, with a basic Fortitude save. If a target critically fails the save, it's also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 minute.
 
 * * *
 

@@ -16,7 +16,7 @@ license: OGL
 ---
 # Undead Scourge
 ## Item 7
-### [[agile]][[finesse]][[magical]][[thrown-10]][[versatile-s]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[thrown-10]][[versatile-s]]
 
 |  |  |
 | -- | -- |

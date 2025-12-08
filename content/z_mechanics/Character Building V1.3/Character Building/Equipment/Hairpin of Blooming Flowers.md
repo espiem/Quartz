@@ -8,7 +8,7 @@ tags:
 ---
 
 # Hairpin of Blooming Flowers
-![[icons-commodities-flowers-lotus-pink.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-commodities-flowers-lotus-pink.webp|150]]
 
 The flower that adorns this hairpin is a blooming lotus flower that varies in color; it regrows in a day after the item is activated. Whether or not the hairpin's flower is in bloom, as long as you wear it and it's invested, it grants a +1 item bonus to Diplomacy checks.
 
@@ -18,4 +18,4 @@ The flower that adorns this hairpin is a blooming lotus flower that varies in co
 
 * * *
 
-**Effect** You pluck the flower from the hairpin and scatter the petals, creating a flurry of color in a 10 foot burst centered on you. You become [[Concealed]] for 1 minute or until you move from your current location. Any creature within the 10 foot burst when you Activate the Item must succeed at a DC 23 reflex save or become [[Dazzled]] until the end of its next turn (or [[Blinded]] until the end of its next turn on a critical failure). The flower blooms again the next day.
+**Effect** You pluck the flower from the hairpin and scatter the petals, creating a flurry of color in a 10 foot burst centered on you. You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] for 1 minute or until you move from your current location. Any creature within the 10 foot burst when you Activate the Item must succeed at a DC 23 reflex save or become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] until the end of its next turn (or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] until the end of its next turn on a critical failure). The flower blooms again the next day.

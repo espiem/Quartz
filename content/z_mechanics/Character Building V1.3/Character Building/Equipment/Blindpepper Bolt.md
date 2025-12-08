@@ -22,8 +22,8 @@ The head of this bolt is a vented container that smells strongly of caustic pepp
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Dazzled]] until the end of your next turn. It can end the effect early if it spends an action, which has the manipulate trait, to wipe down its eyes.
+**Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] until the end of your next turn. It can end the effect early if it spends an action, which has the manipulate trait, to wipe down its eyes.
 
 **Failure** The target is dazzled for 1 minute.
 
-**Critical Failure** The target is [[Blinded]] until the end of your next turn and dazzled for 1 minute.
+**Critical Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] until the end of your next turn and dazzled for 1 minute.

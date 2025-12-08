@@ -14,7 +14,7 @@ license: OGL
 ---
 # Nodachi
 ## Item 0
-### [[brace]][[deadly-d12]][[reach]]
+### [[brace]][[deadly-d12]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]]
 
 |  |  |
 | -- | -- |

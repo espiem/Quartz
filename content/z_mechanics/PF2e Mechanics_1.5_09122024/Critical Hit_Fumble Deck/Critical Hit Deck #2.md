@@ -26,6 +26,6 @@ tags:
 
 # Mind Cloud
 
-> The target is [[Conditions/Stupefied|Stupefied 2]] until healed.
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] until healed.
 
 `Bomb or Spell`

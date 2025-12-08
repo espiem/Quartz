@@ -12,7 +12,7 @@ license: ORC
 ---
 # Mythic Resilient
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[magical]][[mythic]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[mythic]]
 
 
 **Price** 70000 gp; 

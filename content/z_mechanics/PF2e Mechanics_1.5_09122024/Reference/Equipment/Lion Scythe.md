@@ -14,7 +14,7 @@ license: OGL
 ---
 # Lion Scythe
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[finesse]][[trip]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[trip]]
 
 |  |  |
 | -- | -- |

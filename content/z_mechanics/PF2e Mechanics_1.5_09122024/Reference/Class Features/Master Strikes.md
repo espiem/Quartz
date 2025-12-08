@@ -12,7 +12,7 @@ license: ORC
 ---
 # Master Strikes
 ## Feat 13
-### [[monk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 **Category** classfeature; 
 

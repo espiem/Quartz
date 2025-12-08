@@ -8,7 +8,7 @@ tags:
 ---
 
 # Masterful Hunter (Flurry)
-![[icons-skills-melee-strike-polearm-light-orange.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-skills-melee-strike-polearm-light-orange.webp|150]]
 
 ## Masterful Hunter UpgradeLevel 17
 

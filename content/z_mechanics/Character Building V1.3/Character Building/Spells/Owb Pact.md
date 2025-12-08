@@ -8,7 +8,7 @@ tags:
 ---
 
 # Owb Pact
-![[icons-sundries-scrolls-scroll-writing-tan-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-sundries-scrolls-scroll-writing-tan-grey.webp|150]]
 
 You call upon an owb to assist you in a goal. Only caligni callers can use this ritual with relative safety. If a different type of caligni attempts this ritual, they use an outcome one degree of success worse than the result of their check. If a non-caligni attempts this ritual, the result is an automatic critical failure.
 
@@ -20,4 +20,4 @@ You call upon an owb to assist you in a goal. Only caligni callers can use this 
 
 **Failure** You don't conjure an owb.
 
-**Critical Failure** You conjure an owb, but it deems you unworthy and siphons away some of your soul energy. All casters become [[Doomed|Doomed 2]].
+**Critical Failure** You conjure an owb, but it deems you unworthy and siphons away some of your soul energy. All casters become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 2]].

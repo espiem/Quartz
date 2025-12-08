@@ -13,7 +13,7 @@ license: OGL
 ---
 # Megavolt `pf2:2`
 ## Feat 6
-### [[electricity]][[inventor]][[manipulate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Electricity]][[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Feats/Inventor]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** class; 
 

@@ -16,7 +16,7 @@ license: ORC
 ---
 # Spiritual Spellshape Stance `pf2:1`
 ## Feat 16
-### [[animist]][[apparition]][[divine]][[stance]][[wandering]]
+### [[animist]][[apparition]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[stance]][[wandering]]
 
 **Category** class; 
 

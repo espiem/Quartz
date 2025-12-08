@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Clawdancer Dedication
 * * *
-**Trigger** A creature attempts to [[Actions/Escape|Escape]] while you have them grappled or [[Conditions/Restrained|Restrained]].
+**Trigger** A creature attempts to [[Actions/Escape|Escape]] while you have them grappled or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]].
 
 * * *
 

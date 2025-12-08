@@ -26,6 +26,6 @@ tags:
 
 # Jumbled Components
 
-> You are [[Conditions/Slowed|Slowed 2]] until the end of your next turn.
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]] until the end of your next turn.
 
 `Spell`

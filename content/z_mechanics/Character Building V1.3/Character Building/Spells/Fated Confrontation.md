@@ -8,7 +8,7 @@ tags:
 ---
 
 # Fated Confrontation
-![[icons-skills-melee-weapons-crossed-swords-purple.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-melee-weapons-crossed-swords-purple.webp|150]]
 
 You weave the threads of fate to lead two foes into a climactic battle. The targets of this spell are the fated opponents: one of the targets of this spell must be you or a willing ally, and the other must be an enemy.
 

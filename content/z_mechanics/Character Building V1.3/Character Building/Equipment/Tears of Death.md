@@ -22,8 +22,8 @@ Tears of death are among the most powerful of alchemical poisons, distilled from
 
 **Maximum Duration** 10 minutes
 
-**Stage 1** 20d6 poison damage and [[Paralyzed]] (1 round)
+**Stage 1** 20d6 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] (1 round)
 
-**Stage 2** 22d6 poison damage and [[Paralyzed]] (1 minute)
+**Stage 2** 22d6 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] (1 minute)
 
-**Stage 3** 24d6 poison damage and [[Paralyzed]] (1 minute)
+**Stage 3** 24d6 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] (1 minute)

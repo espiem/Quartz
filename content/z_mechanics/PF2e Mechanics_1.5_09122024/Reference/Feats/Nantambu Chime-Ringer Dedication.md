@@ -24,7 +24,7 @@ You've studied the basics of harmony and resonance in magic, exemplified by the 
 
 * * *
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Nantambu Chime-Ringer|Nantambu Chime-Ringer]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[Nantambu Chime-Ringer|Nantambu Chime-Ringer]] archetype.
 
 *Source: Pathfinder #170: Spoken on the Song Wind*
 *OGL*

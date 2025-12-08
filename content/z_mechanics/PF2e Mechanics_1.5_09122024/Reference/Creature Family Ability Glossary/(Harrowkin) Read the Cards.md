@@ -11,7 +11,7 @@ license: OGL
 ---
 # (Harrowkin) Read the Cards `pf2:0`
 
-### [[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** offensive; 
 
@@ -24,7 +24,7 @@ license: OGL
 
 **Effect** The harrowkin attempts to rewrite destiny. Roll 1d6 to determine a suit. The harrowkin gains the effects of the suit for 1 minute. If the suit matches the harrowkin's suit, the value is doubled.
 
-[[Bestiary Effects/Effect_ Read the Cards|Effect: Read the Cards]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Bestiary Effects/Effect_ Read the Cards|Effect: Read the Cards]]
 
 **Hammers** The harrowkin gains a +2 status bonus to damage rolls.
 

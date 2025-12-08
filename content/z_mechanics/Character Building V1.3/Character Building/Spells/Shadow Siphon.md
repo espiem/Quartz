@@ -8,7 +8,7 @@ tags:
 ---
 
 # Shadow Siphon
-![[icons-magic-air-wind-vortex-swirl-purple.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-air-wind-vortex-swirl-purple.webp|150]]
 
 **Trigger** A spell or magical effect deals damage.
 

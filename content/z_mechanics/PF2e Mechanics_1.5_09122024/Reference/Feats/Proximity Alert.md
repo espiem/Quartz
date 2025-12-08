@@ -11,7 +11,7 @@ license: OGL
 ---
 # Proximity Alert
 ## Feat 1
-### [[android]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Android]]
 
 **Category** ancestry; 
 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Sairazul Blue
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[consumable]][[earth]][[magical]][[potion]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[earth]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 180 gp; 
@@ -28,7 +28,7 @@ license: OGL
 
 A _Sairazul blue_ potion is a rich navy blue in color. Subjects of the Crystalline Queen produced the potion to protect themselves from the radiation Ayrzul left behind. For the next 8 hours, your skin becomes navy blue, and you gain resistance 5 to poison damage and void damage.
 
-[[Equipment Effects/Effect_ Sairazul Blue|Effect: Sairazul Blue]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Sairazul Blue|Effect: Sairazul Blue]]
 
 If you drop to 0 Hit Points due to poison or void damage, the _Sairazul blue_ within your body reacts, healing you for 8d8 healing Hit Points. The resistances the potion grants then end.
 

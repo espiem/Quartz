@@ -12,7 +12,7 @@ tags:
 
 You bind a part of your essence to your surroundings, creating a warded area that grants you power within it, but drains you outside of it. While within the area, you can make nature's wrath Strikes by commanding plants, wind, rocks, and other natural features to attack enemies. These are melee Strikes that use your spell attack modifier, can target any creature within the ward, and deal 3d8 bludgeoning, piercing, or slashing damage.
 
-Upon [[Cast a Spell|Casting the Spell]], you can immediately make a single nature's wrath Strike. You are [[Quickened]] while inside the ward, and can use the additional action only to make nature's wrath Strikes. You are [[Slowed]] while outside the area.
+Upon [[Cast a Spell|Casting the Spell]], you can immediately make a single nature's wrath Strike. You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]] while inside the ward, and can use the additional action only to make nature's wrath Strikes. You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] while outside the area.
 
 * * *
 

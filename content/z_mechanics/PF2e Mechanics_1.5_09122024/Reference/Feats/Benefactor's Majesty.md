@@ -14,7 +14,7 @@ license: ORC
 ---
 # Benefactor's Majesty `pf2:1`
 ## Feat 17
-### [[healing]][[kobold]][[visual]]
+### [[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Kobold]][[visual]]
 
 **Category** ancestry; 
 

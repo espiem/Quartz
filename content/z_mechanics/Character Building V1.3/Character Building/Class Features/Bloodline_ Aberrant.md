@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bloodline: Aberrant
-![[icons-commodities-biological-eye-blue-gold.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-commodities-biological-eye-blue-gold.webp|150]]
 
 Something speaks to you from beyond the stars or below the earth. Ancient and unknowable, this alien influence presses against your mind.
 

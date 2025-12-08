@@ -12,7 +12,7 @@ license: OGL
 ---
 # Uniter of Clans
 ## Item 5
-### [unique](unique "Unique Rarity Trait")[[invested]][[magical]][[relic]]
+### [unique](unique "Unique Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[relic]]
 
 
 **Price** 125 gp; 
@@ -31,7 +31,7 @@ Resembling two hands clasped in friendship, this diplomat's badge is designed to
 
 **Effect** Attempt a DC 20 check to Recall Knowledge about people of a human ethnicity, a non-human ancestry, or some other type of creature. (The GM determines what your options are.) If you succeed, the badge's bonus increases to +2 for Diplomacy checks with creatures of that group for the rest of the day.
 
-[[Equipment Effects/Effect_ Diplomat's Badge|Effect: Diplomat's Badge]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Diplomat's Badge|Effect: Diplomat's Badge]]
 
 *Source: Pathfinder #193: Mantle of Gold*
 *OGL*

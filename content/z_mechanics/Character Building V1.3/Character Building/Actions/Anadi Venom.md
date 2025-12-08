@@ -8,7 +8,7 @@ tags:
 ---
 
 # Anadi Venom
-![[icons-skills-melee-blade-tip-energy-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Actions/zz_asset-files/icons-skills-melee-blade-tip-energy-green.webp|150]]
 
 **Frequency** a number of times per day equal to your level
 

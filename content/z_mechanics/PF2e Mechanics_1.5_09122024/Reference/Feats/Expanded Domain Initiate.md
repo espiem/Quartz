@@ -11,7 +11,7 @@ license: OGL
 ---
 # Expanded Domain Initiate
 ## Feat 4
-### [[cleric]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]]
 
 **Category** class; 
 

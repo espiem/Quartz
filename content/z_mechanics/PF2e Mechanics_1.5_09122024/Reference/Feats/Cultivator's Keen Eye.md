@@ -13,7 +13,7 @@ license: ORC
 ---
 # Cultivator's Keen Eye
 ## Feat 8
-### [[archetype]][[occult]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** class; 
 

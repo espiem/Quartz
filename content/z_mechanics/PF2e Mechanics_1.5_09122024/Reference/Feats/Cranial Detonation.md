@@ -14,7 +14,7 @@ license: OGL
 ---
 # Cranial Detonation `pf2:0`
 ## Feat 18
-### [[death]][[mindshift]][[psyche]][[psychic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Death]][[mindshift]][[psyche]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** class; 
 

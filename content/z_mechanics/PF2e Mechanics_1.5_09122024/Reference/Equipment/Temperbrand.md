@@ -15,7 +15,7 @@ license: ORC
 ---
 # Temperbrand
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[fire]][[magical]][[shove]]
+### [unique](unique "Unique Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[shove]]
 
 |  |  |
 | -- | -- |
@@ -36,7 +36,7 @@ The additional fire damage caused by _Temperbrand's_ greater flaming property (b
 
 * * *
 
-**Effect** You smash _Temperbrand_ against the ground or another solid adjacent surface, causing an explosion of molten metal and force to radiate outward in a 20-foot emanation. All creatures in this area take 10d6 fire damage and 6d6 force damage (DC 43 Reflex check save); those who critically fail this save are knocked [[Conditions/Prone|Prone]]. You are immune to the effects of Molten Smash, but your allies are not.
+**Effect** You smash _Temperbrand_ against the ground or another solid adjacent surface, causing an explosion of molten metal and force to radiate outward in a 20-foot emanation. All creatures in this area take 10d6 fire damage and 6d6 force damage (DC 43 Reflex check save); those who critically fail this save are knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]]. You are immune to the effects of Molten Smash, but your allies are not.
 
 *Source: Pathfinder Adventure: Prey for Death*
 *ORC*

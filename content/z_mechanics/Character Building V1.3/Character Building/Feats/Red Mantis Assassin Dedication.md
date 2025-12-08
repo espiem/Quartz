@@ -18,4 +18,4 @@ You have learned how to stalk your foes and slay them with a sawtooth sabre. You
 
 * * *
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[Red Mantis Assassin]] archetype.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Red Mantis Assassin]] archetype.

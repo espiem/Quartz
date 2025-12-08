@@ -8,7 +8,7 @@ tags:
 ---
 
 # Blast Suit
-![[icons-equipment-chest-breastplate-banded-steel-studded.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-equipment-chest-breastplate-banded-steel-studded.webp|150]]
 
 Crafted from heavy steel plating and riveted together with cunning precision, this suit of +1 resilient [[Full Plate]] is specifically designed to protect against sudden explosions. This added layer of security comes at the cost of movement, however.
 
@@ -19,6 +19,6 @@ Crafted from heavy steel plating and riveted together with cunning precision, th
 * * *
 
 **Effect** The _blast suit_ locks together into a rigid bulwark, protecting you from the blast but preventing you from moving from your position under any circumstances.  
-You become [[Immobilized]], gain a +2 circumstance bonus to your Reflex save against area effects, and gain resistance 5 to all damage you would normally take from area effects and scatter splash damage (this doesn't damage the _blast suit_). These effects persist for as long as the suit remains in the locked position. You can Interact with the suit to unlock it.
+You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]], gain a +2 circumstance bonus to your Reflex save against area effects, and gain resistance 5 to all damage you would normally take from area effects and scatter splash damage (this doesn't damage the _blast suit_). These effects persist for as long as the suit remains in the locked position. You can Interact with the suit to unlock it.
 
 

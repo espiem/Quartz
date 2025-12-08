@@ -8,9 +8,9 @@ tags:
 ---
 
 # Sweet Dream
-![[systems-pf2e-icons-spells-sweet-dream.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-sweet-dream.webp|150]]
 
-With your soothing words, you lull the target into an enchanting dream. When you Cast the Spell, the target falls [[Unconscious]] if it wasn't already. While unconscious, it experiences a dream of your choice, though lucidly enough it can wake when it pleases. If it wakes up before 1 minute of sleep has passed, the spell ends.
+With your soothing words, you lull the target into an enchanting dream. When you Cast the Spell, the target falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] if it wasn't already. While unconscious, it experiences a dream of your choice, though lucidly enough it can wake when it pleases. If it wakes up before 1 minute of sleep has passed, the spell ends.
 
 *   **Dream of Insight** +1 status bonus to Intelligence-based skill checks
 *   **Dream of Glamor** +1 status bonus to Charisma-based skill checks

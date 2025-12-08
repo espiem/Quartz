@@ -8,7 +8,7 @@ tags:
 ---
 
 # Abyssal Pact
-![[icons-sundries-scrolls-scroll-writing-tan-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-sundries-scrolls-scroll-writing-tan-grey.webp|150]]
 
 You call in a favor from another demon whose level is no more than double _Abyssal pact's_ spell level, two demons whose levels are each at least 2 less than double the spell level, or three demons whose levels are each at least 3 less than double the spell level.
 

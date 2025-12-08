@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Melfesh Monster) Smolderstench
 
-### [[aura]][[olfactory]][[poison]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[olfactory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** offensive; 
 

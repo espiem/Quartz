@@ -12,8 +12,8 @@ tags:
 
 **Access** Help either the Washboard Dogs or the Diobel Sweepers destroy their rival.
 
-**Requirements** You have a melee weapon of light bulk [[Concealed]] on your person via the Stealth skill, and the target isn't aware of it.
+**Requirements** You have a melee weapon of light bulk [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] on your person via the Stealth skill, and the target isn't aware of it.
 
 * * *
 
-You draw a concealed weapon, attack with it, and then hide it away again in one smooth motion. Interact to draw the weapon, Strike with that weapon, and then Conceal it with a Stealth check. The target is [[Off-Guard]] for this attack.
+You draw a concealed weapon, attack with it, and then hide it away again in one smooth motion. Interact to draw the weapon, Strike with that weapon, and then Conceal it with a Stealth check. The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] for this attack.

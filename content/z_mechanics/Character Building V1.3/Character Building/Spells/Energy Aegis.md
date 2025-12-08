@@ -8,7 +8,7 @@ tags:
 ---
 
 # Energy Aegis
-![[icons-magic-defensive-shield-barrier-glowing-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-defensive-shield-barrier-glowing-blue.webp|150]]
 
 You protect the target with a powerful, long-lasting energy barrier. The target gains resistance 5 to acid, cold, electricity, fire, force, sonic, vitality, and void damage.
 

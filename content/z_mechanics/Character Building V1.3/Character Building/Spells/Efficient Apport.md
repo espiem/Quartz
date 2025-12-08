@@ -8,7 +8,7 @@ tags:
 ---
 
 # Efficient Apport
-![[systems-pf2e-icons-spells-efficient-apport.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-efficient-apport.webp|150]]
 
 Walking over to an item to pick it up is so much effort. Whether it's your spellbook, a reagent, or a glass of wine, it's simply more efficient to call it to your hand. You teleport the target into your open hand. If you don't have a hand free, it falls to the ground at your feet.
 

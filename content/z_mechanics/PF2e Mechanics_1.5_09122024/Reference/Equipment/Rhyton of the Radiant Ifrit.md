@@ -12,7 +12,7 @@ license: OGL
 ---
 # Rhyton of the Radiant Ifrit
 ## Item 14
-### [[fire]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 4200 gp; 
@@ -35,7 +35,7 @@ The drinking horn functions as a [[Equipment/Bottomless Stein|Bottomless Stein]]
 
 **Frequency** once per day
 
-**Effect** An ifrit's hospitality always comes with an implied threat. You cause the shuyookh to briefly appear and take its vengeance on those who would hurt you, the genie's "guest." The shuyookh issues a 6th-rank [[Spells/Command|Command]] that targets all creatures hostile to you in range instead of the usual number of targets. The shuyookh issues the same command to all of them. Each target that fails its save also feels all nourishment leached from it, becoming [[Conditions/Fatigued|Fatigued]] as long as it's affected by the command.
+**Effect** An ifrit's hospitality always comes with an implied threat. You cause the shuyookh to briefly appear and take its vengeance on those who would hurt you, the genie's "guest." The shuyookh issues a 6th-rank [[Spells/Command|Command]] that targets all creatures hostile to you in range instead of the usual number of targets. The shuyookh issues the same command to all of them. Each target that fails its save also feels all nourishment leached from it, becoming [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]] as long as it's affected by the command.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

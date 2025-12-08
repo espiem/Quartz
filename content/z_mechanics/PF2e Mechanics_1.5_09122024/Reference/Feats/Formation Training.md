@@ -11,7 +11,7 @@ license: OGL
 ---
 # Formation Training
 ## Feat 5
-### [[hobgoblin]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Hobgoblin]]
 
 **Category** ancestry; 
 
@@ -21,7 +21,7 @@ license: OGL
 * * *
 You know how to fight in formation with your brethren. When you are adjacent to at least two hobgoblin allies, you gain a +1 circumstance bonus to AC and saving throws. This bonus increases to +2 on Reflex saves against area effects.
 
-[[Feat_Feature Effects/Effect_ Formation Training|Effect: Formation Training]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Formation Training|Effect: Formation Training]]
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

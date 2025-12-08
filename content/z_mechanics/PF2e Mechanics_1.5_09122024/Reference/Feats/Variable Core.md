@@ -12,7 +12,7 @@ license: OGL
 ---
 # Variable Core
 ## Feat 1
-### [[inventor]][[modification]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Feats/Inventor]][[modification]]
 
 **Category** class; 
 

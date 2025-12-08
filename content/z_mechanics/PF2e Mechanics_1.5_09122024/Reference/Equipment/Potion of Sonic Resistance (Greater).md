@@ -14,7 +14,7 @@ license: ORC
 ---
 # Potion of Sonic Resistance (Greater)
 ## Item 14
-### [[consumable]][[magical]][[potion]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 850 gp; 
@@ -27,7 +27,7 @@ license: ORC
 
 Drinking this thick, fortifying potion grants resistance 15 against sonic damage for 1 hour.
 
-[[Equipment Effects/Effect_ Potion of Sonic Resistance (Greater)|Effect: Potion of Sonic Resistance (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Potion of Sonic Resistance (Greater)|Effect: Potion of Sonic Resistance (Greater)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

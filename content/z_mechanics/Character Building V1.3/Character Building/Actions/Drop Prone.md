@@ -9,4 +9,4 @@ tags:
 
 # Drop Prone `pf2:1`
 
-You fall [[Prone]].
+You fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Jyoti's Feather (Greater)
-![[icons-commodities-materials-feather-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-commodities-materials-feather-red.webp|150]]
 
 A _jyoti's feather_ is a shimmering red and gold feather, seeming almost metallic, although delicate and flexible to the touch. Though most aren't made from true jyoti feathers, as the reclusive outsiders avoid visitors from the Material Plane, their connection to vitality energy lent the spellhearts their name.
 

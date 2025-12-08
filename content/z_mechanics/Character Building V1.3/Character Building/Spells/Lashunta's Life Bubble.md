@@ -8,7 +8,7 @@ tags:
 ---
 
 # Lashunta's Life Bubble
-![[systems-pf2e-icons-spells-air-bubble.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-air-bubble.webp|150]]
 
 You create a replenishing protective bubble of fresh, temperate air around the target. The shell of air enables the target to breathe even underwater or in a vacuum, protects from severe cold and heat, and grants a +1 status bonus to the target's saves against inhaled dangers such as inhaled poisons and _[[Toxic Cloud]]_.
 

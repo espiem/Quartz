@@ -12,7 +12,7 @@ license: OGL
 ---
 # Unlimited Demesne
 ## Feat 20
-### [[arcane]][[thaumaturge]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]]
 
 **Category** class; 
 

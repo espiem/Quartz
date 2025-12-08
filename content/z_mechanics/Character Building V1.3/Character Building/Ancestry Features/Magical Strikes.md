@@ -8,6 +8,6 @@ tags:
 ---
 
 # Magical Strikes
-![[icons-creatures-magical-fae-fairy-winged-glowing-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Ancestry Features/zz_asset-files/icons-creatures-magical-fae-fairy-winged-glowing-green.webp|150]]
 
 Your inherent magic pervades your entire being. All your Strikes are magical, whether with unarmed attacks or weapons.

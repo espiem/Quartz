@@ -14,7 +14,7 @@ license: OGL
 ---
 # Aquatic Adaptation
 ## Feat 13
-### [[azarketi]][[concentrate]][[primal]][[water]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Azarketi]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[primal]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 **Category** ancestry; 
 

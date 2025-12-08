@@ -11,7 +11,7 @@ license: OGL
 ---
 # Clan's Edge `pf2:2`
 ## Feat 1
-### [[dwarf]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Dwarf]]
 
 **Category** ancestry; 
 
@@ -21,7 +21,7 @@ license: OGL
 * * *
 By moving your clan dagger with rapid precision, you can protect yourself more effectively. Make two clan dagger Strikes against different targets. Your multiple attack penalty applies normally to these Strikes. You then use an [[Actions/Interact|Interact]] action to gain the +1 circumstance bonus to your AC from your clan dagger's parrying trait.
 
-[[Equipment Effects/Effect_ Parry|Effect: Parry]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Parry|Effect: Parry]]
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

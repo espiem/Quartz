@@ -15,7 +15,7 @@ license: ORC
 ---
 # Touch of Lunacy
 ## Feat 10
-### [[archetype]][[curse]][[morph]][[primal]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Curse]][[morph]][[primal]]
 
 **Category** class; 
 

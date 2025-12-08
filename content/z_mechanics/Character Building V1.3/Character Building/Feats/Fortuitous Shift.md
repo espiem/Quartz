@@ -10,4 +10,4 @@ tags:
 # Fortuitous Shift
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You have grown more comfortable with your penchant for supernatural disappearance. The flat check DC of your Fortuitous Shift feat decreases to DC 11 flat{11}, and you are no longer [[Dazzled]] if you succeed.
+You have grown more comfortable with your penchant for supernatural disappearance. The flat check DC of your Fortuitous Shift feat decreases to DC 11 flat{11}, and you are no longer [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] if you succeed.

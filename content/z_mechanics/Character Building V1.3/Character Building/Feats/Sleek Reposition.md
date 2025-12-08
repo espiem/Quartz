@@ -18,4 +18,4 @@ While your opponent is still recovering from your prior attack, you snag its arm
 
 This Strike has the following failure effect.
 
-**Failure** The target becomes [[Off-Guard]] until the end of your current turn.
+**Failure** The target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the end of your current turn.

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Crafter's Instinct `pf2:r`
 ## Feat 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[dwarf]][[fortune]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Dwarf]][[fortune]]
 
 **Category** ancestry; 
 

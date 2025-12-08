@@ -13,7 +13,7 @@ license: ORC
 ---
 # Emotional Push `pf2:r`
 ## Feat 2
-### [[bard]][[concentrate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Bard]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]]
 
 **Category** class; 
 
@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You prepare to take advantage of your enemy's sudden change in emotions. The target is [[Conditions/Off-Guard|Off-Guard]] against your next attack before the end of your next turn.
+You prepare to take advantage of your enemy's sudden change in emotions. The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] against your next attack before the end of your next turn.
 
 *Source: Pathfinder Player Core*
 *ORC*

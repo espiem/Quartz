@@ -10,7 +10,7 @@ tags:
 # Shared Nightmare
 ![[systems-pf2e-icons-spells-shared-nightmare.webp|150]]
 
-Merging minds with the target, you swap distressing visions. One of you will become [[Confused]], based on the target's Will save.
+Merging minds with the target, you swap distressing visions. One of you will become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]], based on the target's Will save.
 
 * * *
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Grail of Twisted Desires
 ## Item 10
-### [unique](unique "Unique Rarity Trait")[[illusion]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 850 gp; 

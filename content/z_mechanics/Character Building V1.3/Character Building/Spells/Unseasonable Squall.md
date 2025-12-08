@@ -16,6 +16,6 @@ You issue a blast of sudden wind that ripples outward from the center of the bur
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is knocked [[Prone]]. If the creature was Flying, it gets a critical failure instead.
+**Failure** The creature is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]]. If the creature was Flying, it gets a critical failure instead.
 
 **Critical Failure** The creature is pushed 30 feet away from the center of the burst, is knocked Prone, and takes 2d6 bludgeoning damage.

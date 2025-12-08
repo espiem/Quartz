@@ -13,7 +13,7 @@ license: OGL
 ---
 # Oath of the Devoted
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[contract]][[divine]][[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[contract]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 
@@ -32,7 +32,7 @@ You gain fire and mental resistance 5. When you die, you rise as an undead creat
 
 **Effect** You gain a +1 status bonus to Will saves. Choose a weapon or an unarmed Strike; your chosen attack deals an extra 1d6 fire damage for the next 1 minute.
 
-[[Equipment Effects/Effect_ Oath of the Devoted|Effect: Oath of the Devoted]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Oath of the Devoted|Effect: Oath of the Devoted]]
 
 * * *
 

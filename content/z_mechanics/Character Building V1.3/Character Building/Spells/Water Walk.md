@@ -8,7 +8,7 @@ tags:
 ---
 
 # Water Walk
-![[icons-magic-water-wave-water-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-water-wave-water-blue.webp|150]]
 
 The target can walk on the surface of water and other liquids without falling through. It can go underwater if it wishes, but in that case it must Swim normally. This spell doesn't grant the ability to breathe underwater.
 

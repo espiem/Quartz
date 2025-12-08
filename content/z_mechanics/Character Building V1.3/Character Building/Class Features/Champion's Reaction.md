@@ -8,6 +8,6 @@ tags:
 ---
 
 # Champion's Reaction
-![[icons-magic-defensive-shield-barrier-deflect-teal.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-magic-defensive-shield-barrier-deflect-teal.webp|150]]
 
 Your cause gives you a special reaction. See specific causes for more information.

@@ -26,6 +26,6 @@ tags:
 
 # It's so Sparkly!
 
-> You are [[Conditions/Blinded|Blinded]] until the end of your next turn.
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] until the end of your next turn.
 
 `Spell`

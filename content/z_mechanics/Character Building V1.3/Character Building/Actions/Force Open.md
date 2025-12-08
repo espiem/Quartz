@@ -15,7 +15,7 @@ Using your body, a lever, or some other tool, you attempt to forcefully open a d
 
 **Critical Success** You open the door, window, container, or gate and can avoid damaging it in the process.
 
-**Success** You break the door, window, container, or gate open, and it gains the [[Broken]] condition.
+**Success** You break the door, window, container, or gate open, and it gains the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Broken]] condition.
 
 **Critical Failure** Your attempt jams the door, window, container, or gate shut, imposing a -2 circumstance penalty on future attempts to Force it Open.
 

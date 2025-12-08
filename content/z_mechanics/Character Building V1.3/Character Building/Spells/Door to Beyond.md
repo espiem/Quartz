@@ -8,7 +8,7 @@ tags:
 ---
 
 # Door to Beyond
-![[icons-magic-unholy-beam-ringed-impact-purple.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-unholy-beam-ringed-impact-purple.webp|150]]
 
 Striking at thin air, you create hairline cracks in an unoccupied adjacent space that lead somewhere outside reality. Air rushes through the cracks, drawing Large or smaller creatures and objects of light Bulk or less toward the center. Large or smaller creatures in the area must attempt a Fortitude save at the start of their turn; creatures that move into the area must attempt the save on entering.
 

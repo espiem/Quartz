@@ -14,7 +14,7 @@ license: ORC
 ---
 # Guisarme
 ## Item 0
-### [[reach]][[trip]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]][[trip]]
 
 |  |  |
 | -- | -- |

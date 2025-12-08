@@ -15,7 +15,7 @@ license: OGL
 ---
 # Stiletto Pen
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[concealable]][[finesse]][[thrown-10]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[concealable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[thrown-10]]
 
 |  |  |
 | -- | -- |

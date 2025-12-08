@@ -13,7 +13,7 @@ license: OGL
 ---
 # Soaring Flight `pf2:2`
 
-### [[morph]][[primal]][[tengu]]
+### [[morph]][[primal]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Tengu]]
 
 **Category** interaction; 
 

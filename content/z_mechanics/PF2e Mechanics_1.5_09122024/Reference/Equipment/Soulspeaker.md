@@ -12,7 +12,7 @@ license: OGL
 ---
 # Soulspeaker
 ## Item 2
-### [rare](rare "Rare Rarity Trait")[[illusion]][[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[illusion]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 25 gp; 

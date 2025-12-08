@@ -25,7 +25,7 @@ You become an expert in Medicine. When you succeed with [[Feats/Battle Medicine|
 
 Once per day, you can use Battle Medicine on a creature that's temporarily immune due to having already been treated with Battle Medicine. If you're a master in Medicine, you can do so once per hour.
 
-[[PF2e Journals/Archetypes/Medic|Medic]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Medic|Medic]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Daydreamer's Curse
-![[systems-pf2e-icons-spells-daydreamers-curse.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-daydreamers-curse.webp|150]]
 
 You impose a curse upon the target that renders it easily distracted and unable to focus its thoughts on tasks that demand insight or discernment. The target must attempt a Will save.
 

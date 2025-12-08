@@ -8,7 +8,7 @@ tags:
 ---
 
 # Vermin Repellent Agent (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-vermin-repellent-agent.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-vermin-repellent-agent.webp|150]]
 
 **Activate** 3 Interact
 
@@ -28,8 +28,8 @@ In addition, any arthropods (insects, spiders, scorpions, crabs, and similar inv
 
 **Critical Success** The creature can act normally.
 
-**Success** The creature is [[Frightened|Frightened 1]].
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Failure** The creature is [[Frightened|Frightened 2]].
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
-**Critical Failure** The creature is frightened 2 and [[Fleeing]].
+**Critical Failure** The creature is frightened 2 and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing]].

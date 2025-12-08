@@ -11,14 +11,14 @@ license: OGL
 ---
 # Drink Blood `pf2:1`
 
-### [[divine]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 **Category** offensive; 
 
 
 
 
-**Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], [[Conditions/Unconscious|Unconscious]], or willing creature is within your reach
+**Requirements** A [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]], or willing creature is within your reach
 
 * * *
 

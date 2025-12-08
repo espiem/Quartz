@@ -12,7 +12,7 @@ license: ORC
 ---
 # Clandestine Cloak (Greater)
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 900 gp; 
@@ -21,7 +21,7 @@ license: ORC
 
 When you pull up the hood of this nondescript gray cloak (an Interact action), you become drab and uninteresting, gaining a +2 item bonus to Stealth checks and to Deception checks to [[Actions/Impersonate|Impersonate]] a forgettable background character, such as a servant, but also taking a -1 item penalty to Diplomacy and Intimidation checks.
 
-[[Equipment Effects/Effect_ Clandestine Cloak (Greater)|Effect: Clandestine Cloak (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Clandestine Cloak (Greater)|Effect: Clandestine Cloak (Greater)]]
 
 * * *
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Tattletale Orb (Obsidian)
 ## Item 19
-### [rare](rare "Rare Rarity Trait")[[cursed]][[magical]][[scrying]]
+### [rare](rare "Rare Rarity Trait")[[cursed]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[scrying]]
 
 
 **Price** 32000 gp; 

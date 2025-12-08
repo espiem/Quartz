@@ -20,7 +20,7 @@ You use magical chains, vines, or other tethers to bind your target to you. The 
 
 **Failure** The target takes a -10-foot circumstance penalty to its Speed and cannot move more than 30 feet away from you until it Escapes or the spell ends.
 
-**Critical Failure** The target is [[Immobilized]] until it Escapes or the spell ends.
+**Critical Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] until it Escapes or the spell ends.
 
 * * *
 

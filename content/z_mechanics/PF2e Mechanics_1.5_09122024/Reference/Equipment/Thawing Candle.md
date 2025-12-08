@@ -14,7 +14,7 @@ license: OGL
 ---
 # Thawing Candle
 ## Item 8
-### [[consumable]][[fire]][[magical]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 90 gp; 
@@ -25,7 +25,7 @@ license: OGL
 
 This stubby, black candle has a wick made of a type of flammable bronze that can be found only on the Plane of Fire. You activate the candle by lighting it, which enables creatures within 10 feet of the candle to ignore the cold while within range. Creatures in the area gain cold resistance 10. In addition, a creature taking persistent cold damage that is in or enters the area can immediately attempt a DC 15 Flat check to end the persistent damage. A given creature can gain this flat check only once from a single _thawing candle_. Once lit, the candle burns for 10 minutes. If extinguished, it can't be relit.
 
-[[Equipment Effects/Effect_ Thawing Candle|Effect: Thawing Candle]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Thawing Candle|Effect: Thawing Candle]]
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

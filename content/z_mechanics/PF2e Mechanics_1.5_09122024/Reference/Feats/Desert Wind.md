@@ -18,14 +18,14 @@ license: OGL
 ---
 # Desert Wind `pf2:1`
 ## Feat 6
-### [[air]][[composite]][[earth]][[impulse]][[kineticist]][[primal]][[stance]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[composite]][[earth]][[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[primal]][[stance]]
 
 **Category** class; 
 
 
 
 
-A vortex of sand and dust surrounds you. Each creature inside your kinetic aura (including you) is [[Conditions/Concealed|Concealed]] from any creature outside your kinetic aura, and creatures outside the aura are concealed from creatures inside the aura other than you. Your air impulses carry sands that cut at great speed.
+A vortex of sand and dust surrounds you. Each creature inside your kinetic aura (including you) is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] from any creature outside your kinetic aura, and creatures outside the aura are concealed from creatures inside the aura other than you. Your air impulses carry sands that cut at great speed.
 
 When you use a damaging air impulse that affects at least one creature in your kinetic aura, that impulse deals 1 additional slashing damage, or 2 if the impulse has a single target.
 

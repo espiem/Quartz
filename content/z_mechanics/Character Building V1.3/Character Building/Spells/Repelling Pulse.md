@@ -20,7 +20,7 @@ You unleash a powerful pulse of telekinetic power, and the pulse violently hurls
 
 **Failure** The creature takes full damage and is pushed 10 feet away from you.
 
-**Critical Failure** The creature takes double damage. The creature is pushed 20 feet away from you and is then knocked [[Prone]].
+**Critical Failure** The creature takes double damage. The creature is pushed 20 feet away from you and is then knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].
 
 * * *
 

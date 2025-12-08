@@ -12,7 +12,7 @@ license: ORC
 ---
 # Enjoy the Show
 ## Feat 2
-### [[swashbuckler]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 

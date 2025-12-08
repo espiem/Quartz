@@ -8,7 +8,7 @@ tags:
 ---
 
 # Breath of Drought
-![[systems-pf2e-icons-spells-breath-of-drought.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-breath-of-drought.webp|150]]
 
 You fill the area with an oppressive, arid swelter that overwhelms creatures with heat exhaustion. Objects are unaffected. Each creature in the area when the spell is cast or that ends its turn in the area afterward must attempt a Fortitude save. Water creatures and plant creatures use the outcome one degree of success worse than the result of their saving throw. Creatures whose bodies contain no significant moisture (such as fire elementals) are immune to _breath of drought_.
 

@@ -18,7 +18,7 @@ license: OGL
 ---
 # Fresh Produce `pf2:1`
 ## Feat 1
-### [[healing]][[impulse]][[kineticist]][[plant]][[primal]][[vitality]][[wood]]
+### [[healing]][[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[plant]][[primal]][[vitality]][[wood]]
 
 **Category** class; 
 
@@ -27,7 +27,7 @@ license: OGL
 
 You grow a nourishing nut, vegetable, seed, or fruit. Choose a creature in your kinetic aura. The produce grows in their open hand, or at their feet if they have no open hands. The produce has light Bulk. A creature can eat it with an Interact action to regain 1d4+(floor((max(1,1)-1)/2)\*5+1 vitality healing HP; this is a healing vitality effect. The creature feels full for 10 minutes, during which it has resistance 2 to void damage and can't eat another piece of produce. Produce not consumed by the start of your next turn withers away.
 
-[[Feat_Feature Effects/Effect_ Fresh Produce|Effect: Fresh Produce]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Fresh Produce|Effect: Fresh Produce]]
 
 * * *
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Transmute Rock And Mud
-![[icons-environment-wilderness-terrain-rocks-brown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-environment-wilderness-terrain-rocks-brown.webp|150]]
 
 You warp the structure of earthen material, turning rock into mud or mud into rock. Choose one of these two options when you [[Cast a Spell|Cast the Spell]].
 
@@ -20,11 +20,11 @@ You warp the structure of earthen material, turning rock into mud or mud into ro
 
 **Critical Success** The creature escapes the mud and is atop the stone, unaffected.
 
-**Success** The creature climbs out of the mud as it turns to rock and is [[Prone]] atop the stone.
+**Success** The creature climbs out of the mud as it turns to rock and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] atop the stone.
 
-**Failure** The creature is partially stuck in the mud and is [[Grabbed]] for 1 round or until it [[Escape|Escapes]], whichever comes first.
+**Failure** The creature is partially stuck in the mud and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] for 1 round or until it [[Escape|Escapes]], whichever comes first.
 
-**Critical Failure** The creature is entirely stuck. It is [[Restrained]] for 1 round or until it Escapes, whichever comes first.
+**Critical Failure** The creature is entirely stuck. It is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]] for 1 round or until it Escapes, whichever comes first.
 
 * * *
 

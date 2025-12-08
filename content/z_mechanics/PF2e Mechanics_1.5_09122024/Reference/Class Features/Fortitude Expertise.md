@@ -16,7 +16,7 @@ license: ORC
 ---
 # Fortitude Expertise
 ## Feat 3
-### [[animist]][[bard]][[druid]][[investigator]][[swashbuckler]]
+### [[animist]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Bard]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Druid]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Investigator]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** classfeature; 
 

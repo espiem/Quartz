@@ -12,7 +12,7 @@ license: OGL
 ---
 # Mesmerizing Performance `pf2:1`
 
-### [[concentrate]][[emotion]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]]
 
 **Category** interaction; 
 
@@ -25,7 +25,7 @@ license: OGL
 
 **Success** The target is unaffected and temporarily immune for 1 hour.
 
-**Failure** The target is [[Conditions/Fascinated|Fascinated]] by the companion for its next action and then is temporarily immune for 1 hour.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated|Fascinated]] by the companion for its next action and then is temporarily immune for 1 hour.
 
 **Critical Failure** The target is fascinated by the companion for 1 round. While it remains fascinated, it can't use reactions.
 

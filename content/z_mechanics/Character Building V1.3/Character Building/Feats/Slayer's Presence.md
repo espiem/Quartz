@@ -10,4 +10,4 @@ tags:
 # Slayer's Presence
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-Your very presence strikes fear into the undead. When you use [[Slayer's Identification]] and succeed at your check, you can [[Frighten Undead]] as a free action, targeting the creature you identified. Any time you get a critical success to Frighten Undead, if the target's level is lower than yours, the target is [[Fleeing]] for 1 round.
+Your very presence strikes fear into the undead. When you use [[Slayer's Identification]] and succeed at your check, you can [[Frighten Undead]] as a free action, targeting the creature you identified. Any time you get a critical success to Frighten Undead, if the target's level is lower than yours, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing]] for 1 round.

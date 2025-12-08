@@ -16,7 +16,7 @@ license: OGL
 ---
 # Gearblade
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[backswing]][[clockwork]][[invested]][[magical]][[shove]]
+### [rare](rare "Rare Rarity Trait")[[backswing]][[clockwork]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[shove]]
 
 |  |  |
 | -- | -- |

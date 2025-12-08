@@ -20,8 +20,8 @@ Sometimes called liquid persuasion, this sweet-tasting tincture induces euphoria
 
 **Maximum Duration** 10 minutes
 
-**Stage 1** [[Stupefied|Stupefied 1]] (1 minute)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (1 minute)
 
-**Stage 2** [[Stupefied|Stupefied 2]] (1 minute)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (1 minute)
 
-**Stage 3** [[Stupefied|Stupefied 3]], and the victim's attitude toward others improves by one step (1 minute)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 3]], and the victim's attitude toward others improves by one step (1 minute)

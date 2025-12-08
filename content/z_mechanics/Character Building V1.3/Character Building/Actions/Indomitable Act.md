@@ -13,7 +13,7 @@ tags:
 
 **Trigger** You are about to attempt a check
 
-**Requirements** You are [[Frightened]]
+**Requirements** You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened]]
 
 * * *
 

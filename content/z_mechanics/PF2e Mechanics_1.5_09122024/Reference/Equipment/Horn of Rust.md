@@ -12,7 +12,7 @@ license: OGL
 ---
 # Horn of Rust
 ## Item 5
-### [unique](unique "Unique Rarity Trait")[[artifact]][[invested]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 
@@ -54,7 +54,7 @@ The following activations do not consume charges from the Horn of Rust, and they
 
 **Stage 2** [[Conditions/Clumsy|Clumsy 2]] and can't speak (1 day)
 
-**Stage 3** [[Conditions/Paralyzed|Paralyzed]] with spasms (1 day)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]] with spasms (1 day)
 
 **Stage 4** death
 

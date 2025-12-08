@@ -8,7 +8,7 @@ tags:
 ---
 
 # Cape of Justice
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-backfire-mantle.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-worn-items-other-worn-items-backfire-mantle.webp|150]]
 
 While Yaezhing is feared and seldom worshipped in the open, some regions of Tian Xia see him as a god of necessary evil and their only hope for justice. This garment is often worn by bounty hunters or priests of Yaezhing, yet non-worshippers of the god of harsh justice sometimes wear this item without fear of religious persecution. The red cape appears almost black while in the shadows, with a lighter red mandala pattern on it that resembles a shuriken.
 
@@ -32,8 +32,8 @@ When you invest a cape of justice, you must designate a single creature as your 
 
 **Critical Success** The target is unaffected, and the manacles vanish.
 
-**Success** The manacles strike the target's legs but fail to latch properly. The target is [[Off-Guard]] until the start of your next turn, at which point the manacles vanish.
+**Success** The manacles strike the target's legs but fail to latch properly. The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the start of your next turn, at which point the manacles vanish.
 
 **Failure** The manacles lock on the target's legs, causing the target to take a –15-foot circumstance penalty to its Speeds for 1 minute, or until it Escapes or is freed by someone using Pick a Lock (DC 18), after which the manacles vanish.
 
-**Critical Failure** As failure, but the target is [[Immobilized]] for as long as the manacles remain in place.
+**Critical Failure** As failure, but the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] for as long as the manacles remain in place.

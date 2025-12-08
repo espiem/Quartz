@@ -12,7 +12,7 @@ license: OGL
 ---
 # Cursed Effigy `pf2:1`
 ## Feat 8
-### [[curse]][[thaumaturge]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Curse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]]
 
 **Category** class; 
 

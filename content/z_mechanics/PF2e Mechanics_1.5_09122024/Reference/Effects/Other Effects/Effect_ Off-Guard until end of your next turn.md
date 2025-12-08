@@ -18,7 +18,7 @@ license: OGL
 
 **Effect applied by [[Critical Hit_Fumble Deck/Critical Fumble Deck #19|Critical Fumble Deck #19]], [[Critical Hit_Fumble Deck/Critical Fumble Deck #20|Critical Fumble Deck #20]], [[Critical Hit_Fumble Deck/Critical Fumble Deck #21|Critical Fumble Deck #21]], [[Critical Hit_Fumble Deck/Critical Fumble Deck #22|Critical Fumble Deck #22]], [[Critical Hit_Fumble Deck/Critical Fumble Deck #40|Critical Fumble Deck #40]]**
 
-You are [[Conditions/Off-Guard|Off-Guard]] until the end of your next turn.
+You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the end of your next turn.
 
 *Source: Pathfinder Critical Decks*
 *OGL*

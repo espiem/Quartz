@@ -8,7 +8,7 @@ tags:
 ---
 
 # Element Embodied
-![[icons-creatures-magical-construct-iron-stomping-yellow.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-magical-construct-iron-stomping-yellow.webp|150]]
 
 Drawing upon the deepest wells of magic in an elemental plane, you transform into a spectacular elemental. You can choose between an air elemental, earth elemental, fire elemental, or water elemental. Your battle form is Gargantuan, and you must have enough space to expand into or the spell is lost. While in this form, you gain the elemental trait and the trait for the element you choose. You can Dismiss the spell.
 

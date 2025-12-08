@@ -14,7 +14,7 @@ license: OGL
 ---
 # Sparkwarden
 ## Item 5
-### [unique](unique "Unique Rarity Trait")[[invested]][[magical]][[relic]][[shadow]][[tattoo]]
+### [unique](unique "Unique Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[relic]][[shadow]][[tattoo]]
 
 
 **Price** 140 gp; 

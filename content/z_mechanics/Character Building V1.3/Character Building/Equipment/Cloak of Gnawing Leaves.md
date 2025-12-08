@@ -8,7 +8,7 @@ tags:
 ---
 
 # Cloak of Gnawing Leaves
-![[icons-equipment-back-cloak-collared-feathers-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-equipment-back-cloak-collared-feathers-green.webp|150]]
 
 This cloak appears to be woven from a thousand living leaves, hungry for flesh and eager to defend the cloak's wearer.
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Change Shape `pf2:1`
 
-### [[concentrate]][[polymorph]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[polymorph]]
 
 **Category** interaction; 
 

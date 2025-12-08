@@ -13,7 +13,7 @@ license: ORC
 ---
 # Unbalancing Sweep `pf2:3`
 ## Feat 12
-### [[barbarian]][[flourish]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[flourish]]
 
 **Category** class; 
 

@@ -20,9 +20,9 @@ On subsequent rounds, the first time you Sustain the spell each round, you can m
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is [[Slowed]] for 1 round.
+**Failure** The creature takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] for 1 round.
 
-**Critical Failure** The creature takes double damage and is [[Slowed|Slowed 2]] for 1 round.
+**Critical Failure** The creature takes double damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]] for 1 round.
 
 * * *
 

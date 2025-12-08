@@ -12,7 +12,7 @@ license: OGL
 ---
 # Influence
 
-### [[concentrate]][[linguistic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[linguistic]]
 
 **Category** interaction; 
 

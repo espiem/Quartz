@@ -12,7 +12,7 @@ license: OGL
 ---
 # Morphing Weapon
 ## Item 7
-### [[magical]][[metal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[metal]]
 
 
 **Price** 360 gp; 

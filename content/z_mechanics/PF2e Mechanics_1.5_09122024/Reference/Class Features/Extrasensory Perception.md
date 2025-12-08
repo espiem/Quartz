@@ -11,7 +11,7 @@ license: OGL
 ---
 # Extrasensory Perception
 ## Feat 11
-### [[psychic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** classfeature; 
 

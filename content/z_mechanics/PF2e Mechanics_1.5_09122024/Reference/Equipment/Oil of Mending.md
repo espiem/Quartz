@@ -14,7 +14,7 @@ license: ORC
 ---
 # Oil of Mending
 ## Item 3
-### [[consumable]][[magical]][[oil]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[oil]]
 
 **Category** oil; 
 **Price** 9 gp; 

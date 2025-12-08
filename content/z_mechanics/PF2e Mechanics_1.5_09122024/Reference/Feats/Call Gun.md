@@ -13,7 +13,7 @@ license: OGL
 ---
 # Call Gun
 ## Feat 8
-### [[archetype]][[magical]][[teleportation]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[teleportation]]
 
 **Category** class; 
 

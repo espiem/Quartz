@@ -14,7 +14,7 @@ license: OGL
 ---
 # Acknowledge Fan `pf2:1`
 ## Feat 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[incapacitation]][[mental]][[visual]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[visual]]
 
 **Category** class; 
 
@@ -32,7 +32,7 @@ Your reputation as a Firebrand precedes you, and you need only make a simple ges
 
 **Failure** The target is [[Conditions/Stunned|Stunned 2]].
 
-**Critical Failure** The target is [[Conditions/Paralyzed|Paralyzed]] until the end of your next turn.
+**Critical Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]] until the end of your next turn.
 
 * * *
 

@@ -18,7 +18,7 @@ license: OGL
 ---
 # Elemental Artillery `pf2:3`
 ## Feat 6
-### [[attack]][[composite]][[impulse]][[kineticist]][[metal]][[primal]][[wood]]
+### [[attack]][[composite]][[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[metal]][[primal]][[wood]]
 
 **Category** class; 
 

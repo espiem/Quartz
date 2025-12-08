@@ -8,7 +8,7 @@ tags:
 ---
 
 # Establish Nexus
-![[icons-commodities-tech-tube-chamber-lightning.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-commodities-tech-tube-chamber-lightning.webp|150]]
 
 You focus the power of the node's intersecting ley lines into a powerful confluent point known as a ley line nexus. The ley line nexus grows out from the node in a 20-foot radius. The ley line nexus is more open and available for access to creatures you designate. When [[Tap Ley Line|Tapping the Ley Line]], these creatures get a degree of success one better than they rolled
 

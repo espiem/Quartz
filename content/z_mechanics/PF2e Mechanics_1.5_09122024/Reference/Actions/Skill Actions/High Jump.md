@@ -30,7 +30,7 @@ You Stride, then attempt a DC 30 [[/act high-jump]]{Athletics} check to jump ver
 
 **Failure** You Leap normally.
 
-**Critical Failure** You fall [[Conditions/Prone|Prone]] in your space.
+**Critical Failure** You fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] in your space.
 
 *Source: Pathfinder Player Core*
 *ORC*

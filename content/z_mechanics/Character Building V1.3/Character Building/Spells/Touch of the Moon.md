@@ -8,7 +8,7 @@ tags:
 ---
 
 # Touch of the Moon
-![[systems-pf2e-icons-spells-touch-of-the-moon.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-touch-of-the-moon.webp|150]]
 
 When you touch the target, a symbol of the moon appears on its forehead, glowing with soft moonlight. The target glows with dim light in a 20-foot radius. It also gets a benefit based on a phase of the moon, starting with the new moon and changing to the next phase at the end of each of its turns.
 

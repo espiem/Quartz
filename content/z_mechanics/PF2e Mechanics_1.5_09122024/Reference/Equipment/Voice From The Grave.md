@@ -11,7 +11,7 @@ license: OGL
 ---
 # Voice From The Grave
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 
 **Price** 1700 gp; 

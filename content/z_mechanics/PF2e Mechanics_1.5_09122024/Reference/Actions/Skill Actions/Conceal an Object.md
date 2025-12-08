@@ -14,7 +14,7 @@ license: ORC
 ---
 # Conceal an Object `pf2:1`
 
-### [[manipulate]][[secret]][[skill]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[secret]][[skill]]
 
 **Category** interaction; 
 

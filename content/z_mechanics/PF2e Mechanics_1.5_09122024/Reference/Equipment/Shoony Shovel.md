@@ -11,7 +11,7 @@ license: OGL
 ---
 # Shoony Shovel
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[earth]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[earth]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 600 gp; 

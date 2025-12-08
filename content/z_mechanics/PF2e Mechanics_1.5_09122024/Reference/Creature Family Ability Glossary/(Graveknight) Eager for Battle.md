@@ -18,7 +18,7 @@ license: OGL
 
 
 
-When the graveknight rolls initiative, they roll twice and take the better result. They're [[Conditions/Quickened|Quickened]] during their first round after rolling initiative and can use this extra action to Step, Stride, or Strike.
+When the graveknight rolls initiative, they roll twice and take the better result. They're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened]] during their first round after rolling initiative and can use this extra action to Step, Stride, or Strike.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

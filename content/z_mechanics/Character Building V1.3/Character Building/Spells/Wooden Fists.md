@@ -8,7 +8,7 @@ tags:
 ---
 
 # Wooden Fists
-![[icons-commodities-wood-log-cut-cherry-brown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-commodities-wood-log-cut-cherry-brown.webp|150]]
 
 Your arms and hands swell with new growth, transforming into tree trunks twice as big as their current size. Your fists deal `dice: 1d6` bludgeoning damage, lose the nonlethal trait, and have reach.
 

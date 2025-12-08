@@ -16,7 +16,7 @@ license: OGL
 ---
 # Piereta
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[deadly-d8]][[disarm]][[divine]][[finesse]][[intelligent]]
+### [unique](unique "Unique Rarity Trait")[[deadly-d8]][[disarm]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[intelligent]]
 
 |  |  |
 | -- | -- |

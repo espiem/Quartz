@@ -14,7 +14,7 @@ license: ORC
 ---
 # (Floodslain) Sodden Ground
 
-### [[aura]][[occult]][[water]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 **Category** offensive; 
 

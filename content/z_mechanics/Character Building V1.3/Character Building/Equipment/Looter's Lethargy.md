@@ -8,7 +8,7 @@ tags:
 ---
 
 # Looter's Lethargy
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-looters-lethargy.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-looters-lethargy.webp|150]]
 
 **Activate** 3 Interact
 
@@ -22,6 +22,6 @@ The poison known as looter's lethargy ensures no thieves are strong enough to wa
 
 **Stage 1** reduce Bulk limit by 3 (1 minute)
 
-**Stage 2** [[Off-Guard]], reduce Bulk limit by 4 (10 minutes)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]], reduce Bulk limit by 4 (10 minutes)
 
 **Stage 3** off-guard, reduce Bulk limit by 5 (10 minutes)

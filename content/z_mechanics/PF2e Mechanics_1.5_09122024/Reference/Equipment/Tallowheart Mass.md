@@ -11,7 +11,7 @@ license: OGL
 ---
 # Tallowheart Mass
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[divine]][[healing]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[healing]]
 
 
 **Price** 425 gp; 
@@ -24,7 +24,7 @@ This disgusting mass of magically-infused hardened tallow is often found divided
 
 **Activate** `pf2:1` Interact
 
-**Effect** If you rub a portion between your hands, the mass melts into your flesh and you gain the [[Conditions/Quickened|Quickened]] condition for 1 minute. You can use the extra action each round only for Strike actions made with weapons you wield in your hands.
+**Effect** If you rub a portion between your hands, the mass melts into your flesh and you gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened]] condition for 1 minute. You can use the extra action each round only for Strike actions made with weapons you wield in your hands.
 
 * * *
 
@@ -38,7 +38,7 @@ This disgusting mass of magically-infused hardened tallow is often found divided
 
 **Effect** If you rub a portion on your body, it melts into your worn gear and flesh and grants you resistance 10 to fire damage for 1 minute.
 
-[[Equipment Effects/Effect_ Tallowheart Mass|Effect: Tallowheart Mass]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Tallowheart Mass|Effect: Tallowheart Mass]]
 
 *Source: Pathfinder Adventure: Crown of the Kobold King*
 *OGL*

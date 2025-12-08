@@ -14,7 +14,7 @@ license: ORC
 ---
 # Skirmish Strike `pf2:1`
 ## Feat 6
-### [[flourish]][[ranger]][[rogue]]
+### [[flourish]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 

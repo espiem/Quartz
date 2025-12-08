@@ -23,7 +23,7 @@ license: ORC
 * * *
 You are a student of peoples and their histories, and are in constant pursuit of knowledge and artifacts from the past. You become an expert in Society and Thievery, and you gain a +1 circumstance bonus to [[Actions/Recall Knowledge|Recall Knowledge]] about ancient history, peoples, and cultures.
 
-[[PF2e Journals/Archetypes/Archaeologist|Archaeologist]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Archaeologist|Archaeologist]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -12,14 +12,14 @@ license: ORC
 ---
 # Empiricist's Eye
 ## Feat 12
-### [[investigator]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Investigator]]
 
 **Category** class; 
 
 
 
 
-Sharp and piercing, your eyes see all and convey more. Your Point Out actions lose the auditory trait, and you don't need to be heard to convey the information to your allies. In addition, a creature you Point Out is [[Conditions/Off-Guard|Off-Guard]] to your allies until the start of your next turn.
+Sharp and piercing, your eyes see all and convey more. Your Point Out actions lose the auditory trait, and you don't need to be heard to convey the information to your allies. In addition, a creature you Point Out is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] to your allies until the start of your next turn.
 
 * * *
 

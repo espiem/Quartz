@@ -11,7 +11,7 @@ license: OGL
 ---
 # Shoony
 
-### [rare](rare "Rare Rarity Trait")[[humanoid]][[shoony]]
+### [rare](rare "Rare Rarity Trait")[[humanoid]][[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Shoony]]
 
 
 
@@ -20,7 +20,7 @@ license: OGL
 
 _Diminutive humanoids who resemble squat, bipedal dogs, shoonies are sometimes mistaken for weak and insular pacifists. However, their sheer perseverance, incredible work ethic, and resourceful use of diplomacy make shoonies far from helpless._
 
-_[[PF2e Journals/Ancestries/Shoony|Shoony]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Shoony|Shoony]]_
 
 *Source: Pathfinder #153: Life's Long Shadows*
 *OGL*

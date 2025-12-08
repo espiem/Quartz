@@ -10,7 +10,7 @@ tags:
 ---
 
 # Vital Luminance
-![[systems-pf2e-icons-spells-positive-luminance.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-positive-luminance.webp|150]]
 
 Drawing life force into yourself, you become a beacon of vitality. You glow with bright light in a 30-foot emanation (and dim light to the next 30 feet), and you gain an internal pool of light called a luminance reservoir, which begins with a value of 4. At the start of each of your turns, increase your reservoir by 4.
 

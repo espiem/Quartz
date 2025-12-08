@@ -17,7 +17,7 @@ license: ORC
 ---
 # Blight Bomb (Moderate)
 ## Item 3
-### [[alchemical]][[bomb]][[consumable]][[poison]][[splash]]
+### [[alchemical]][[bomb]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[splash]]
 
 |  |  |
 | -- | -- |

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Hundred-Moth Caress
 ## Item 8
-### [[deadly-d10]][[divine]][[trip]][[void]]
+### [[deadly-d10]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[trip]][[void]]
 
 |  |  |
 | -- | -- |

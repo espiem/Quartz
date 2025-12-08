@@ -31,7 +31,7 @@ license: OGL
 
 A goo grenade is a flask filled with a fast-growing, short-lived alchemical ooze. When you hit a creature with a goo grenade, that creature takes 3d4 acid damage, 3 persistent acid damage, and 3 acid splash damage, and a -10 circumstance penalty to its Speeds from the clinging goo. You gain a +2 item bonus to attack rolls. The target can end any penalties, conditions, and persistent damage caused by the bomb by Escaping (DC 26) or spending a total of 3 Interact actions to pry themselves free of the ooze. These Interact actions don't have to be consecutive, and other creatures can provide the actions as well.
 
-[[Equipment Effects/Effect_ Goo Grenade|Effect: Goo Grenade]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Goo Grenade|Effect: Goo Grenade]]
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

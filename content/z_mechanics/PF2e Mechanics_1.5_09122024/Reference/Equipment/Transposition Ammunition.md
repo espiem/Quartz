@@ -13,7 +13,7 @@ license: OGL
 ---
 # Transposition Ammunition
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[teleportation]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[teleportation]]
 
 **Category** ammo; 
 **Price** 125 gp; 

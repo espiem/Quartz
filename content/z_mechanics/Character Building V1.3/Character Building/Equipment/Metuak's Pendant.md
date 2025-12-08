@@ -8,9 +8,9 @@ tags:
 ---
 
 # Metuak's Pendant
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-blightburn-ward.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-worn-items-other-worn-items-blightburn-ward.webp|150]]
 
-This black quartz pendant carved in the shape of an angel's feather hangs from a leather cord worn around the neck. Once worn by Metuak of the Burning Mammoths, this family heirloom anchors you to your ancestors, preserving your sense of self and protecting your mind from mental manipulation and demonic possession. You gain a +1 item bonus to saving throws against mental effects that would make you [[Confused]], [[Controlled]], [[Frightened]], or [[Stupefied]]. This bonus increases to +2 if the source of the effect is a fiend.
+This black quartz pendant carved in the shape of an angel's feather hangs from a leather cord worn around the neck. Once worn by Metuak of the Burning Mammoths, this family heirloom anchors you to your ancestors, preserving your sense of self and protecting your mind from mental manipulation and demonic possession. You gain a +1 item bonus to saving throws against mental effects that would make you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Controlled]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied]]. This bonus increases to +2 if the source of the effect is a fiend.
 
 * * *
 

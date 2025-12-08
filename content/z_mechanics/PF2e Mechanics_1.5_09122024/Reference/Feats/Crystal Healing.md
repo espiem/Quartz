@@ -14,7 +14,7 @@ license: OGL
 ---
 # Crystal Healing
 ## Feat 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[general]][[healing]][[manipulate]][[skill]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[general]][[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[skill]]
 
 **Category** skill; 
 

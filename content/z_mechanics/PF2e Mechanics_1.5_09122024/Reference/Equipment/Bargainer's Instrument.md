@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bargainer's Instrument
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** toolkit; 
 **Price** 1000 gp; 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Sneaky Key
 ## Item 5
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 22 gp; 

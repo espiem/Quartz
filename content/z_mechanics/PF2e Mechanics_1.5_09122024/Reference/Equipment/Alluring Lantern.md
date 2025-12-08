@@ -13,7 +13,7 @@ license: ORC
 ---
 # Alluring Lantern
 ## Item 8
-### [[graft]][[invested]][[magical]]
+### [[graft]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 450 gp; 
@@ -28,7 +28,7 @@ An antenna with a bioluminescent lure protrudes from your head, drawing enemies'
 
 **Frequency** once per day
 
-**Effect** Until the beginning of your next turn, the lure raises above your head and lights up with multicolored flashes that draws creatures closer. Any creature that begins its turn within 20 feet of you must succeed at a DC 23 Will check save or become [[Conditions/Fascinated|Fascinated]] by the lure and must spend at least one of its actions to move toward you. The fascination ends at the end of the creature's turn.
+**Effect** Until the beginning of your next turn, the lure raises above your head and lights up with multicolored flashes that draws creatures closer. Any creature that begins its turn within 20 feet of you must succeed at a DC 23 Will check save or become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated|Fascinated]] by the lure and must spend at least one of its actions to move toward you. The fascination ends at the end of the creature's turn.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

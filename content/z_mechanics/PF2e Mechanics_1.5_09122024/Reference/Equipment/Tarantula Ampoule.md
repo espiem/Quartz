@@ -37,11 +37,11 @@ The dried, shrunken corpse of a giant tarantula inside this smoked glass bottle 
 
 **Stage 1** 1d10 poison damage (1 round)
 
-**Stage 2** 1d12 poison damage, [[Conditions/Clumsy|Clumsy 1]], and [[Conditions/Off-Guard|Off-Guard]] (1 round)
+**Stage 2** 1d12 poison damage, [[Conditions/Clumsy|Clumsy 1]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] (1 round)
 
 **Stage 3** 2d6 poison damage, [[Conditions/Clumsy|Clumsy 2]], and off-guard (1 round)
 
-**Stage 4** 2d6 poison damage and [[Conditions/Paralyzed|Paralyzed]] (1 round)
+**Stage 4** 2d6 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]] (1 round)
 
 * * *
 

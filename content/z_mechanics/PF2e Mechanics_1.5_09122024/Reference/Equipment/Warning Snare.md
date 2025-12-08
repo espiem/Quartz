@@ -15,7 +15,7 @@ license: OGL
 ---
 # Warning Snare
 ## Item 4
-### [[auditory]][[consumable]][[mechanical]][[snare]][[trap]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[consumable]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 15 gp; 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Ghost Fowl Porridge
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 140 gp; 
@@ -28,7 +28,7 @@ license: ORC
 
 This robust porridge—made from a cockatrice distilled into a broth, hot peppers from a demonic source, and various toppings—causes diners to utter a ghostly wail from the intense heat.
 
-Consuming the porridge grants you a +2 item bonus to saving throws against being [[Conditions/Petrified|Petrified]] for 1 hour. You also gain resistance 3 against physical damage for the duration.
+Consuming the porridge grants you a +2 item bonus to saving throws against being [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Petrified|Petrified]] for 1 hour. You also gain resistance 3 against physical damage for the duration.
 
 [[Equipment Effects/Effect_ Ghost Fowl Porridge|Effect: Ghost Fowl Porridge]]
 

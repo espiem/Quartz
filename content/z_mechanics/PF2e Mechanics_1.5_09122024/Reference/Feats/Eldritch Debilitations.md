@@ -11,7 +11,7 @@ license: OGL
 ---
 # Eldritch Debilitations
 ## Feat 10
-### [[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 
@@ -21,7 +21,7 @@ license: OGL
 * * *
 You know how to apply debilitations that are particularly troublesome for spellcasters. Add the following debilitations to the list you can choose from when you use [[Actions/Debilitating Strike|Debilitating Strike]].
 
-*   **Debilitation** The target is [[Conditions/Stupefied|Stupefied 1]].
+*   **Debilitation** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]].
 *   **Debilitation** The target can't Step.
 
 *Source: Pathfinder Advanced Player's Guide*

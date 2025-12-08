@@ -13,7 +13,7 @@ license: OGL
 ---
 # Resolve
 ## Feat 7
-### [[inventor]][[magus]][[thaumaturge]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Inventor]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Magus]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]]
 
 **Category** classfeature; 
 

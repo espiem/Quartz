@@ -12,7 +12,7 @@ license: OGL
 ---
 # Explosive Death Drop `pf2:1`
 ## Feat 14
-### [[fire]][[monk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 **Category** class; 
 
@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Blazing Talon Surge
 * * *
-**Requirements** You are in [[Feats/Rain of Embers Stance|Rain of Embers Stance]] and have a target [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** You are in [[Feats/Rain of Embers Stance|Rain of Embers Stance]] and have a target [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]].
 
 * * *
 
@@ -28,7 +28,7 @@ You lift your enemy into the air before bringing them crashing down with a fiery
 
 * * *
 
-**Critical Success** The target takes 12d6 fire damage and falls [[Conditions/Prone|Prone]] in an unoccupied adjacent square of your choice. The target is no longer grabbed. The target and any creature adjacent to it also each take 1d6 persistent fire damage.
+**Critical Success** The target takes 12d6 fire damage and falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] in an unoccupied adjacent square of your choice. The target is no longer grabbed. The target and any creature adjacent to it also each take 1d6 persistent fire damage.
 
 **Success** As critical success, but the target takes 6d6 fire damage instead of 12d6, and creatures don't take persistent fire damage.
 

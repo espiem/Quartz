@@ -15,7 +15,7 @@ license: OGL
 ---
 # Knight Captain's Lance
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[divine]][[jousting-d6]][[reach]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d8]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[jousting-d6]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]]
 
 |  |  |
 | -- | -- |

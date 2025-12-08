@@ -10,7 +10,7 @@ tags:
 # Denier of Destruction
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Requirements** You have a _[[Heal]]_ spell prepared and you aren't [[Off-Guard]] to the source of the damage.
+**Requirements** You have a _[[Heal]]_ spell prepared and you aren't [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] to the source of the damage.
 
 **Trigger** Any ally within 30 feet that you can heal with your _heal_ spell would take damage from an attack or effect from a source you can observe.
 

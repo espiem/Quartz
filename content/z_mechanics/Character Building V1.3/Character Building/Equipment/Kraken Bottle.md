@@ -14,7 +14,7 @@ tags:
 
 * * *
 
-Coiled tentacles make it all but impossible to see anything else inside this ampoule. When opened, a Gargantuan kraken bursts forth, which can appear in water instead of on the ground. Its arms attempt to grasp up to four creatures with a reach of 60 feet. The kraken repositions [[Grabbed]] creatures to a different space within its reach unless the target succeeds at a DC 38 fortitude save.
+Coiled tentacles make it all but impossible to see anything else inside this ampoule. When opened, a Gargantuan kraken bursts forth, which can appear in water instead of on the ground. Its arms attempt to grasp up to four creatures with a reach of 60 feet. The kraken repositions [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] creatures to a different space within its reach unless the target succeeds at a DC 38 fortitude save.
 
 If the kraken is in water, it then releases a cloud of ink in an 80 foot emanation. This cloud has no effect outside of water. Creatures inside the cloud are undetected, can't use their sense of smell, and are exposed to kraken ink poison. The cloud dissipates after 1 minute.
 

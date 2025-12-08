@@ -13,7 +13,7 @@ license: ORC
 ---
 # Divine Evolution
 ## Feat 4
-### [[divine]][[sorcerer]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]]
 
 **Category** class; 
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Gentle Death and Rebirth
 ## Feat 17
-### [[occult]][[yaoguai]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[yaoguai]]
 
 **Category** ancestry; 
 

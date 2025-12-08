@@ -8,7 +8,7 @@ tags:
 ---
 
 # Alcohol
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-alcohol.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-alchemical-items-drugs-alcohol.webp|150]]
 
 Alcohol is a common substance available in stunning variety. The Price of a dose of alcohol depends on the specific beverage. You can't recover from the sickened condition from alcohol while affected.
 
@@ -24,14 +24,14 @@ If you fail a saving throw against alcohol other than initial saves, the afflict
 
 **Stage 1** +1 item bonus to saving throws against fear (10 minutes)
 
-**Stage 2** [[Off-Guard]], +1 item bonus to saving throws against fear effects (10 minutes)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]], +1 item bonus to saving throws against fear effects (10 minutes)
 
-**Stage 3** [[Clumsy 1]], off-guard, [[Stupefied|Stupefied 2]] (10 minutes)
+**Stage 3** [[Clumsy 1]], off-guard, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (10 minutes)
 
 **Stage 4** [[Clumsy 1|Clumsy 2]] and [[Sickened 1|Sickened 2]] (10 minutes)
 
 **Stage 5** clumsy 2, sickened 2, and stupefied 2 (10 minutes)
 
-**Stage 6** [[Unconscious]] (8 hours)
+**Stage 6** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] (8 hours)
 
 **Stage 7** death

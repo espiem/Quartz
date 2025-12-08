@@ -11,7 +11,7 @@ license: OGL
 ---
 # Conjure Bullet `pf2:1`
 
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** interaction; 
 

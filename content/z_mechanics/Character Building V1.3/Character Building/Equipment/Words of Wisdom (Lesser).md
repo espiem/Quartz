@@ -10,7 +10,7 @@ tags:
 # Words of Wisdom (Lesser)
 ![[icons-magic-symbols-rune-sigil-white-pink.webp|150]]
 
-Yrisette developed these unique tattoos after months of tinkering and experimentation. This tattoo is always of a saying that has meaning to the person who wears it. While the words are [[Hidden]] within a larger pattern and are nearly impossible to discern at a glance, they lend gravitas and power to the wearer's words. When the tattoo is applied, choose whether the phrase is of threatening words (Intimidation), persuasive words (Deception), or dramatic words (Performance).
+Yrisette developed these unique tattoos after months of tinkering and experimentation. This tattoo is always of a saying that has meaning to the person who wears it. While the words are [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]] within a larger pattern and are nearly impossible to discern at a glance, they lend gravitas and power to the wearer's words. When the tattoo is applied, choose whether the phrase is of threatening words (Intimidation), persuasive words (Deception), or dramatic words (Performance).
 
 **Activate** 1 Command
 

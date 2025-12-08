@@ -8,7 +8,7 @@ tags:
 ---
 
 # Dragonfly Potion
-![[systems-pf2e-icons-equipment-consumables-potions-dragonfly-potion.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-potions-dragonfly-potion.webp|150]]
 
 **Activate** 1 Interact
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Dispelling Bullet `pf2:2`
 
-### [[magical]][[spellshot]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellshot]]
 
 **Category** offensive; 
 

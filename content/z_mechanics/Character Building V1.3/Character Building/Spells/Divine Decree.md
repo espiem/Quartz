@@ -20,7 +20,7 @@ You utter a potent litany from your faith, a mandate that harms those who oppose
 
 **Failure** The creature takes full damage and is [[Enfeebled 1|Enfeebled 2]] for 1 minute.
 
-**Critical Failure** The creature takes double damage and is enfeebled 2 for 1 minute. If you're on your home plane and the creature is not, the creature is sent back to its home plane. A creature of 10th level or lower must also succeed at a Will save or be [[Paralyzed]] for 1 minute; if it critically fails, it dies (this is a death effect).
+**Critical Failure** The creature takes double damage and is enfeebled 2 for 1 minute. If you're on your home plane and the creature is not, the creature is sent back to its home plane. A creature of 10th level or lower must also succeed at a Will save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] for 1 minute; if it critically fails, it dies (this is a death effect).
 
 * * *
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Wish-Twisted Form
-![[systems-pf2e-icons-spells-wish-twisted-form.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-wish-twisted-form.webp|150]]
 
 You focus your magic upon an enemy, wishing for their defenses to fail and turning their strengths into weaknesses. The target must attempt one Will saving throw for all of the following effects.
 

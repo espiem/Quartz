@@ -15,7 +15,7 @@ license: ORC
 ---
 # Caress of the Great Serpent
 ## Item 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d10]][[magical]][[sweep]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[deadly-d10]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[sweep]]
 
 |  |  |
 | -- | -- |

@@ -21,7 +21,7 @@ license: OGL
 * * *
 Your Speed bonus from Bellflower Dedication increases to +10 feet. Members of your crop receive a +5-foot circumstance bonus to Speed.
 
-[[Feat_Feature Effects/Effect_ Tiller's Drive|Effect: Tiller's Drive]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Tiller's Drive|Effect: Tiller's Drive]]
 
 *Source: Pathfinder #147: Tomorrow Must Burn*
 *OGL*

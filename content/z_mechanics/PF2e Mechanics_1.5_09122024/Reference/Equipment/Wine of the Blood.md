@@ -14,7 +14,7 @@ license: OGL
 ---
 # Wine of the Blood
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[consumable]][[healing]][[magical]][[potion]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 30 gp; 

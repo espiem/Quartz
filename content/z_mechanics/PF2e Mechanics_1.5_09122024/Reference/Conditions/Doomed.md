@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Your soul has been gripped by a powerful force that calls you closer to death. Doomed always includes a value. The [[Conditions/Dying|Dying]] value at which you die is reduced by your doomed value. If your maximum dying value is reduced to 0, you instantly die. When you die, you're no longer doomed.
+Your soul has been gripped by a powerful force that calls you closer to death. Doomed always includes a value. The [[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Conditions/Dying|Dying]] value at which you die is reduced by your doomed value. If your maximum dying value is reduced to 0, you instantly die. When you die, you're no longer doomed.
 
 Your doomed value decreases by 1 each time you get a full night's rest.
 

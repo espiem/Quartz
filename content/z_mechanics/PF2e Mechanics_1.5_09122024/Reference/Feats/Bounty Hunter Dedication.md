@@ -25,7 +25,7 @@ When focused on finding your quarry, you're relentless. You gain the Hunt Prey a
 
 If you already have Hunt Prey, you gain the Monster Hunter feat in addition to the other benefits of this feat.
 
-[[PF2e Journals/Archetypes/Bounty Hunter|Bounty Hunter]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Bounty Hunter|Bounty Hunter]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

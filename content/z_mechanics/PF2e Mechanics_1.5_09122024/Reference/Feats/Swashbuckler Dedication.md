@@ -24,7 +24,7 @@ license: ORC
 * * *
 Choose a swashbuckler's style. You gain the [[Class Features/Panache|Panache]] class feature, and you apply the bravado trait to [[Actions/Tumble Through|Tumble Through]] and any actions indicated in your swashbuckler style, allowing you to gain panache. You become trained in Acrobatics or the skill associated with your style. If you were already trained in both skills, you instead become trained in a skill of your choice. You also become trained in swashbuckler class DC. You don't gain any other effects of your chosen style.
 
-[[PF2e Journals/Archetypes/Swashbuckler|Swashbuckler]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Swashbuckler|Swashbuckler]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

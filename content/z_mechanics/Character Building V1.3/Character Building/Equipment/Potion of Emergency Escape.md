@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-The stopper for a _potion of emergency escape_ is crafted to easily snap open in dire circumstances. When you drink this potion, you become [[Fleeing]] for 1 minute, and you gain a +40-foot status bonus to all your Speeds for the duration as long as you are fleeing. You immediately Stride.
+The stopper for a _potion of emergency escape_ is crafted to easily snap open in dire circumstances. When you drink this potion, you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing]] for 1 minute, and you gain a +40-foot status bonus to all your Speeds for the duration as long as you are fleeing. You immediately Stride.

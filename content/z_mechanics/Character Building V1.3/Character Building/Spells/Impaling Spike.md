@@ -18,9 +18,9 @@ You conjure a spike that thrusts up from the earth beneath a target creature, po
 
 **Success** The target is struck by the spike and takes half damage.
 
-**Failure** The target is impaled through a leg or another nonvital body part. The creature takes full damage and, if it's standing on solid ground, becomes [[Immobilized]]. It can attempt to [[Escape]] (the DC is your spell DC). While it remains impaled, it takes damage from any weakness to cold iron it has at the end of each of its turns.
+**Failure** The target is impaled through a leg or another nonvital body part. The creature takes full damage and, if it's standing on solid ground, becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]]. It can attempt to [[Escape]] (the DC is your spell DC). While it remains impaled, it takes damage from any weakness to cold iron it has at the end of each of its turns.
 
-**Critical Failure** As failure, but the creature is impaled through a vital organ or its center of mass, taking double damage, and it is [[Off-Guard]] as long as it's impaled.
+**Critical Failure** As failure, but the creature is impaled through a vital organ or its center of mass, taking double damage, and it is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] as long as it's impaled.
 
 * * *
 

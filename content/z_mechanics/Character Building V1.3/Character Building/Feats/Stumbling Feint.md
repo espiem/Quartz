@@ -18,4 +18,4 @@ You lash out confusingly with what seems to be a weak move but instead allows yo
 
 When you use [[Flurry of Blows]], you can attempt a check to [[Feint]] as a free action just before the first Strike.
 
-On a success, instead of making the target [[Off-Guard]] against your next attack, they become off-guard against both attacks from the Flurry of Blows.
+On a success, instead of making the target [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] against your next attack, they become off-guard against both attacks from the Flurry of Blows.

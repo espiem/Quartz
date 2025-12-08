@@ -12,4 +12,4 @@ tags:
 
 _Combining the physicality and technique of a warrior with the ability to cast arcane magic, you seek to perfect the art of fusing spell and strike. While the hefty tome you carry reflects hours conducting arcane research, your enemies need no reminder of your training. They recognize it as you take them down._
 
-_[[Magus]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Classes/Magus]]_

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Goloma
 
-### [rare](rare "Rare Rarity Trait")[[goloma]][[humanoid]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Goloma]][[humanoid]]
 
 
 
@@ -20,7 +20,7 @@ license: OGL
 
 _Golomas fear most other people and deliberately use their unusual biology to frighten off those they consider to be dangerous predators. Rarely seen and poorly understood, golomas' many-eyed and wooden faced visages instill terror in most they meet._
 
-_[[PF2e Journals/Ancestries/Goloma|Goloma]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Goloma|Goloma]]_
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

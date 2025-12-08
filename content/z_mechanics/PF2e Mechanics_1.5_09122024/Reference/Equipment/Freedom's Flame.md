@@ -17,7 +17,7 @@ license: ORC
 ---
 # Freedom's Flame
 ## Item 21
-### [unique](unique "Unique Rarity Trait")[[artifact]][[magical]][[mythic]][[razing]][[versatile-p]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[mythic]][[razing]][[versatile-p]]
 
 |  |  |
 | -- | -- |

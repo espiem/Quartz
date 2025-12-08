@@ -11,7 +11,7 @@ license: OGL
 ---
 # Belt of the Five Kings
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 650 gp; 
@@ -32,9 +32,9 @@ The belt also grants you darkvision and the ability to understand, speak, and wr
 
 **Effect** You tighten the belt one notch to gain temporary Hit Points equal to your level and grant allies within 20 feet of you darkvision. Both effects last for 10 minutes.
 
-[[Equipment Effects/Effect_ Belt of the Five Kings (Wearer)|Effect: Belt of the Five Kings (Wearer)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Belt of the Five Kings (Wearer)|Effect: Belt of the Five Kings (Wearer)]]
 
-[[Equipment Effects/Effect_ Belt of the Five Kings (Allies)|Effect: Belt of the Five Kings (Allies)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Belt of the Five Kings (Allies)|Effect: Belt of the Five Kings (Allies)]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

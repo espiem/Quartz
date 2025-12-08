@@ -11,7 +11,7 @@ license: OGL
 ---
 # Book of Warding Prayers
 ## Item 8
-### [[divine]][[grimoire]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[grimoire]]
 
 
 **Price** 425 gp; 
@@ -30,7 +30,7 @@ Script in a language of the Outer Planes adorns this book's spine, and a deity's
 
 **Effect** Choose holy or unholy; you can't choose a type that's part of your deity's sanctification. You and all allies within 30 feet are suffused with your deity's protection, gaining resistance 10 to damage of that type for 1 minute.
 
-[[Equipment Effects/Effect_ Book of Warding Prayers|Effect: Book of Warding Prayers]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Book of Warding Prayers|Effect: Book of Warding Prayers]]
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

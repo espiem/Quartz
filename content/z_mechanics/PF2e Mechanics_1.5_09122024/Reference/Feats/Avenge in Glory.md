@@ -11,7 +11,7 @@ license: OGL
 ---
 # Avenge in Glory `pf2:r`
 ## Feat 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[dwarf]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Dwarf]]
 
 **Category** ancestry; 
 
@@ -22,7 +22,7 @@ license: OGL
 
 **Access** mountain dwarf ethnicity
 
-**Trigger** An ally within 30 feet gains the [[Conditions/Dying|Dying]] condition.
+**Trigger** An ally within 30 feet gains the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying|Dying]] condition.
 
 * * *
 

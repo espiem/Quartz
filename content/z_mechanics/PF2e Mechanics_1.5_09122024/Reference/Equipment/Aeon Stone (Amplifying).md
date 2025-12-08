@@ -12,7 +12,7 @@ license: ORC
 ---
 # Aeon Stone (Amplifying)
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 9750 gp; 
@@ -35,7 +35,7 @@ An _Amplifying aeon stone_ must be activated to provide a benefit. The resonant 
 
 **Effect** If your next action is to Cast a Spell, that spell's rank is 1 higher (maximum 10th rank) for the purposes of counteracting and being counteracted.
 
-[[Equipment Effects/Effect_ Aeon Stone Resonance (Amplifying)|Effect: Aeon Stone Resonance (Amplifying)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Aeon Stone Resonance (Amplifying)|Effect: Aeon Stone Resonance (Amplifying)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

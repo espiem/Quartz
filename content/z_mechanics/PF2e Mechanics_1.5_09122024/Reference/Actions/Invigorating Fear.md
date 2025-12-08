@@ -19,7 +19,7 @@ license: OGL
 
 **Frequency** once per hour
 
-**Trigger** A creature within 60 feet gains the [[Conditions/Frightened|Frightened]] condition.
+**Trigger** A creature within 60 feet gains the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]] condition.
 
 * * *
 

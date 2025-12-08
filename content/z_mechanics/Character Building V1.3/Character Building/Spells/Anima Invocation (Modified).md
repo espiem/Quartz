@@ -8,7 +8,7 @@ tags:
 ---
 
 # Anima Invocation (Modified)
-![[systems-pf2e-icons-spells-anima-invocation.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-anima-invocation.webp|150]]
 
 When casting the modified version of the Anima Invocation, it instead draws upon the latent spiritual energies of sapient creatures within range of the spell without requiring their deaths, then uses this energy to bolster the connection between body and soul among all of the ritual's casters. This shift from an offensive effect to a defensive one results in a much less dangerous spell that helps to protect against Dahak.
 
@@ -20,4 +20,4 @@ When casting the modified version of the Anima Invocation, it instead draws upon
 
 **Failure** You are unable to tap into your own spiritual essence, but you still gain immunity to the soul-draining effect within Alseta's Landing.
 
-**Critical Failure** You botch the ritual, damaging your own spiritual essence. You gain [[Doomed|Doomed 1]] or increase your doomed condition by 1 if you're already doomed. This doomed value decreases by 1 every week. This is a curse effect.
+**Critical Failure** You botch the ritual, damaging your own spiritual essence. You gain [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]] or increase your doomed condition by 1 if you're already doomed. This doomed value decreases by 1 every week. This is a curse effect.

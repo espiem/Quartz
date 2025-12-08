@@ -13,8 +13,8 @@ tags:
 You speak a fervent prayer for the heavens to assist you and your righteous allies. Your heart begins to glow with a radiance that fills the area with bright light. The spell has the following effects on creatures in the area, based on the creature's alignment on the good-evil axis.
 
 *   **Good Creatures** Good creatures in the emanation gain a +1 status bonus to attack rolls and their Strikes deal an additional 1d6 spirit damage.
-*   **Neutral Creatures** Neutral creatures that begin their turn in the emanation must succeed at a Will save or be [[Dazzled]] for 1 round.
-*   **Evil Creatures** Evil creatures that begin their turn in the emanation must succeed at a Will save or be [[Blinded]] for 1 round.
+*   **Neutral Creatures** Neutral creatures that begin their turn in the emanation must succeed at a Will save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round.
+*   **Evil Creatures** Evil creatures that begin their turn in the emanation must succeed at a Will save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round.
 
 * * *
 

@@ -25,7 +25,7 @@ You cast arcane spells like a wizard, gaining a spellbook with four common arcan
 
 * * *
 
-**Special** You can't select another dedication feat other than Beast Gunner Dedication until you've gained two other feats from the [[PF2e Journals/Archetypes/Spellshot|Spellshot]] or [[PF2e Journals/Archetypes/Beast Gunner|Beast Gunner]] archetypes.
+**Special** You can't select another dedication feat other than Beast Gunner Dedication until you've gained two other feats from the [[PF2e Journals/Archetypes/Spellshot|Spellshot]] or [[Beast Gunner|Beast Gunner]] archetypes.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

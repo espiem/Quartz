@@ -14,7 +14,7 @@ license: ORC
 ---
 # Ration Tonic (Greater)
 ## Item 7
-### [[consumable]][[magical]][[potion]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 55 gp; 

@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Avenger Dedication
 * * *
-**Requirements** Your target is [[Conditions/Doomed|Doomed 2]] or greater.
+**Requirements** Your target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 2]] or greater.
 
 * * *
 

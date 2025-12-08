@@ -15,7 +15,7 @@ license: OGL
 ---
 # Mind-Swap Potion
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]][[mental]][[possession]][[potion]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[possession]][[potion]]
 
 **Category** potion; 
 **Price** 1000 gp; 

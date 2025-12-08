@@ -15,7 +15,7 @@ license: ORC
 ---
 # Decree of Execution `pf2:3`
 ## Feat 18
-### [[death]][[incapacitation]][[mythic]][[spirit]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Death]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[mythic]][[spirit]]
 
 **Category** class; 
 

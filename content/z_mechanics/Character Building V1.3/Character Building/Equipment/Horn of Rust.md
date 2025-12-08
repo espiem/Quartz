@@ -45,7 +45,7 @@ The following activations do not consume charges from the Horn of Rust, and they
 
 **Stage 2** [[Clumsy 1|Clumsy 2]] and can't speak (1 day)
 
-**Stage 3** [[Paralyzed]] with spasms (1 day)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] with spasms (1 day)
 
 **Stage 4** death
 

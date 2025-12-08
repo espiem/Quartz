@@ -24,6 +24,6 @@ You craft a 20-foot-tall wall of living flesh in a straight line up to 30 feet l
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[Grabbed]] by the wall for 1 round or until it [[Escape|Escapes]] against your spell DC, whichever comes first.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] by the wall for 1 round or until it [[Escape|Escapes]] against your spell DC, whichever comes first.
 
-**Critical Failure** The creature is [[Restrained]] by the wall for 1 round or until it Escapes against your spell DC, whichever comes first.
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]] by the wall for 1 round or until it Escapes against your spell DC, whichever comes first.

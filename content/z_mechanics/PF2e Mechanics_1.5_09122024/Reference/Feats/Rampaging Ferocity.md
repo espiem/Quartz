@@ -12,7 +12,7 @@ license: ORC
 ---
 # Rampaging Ferocity `pf2:0`
 ## Feat 17
-### [[orc]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Orc]]
 
 **Category** ancestry; 
 

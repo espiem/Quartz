@@ -8,7 +8,7 @@ tags:
 ---
 # Go for the Eyes
 
-> You are [[Other Effects/Effect_ Dazzled until end of your next turn|Effect: Dazzled until end of your next turn]].
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ Dazzled until end of your next turn|Effect: Dazzled until end of your next turn]].
 
 `Melee`
 
@@ -26,6 +26,6 @@ tags:
 
 # Now I see You...
 
-> Your target becomes [[Conditions/Invisible|Invisible]] until the end of its next turn or uses a hostile action.
+> Your target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible|Invisible]] until the end of its next turn or uses a hostile action.
 
 `Spell`

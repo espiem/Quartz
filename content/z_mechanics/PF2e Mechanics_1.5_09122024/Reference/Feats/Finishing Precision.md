@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Swashbuckler Dedication
 * * *
-You've learned how to land daring blows when you have [[Feat_Feature Effects/Effect_ Panache|Panache]].
+You've learned how to land daring blows when you have [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Panache|Panache]].
 
 You gain the [[Class Features/Precise Strike|Precise Strike]] class feature but you deal 1 addition damage on a hit and 1d6 damage on a finisher. This damage doesn't increase as you gain levels. In addition, you gain the [[Actions/Basic Finisher|Basic Finisher]] action.
 

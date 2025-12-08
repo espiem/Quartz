@@ -14,4 +14,4 @@ Activate 1 (manipulate)
 
 * * *
 
-Upon smashing this ball on the ground, you instantly create a screen of thick, opaque smoke in a 20 foot burst centered on one corner of your space. All creatures within that area are [[Concealed]], and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.
+Upon smashing this ball on the ground, you instantly create a screen of thick, opaque smoke in a 20 foot burst centered on one corner of your space. All creatures within that area are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]], and all other creatures are concealed to them. The smoke lasts for 1 minute or until dispersed by a strong wind.

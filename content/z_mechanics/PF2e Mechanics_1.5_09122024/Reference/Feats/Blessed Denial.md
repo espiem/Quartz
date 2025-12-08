@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Blessed One Dedication
 * * *
-**Trigger** An ally within 30 feet would become [[Conditions/Frightened|Frightened]], [[Conditions/Drained|Drained]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Sickened|Sickened]], or [[Conditions/Stupefied|Stupefied]].
+**Trigger** An ally within 30 feet would become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]], [[Conditions/Drained|Drained]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Sickened|Sickened]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied]].
 
 * * *
 

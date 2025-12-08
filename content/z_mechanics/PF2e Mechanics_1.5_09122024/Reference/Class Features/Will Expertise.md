@@ -14,7 +14,7 @@ license: OGL
 ---
 # Will Expertise
 ## Feat 3
-### [[alchemist]][[kineticist]][[ranger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]]
 
 **Category** classfeature; 
 

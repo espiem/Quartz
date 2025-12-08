@@ -15,7 +15,7 @@ license: ORC
 ---
 # Staff of Arcane Might (Greater)
 ## Item 16
-### [rare](rare "Rare Rarity Trait")[[magical]][[staff]][[two-hand-d8]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

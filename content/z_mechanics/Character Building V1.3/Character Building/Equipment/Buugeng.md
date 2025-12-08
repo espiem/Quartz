@@ -8,6 +8,6 @@ tags:
 ---
 
 # Buugeng
-![[systems-pf2e-icons-equipment-weapons-buugeng.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-buugeng.webp|150]]
 
 A blade of conrasu design, a buugeng has a unique, curved shape that allows it to rotate smoothly in the hand of a trained warrior. This spinning motion makes it easier to attack multiple foes at once with the weapon.

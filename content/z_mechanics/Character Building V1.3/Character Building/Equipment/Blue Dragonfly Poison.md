@@ -20,8 +20,8 @@ Boggards brew a potent toxin made from blue dragonflies. Swampseers consume this
 
 **Maximum Duration** 30 minutes
 
-**Stage 1** [[Dazzled]] (10 minutes)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] (10 minutes)
 
-**Stage 2** dazzled and [[Frightened|Frightened 1]] (10 minutes)
+**Stage 2** dazzled and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]] (10 minutes)
 
-**Stage 3** frightened 1 and [[Confused]] 1 (1 minute)
+**Stage 3** frightened 1 and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] 1 (1 minute)

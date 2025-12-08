@@ -8,7 +8,7 @@ tags:
 ---
 
 # Thundering Dominance
-![[icons-magic-death-skull-horned-worn-fire-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-death-skull-horned-worn-fire-blue.webp|150]]
 
 You shroud the target in a powerful predatory aura and amplify its vocalizations. It gains a +1 status bonus to Intimidation checks. Once during this spell's duration, it can take the [[Thundering Roar]] action.
 

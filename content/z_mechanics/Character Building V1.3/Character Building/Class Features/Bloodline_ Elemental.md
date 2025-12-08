@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bloodline: Elemental
-![[systems-pf2e-icons-features-classes-elemental.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-features-classes-elemental.webp|150]]
 
 A genie ancestor or some other elemental influence has imbued your blood with primal fury. This affects how your blood magic works, along with your bloodline spells and granted spells marked with an asterisk (\*).
 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Hypnotic Lure `pf2:2`
 ## Feat 5
-### [[concentrate]][[mental]][[nagaji]][[occult]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Nagaji]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[visual]]
 
 **Category** ancestry; 
 

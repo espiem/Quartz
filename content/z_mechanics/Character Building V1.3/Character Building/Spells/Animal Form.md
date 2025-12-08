@@ -8,7 +8,7 @@ tags:
 ---
 
 # Animal Form
-![[icons-creatures-mammals-wolf-howl-moon-gray.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-mammals-wolf-howl-moon-gray.webp|150]]
 
 You call upon primal energy to transform yourself into a Medium animal battle form. When you Cast this Spell, choose a listed battle form. You can decide the specific type of animal (such as lion or snow leopard for cat), but this has no effect on the form's Size or statistics. While in this form, you gain the animal trait. You can Dismiss the spell.
 

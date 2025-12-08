@@ -16,7 +16,7 @@ You scramble a creature's mental faculties and sensory input. The target must at
 
 **Critical Success** The target is unaffected.
 
-**Success** The target spends the first action on its next turn with the [[Confused]] condition.
+**Success** The target spends the first action on its next turn with the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] condition.
 
 **Failure** The target is Confused for 1 minute.
 

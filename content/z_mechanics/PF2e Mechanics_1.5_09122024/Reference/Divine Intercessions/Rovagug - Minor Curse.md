@@ -19,7 +19,7 @@ license: OGL
 
 Whenever you are imprisoned, you thrash and shake as your mind fills with desperation.
 
-Any time you are restrained or otherwise imprisoned (such as being sent to jail), you are also [[Conditions/Clumsy|Clumsy 2]] and [[Conditions/Stupefied|Stupefied 2]].
+Any time you are restrained or otherwise imprisoned (such as being sent to jail), you are also [[Conditions/Clumsy|Clumsy 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]].
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

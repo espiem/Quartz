@@ -8,7 +8,7 @@ tags:
 ---
 
 # Devil Form
-![[icons-magic-death-skull-horned-goat-pentagram-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-death-skull-horned-goat-pentagram-red.webp|150]]
 
 You bind yourself to the power of Hell, transforming into a Medium devil battle form. When you cast this spell, choose barbazu, erinys, osyluth, or sarglagon. If you choose osyluth or sarglagon, the battle form is Large and you must have enough space to expand into or the spell is lost. While in this form you gain the devil and fiend traits. You have hands in this battle form and can use manipulate actions. You can Dismiss the spell.
 

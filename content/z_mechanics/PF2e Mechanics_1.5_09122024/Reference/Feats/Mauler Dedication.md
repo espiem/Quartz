@@ -25,7 +25,7 @@ You specialize in melee weapons that require two hands. You have familiarity wit
 
 If you are at least an expert in such a weapon, you gain access to the critical specialization effect with that weapon.
 
-[[PF2e Journals/Archetypes/Mauler|Mauler]]
+[[Mauler|Mauler]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Merciful Charm
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[talisman]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 9 gp; 

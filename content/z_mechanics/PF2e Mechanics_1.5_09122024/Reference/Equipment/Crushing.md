@@ -10,7 +10,7 @@ license: OGL
 ---
 # Crushing
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 50 gp; 
@@ -19,7 +19,7 @@ license: OGL
 
 Weapons with this rune empower your strength, and attacks with these weapons leave your foe staggered. When you critically hit a target with this weapon, your target becomes [[Conditions/Clumsy|Clumsy 1]] and [[Conditions/Enfeebled|Enfeebled 1]] until the end of your next turn.
 
-[[Equipment Effects/Effect_ Crushing|Effect: Crushing]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Crushing|Effect: Crushing]]
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

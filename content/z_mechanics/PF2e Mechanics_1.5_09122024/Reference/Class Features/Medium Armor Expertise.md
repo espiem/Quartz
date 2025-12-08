@@ -17,7 +17,7 @@ license: ORC
 ---
 # Medium Armor Expertise
 ## Feat 11
-### [[alchemist]][[barbarian]][[druid]][[gunslinger]][[magus]][[ranger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Druid]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Gunslinger]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Magus]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]]
 
 **Category** classfeature; 
 

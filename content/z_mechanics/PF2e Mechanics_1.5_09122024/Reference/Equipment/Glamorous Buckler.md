@@ -11,7 +11,7 @@ license: ORC
 ---
 # Glamorous Buckler
 ## Item 2
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 35 gp; 
@@ -32,7 +32,7 @@ A glamorous buckler (Hardness 3, HP 6, BT 3) is lavishly decorated with gilding 
 
 * * *
 
-**Effect** As you Feint, the glamorous buckler sparkles mightily. On a successful Feint, the target is [[Conditions/Dazzled|Dazzled]] for 1 round.
+**Effect** As you Feint, the glamorous buckler sparkles mightily. On a successful Feint, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for 1 round.
 
 * * *
 

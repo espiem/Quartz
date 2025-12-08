@@ -13,7 +13,7 @@ license: OGL
 ---
 # Turn Back the Clock `pf2:r`
 ## Feat 4
-### [[archetype]][[concentrate]][[fortune]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[fortune]]
 
 **Category** class; 
 

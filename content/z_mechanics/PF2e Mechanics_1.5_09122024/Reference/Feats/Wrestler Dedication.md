@@ -23,7 +23,7 @@ license: ORC
 * * *
 Your training in the wrestling arts has made you particularly adept at moving, striking, and grappling while unencumbered. You become an expert in Athletics and gain the Titan Wrestler skill feat. You don't take the -2 circumstance penalty for making a lethal attack with your nonlethal unarmed attacks. In addition, you gain a +2 circumstance bonus to your Fortitude DC when resisting an opponent's attempts to Grapple you or Swallow you Whole.
 
-[[PF2e Journals/Archetypes/Wrestler|Wrestler]]
+[[Wrestler|Wrestler]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

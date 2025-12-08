@@ -25,7 +25,7 @@ You feel something awaken within your mind. You become trained in Occultism; if 
 
 * * *
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Psychic|Psychic]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Psychic|Psychic]] archetype.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

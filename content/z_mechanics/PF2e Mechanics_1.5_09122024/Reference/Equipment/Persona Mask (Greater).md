@@ -13,7 +13,7 @@ license: ORC
 ---
 # Persona Mask (Greater)
 ## Item 9
-### [[fortune]][[invested]][[magical]]
+### [[fortune]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 650 gp; 

@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-You cause your eyes to liquefy and run out of your eye sockets, leaving them empty. You get a success on the save against the triggering effect, but you are [[Blinded]] for the duration the effect would have had on a failure. At that time, your eyes regrow and your normal vision returns.
+You cause your eyes to liquefy and run out of your eye sockets, leaving them empty. You get a success on the save against the triggering effect, but you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for the duration the effect would have had on a failure. At that time, your eyes regrow and your normal vision returns.

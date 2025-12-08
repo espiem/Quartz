@@ -10,7 +10,7 @@ tags:
 # Too Angry to Die
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Trigger** you stand up from [[Prone]] after waking up from being [[Unconscious]]
+**Trigger** you stand up from [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] after waking up from being [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]]
 
 * * *
 

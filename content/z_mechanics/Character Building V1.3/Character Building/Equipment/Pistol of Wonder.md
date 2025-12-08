@@ -40,12 +40,12 @@ Any spell DC required is DC 29, and any spell attack roll required is +21. If th
 | 48-50 | The pistol casts _[[Translocate]]_ on you, teleporting you to the space adjacent to the target opposite your current position; if that space isn't clear, you instead teleport to the nearest open space. |
 | 51 | The pistol casts _[[Disintegrate]]_. |
 | 52 | Dozens of tattered, nonmagical playing cards burst from the pistol's barrel. |
-| 53-54 | Shadows crowd around the target, making all creatures [[Concealed]] to the target while not in bright light; this effect lasts for 1 hour. |
+| 53-54 | Shadows crowd around the target, making all creatures [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] to the target while not in bright light; this effect lasts for 1 hour. |
 | 55-57 | Normal vegetation within 30 feet of the target immediately dies and turns to ash. |
 | 58 | The pistol casts _[[Dinosaur Form]]_ on you to transform you into a triceratops; the pistol protrudes from the base of your front horn, and you can fire (but not reload) the pistol while in this form. |
 | 59 | All non-artifact ammunition in your possession crumbles to dust. |
-| 60-69 | You are [[Quickened]] for 1 minute. You can use the extra action only to reload or fire the pistol. |
-| 70-71 | The target is [[Quickened]] for 1 minute. It can use the extra action only to Step or Stride. |
+| 60-69 | You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]] for 1 minute. You can use the extra action only to reload or fire the pistol. |
+| 70-71 | The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]] for 1 minute. It can use the extra action only to Step or Stride. |
 | 72-79 | The pistol casts _[[Phantasmal Killer]]_. |
 | 80-81 | Dozens of bullet holes appear in the target's nonmagical clothing. The effect is purely cosmetic. |
 | 82-85 | The pistol casts _[[Outcast's Curse]]_. |

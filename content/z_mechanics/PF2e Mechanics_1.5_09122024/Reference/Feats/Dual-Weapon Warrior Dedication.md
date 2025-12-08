@@ -22,7 +22,7 @@ license: ORC
 
 You're exceptional in your use of two weapons. You gain the [[Feats/Double Slice|Double Slice]] fighter feat.
 
-[[PF2e Journals/Archetypes/Dual-Weapon Warrior|Dual-Weapon Warrior]]
+[[Dual-Weapon Warrior|Dual-Weapon Warrior]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

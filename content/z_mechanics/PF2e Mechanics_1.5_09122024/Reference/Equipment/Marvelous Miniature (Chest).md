@@ -14,7 +14,7 @@ license: ORC
 ---
 # Marvelous Miniature (Chest)
 ## Item 3
-### [[consumable]][[expandable]][[magical]]
+### [[consumable]][[expandable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 10 gp; 

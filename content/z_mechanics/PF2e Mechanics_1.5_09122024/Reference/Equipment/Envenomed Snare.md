@@ -15,7 +15,7 @@ license: OGL
 ---
 # Envenomed Snare
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[mechanical]][[poison]][[snare]][[trap]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[mechanical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[snare]][[trap]]
 
 **Category** poison; 
 **Price** 60 gp; 

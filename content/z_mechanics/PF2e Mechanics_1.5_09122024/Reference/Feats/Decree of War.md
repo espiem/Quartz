@@ -13,7 +13,7 @@ license: ORC
 ---
 # Decree of War `pf2:3`
 ## Feat 18
-### [[auditory]][[mythic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[mythic]]
 
 **Category** class; 
 

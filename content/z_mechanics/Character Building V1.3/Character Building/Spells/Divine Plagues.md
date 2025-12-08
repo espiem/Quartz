@@ -14,9 +14,9 @@ Your deity sends wracking plagues. The target must attempt a Fortitude save. Whe
 
 **Divine Plague** (disease) **Level** 1
 
-**Stage 1** [[Clumsy 1]], [[Enfeebled 1]], or [[Stupefied|Stupefied 1]] (1 round)
+**Stage 1** [[Clumsy 1]], [[Enfeebled 1]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (1 round)
 
-**Stage 2** [[Slowed]], and Clumsy 1, Enfeebled 1, or Stupefied 1 (1 round)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]], and Clumsy 1, Enfeebled 1, or Stupefied 1 (1 round)
 
 **Stage 3** Clumsy 1, Enfeebled 1, or Stupefied 1 and the target can't recover from the condition until they are cured (1 day)
 

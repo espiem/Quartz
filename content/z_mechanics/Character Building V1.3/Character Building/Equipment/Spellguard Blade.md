@@ -8,7 +8,7 @@ tags:
 ---
 
 # Spellguard Blade
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-spellguard-blade.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-specific-magic-weapons-spellguard-blade.webp|150]]
 
 The guard of this +1 striking main-gauche is inscribed with eldritch glyphs that guard against magic.
 

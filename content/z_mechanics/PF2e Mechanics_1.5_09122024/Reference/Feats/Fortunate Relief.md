@@ -13,7 +13,7 @@ license: ORC
 ---
 # Fortunate Relief
 ## Feat 12
-### [[cleric]][[fortune]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]][[fortune]]
 
 **Category** class; 
 

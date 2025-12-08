@@ -13,7 +13,7 @@ license: OGL
 ---
 # Spiritual Warhorn (Moderate)
 ## Item 9
-### [[consumable]][[force]][[magical]]
+### [[consumable]][[force]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 150 gp; 

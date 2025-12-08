@@ -11,7 +11,7 @@ license: OGL
 ---
 # Aeon Stone (Pearly White Spindle)
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 60 gp; 
@@ -22,7 +22,7 @@ When you invest this _aeon stone_, it slowly starts healing your wounds, restori
 
 The resonant power grants you resistance 1 to void damage.
 
-[[Equipment Effects/Effect_ Aeon Stone Resonance (Pearly White Spindle)|Effect: Aeon Stone Resonance (Pearly White Spindle)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Aeon Stone Resonance (Pearly White Spindle)|Effect: Aeon Stone Resonance (Pearly White Spindle)]]
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

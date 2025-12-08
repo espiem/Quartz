@@ -11,7 +11,7 @@ license: OGL
 ---
 # Heroes' Call
 ## Feat 9
-### [[dwarf]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Dwarf]]
 
 **Category** ancestry; 
 
@@ -20,7 +20,7 @@ license: OGL
 
 The songs of ancient heroes echo through your mind and quicken your pulse, especially in dire straits. You gain [[Spells/Heroism|Heroism]] as a 3rd-rank innate occult spell that you can cast once per day. If you Cast the Spell when you have half or fewer Hit Points, you also gain temporary Hit Points equal to twice your level.
 
-[[Feat_Feature Effects/Effect_ Heroes' Call|Effect: Heroes' Call]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Heroes' Call|Effect: Heroes' Call]]
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

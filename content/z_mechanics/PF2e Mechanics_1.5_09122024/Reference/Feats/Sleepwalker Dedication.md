@@ -22,7 +22,7 @@ license: OGL
 * * *
 You've learned to manipulate states of consciousness, beginning with your own. You can send yourself into a half-awake, daydreaming state and gain the [[Actions/Daydream Trance|Daydream Trance]] action.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Sleepwalker|Sleepwalker]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[Sleepwalker|Sleepwalker]] archetype.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

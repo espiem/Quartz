@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bloodseeker Beak (Greater)
-![[icons-commodities-claws-claw-insect-brown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-commodities-claws-claw-insect-brown.webp|150]]
 
 **Activate** F (concentrate)
 

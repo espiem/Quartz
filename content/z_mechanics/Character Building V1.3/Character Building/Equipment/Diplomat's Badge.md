@@ -8,7 +8,7 @@ tags:
 ---
 
 # Diplomat's Badge
-![[icons-commodities-treasure-token-gold-cross.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-commodities-treasure-token-gold-cross.webp|150]]
 
 When displayed prominently, this brass badge makes creatures find you more agreeable. You gain a +1 item bonus to Diplomacy checks.
 

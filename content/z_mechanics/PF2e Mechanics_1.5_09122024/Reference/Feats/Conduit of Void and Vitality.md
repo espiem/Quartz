@@ -14,7 +14,7 @@ license: ORC
 ---
 # Conduit of Void and Vitality `pf2:2`
 ## Feat 16
-### [[cursebound]][[divine]][[oracle]]
+### [[cursebound]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Oracle]]
 
 **Category** class; 
 

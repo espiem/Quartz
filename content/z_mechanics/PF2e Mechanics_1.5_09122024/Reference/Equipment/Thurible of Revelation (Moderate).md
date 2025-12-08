@@ -11,7 +11,7 @@ license: ORC
 ---
 # Thurible of Revelation (Moderate)
 ## Item 10
-### [[divine]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 
 **Price** 900 gp; 
@@ -30,7 +30,7 @@ This brass censer dangles on a length of chain. Most _thuribles of revelation_ a
 
 Once per day, when you activate the thurible, you can increase its revelations. During that activation, you can hold the thurible up to your eyes with an Interact action to gain the effects of [[Spells/See the Unseen|See the Unseen]] for 1 round by peering through the smoke.
 
-[[Equipment Effects/Effect_ Thurible of Revelation (Moderate)|Effect: Thurible of Revelation (Moderate)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Thurible of Revelation (Moderate)|Effect: Thurible of Revelation (Moderate)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

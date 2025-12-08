@@ -8,7 +8,7 @@ tags:
 ---
 # Rattled
 
-> Normal damage. **Crit Effect:** The target is [[Conditions/Confused|Confused]] for 1 round.
+> Normal damage. **Crit Effect:** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]] for 1 round.
 
 `Bludgeoning`
 
@@ -20,7 +20,7 @@ tags:
 
 # Severed Tendon
 
-> **Crit Effect:** Until healed, the target is [[Conditions/Clumsy|Clumsy 1]] and takes a [[Other Effects/Effect_ -5-foot status penalty to your land Speed|-5-foot status penalty to land Speed]].
+> **Crit Effect:** Until healed, the target is [[Conditions/Clumsy|Clumsy 1]] and takes a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -5-foot status penalty to your land Speed|-5-foot status penalty to land Speed]].
 
 `Slashing`
 

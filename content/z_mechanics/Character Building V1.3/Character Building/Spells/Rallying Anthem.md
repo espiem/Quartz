@@ -8,6 +8,6 @@ tags:
 ---
 
 # Rallying Anthem
-![[systems-pf2e-icons-spells-inspire-defense.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-inspire-defense.webp|150]]
 
 Your song moves allies to protect themselves more effectively. You and all allies in the area gain a +1 status bonus to AC and saving throws, as well as resistance equal to half the spell's rank to physical damage.

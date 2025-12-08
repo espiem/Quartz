@@ -12,7 +12,7 @@ license: ORC
 ---
 # Just the Facts
 ## Feat 20
-### [[investigator]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Investigator]]
 
 **Category** class; 
 
@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Thorough Research
 * * *
-You fundamentally understand everything to the point where your research can't possibly be wrong. You are permanently [[Conditions/Quickened|Quickened]] and can use the extra action to Recall Knowledge. In addition, you gain the following benefits with Recall Knowledge.
+You fundamentally understand everything to the point where your research can't possibly be wrong. You are permanently [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened]] and can use the extra action to Recall Knowledge. In addition, you gain the following benefits with Recall Knowledge.
 
 *   Your checks to Recall Knowledge are no longer secret.
 *   When you Recall Knowledge, you use the outcome for one degree of success better than the result of your check.

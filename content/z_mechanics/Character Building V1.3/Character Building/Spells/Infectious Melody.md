@@ -8,7 +8,7 @@ tags:
 ---
 
 # Infectious Melody
-![[icons-magic-control-hypnosis-mesmerism-swirl.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-control-hypnosis-mesmerism-swirl.webp|150]]
 
 You call forth the chords of a tune so catchy that foes hearing it can't help but sing along, making it harder for them to communicate. Each target must attempt a Will save.
 

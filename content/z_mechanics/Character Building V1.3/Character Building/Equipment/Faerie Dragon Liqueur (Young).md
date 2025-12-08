@@ -18,8 +18,8 @@ Each draft of faerie dragon liqueur has a different flavor. For 1 hour after you
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Stupefied|Stupefied 1]] for 1 round.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for 1 round.
 
-**Failure** The creature is stupefied 1 for 1 minute and [[Slowed]] for 1d4 rounds.
+**Failure** The creature is stupefied 1 for 1 minute and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] for 1d4 rounds.
 
-**Critical Failure** The creature is [[Stupefied|Stupefied 2]] and slowed 1 for 1 minute.
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] and slowed 1 for 1 minute.

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Saboteur's Friend
 ## Item 4
-### [[alchemical]][[consumable]][[ingested]][[poison]]
+### [[alchemical]][[consumable]][[ingested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** other; 
 **Price** 14 gp; 
@@ -35,7 +35,7 @@ The euphemistically named saboteur's friend looks, smells, and tastes like an ap
 
 **Stage 2** [[Conditions/Enfeebled|Enfeebled 1]] and [[Conditions/Sickened|Sickened 2]] (10 minutes)
 
-**Stage 3** enfeebled 1, [[Conditions/Fatigued|Fatigued]], and [[Conditions/Sickened|Sickened 3]] (10 minutes)
+**Stage 3** enfeebled 1, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]], and [[Conditions/Sickened|Sickened 3]] (10 minutes)
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

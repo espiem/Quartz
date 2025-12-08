@@ -8,7 +8,7 @@ tags:
 ---
 
 # Synaptic Pulse
-![[icons-magic-fire-barrier-shield-explosion-yellow.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-barrier-shield-explosion-yellow.webp|150]]
 
 You emit a pulsating mental blast that penetrates the minds of all enemies in the area. Each enemy in the area must attempt a Will save.
 

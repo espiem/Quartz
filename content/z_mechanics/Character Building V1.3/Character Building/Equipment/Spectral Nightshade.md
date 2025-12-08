@@ -22,11 +22,11 @@ Belladonna cultivated in planes hazardous to living visitors, such as the Shadow
 
 **Maximum Duration** 6 minutes
 
-**Stage 1** 10d6 poison damage and [[Dazzled]](1 minute)
+**Stage 1** 10d6 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]](1 minute)
 
 **Stage 2** 13d6 poison damage and [[Drained 1]] (1 minute)
 
-**Stage 3** 15d6 poison damage, [[Confused]], and [[Drained 1|Drained 2]] (1 minute)
+**Stage 3** 15d6 poison damage, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]], and [[Drained 1|Drained 2]] (1 minute)
 
 * * *
 

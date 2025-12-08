@@ -17,7 +17,7 @@ license: OGL
 
 
 
-The secrets of magic become mentally taxing. You are permanently [[Conditions/Stupefied|Stupefied 1]].
+The secrets of magic become mentally taxing. You are permanently [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]].
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

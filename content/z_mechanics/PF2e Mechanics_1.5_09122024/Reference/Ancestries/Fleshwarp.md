@@ -20,7 +20,7 @@ license: OGL
 
 _Fleshwarps are people whose forms were created or radically transformed by magic, alchemy, or unnatural energies. Their unorthodox appearance can make it difficult for them to find a place for themselves in the world._
 
-_[[PF2e Journals/Ancestries/Fleshwarp|Fleshwarp]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Fleshwarp|Fleshwarp]]_
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Unity
-![[icons-skills-movement-arrows-up-trio-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-movement-arrows-up-trio-red.webp|150]]
 
 **Trigger** You and 1 or more allies within range are targeted by a spell or ability that allows a saving throw.
 

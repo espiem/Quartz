@@ -8,7 +8,7 @@ tags:
 ---
 
 # Incendiary Ashes
-![[systems-pf2e-icons-spells-incendiary-ashes.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-incendiary-ashes.webp|150]]
 
 A cloud of magical ashes descends upon creatures in the area. The ashes scour flesh and linger in the wounds, igniting upon the slightest flicker of flame. Creatures in the area take 4d6 slashing damage and must attempt a Fortitude save.
 

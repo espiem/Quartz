@@ -16,7 +16,7 @@ license: ORC
 ---
 # Chimera Flail
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[magical]][[sweep]][[trip]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[sweep]][[trip]]
 
 |  |  |
 | -- | -- |
@@ -43,7 +43,7 @@ The three spiked heads of this _+1 striking war flail_ are fashioned to resemble
 
 * * *
 
-**Lion** This head does piercing damage instead of the normal bludgeoning damage, plus 1 additional precision damage if the target is [[Conditions/Off-Guard|Off-Guard]].
+**Lion** This head does piercing damage instead of the normal bludgeoning damage, plus 1 additional precision damage if the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]].
 
 **Activate—Pouncing Whirl** `pf2:2` (concentrate)
 

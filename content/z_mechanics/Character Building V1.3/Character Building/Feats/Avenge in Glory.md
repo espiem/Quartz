@@ -14,7 +14,7 @@ tags:
 
 **Access** mountain dwarf ethnicity
 
-**Trigger** An ally within 30 feet gains the [[Dying]] condition.
+**Trigger** An ally within 30 feet gains the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying]] condition.
 
 * * *
 

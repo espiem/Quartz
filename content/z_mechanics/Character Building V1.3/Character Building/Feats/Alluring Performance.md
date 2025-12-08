@@ -18,7 +18,7 @@ You command the attention of those around you with an elegant display. Attempt a
 
 * * *
 
-**Critical Success** The target is [[Fascinated]] with you for as long as you perform (unless it breaks from the fascination, as normal for the condition) and is [[Dazzled]] for 1 round or as long as it's fascinated, whichever is longer.
+**Critical Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] with you for as long as you perform (unless it breaks from the fascination, as normal for the condition) and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round or as long as it's fascinated, whichever is longer.
 
 **Success** The target is fascinated for 1 round and is dazzled for 1 round.
 

@@ -8,4 +8,4 @@ tags:
 ---
 
 # Alabaster idol
-![[icons-commodities-treasure-statue-bust-stone-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-commodities-treasure-statue-bust-stone-grey.webp|150]]

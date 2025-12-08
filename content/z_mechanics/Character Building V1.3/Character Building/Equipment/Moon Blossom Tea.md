@@ -8,7 +8,7 @@ tags:
 ---
 
 # Moon Blossom Tea
-![[icons-consumables-plants-dried-herb-bundle-brown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-consumables-plants-dried-herb-bundle-brown.webp|150]]
 
 **Activate** 1 Interact or 10 minutes (concentrate, Interact)
 

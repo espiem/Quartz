@@ -14,7 +14,7 @@ license: ORC
 ---
 # (Werecreature) Change Shape `pf2:1`
 
-### [[concentrate]][[polymorph]][[primal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[polymorph]][[primal]]
 
 **Category** offensive; 
 

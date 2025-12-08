@@ -8,13 +8,13 @@ tags:
 ---
 # Earth Rumble
 
-> Normal damage. **Crit Effect:** The target and each enemy adjacent to it must succeed at a Reflex check of fall [[Conditions/Prone|Prone]].
+> Normal damage. **Crit Effect:** The target and each enemy adjacent to it must succeed at a Reflex check of fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 `Bludgeoning`
 
 # Vulnerable Spot
 
-> The target is [[Conditions/Off-Guard|Off-Guard]] until healed.
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until healed.
 
 `Piercing`
 

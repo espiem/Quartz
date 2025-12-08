@@ -14,7 +14,7 @@ license: OGL
 ---
 # Public Execution `pf2:1`
 ## Feat 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[auditory]][[flourish]][[linguistic]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[flourish]][[linguistic]]
 
 **Category** class; 
 

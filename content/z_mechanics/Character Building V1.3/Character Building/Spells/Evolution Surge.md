@@ -8,7 +8,7 @@ tags:
 ---
 
 # Evolution Surge
-![[systems-pf2e-icons-spells-evolution-surge.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-evolution-surge.webp|150]]
 
 You flood your eidolon with power, creating a temporary evolution in your eidolon's capabilities. Choose one of the following effects:
 

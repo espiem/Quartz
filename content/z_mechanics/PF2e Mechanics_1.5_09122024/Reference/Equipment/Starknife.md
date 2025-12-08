@@ -17,7 +17,7 @@ license: ORC
 ---
 # Starknife
 ## Item 0
-### [[agile]][[deadly-d6]][[finesse]][[thrown-20]][[versatile-s]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[deadly-d6]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[thrown-20]][[versatile-s]]
 
 |  |  |
 | -- | -- |

@@ -14,4 +14,4 @@ The living residents of Geb are known as the quick, and it is not, overall, a ve
 
 Choose two ability boosts. One must be to **Dexterity** or **Wisdom**, and one is a free ability boost.
 
-You're trained in Stealth and Undead Lore. When you Hide or [[Sneak]] successfully, you are also [[Hidden]] or [[Concealed]] from undeads' lifesense and other special precise senses the undead possess.
+You're trained in Stealth and Undead Lore. When you Hide or [[Sneak]] successfully, you are also [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] from undeads' lifesense and other special precise senses the undead possess.

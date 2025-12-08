@@ -12,7 +12,7 @@ license: ORC
 ---
 # Bloodline: Fey
 ## Feat 1
-### [[sorcerer]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]]
 
 **Category** classfeature; 
 
@@ -29,9 +29,9 @@ Fey whimsy or a tryst in a moonlit grove put the bewitching magic of the First W
 
 **Bloodline Spells** initial: [[Spells/Faerie Dust|Faerie Dust]], advanced: [[Spells/Fey Disappearance|Fey Disappearance]], greater: [[Spells/Fey Glamour|Fey Glamour]]
 
-**Blood Magic—Cloak of Ribbons** Colorful fey ribbons dance around you. Either you gain a +2 status bonus to Performance checks for 1 round, or you can become [[Conditions/Concealed|Concealed]] for 1 round. Such obvious concealment can't be used to [[Actions/Hide|Hide]]
+**Blood Magic—Cloak of Ribbons** Colorful fey ribbons dance around you. Either you gain a +2 status bonus to Performance checks for 1 round, or you can become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] for 1 round. Such obvious concealment can't be used to [[Actions/Hide|Hide]]
 
-[[Feat_Feature Effects/Effect_ Fey Blood Magic|Effect: Fey Blood Magic]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Fey Blood Magic|Effect: Fey Blood Magic]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

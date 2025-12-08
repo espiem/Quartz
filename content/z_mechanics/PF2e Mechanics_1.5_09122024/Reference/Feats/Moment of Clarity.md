@@ -14,7 +14,7 @@ license: ORC
 ---
 # Moment of Clarity `pf2:1`
 ## Feat 1
-### [[barbarian]][[concentrate]][[rage]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[rage]]
 
 **Category** class; 
 

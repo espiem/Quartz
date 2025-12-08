@@ -15,7 +15,7 @@ license: OGL
 ---
 # Bec de Corbin
 ## Item 0
-### [[razing]][[reach]][[shove]][[versatile-b]]
+### [[razing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]][[shove]][[versatile-b]]
 
 |  |  |
 | -- | -- |

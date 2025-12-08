@@ -15,7 +15,7 @@ license: OGL
 ---
 # Pistolero's Challenge `pf2:1`
 ## Feat 6
-### [[auditory]][[flourish]][[gunslinger]][[linguistic]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[flourish]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Gunslinger]][[linguistic]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** class; 
 
@@ -31,7 +31,7 @@ You can have only one challenge in effect at a time; challenging a new opponent 
 
 [[Feat_Feature Effects/Effect_ Pistolero's Challenge|Effect: Pistolero's Challenge]]
 
-**Critical Failure** You become [[Conditions/Frightened|Frightened 1]] and can't use this ability again for 1 minute.
+**Critical Failure** You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]] and can't use this ability again for 1 minute.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

@@ -12,14 +12,14 @@ license: OGL
 ---
 # Cryolite Eye
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[contract]][[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[contract]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 
 **Bulk** 0; **Size** med
 **Usage** other
 
-You tore your eye from the socket and offered it to whatever spirit would take it. In return, you received a glass eye in its place. This eye allows you to see as normal, and when you succeed at a Perception check against an illusion, you get a critical success instead. Once per day, from any distance, the entity that holds your _bargained contract_ can overwhelm your cryolite eye with magical energy, causing images to float over your vision that inflict the [[Conditions/Dazzled|Dazzled]] condition on you for 1 minute.
+You tore your eye from the socket and offered it to whatever spirit would take it. In return, you received a glass eye in its place. This eye allows you to see as normal, and when you succeed at a Perception check against an illusion, you get a critical success instead. Once per day, from any distance, the entity that holds your _bargained contract_ can overwhelm your cryolite eye with magical energy, causing images to float over your vision that inflict the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] condition on you for 1 minute.
 
 **Activate** `pf2:2` command
 

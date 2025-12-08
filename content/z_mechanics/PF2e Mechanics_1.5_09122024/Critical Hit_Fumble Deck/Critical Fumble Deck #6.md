@@ -8,13 +8,13 @@ tags:
 ---
 # Eat Dirt
 
-> You fall [[Conditions/Prone|Prone]] and are [[Conditions/Blinded|Blinded]] until the end of your next turn.
+> You fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] and are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] until the end of your next turn.
 
 `Melee`
 
 # Overcompensate
 
-> Cover provides a [[Other Effects/Effect_ +4 circumstance bonus to AC against your ranged attacks|+4 circumstance bonus to AC against your ranged attacks]] against your ranged attacks for 1 minute.
+> Cover provides a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ +4 circumstance bonus to AC against your ranged attacks|+4 circumstance bonus to AC against your ranged attacks]] against your ranged attacks for 1 minute.
 
 `Ranged`
 

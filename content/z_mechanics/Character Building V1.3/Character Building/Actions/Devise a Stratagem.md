@@ -8,7 +8,7 @@ tags:
 ---
 
 # Devise a Stratagem
-![[systems-pf2e-icons-features-classes-devise-a-stratagem.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Actions/zz_asset-files/systems-pf2e-icons-features-classes-devise-a-stratagem.webp|150]]
 
 **Frequency** once per round
 

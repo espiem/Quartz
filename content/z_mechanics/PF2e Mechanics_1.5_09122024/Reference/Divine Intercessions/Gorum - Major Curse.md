@@ -17,7 +17,7 @@ license: OGL
 
 
 
-You are unable to keep up with the rigors of combat. The moment a combat breaks out, you become [[Conditions/Fatigued|Fatigued]] and [[Conditions/Slowed|Slowed 1]]. At the end of each of your turns, your [[Conditions/Slowed|Slowed]] condition increases by 1. These conditions end only when you are no longer in combat.
+You are unable to keep up with the rigors of combat. The moment a combat breaks out, you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]]. At the end of each of your turns, your [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed]] condition increases by 1. These conditions end only when you are no longer in combat.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

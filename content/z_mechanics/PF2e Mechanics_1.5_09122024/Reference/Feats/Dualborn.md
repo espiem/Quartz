@@ -25,7 +25,7 @@ Your suli heritage can be traced back to two geniekin ancestors of opposing elem
 
 **Special** If you take the Elemental Assault or Elemental Bulwark ancestry feats, you can use them only with your chosen elements. You can add your resistance from this feat to the resistance you gain from Elemental Bulwark against effects with your elements' traits, for a total of 5 + half your level, or 10 + half your level with Improved Elemental Bulwark. If you take the Tetraelemental Assault feat, you can choose each of your two elements twice each, instead of choosing each of the four elements once each.
 
-[[Feat_Feature Effects/Effect_ Elemental Assault|Effect: Elemental Assault]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Elemental Assault|Effect: Elemental Assault]]
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

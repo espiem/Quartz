@@ -11,7 +11,7 @@ license: ORC
 ---
 # Transform Ammunition `pf2:0`
 
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 

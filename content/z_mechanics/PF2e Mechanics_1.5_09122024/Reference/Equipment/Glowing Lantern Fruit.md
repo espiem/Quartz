@@ -14,7 +14,7 @@ license: OGL
 ---
 # Glowing Lantern Fruit
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[wood]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wood]]
 
 **Category** other; 
 **Price** 4 gp; 
@@ -29,7 +29,7 @@ The flesh of this fruit pod resembles a stylized paper lantern, with a woody, ge
 
 **Effect** The _glowing lantern fruit_ sheds bright light in a 60-foot radius (and dim light for the next 60 feet) for 8 hours. While the light is shining, you can Interact with the _glowing lantern fruit_ to open or close some of its reflective leaves, making the light directional like a bull's-eye lantern or a hooded lantern.
 
-[[Equipment Effects/Effect_ Glowing Lantern Fruit (Lantern Light)|Effect: Glowing Lantern Fruit (Lantern Light)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Glowing Lantern Fruit (Lantern Light)|Effect: Glowing Lantern Fruit (Lantern Light)]]
 
 * * *
 

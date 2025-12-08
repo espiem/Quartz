@@ -24,7 +24,7 @@ You might be a novice in the temporal arts now, but in the future, you'll hold t
 
 * * *
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Time Mage|Time Mage]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[Time Mage|Time Mage]] archetype.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

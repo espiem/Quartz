@@ -26,4 +26,4 @@ Burnt fulu ashes float in this liquid, lending a distinctive red color and impar
 
 * * *
 
-**Effect** You drink the fu water to counteract ailments within yourself. Attempt a counteract check with a +9 counteract modifier and a counteract level of 3 against one effect that imposes the [[Confused]], [[Fascinated]], [[Frightened]], or [[Stupefied]] condition. You are then [[Sickened 1]].
+**Effect** You drink the fu water to counteract ailments within yourself. Attempt a counteract check with a +9 counteract modifier and a counteract level of 3 against one effect that imposes the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied]] condition. You are then [[Sickened 1]].

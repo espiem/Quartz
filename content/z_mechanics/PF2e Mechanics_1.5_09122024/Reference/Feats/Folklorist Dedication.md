@@ -24,7 +24,7 @@ You are a master archivist and entertainer, capable of pulling wisdom from the t
 
 * * *
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Folklorist|Folklorist]] archetype.
+**Special** You can't select another dedication feat until you've gained two other feats from the [[Folklorist|Folklorist]] archetype.
 
 *Source: Pathfinder #170: Spoken on the Song Wind*
 *OGL*

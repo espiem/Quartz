@@ -13,7 +13,7 @@ license: OGL
 ---
 # Blood Frenzy
 ## Feat 6
-### [[eidolon]][[evolution]][[summoner]]
+### [[eidolon]][[evolution]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Summoner]]
 
 **Category** class; 
 
@@ -25,7 +25,7 @@ license: OGL
 
 Your eidolon flies into a frenzy. It gains the benefits of _boost eidolon_ and gains temporary HP equal to your level, but takes a -2 penalty to AC. It can't voluntarily end the frenzy or start another frenzy while in the frenzy.
 
-The frenzy lasts for 1 minute, after which your eidolon is [[Conditions/Fatigued|Fatigued]] for 1 minute and can't start another frenzy for 1 minute.
+The frenzy lasts for 1 minute, after which your eidolon is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]] for 1 minute and can't start another frenzy for 1 minute.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

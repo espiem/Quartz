@@ -8,7 +8,7 @@ tags:
 ---
 
 # Ignition
-![[icons-magic-fire-flame-burning-earth-orange.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-flame-burning-earth-orange.webp|150]]
 
 You snap your fingers and point at a target, which begins to smolder. Make a spell attack roll against the target's AC, dealing 2d4 fire damage on a hit. If the target is within your melee reach, you can choose to make a melee spell attack with the flame instead of a ranged spell attack, which increases all the spell's damage dice to d6s.
 

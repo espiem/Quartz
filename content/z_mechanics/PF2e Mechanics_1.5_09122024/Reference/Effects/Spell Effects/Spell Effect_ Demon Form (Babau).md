@@ -33,7 +33,7 @@ You also gain specific abilities based on the type of demon you choose:
     *   **Melee** `pf2:1` longspear (reach 10 feet), **Damage** 2d8+10 piercing plus 1d6 spirit;
     *   **Melee** `pf2:1` jaws, **Damage** 2d10 piercing plus 1d6 spirit;
     *   **Melee** `pf2:1` claw (agile), **Damage** 2d4 slashing plus 1d6 spirit;
-    *   all Strikes deal 2d6 additional precision damage to [[Conditions/Off-Guard|Off-Guard]] creatures.
+    *   all Strikes deal 2d6 additional precision damage to [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] creatures.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

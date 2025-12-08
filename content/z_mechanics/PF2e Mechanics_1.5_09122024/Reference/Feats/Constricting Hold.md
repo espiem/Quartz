@@ -13,14 +13,14 @@ license: OGL
 ---
 # Constricting Hold `pf2:1`
 ## Feat 8
-### [[eidolon]][[evolution]][[summoner]]
+### [[eidolon]][[evolution]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Summoner]]
 
 **Category** class; 
 
 
 
 
-**Requirements** Your eidolon has a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** Your eidolon has a creature [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]].
 
 Your eidolon constricts the creature, dealing bludgeoning damage equal to your eidolon's level plus its Strength modifier, with a basic Fortitude save against your spell DC.
 

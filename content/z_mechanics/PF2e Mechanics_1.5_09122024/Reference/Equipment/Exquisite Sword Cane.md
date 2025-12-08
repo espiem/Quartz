@@ -16,7 +16,7 @@ license: OGL
 ---
 # Exquisite Sword Cane
 ## Item 4
-### [[agile]][[concealable]][[finesse]][[parry]][[twin]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[concealable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[parry]][[twin]]
 
 |  |  |
 | -- | -- |

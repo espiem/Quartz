@@ -11,7 +11,7 @@ license: OGL
 ---
 # (Ghost) Beatific Appearance `pf2:r`
 
-### [[divine]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 **Category** defensive; 
 

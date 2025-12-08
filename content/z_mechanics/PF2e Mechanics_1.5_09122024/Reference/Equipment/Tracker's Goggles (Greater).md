@@ -12,7 +12,7 @@ license: ORC
 ---
 # Tracker's Goggles (Greater)
 ## Item 9
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 660 gp; 

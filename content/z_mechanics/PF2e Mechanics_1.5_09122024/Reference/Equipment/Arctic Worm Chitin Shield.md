@@ -12,7 +12,7 @@ license: ORC
 ---
 # Arctic Worm Chitin Shield
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 1800 gp; 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Panacea
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[healing]][[magical]][[potion]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 450 gp; 

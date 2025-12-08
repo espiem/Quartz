@@ -15,7 +15,7 @@ license: OGL
 ---
 # Boreal Staff (Greater)
 ## Item 12
-### [[magical]][[monk]][[staff]][[two-hand-d8]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]][[staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

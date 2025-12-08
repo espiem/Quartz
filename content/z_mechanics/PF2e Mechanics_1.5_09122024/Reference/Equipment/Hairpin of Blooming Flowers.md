@@ -11,7 +11,7 @@ license: OGL
 ---
 # Hairpin of Blooming Flowers
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 360 gp; 
@@ -26,7 +26,7 @@ The flower that adorns this hairpin is a blooming lotus flower that varies in co
 
 * * *
 
-**Effect** You pluck the flower from the hairpin and scatter the petals, creating a flurry of color in a 10-foot burst centered on you. You become [[Conditions/Concealed|Concealed]] for 1 minute or until you move from your current location. Any creature within the 10-foot burst when you Activate the Item must succeed at a DC 23 Reflex check save or become [[Conditions/Dazzled|Dazzled]] until the end of its next turn (or [[Conditions/Blinded|Blinded]] until the end of its next turn on a critical failure). The flower blooms again the next day.
+**Effect** You pluck the flower from the hairpin and scatter the petals, creating a flurry of color in a 10-foot burst centered on you. You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] for 1 minute or until you move from your current location. Any creature within the 10-foot burst when you Activate the Item must succeed at a DC 23 Reflex check save or become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] until the end of its next turn (or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] until the end of its next turn on a critical failure). The flower blooms again the next day.
 
 *Source: Pathfinder #197: Let the Leaves Fall*
 *OGL*

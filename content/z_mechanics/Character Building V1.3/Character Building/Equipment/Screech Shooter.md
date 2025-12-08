@@ -26,11 +26,11 @@ Built from the larynx of an owlbear, terror shrike, or similar animal that posse
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Frightened|Frightened 1]].
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Failure** The creature is [[Frightened|Frightened 2]].
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
-**Critical Failure** The creature is [[Frightened|Frightened 3]] and [[Fleeing]] for 1 round.
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing]] for 1 round.
 
 * * *
 

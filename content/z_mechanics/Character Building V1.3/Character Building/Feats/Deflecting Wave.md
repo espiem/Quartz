@@ -12,7 +12,7 @@ tags:
 
 **Trigger** You would take acid, bludgeoning, fire, or slashing damage from an enemy's attack, spell, or other hostile effect.
 
-**Requirements** You're aware of the hostile effect, and you aren't [[Off-Guard]] against it.
+**Requirements** You're aware of the hostile effect, and you aren't [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] against it.
 
 * * *
 

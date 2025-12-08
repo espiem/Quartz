@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-You've trained your megafauna companion to stagger its enemies, impeding their ability to fight back. You [[Command an Animal]] to order your megafauna companion to spend both its actions making a single, powerful Strike. The attack deals an extra die of weapon damage, and if the attack hits and deals damage, the target is [[Slowed]] until the end of its next turn.
+You've trained your megafauna companion to stagger its enemies, impeding their ability to fight back. You [[Command an Animal]] to order your megafauna companion to spend both its actions making a single, powerful Strike. The attack deals an extra die of weapon damage, and if the attack hits and deals damage, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] until the end of its next turn.

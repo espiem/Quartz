@@ -16,7 +16,7 @@ license: OGL
 ---
 # Barricade Buster
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[kickback]][[orc]][[razing]][[repeating]][[volley-20]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[kickback]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Orc]][[razing]][[repeating]][[volley-20]]
 
 |  |  |
 | -- | -- |

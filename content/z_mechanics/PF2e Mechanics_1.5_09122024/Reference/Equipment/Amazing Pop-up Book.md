@@ -12,7 +12,7 @@ license: OGL
 ---
 # Amazing Pop-up Book
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[grimoire]][[illusion]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[grimoire]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 1250 gp; 

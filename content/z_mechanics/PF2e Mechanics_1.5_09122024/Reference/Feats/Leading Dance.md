@@ -14,7 +14,7 @@ license: ORC
 ---
 # Leading Dance `pf2:1`
 ## Feat 4
-### [[bravado]][[move]][[swashbuckler]]
+### [[bravado]][[move]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 
@@ -36,7 +36,7 @@ You sweep your foe into your dance. Attempt a Performance check check against an
 
 **Failure** The foe doesn't follow your steps. You can move 5 feet if you choose, but this movement triggers reactions normally.
 
-**Critical Failure** You stumble, falling [[Conditions/Prone|Prone]] in your space.
+**Critical Failure** You stumble, falling [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] in your space.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -10,7 +10,7 @@ license: OGL
 ---
 # Called (Lastwall)
 ## Item 7
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 350 gp; 
@@ -33,7 +33,7 @@ A _called_ weapon can be teleported to its owner's hand.
 
 * * *
 
-**Effect** You extend your hand and call the weapon. If the weapon is within 100 feet of you, it appears in your hand even if it was [[Conditions/Restrained|Restrained]]. If the weapon is in another creature's possession, that creature can attempt a Will check save against your Will DC. If the creature succeeds, your bond as the owner is broken, and you can't use this activation again until you use the first activation to restore the connection.
+**Effect** You extend your hand and call the weapon. If the weapon is within 100 feet of you, it appears in your hand even if it was [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]]. If the weapon is in another creature's possession, that creature can attempt a Will check save against your Will DC. If the creature succeeds, your bond as the owner is broken, and you can't use this activation again until you use the first activation to restore the connection.
 
 *Source: Pathfinder Lost Omens: Knights of Lastwall*
 *OGL*

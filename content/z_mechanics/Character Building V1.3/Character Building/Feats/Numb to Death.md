@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-Your past has left you numb to death's call. The first time each day that you regain Hit Points while you are [[Dying]], you regain additional Hit Points equal to your level, and you neither gain the [[Wounded]] condition nor increase the value of this condition.
+Your past has left you numb to death's call. The first time each day that you regain Hit Points while you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying]], you regain additional Hit Points equal to your level, and you neither gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded]] condition nor increase the value of this condition.

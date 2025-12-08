@@ -13,7 +13,7 @@ license: OGL
 ---
 # Devil's Trident
 ## Item 9
-### [unique](unique "Unique Rarity Trait")[[magical]][[thrown-20]]
+### [unique](unique "Unique Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[thrown-20]]
 
 |  |  |
 | -- | -- |
@@ -64,11 +64,11 @@ Many healers and alchemists suspect that sewer haze has a supernatural origin, b
 
 **Onset** 2 days
 
-**Stage 1** [[Conditions/Stupefied|Stupefied 2]] (1 day)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (1 day)
 
 **Stage 2** [[Conditions/Drained|Drained 2]] and stupefied 2 (1 day)
 
-**Stage 3** [[Conditions/Drained|Drained 3]] and [[Conditions/Stupefied|Stupefied 3]] (1 day)
+**Stage 3** [[Conditions/Drained|Drained 3]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 3]] (1 day)
 
 *Source: Pathfinder Lost Omens: Monsters of Myth*
 *OGL*

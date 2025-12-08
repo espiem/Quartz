@@ -12,7 +12,7 @@ license: ORC
 ---
 # Gorget of the Primal Roar
 ## Item 11
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 1250 gp; 
@@ -33,9 +33,9 @@ This engraved duskwood gorget seems to vibrate with ferocity, granting you a +2 
 
 * * *
 
-**Critical Success** The creature is [[Conditions/Frightened|Frightened 2]].
+**Critical Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
-**Success** The creature is [[Conditions/Frightened|Frightened 1]].
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
 **Failure** The creature is unaffected.
 

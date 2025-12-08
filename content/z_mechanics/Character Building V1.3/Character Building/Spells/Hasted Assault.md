@@ -8,7 +8,7 @@ tags:
 ---
 
 # Hasted Assault
-![[systems-pf2e-icons-spells-hasted-assault.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-hasted-assault.webp|150]]
 
 You call upon your magic to speed up your attacks. You gain the quickened condition and can use the extra action each round for only Strike actions.
 

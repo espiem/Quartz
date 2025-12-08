@@ -20,10 +20,10 @@ Lethargy poison is commonly used in hit-and-run tactics by attackers who want th
 
 **Maximum Duration** 4 hours
 
-**Stage 1** [[Slowed]] (1 round)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] (1 round)
 
-**Stage 2** [[Slowed]] (1 minute)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] (1 minute)
 
-**Stage 3** [[Unconscious]] with no Perception check to wake up (1 round)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] with no Perception check to wake up (1 round)
 
-**Stage 4** [[Unconscious]] with no Perception check to wake up (`dice: 1d4` hours).
+**Stage 4** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] with no Perception check to wake up (`dice: 1d4` hours).

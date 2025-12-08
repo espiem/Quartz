@@ -8,7 +8,7 @@ tags:
 ---
 
 # Spirit-Sealing Fulu (Greater)
-![[systems-pf2e-icons-equipment-consumables-fulus-fulu-fancy.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-fulus-fulu-fancy.webp|150]]
 
 **Usage** affixed to one undead creature
 
@@ -16,4 +16,4 @@ tags:
 
 * * *
 
-This classic fulu seals the void energy within an undead, freezing it in its tracks. Upon affixing, the target undead must attempt a DC 27 will save or be [[Paralyzed]] for 1 round. On a critical failure, the undead is paralyzed for 4 rounds. At the end of each of its turns, it can attempt a new Will save to reduce the remaining duration by 1 round, or end it entirely on a critical success.
+This classic fulu seals the void energy within an undead, freezing it in its tracks. Upon affixing, the target undead must attempt a DC 27 will save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] for 1 round. On a critical failure, the undead is paralyzed for 4 rounds. At the end of each of its turns, it can attempt a new Will save to reduce the remaining duration by 1 round, or end it entirely on a critical success.

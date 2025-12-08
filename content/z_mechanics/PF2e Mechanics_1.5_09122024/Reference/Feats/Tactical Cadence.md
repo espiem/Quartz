@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Cadence Call
 * * *
-Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively, even in desperate situations. When you grant allies the [[Conditions/Quickened|Quickened]] condition using Cadence Call, they can use the extra action to either Stride or Strike, and they aren't [[Conditions/Slowed|Slowed 1]] on their following turn if they use the extra action.
+Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively, even in desperate situations. When you grant allies the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened]] condition using Cadence Call, they can use the extra action to either Stride or Strike, and they aren't [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] on their following turn if they use the extra action.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

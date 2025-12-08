@@ -20,4 +20,4 @@ This wheelchair is outfitted with a variety of tools and devices to assist with 
 
 * * *
 
-**Effect** The chair deploys a complete expanded alchemist's lab. The chair is immobile while this lab is deployed, but levers and gears in the chair allow you to easily retrieve and access everything you need from both the attached superb repair kit and the deployed lab to Craft. This setup is highly efficient and gives you a +2 circumstance bonus to [[Earn Income]] using Crafting.
+**Effect** The chair deploys a complete expanded alchemist's lab. The chair is immobile while this lab is deployed, but levers and gears in the chair allow you to easily retrieve and access everything you need from both the attached superb repair kit and the deployed lab to Craft. This setup is highly efficient and gives you a +2 circumstance bonus to [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/GM Screen/Earn Income]] using Crafting.

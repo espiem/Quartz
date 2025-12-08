@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Forge
-![[icons-sundries-gaming-playing-cards-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Hammers (Str)
 
@@ -24,4 +24,4 @@ _The Forge_ denotes strength through diversity. As long as you have _The Forge_ 
 
 * * *
 
-**Effect** You pass the card over an adjacent [[Broken]] (but not destroyed) object (magical or otherwise) of up to 4 Bulk, and restore the object to its full Hit Point total, removing the broken condition in the process.
+**Effect** You pass the card over an adjacent [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Broken]] (but not destroyed) object (magical or otherwise) of up to 4 Bulk, and restore the object to its full Hit Point total, removing the broken condition in the process.

@@ -26,7 +26,7 @@ Additionally, you carry a vast collection of magical baubles you can turn into t
 
 Finally, when you Affix a Talisman, you can (in any combination) affix or remove up to four talismans in the 10-minute span.
 
-[[PF2e Journals/Archetypes/Talisman Dabbler|Talisman Dabbler]]
+[[Talisman Dabbler|Talisman Dabbler]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

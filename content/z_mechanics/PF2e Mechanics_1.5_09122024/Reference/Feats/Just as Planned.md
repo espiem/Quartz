@@ -13,7 +13,7 @@ license: ORC
 ---
 # Just as Planned `pf2:0`
 ## Feat 12
-### [[fortune]][[investigator]]
+### [[fortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Investigator]]
 
 **Category** class; 
 

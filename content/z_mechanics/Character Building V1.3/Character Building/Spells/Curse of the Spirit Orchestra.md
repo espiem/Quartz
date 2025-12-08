@@ -10,7 +10,7 @@ tags:
 # Curse of the Spirit Orchestra
 ![[systems-pf2e-icons-spells-alarm.webp|150]]
 
-You summon an [[Invisible]], insubstantial group of extraplanar musicians who follow the target and play distracting music to hinder its actions. The music the musicians play is as inappropriate to the action as possible (for example, loud drumbeats as the target tries to [[Sneak]] or silly children's songs when the target tries to orate in a serious manner). The musicians can't be reasoned with or harmed.
+You summon an [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]], insubstantial group of extraplanar musicians who follow the target and play distracting music to hinder its actions. The music the musicians play is as inappropriate to the action as possible (for example, loud drumbeats as the target tries to [[Sneak]] or silly children's songs when the target tries to orate in a serious manner). The musicians can't be reasoned with or harmed.
 
 * * *
 

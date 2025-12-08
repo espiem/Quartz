@@ -13,7 +13,7 @@ license: ORC
 ---
 # Homing Shot `pf2:1`
 ## Feat 14
-### [[archetype]][[magical]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ license: ORC
 * * *
 Your shots zip around corners and fly at impossible angles to reach your target.
 
-Make a bow or crossbow Strike against a foe you can see; the ammunition travels to your target, even going around corners. You ignore the target's [[Conditions/Concealed|Concealed]] condition and all cover.
+Make a bow or crossbow Strike against a foe you can see; the ammunition travels to your target, even going around corners. You ignore the target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] condition and all cover.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

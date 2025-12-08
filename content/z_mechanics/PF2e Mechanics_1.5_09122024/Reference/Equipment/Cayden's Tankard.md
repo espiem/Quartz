@@ -15,7 +15,7 @@ license: OGL
 ---
 # Cayden's Tankard
 ## Item 25
-### [unique](unique "Unique Rarity Trait")[[agile]][[artifact]][[divine]][[thrown-20]]
+### [unique](unique "Unique Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[artifact]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[thrown-20]]
 
 |  |  |
 | -- | -- |
@@ -42,7 +42,7 @@ This ordinary-looking silver tankard functions as a _+4 major striking hopeful r
 
 * * *
 
-**Effect** You drink from the tankard, ending the [[Conditions/Controlled|Controlled]], [[Conditions/Grabbed|Grabbed]], [[Conditions/Immobilized|Immobilized]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], and [[Conditions/Slowed|Slowed]] conditions on yourself and creatures of your choice within 120 feet of you, as well as anything giving such targets a circumstance penalty to Speed. Any effect causing these conditions ends, and if the source of the effect is an item, that item can't produce the effect for 1 week, provided it is of a level lower than the tankard's. If a target needs to [[Actions/Escape|Escape]] an effect imposing any of these conditions, it automatically does so on its next attempt. You can Activate this ability even if one of the listed conditions would normally prevent you from doing so (such as paralyzed).
+**Effect** You drink from the tankard, ending the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Controlled|Controlled]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed]] conditions on yourself and creatures of your choice within 120 feet of you, as well as anything giving such targets a circumstance penalty to Speed. Any effect causing these conditions ends, and if the source of the effect is an item, that item can't produce the effect for 1 week, provided it is of a level lower than the tankard's. If a target needs to [[Actions/Escape|Escape]] an effect imposing any of these conditions, it automatically does so on its next attempt. You can Activate this ability even if one of the listed conditions would normally prevent you from doing so (such as paralyzed).
 
 **Activate** `pf2:2` envision, Interact
 

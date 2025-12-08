@@ -17,7 +17,7 @@ license: OGL
 ---
 # Slime Whip
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[finesse]][[magical]][[nonlethal]][[reach]][[trip]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[disarm]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[nonlethal]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]][[trip]]
 
 |  |  |
 | -- | -- |
@@ -40,7 +40,7 @@ This thick, greasy _+1 striking [[Equipment/Shifting|Shifting]] whip_ is made fr
 
 **Effect** For 1 round, the _slime whip_ deals acid damage rather than slashing damage. If the attack deals persistent damage, the persistent damage is also acid damage instead of its usual type.
 
-[[Equipment Effects/Effect_ Slime Whip|Effect: Slime Whip]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Slime Whip|Effect: Slime Whip]]
 
 *Source: Pathfinder Adventure: The Slithering*
 *OGL*

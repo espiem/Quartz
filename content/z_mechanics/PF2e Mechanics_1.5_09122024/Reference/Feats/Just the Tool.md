@@ -12,7 +12,7 @@ license: OGL
 ---
 # Just the Tool `pf2:1`
 ## Feat 4
-### [[archetype]][[concentrate]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]]
 
 **Category** class; 
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Lament
-![[icons-magic-fire-elemental-fire-humanoid.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-elemental-fire-humanoid.webp|150]]
 
 You let out your negative emotions in a guttural wail that shakes your enemies' hearts and deals 1d8 mental damage (basic Will save). If you have any harmful conditions imposed by emotion effects, _lament_ deals additional mental damage equal to the counteract level of the highest-level effect.
 

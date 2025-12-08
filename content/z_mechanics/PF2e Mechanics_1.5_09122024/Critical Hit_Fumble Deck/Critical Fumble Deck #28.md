@@ -14,13 +14,13 @@ tags:
 
 # Lost Grip
 
-> You are [[Conditions/Slowed|Slowed 2]] until the end of your next turn.
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]] until the end of your next turn.
 
 `Ranged`
 
 # Battered
 
-> Until healed, you take a [[Other Effects/Effect_ -2 circumstance penalty to checks and saving throws until healed|-2 circumstance penalty to checks and saving throws]].
+> Until healed, you take a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -2 circumstance penalty to checks and saving throws until healed|-2 circumstance penalty to checks and saving throws]].
 
 `Unarmed`
 

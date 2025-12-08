@@ -14,7 +14,7 @@ license: OGL
 ---
 # Boastful Hunter
 ## Item 3
-### [rare](rare "Rare Rarity Trait")[[concussive]][[fatal-aim-d12]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[concussive]][[fatal-aim-d12]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 |  |  |
 | -- | -- |

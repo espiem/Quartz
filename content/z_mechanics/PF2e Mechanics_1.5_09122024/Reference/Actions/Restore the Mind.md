@@ -15,7 +15,7 @@ license: OGL
 ---
 # Restore the Mind `pf2:1`
 
-### [[emotion]][[healing]][[mental]][[psyche]][[psychic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[psyche]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** defensive; 
 

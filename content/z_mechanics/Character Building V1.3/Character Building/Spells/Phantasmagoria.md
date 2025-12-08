@@ -18,6 +18,6 @@ You fill the targets' minds with endless images, like countless dreams and lives
 
 **Success** The target takes half damage and can't use reactions until the start of your next turn.
 
-**Failure** The target takes full damage and is [[Confused]] until the start of your next turn.
+**Failure** The target takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] until the start of your next turn.
 
 **Critical Failure** The target takes double damage and is confused for 1 minute.

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Blessed Reformer
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[holy]][[shove]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[holy]][[shove]]
 
 |  |  |
 | -- | -- |

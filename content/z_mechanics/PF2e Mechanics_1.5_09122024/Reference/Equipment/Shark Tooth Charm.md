@@ -14,7 +14,7 @@ license: ORC
 ---
 # Shark Tooth Charm
 ## Item 5
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 23 gp; 

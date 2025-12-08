@@ -12,4 +12,4 @@ tags:
 
 _Golomas fear most other people and deliberately use their unusual biology to frighten off those they consider to be dangerous predators. Rarely seen and poorly understood, golomas' many-eyed and wooden faced visages instill terror in most they meet._
 
-_[[Goloma]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Goloma]]_

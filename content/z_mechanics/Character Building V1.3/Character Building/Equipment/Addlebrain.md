@@ -24,8 +24,8 @@ Once soaked in special reagents and then dried, a dose of addlebrain must be eit
 
 **Maximum Duration** 1 day
 
-**Stage 1** [[Enfeebled 1]] and [[Stupefied|Stupefied 1]] (10 minutes)
+**Stage 1** [[Enfeebled 1]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (10 minutes)
 
-**Stage 2** [[Enfeebled 1|Enfeebled 2]] and [[Stupefied|Stupefied 2]] (1 hour)
+**Stage 2** [[Enfeebled 1|Enfeebled 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (1 hour)
 
-**Stage 3** [[Fatigued]], [[Enfeebled 1|Enfeebled 4]], and [[Stupefied|Stupefied 4]] (1 day)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]], [[Enfeebled 1|Enfeebled 4]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 4]] (1 day)

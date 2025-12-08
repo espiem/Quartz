@@ -24,7 +24,7 @@ license: ORC
 * * *
 You gain the [[Class Features/On the Case|On the Case]] class feature, which grants you both the Pursue a Lead activity and Clue In reaction. You become trained in Society and another skill of your choice. If you were already trained in Society, you instead become trained in an additional skill of your choice. You also become trained in investigator class DC.
 
-[[PF2e Journals/Archetypes/Investigator|Investigator]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Investigator|Investigator]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

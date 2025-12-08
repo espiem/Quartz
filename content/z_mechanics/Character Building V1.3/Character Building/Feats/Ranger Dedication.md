@@ -14,4 +14,4 @@ You become trained in Survival; if you were already trained in Survival, you ins
 
 * * *
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[Ranger]] archetype.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]] archetype.

@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Lich) Metamagic Alteration `pf2:1`
 
-### [[concentrate]][[spellshape]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[spellshape]]
 
 **Category** offensive; 
 

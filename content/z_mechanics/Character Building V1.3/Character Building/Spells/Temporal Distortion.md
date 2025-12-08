@@ -16,6 +16,6 @@ You share some of your own temporal distortions with a foe, altering their mind 
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is either [[Clumsy 1]], [[Enfeebled 1]], or [[Stupefied|Stupefied 1]] for 4 rounds, depending on the result of the d4.
+**Failure** The creature is either [[Clumsy 1]], [[Enfeebled 1]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for 4 rounds, depending on the result of the d4.
 
 **Critical Failure** As failure, but the time warp is stronger, increasing the condition's effects but making it run its course faster. The condition's value is 3, and the condition lasts for 2 rounds.

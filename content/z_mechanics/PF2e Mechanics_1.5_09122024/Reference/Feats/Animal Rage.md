@@ -15,7 +15,7 @@ license: OGL
 ---
 # Animal Rage `pf2:1`
 ## Feat 8
-### [[barbarian]][[concentrate]][[polymorph]][[primal]][[rage]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[polymorph]][[primal]][[rage]]
 
 **Category** class; 
 

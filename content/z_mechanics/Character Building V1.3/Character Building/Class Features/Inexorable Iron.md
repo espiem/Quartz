@@ -8,7 +8,7 @@ tags:
 ---
 
 # Inexorable Iron
-![[icons-commodities-leather-scales-white.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-commodities-leather-scales-white.webp|150]]
 
 Once you begin along a path, nothing can stop you from reaching its end. You transform the mass of a greataxe, greatsword, or polearm into an unstoppable force to augment your own striking power or keep you standing on the battlefield.
 

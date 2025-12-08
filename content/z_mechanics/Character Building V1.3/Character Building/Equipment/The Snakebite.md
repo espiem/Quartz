@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Snakebite
-![[icons-sundries-gaming-playing-cards-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Book (Int)
 
@@ -16,7 +16,7 @@ tags:
 
 * * *
 
-_The Snakebite_ represents poison, assassination, and disharmony. As long as you have _The Snakebite_ invested, it grants you a +2 item bonus to Deception and Stealth checks you make for initiative. This increases to a +3 item bonus if you're at least 17th level. The DCs of your poison effects have a +1 item bonus to targets that are [[Off-Guard]] to you when you afflict the target with the poison (the DC retains this bonus for the target's subsequent saves against the affliction, even if the target is no longer off-guard to you).
+_The Snakebite_ represents poison, assassination, and disharmony. As long as you have _The Snakebite_ invested, it grants you a +2 item bonus to Deception and Stealth checks you make for initiative. This increases to a +3 item bonus if you're at least 17th level. The DCs of your poison effects have a +1 item bonus to targets that are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] to you when you afflict the target with the poison (the DC retains this bonus for the target's subsequent saves against the affliction, even if the target is no longer off-guard to you).
 
 **Activate** 2 envision, Interact
 

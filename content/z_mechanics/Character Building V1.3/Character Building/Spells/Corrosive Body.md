@@ -8,7 +8,7 @@ tags:
 ---
 
 # Corrosive Body
-![[systems-pf2e-icons-spells-corrosive-body.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-corrosive-body.webp|150]]
 
 You exhale corrosive gas, and acidic secretions coat your skin as you transform into a being of living acid. You gain acid immunity. Any creature that touches you or damages you with an unarmed melee attack or non-reach melee weapon takes 3d6 acid damage, and your unarmed attacks deal 1d4 additional acid damage. The first time each round that you deal acid damage to a creature in this way, you gain `dice: 3d6` temporary Hit Points as your body digests the eroded material and transforms it into a protective acid. When the spell ends, any remaining temporary HP expires as well. Your acid spells deal one additional die of acid damage (of the same damage die the spell uses). You can cast _[[Acid Splash]]_ as an innate spell; the splash damage affects all creatures within 15 feet instead of the normal 5 feet.
 

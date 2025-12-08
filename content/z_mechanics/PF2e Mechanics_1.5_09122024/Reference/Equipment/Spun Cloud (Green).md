@@ -15,7 +15,7 @@ license: OGL
 ---
 # Spun Cloud (Green)
 ## Item 9
-### [[air]][[bottled-breath]][[consumable]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[bottled-breath]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 125 gp; 

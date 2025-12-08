@@ -28,7 +28,7 @@ You can use the Rage action. While raging, you take a –1 penalty to AC.
 
 Choose an instinct as you would if you were a barbarian. You have that instinct for all purposes, but you don't gain any of the other abilities it grants. If that instinct has anathema, you're bound by them.
 
-[[PF2e Journals/Archetypes/Barbarian|Barbarian]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Barbarian|Barbarian]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

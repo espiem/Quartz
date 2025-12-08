@@ -18,4 +18,4 @@ tags:
 
 * * *
 
-Just the taste of fiendish blood is enough to send blood rushing through your veins in a supernatural fury. You become [[Quickened]] until the end of your next turn and you can use the extra action to make a tusks Strike, Stride, or Step.
+Just the taste of fiendish blood is enough to send blood rushing through your veins in a supernatural fury. You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]] until the end of your next turn and you can use the extra action to make a tusks Strike, Stride, or Step.

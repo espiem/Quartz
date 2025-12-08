@@ -14,7 +14,7 @@ license: OGL
 ---
 # Green Wyrmling Breath Potion
 ## Item 5
-### [[consumable]][[magical]][[poison]][[potion]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[potion]]
 
 **Category** poison; 
 **Price** 30 gp; 

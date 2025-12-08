@@ -15,7 +15,7 @@ license: OGL
 ---
 # Librarian Staff (Greater)
 ## Item 12
-### [[extradimensional]][[magical]][[staff]][[two-hand-d8]]
+### [[extradimensional]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

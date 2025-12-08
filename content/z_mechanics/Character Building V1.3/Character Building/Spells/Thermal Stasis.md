@@ -8,7 +8,7 @@ tags:
 ---
 
 # Thermal Stasis
-![[systems-pf2e-icons-spells-thermal-stasis.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-thermal-stasis.webp|150]]
 
 The same abilities that let you raise or lower thermal energy also let you keep it at a safe medium. The target gains resistance 2 against fire damage and resistance 2 against cold damage.
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bloodline: Genie
-![[systems-pf2e-icons-features-classes-genie.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-features-classes-genie.webp|150]]
 
 Through lineage, magic, or wishes made real, the blood of a noble genie flows through your veins.
 

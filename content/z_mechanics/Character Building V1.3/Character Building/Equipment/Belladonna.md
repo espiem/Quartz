@@ -22,8 +22,8 @@ Sometimes called "deadly nightshade", belladonna is a widely available toxin pro
 
 **Maximum Duration** 30 minutes
 
-**Stage 1** [[Dazzled]] (10 minutes)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] (10 minutes)
 
 **Stage 2** 1d6 poison damage and [[Sickened 1]] (10 minutes)
 
-**Stage 3** 1d6 poison damage, [[Confused]], and sickened 1 (1 minute)
+**Stage 3** 1d6 poison damage, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]], and sickened 1 (1 minute)

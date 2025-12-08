@@ -16,7 +16,7 @@ license: ORC
 ---
 # Burglar's Rosebud
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[emotion]][[mental]][[plant]][[wood]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[plant]][[wood]]
 
 **Category** other; 
 **Price** 10 gp; 
@@ -27,7 +27,7 @@ license: ORC
 
 * * *
 
-Though originally intended to protect a green man's favorite agents against predation by pesky herbivores, thieves have adapted the design to help them disperse guard animals. The soft flower bud belies the horrible perfume contained within. Activated by cracking open the petals, the rosebud exudes a noxious cloud that has the olfactory trait for 10 minutes. If dropped, it fills a 10-foot-burst. If you carry it in one hand and periodically waft it as a free action, the rosebud instead gives you a 10-foot emanation. Creatures that enter or start their turn in the cloud must succeed at a DC 18 Fortitude check save or become [[Conditions/Sickened|Sickened 1]]. Animals and beasts that critically fail are also [[Conditions/Fleeing|Fleeing]] for 1 round. A creature that successfully saves against the burglar's rosebud becomes temporarily immune to the effects for 24 hours.
+Though originally intended to protect a green man's favorite agents against predation by pesky herbivores, thieves have adapted the design to help them disperse guard animals. The soft flower bud belies the horrible perfume contained within. Activated by cracking open the petals, the rosebud exudes a noxious cloud that has the olfactory trait for 10 minutes. If dropped, it fills a 10-foot-burst. If you carry it in one hand and periodically waft it as a free action, the rosebud instead gives you a 10-foot emanation. Creatures that enter or start their turn in the cloud must succeed at a DC 18 Fortitude check save or become [[Conditions/Sickened|Sickened 1]]. Animals and beasts that critically fail are also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing|Fleeing]] for 1 round. A creature that successfully saves against the burglar's rosebud becomes temporarily immune to the effects for 24 hours.
 
 *Source: Pathfinder #203: Shepherd of Decay*
 *ORC*

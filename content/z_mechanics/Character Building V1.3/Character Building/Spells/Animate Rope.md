@@ -8,7 +8,7 @@ tags:
 ---
 
 # Animate Rope
-![[icons-sundries-survival-rope-wrapped-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-sundries-survival-rope-wrapped-red.webp|150]]
 
 You cause a length or section of [[Rope]] or a rope-like object to animate and follow simple commands. You can give it two commands when you [[Cast a Spell|Cast the Spell]], and one command each time you [[Sustain|Sustain the Spell]].
 

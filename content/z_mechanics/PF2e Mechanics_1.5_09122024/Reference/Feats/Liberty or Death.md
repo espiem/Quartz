@@ -13,7 +13,7 @@ license: ORC
 ---
 # Liberty or Death `pf2:2`
 ## Feat 18
-### [[death]][[incapacitation]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Death]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]]
 
 **Category** class; 
 

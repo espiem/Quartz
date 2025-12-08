@@ -8,7 +8,7 @@ tags:
 ---
 
 # Ghost Touch
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 A weapon etched with this rune can harm creatures without physical form. A _ghost touch_ weapon is particularly effective against incorporeal creatures, which almost always have a specific vulnerability to _ghost touch_ weapons.
 

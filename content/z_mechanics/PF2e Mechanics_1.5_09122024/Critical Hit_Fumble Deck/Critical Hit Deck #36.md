@@ -8,7 +8,7 @@ tags:
 ---
 # Box the Ears
 
-> The target is [[Conditions/Deafened|Deafened]] until healed.
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]] until healed.
 
 `Bludgeoning`
 

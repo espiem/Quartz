@@ -8,7 +8,7 @@ tags:
 ---
 
 # Stumbling Curse
-![[icons-skills-toxins-cup-goblet-poisoned-spilled.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-toxins-cup-goblet-poisoned-spilled.webp|150]]
 
 With a twist of a finger, you send a creature careening on a haphazard trajectory. The target must attempt a Reflex save.
 

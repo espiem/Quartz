@@ -16,7 +16,7 @@ license: ORC
 ---
 # Gladiator's Roar `pf2:2`
 ## Feat 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[emotion]][[fear]][[mental]][[sonic]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[sonic]]
 
 **Category** class; 
 
@@ -34,11 +34,11 @@ You can project your voice into a high-pitched screech that damages your foes. Y
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and becomes [[Conditions/Frightened|Frightened 1]]
+**Success** The creature takes half damage and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]]
 
-**Failure** The creature takes full damage and becomes [[Conditions/Frightened|Frightened 2]].
+**Failure** The creature takes full damage and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
-**Critical Failure** The creature takes double damage, becomes [[Conditions/Frightened|Frightened 3]], and is [[Conditions/Stunned|Stunned 1]].
+**Critical Failure** The creature takes double damage, becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]], and is [[Conditions/Stunned|Stunned 1]].
 
 *Source: Pathfinder #204: Stage Fright*
 *ORC*

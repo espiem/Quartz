@@ -11,7 +11,7 @@ license: OGL
 ---
 # Book of Lost Days
 ## Item 15
-### [unique](unique "Unique Rarity Trait")[[cursed]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[cursed]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 

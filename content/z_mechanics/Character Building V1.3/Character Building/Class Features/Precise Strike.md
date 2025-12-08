@@ -8,7 +8,7 @@ tags:
 ---
 
 # Precise Strike
-![[systems-pf2e-icons-features-classes-precise-strike.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-features-classes-precise-strike.webp|150]]
 
 You Strike with flair. When you have panache and you Strike with an agile or finesse melee weapon or agile or finesse unarmed attack, you deal 2 additional precision damage. If the strike is part of a finisher, the additional damage is 2d6 precision damage instead.
 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Arboreal Wand (Rank 2)
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[healing]][[magical]][[vitality]][[wand]]
+### [rare](rare "Rare Rarity Trait")[[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[vitality]][[wand]]
 
 **Category** wand; 
 **Price** 700 gp; 

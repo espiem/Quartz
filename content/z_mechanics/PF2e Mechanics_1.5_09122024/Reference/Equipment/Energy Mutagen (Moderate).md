@@ -34,7 +34,7 @@ When created, this mutagen is attuned to one of four energy types: acid, cold, e
 
 **Duration** 10 minutes.
 
-[[Equipment Effects/Effect_ Energy Mutagen (Moderate)|Effect: Energy Mutagen (Moderate)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Energy Mutagen (Moderate)|Effect: Energy Mutagen (Moderate)]]
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

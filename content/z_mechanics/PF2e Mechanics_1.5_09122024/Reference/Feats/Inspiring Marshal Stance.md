@@ -23,7 +23,7 @@ license: ORC
 * * *
 You become a brilliant example of dedication and poise in battle, encouraging your allies to follow suit. When you spend this action, attempt a Diplomacy check check. The DC is usually an easy DC of your level, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.
 
-[[Feat_Feature Effects/Stance_ Inspiring Marshal Stance|Stance: Inspiring Marshal Stance]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Stance_ Inspiring Marshal Stance|Stance: Inspiring Marshal Stance]]
 
 * * *
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Internal Insurrection
-![[icons-magic-fire-explosion-embers-evade-silhouette.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-explosion-embers-evade-silhouette.webp|150]]
 
 You afflict the target with the supernatural disease known as internal insurrection, causing portions of their body to rebel against the whole, leading to painful agonies and, in time, death. The target must attempt a Fortitude save.
 
@@ -32,7 +32,7 @@ The target can't recover from the clumsy condition from internal insurrection un
 
 **Stage 2** [[Clumsy 1|Clumsy 2]] (1 day)
 
-**Stage 3** clumsy 2 and [[Off-Guard]] (1 day)
+**Stage 3** clumsy 2 and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] (1 day)
 
 **Stage 4** [[Clumsy 1|Clumsy 3]] and off-guard (1 day)
 

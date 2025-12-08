@@ -8,7 +8,7 @@ tags:
 ---
 
 # Crashing Wave
-![[icons-magic-water-pseudopod-swirl-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-water-pseudopod-swirl-blue.webp|150]]
 
 You summon a crashing wave that sweeps away from you. You deal 6d6 bludgeoning damage to creatures in the area. The water also extinguishes non-magical fires in the area.
 

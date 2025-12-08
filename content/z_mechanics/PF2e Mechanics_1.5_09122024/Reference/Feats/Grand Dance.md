@@ -13,7 +13,7 @@ license: OGL
 ---
 # Grand Dance `pf2:2`
 ## Feat 8
-### [rare](rare "Rare Rarity Trait")[[bard]][[rogue]][[swashbuckler]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Bard]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 

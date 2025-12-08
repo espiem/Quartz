@@ -10,4 +10,4 @@ tags:
 # Loose Time's Arrow
 ![[systems-pf2e-icons-spells-loose-times-arrow.webp|150]]
 
-You pluck the time stream like a bow-pull one string back, release, and watch a creature fly. All affected targets are [[Quickened]]. They can use the extra action only to Step or Stride.
+You pluck the time stream like a bow-pull one string back, release, and watch a creature fly. All affected targets are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]]. They can use the extra action only to Step or Stride.

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Mirror Goggles (Moderate)
-![[icons-equipment-head-goggles-leather-tan.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-equipment-head-goggles-leather-tan.webp|150]]
 
 These goggles feature highly reflective lenses. While wearing the goggles, you gain a +2 item bonus to visual Perception checks and to saving throws against visual effects.
 

@@ -16,8 +16,8 @@ You fill the targets' minds with terrifying images of fearsome creatures, each d
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes half damage and is [[Frightened|Frightened 1]].
+**Success** The target takes half damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Failure** The target takes full damage and is [[Frightened|Frightened 2]].
+**Failure** The target takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
-**Critical Failure** The target is so afraid, it might instantly die. It must attempt a Fortitude saving throw. If the target succeeds, it takes double damage and is [[Frightened|Frightened 2]], and it's also [[Fleeing]] until the end of its next turn unless it critically succeeded. If it fails, it is reduced to 0 Hit Points and dies.
+**Critical Failure** The target is so afraid, it might instantly die. It must attempt a Fortitude saving throw. If the target succeeds, it takes double damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]], and it's also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing]] until the end of its next turn unless it critically succeeded. If it fails, it is reduced to 0 Hit Points and dies.

@@ -28,7 +28,7 @@ license: ORC
 
 This briny concoction alters the skin on your hands and feet. The spaces between your fingers and toes become webbed, granting you a swim Speed of 20 feet for 1 hour, and you can breathe underwater.
 
-[[Equipment Effects/Effect_ Sea Touch Elixir (Moderate)|Effect: Sea Touch Elixir (Moderate)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Sea Touch Elixir (Moderate)|Effect: Sea Touch Elixir (Moderate)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

@@ -16,8 +16,8 @@ You curse the target, sapping its spirit and leaving a contagious trap in its es
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Enfeebled 1|Enfeebled 2]] and [[Stupefied|Stupefied 2]] for 1 round.
+**Success** The target is [[Enfeebled 1|Enfeebled 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] for 1 round.
 
-**Failure** The target is [[Enfeebled 1|Enfeebled 2]] and [[Stupefied|Stupefied 2]] for 1 minute and [[Enfeebled 1]] and [[Stupefied|Stupefied 1]] permanently.
+**Failure** The target is [[Enfeebled 1|Enfeebled 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] for 1 minute and [[Enfeebled 1]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] permanently.
 
-**Critical Failure** The target is [[Enfeebled 1|Enfeebled 3]] and [[Stupefied|Stupefied 3]] for 1 minute and [[Enfeebled 1|Enfeebled 2]] and [[Stupefied|Stupefied 2]] permanently.
+**Critical Failure** The target is [[Enfeebled 1|Enfeebled 3]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 3]] for 1 minute and [[Enfeebled 1|Enfeebled 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] permanently.

@@ -8,11 +8,11 @@ tags:
 ---
 
 # Impaling Briars
-![[icons-magic-nature-root-vines-grow-brown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-nature-root-vines-grow-brown.webp|150]]
 
 The ground within the area transforms into a mass of dangerous briars that assault and impede your foes. When you Cast the Supell and the first time you Sustain it each turn on subsequent rounds, select one of the following effects to occur in the area.
 
-*   **Ensnare** The briars clump around your foes, attempting to hold them in place. A foe within the area (or flying at most 20 feet above the area) must attempt a Reflex save. On a failure, it takes a -10-foot circumstance penalty to all Speeds for 1 round, and on a critical failure, it is [[Immobilized]] for 1 round unless it Escapes.
+*   **Ensnare** The briars clump around your foes, attempting to hold them in place. A foe within the area (or flying at most 20 feet above the area) must attempt a Reflex save. On a failure, it takes a -10-foot circumstance penalty to all Speeds for 1 round, and on a critical failure, it is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] for 1 round unless it Escapes.
 *   **Impede** The briars twist and writhe, making the entire area difficult terrain.
 *   **Wall** A [[Wall of Thorns]] appears in the area, lasting for 1 round. The wall is greater difficult terrain instead of difficult terrain.
 

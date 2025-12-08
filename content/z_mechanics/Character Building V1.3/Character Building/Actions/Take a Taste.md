@@ -9,7 +9,7 @@ tags:
 
 # Take a Taste `pf2:1`
 
-**Requirements** The zombie has a creature [[Grabbed]] or [[Restrained]].
+**Requirements** The zombie has a creature [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]].
 
 * * *
 

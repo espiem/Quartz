@@ -16,7 +16,7 @@ license: ORC
 ---
 # Capturing Spetum
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[hampering]][[hobgoblin]][[reach]][[trip]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[hampering]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Hobgoblin]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]][[trip]]
 
 |  |  |
 | -- | -- |

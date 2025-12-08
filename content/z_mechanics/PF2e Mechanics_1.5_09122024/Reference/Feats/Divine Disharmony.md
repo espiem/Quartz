@@ -14,7 +14,7 @@ license: OGL
 ---
 # Divine Disharmony `pf2:1`
 ## Feat 1
-### [[divine]][[esoterica]][[manipulate]][[thaumaturge]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[esoterica]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]]
 
 **Category** class; 
 
@@ -25,7 +25,7 @@ From your collection of religious trinkets, you pull out opposing divine objects
 
 * * *
 
-**Critical Success** The creature is [[Conditions/Off-Guard|Off-Guard]] to your attacks until the end of your next turn.
+**Critical Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] to your attacks until the end of your next turn.
 
 **Success** The creature is off-guard against your attacks until the end of your current turn.
 

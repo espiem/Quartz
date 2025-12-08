@@ -8,13 +8,13 @@ tags:
 ---
 
 # Beastmaster Trance
-![[icons-creatures-mammals-wolf-howl-moon-forest-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-mammals-wolf-howl-moon-forest-blue.webp|150]]
 
 You enter a magical trance that allows you to perceive through the senses of the target companion. You attempt Perception checks using your own Perception, but you have any special senses the target has, such as [[Low-Light Vision]] or [[Darkvision]].
 
 This spell grants no special method of communication with the chosen animal, so it follows any instructions you gave it before you entered the trance and, failing that, it does as it wishes.
 
-For the duration of the trance, your own senses are muted, though you can still communicate. This lack of awareness makes you [[Off-Guard]]. You can't take actions with the attack or move traits.
+For the duration of the trance, your own senses are muted, though you can still communicate. This lack of awareness makes you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]]. You can't take actions with the attack or move traits.
 
 * * *
 

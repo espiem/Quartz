@@ -13,7 +13,7 @@ license: ORC
 ---
 # Assassin's Bracers (Type I)
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 1000 gp; 

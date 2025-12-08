@@ -22,7 +22,7 @@ license: ORC
 * * *
 **Frequency** once per 10 minutes
 
-**Trigger** You gain the [[Conditions/Doomed|Doomed]] condition.
+**Trigger** You gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed]] condition.
 
 * * *
 

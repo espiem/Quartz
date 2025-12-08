@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Woodblessed) Tap Planar Gate `pf2:1`
 
-### [[concentrate]][[primal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[primal]]
 
 **Category** offensive; 
 

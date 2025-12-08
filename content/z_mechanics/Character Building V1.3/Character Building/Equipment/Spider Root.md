@@ -8,7 +8,7 @@ tags:
 ---
 
 # Spider Root
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-spider-root.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-alchemical-items-alchemical-poisons-spider-root.webp|150]]
 
 A paste made by mashing the fine, threadlike roots of a certain creeper vine, spider root renders a victim clumsy and maladroit.
 

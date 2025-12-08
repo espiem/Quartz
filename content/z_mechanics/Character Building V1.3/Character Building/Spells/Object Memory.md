@@ -8,7 +8,7 @@ tags:
 ---
 
 # Object Memory
-![[icons-magic-air-air-smoke-casting.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-air-air-smoke-casting.webp|150]]
 
 By touching an object, you draw forth the experience of those who created and used it.
 

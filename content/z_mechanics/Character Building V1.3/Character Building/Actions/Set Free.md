@@ -11,7 +11,7 @@ tags:
 
 **Frequency** once per hour
 
-**Trigger** You attempt a check to remove or counteract an effect with the [[Confused]], [[Controlled]], [[Fascinated]], [[Immobilized]], [[Paralyzed]], or [[Restrained]] conditions
+**Trigger** You attempt a check to remove or counteract an effect with the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Controlled]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]] conditions
 
 * * *
 

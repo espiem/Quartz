@@ -8,7 +8,7 @@ tags:
 ---
 
 # Acid Splash
-![[icons-magic-acid-projectile-smoke-glowing.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-acid-projectile-smoke-glowing.webp|150]]
 
 You splash a glob of acid that splatters your target and nearby creatures. Make a spell attack. If you hit, you deal 1d6 acid damage plus 1 splash acid damage. On a critical success, the target also takes 2 persistent,acid damage.
 

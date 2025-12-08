@@ -8,7 +8,7 @@ tags:
 ---
 
 # Grit
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-grit.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-alchemical-items-drugs-grit.webp|150]]
 
 **Activate** 1 Interact
 
@@ -30,6 +30,6 @@ The save for addiction to grit is DC 15 fortitude, and the addiction has the vir
 
 **Stage 4** as stage 3 (1 hour)
 
-**Stage 5** [[Confused|Confusion]] (1 round)
+**Stage 5** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confusion]] (1 round)
 
-**Stage 6** [[Unconscious]] (remaining duration)
+**Stage 6** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] (remaining duration)

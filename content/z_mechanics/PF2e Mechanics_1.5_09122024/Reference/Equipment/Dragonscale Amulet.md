@@ -11,7 +11,7 @@ license: OGL
 ---
 # Dragonscale Amulet
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 5800 gp; 
@@ -20,7 +20,7 @@ license: OGL
 
 This amulet is made from the scales of five ancient dragons. You gain resistance 5 to acid, cold, electricity, fire, and poison. If you take damage of one of these types from a dragon's Breath Weapon, the amulet begins to glow brightly; for the next 10 minutes, your resistance against that type of damage increases to 20. If you are subjected to a dragon's frightful presence, you can roll your saving throw twice and use the higher result to determine the aura's effects. This is a fortune effect.
 
-[[Equipment Effects/Effect_ Dragonscale Amulet|Effect: Dragonscale Amulet]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Dragonscale Amulet|Effect: Dragonscale Amulet]]
 
 * * *
 

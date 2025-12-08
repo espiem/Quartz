@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-Make a Strike with your staff. As long as you don't critically fail, the target becomes [[Off-Guard]] and takes a -2 circumstance penalty to its DC against [[Shove]], [[Trip]], and [[Tumble Through]] attempts until the start of your next turn.
+Make a Strike with your staff. As long as you don't critically fail, the target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] and takes a -2 circumstance penalty to its DC against [[Shove]], [[Trip]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Hero Point Deck/Tumble Through]] attempts until the start of your next turn.

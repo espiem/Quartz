@@ -10,7 +10,7 @@ tags:
 # Power Word Blind
 ![[systems-pf2e-icons-spells-power-word-blind.webp|150]]
 
-You utter an arcane word of power that can make the target [[Blinded]] upon hearing it. Once targeted, the target is then temporarily immune for 10 minutes. The effect of the spell depends on the target's level.
+You utter an arcane word of power that can make the target [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] upon hearing it. Once targeted, the target is then temporarily immune for 10 minutes. The effect of the spell depends on the target's level.
 
 * * *
 
@@ -18,7 +18,7 @@ You utter an arcane word of power that can make the target [[Blinded]] upon hear
 
 **12th-13th** The target is Blinded for 1d4 minutes.
 
-**14th or Higher** The target is [[Dazzled]] for 1 minute.
+**14th or Higher** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 minute.
 
 * * *
 

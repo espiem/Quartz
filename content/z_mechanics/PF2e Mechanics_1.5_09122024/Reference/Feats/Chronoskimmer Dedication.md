@@ -25,7 +25,7 @@ Additionally, if your initiative roll result is tied with an opponent's initiati
 
 * * *
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Chronoskimmer|Chronoskimmer]] archetype.
+**Special** You can't select another dedication feat until you've gained two other feats from the [[Chronoskimmer|Chronoskimmer]] archetype.
 
 * * *
 

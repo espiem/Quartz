@@ -12,7 +12,7 @@ license: OGL
 ---
 # Time Dilation Cascade `pf2:3`
 ## Feat 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[flourish]][[ranger]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[flourish]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]]
 
 **Category** class; 
 

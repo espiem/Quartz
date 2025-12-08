@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Ulgrem-Axaan) Befouling Odor
 
-### [[aura]][[olfactory]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[olfactory]]
 
 **Category** defensive; 
 

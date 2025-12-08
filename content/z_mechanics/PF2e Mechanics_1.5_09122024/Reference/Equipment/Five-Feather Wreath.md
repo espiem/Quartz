@@ -12,7 +12,7 @@ license: OGL
 ---
 # Five-Feather Wreath
 ## Item 4
-### [[air]][[magical]][[spellheart]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellheart]]
 
 
 **Price** 90 gp; 
@@ -24,7 +24,7 @@ Identical feathers radiate from the center of this spellheart, held in place by 
 *   **Armor** You gain a +1 item bonus to Acrobatics checks and resistance 2 to falling damage.
 *   **Weapon** After you cast an air spell by Activating the _wreath_, you can Fly 5 feet as a single action, or you can Fly 10 feet as a free action if the spell you cast wasn't a cantrip. This must be your next action, and if you don't have a fly Speed, you must end the flight on solid ground or fall.
 
-[[Equipment Effects/Effect_ Five-Feather Wreath - Armor|Effect: Five-Feather Wreath - Armor]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Five-Feather Wreath - Armor|Effect: Five-Feather Wreath - Armor]]
 
 * * *
 

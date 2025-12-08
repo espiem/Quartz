@@ -14,7 +14,7 @@ license: ORC
 ---
 # Brutal Crush `pf2:1`
 ## Feat 4
-### [[barbarian]][[druid]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Druid]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** class; 
 
@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-You've learned how to cloud your foes' minds with the brutal impact of your repeated attacks. Make an unarmed Strike against the same target. If the Strike hits and deals bludgeoning damage, the target is [[Conditions/Stupefied|Stupefied 2]] for 1 round ([[Conditions/Stupefied|Stupefied 3]] on a critical hit).
+You've learned how to cloud your foes' minds with the brutal impact of your repeated attacks. Make an unarmed Strike against the same target. If the Strike hits and deals bludgeoning damage, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] for 1 round ([[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 3]] on a critical hit).
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

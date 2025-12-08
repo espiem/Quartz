@@ -12,7 +12,7 @@ license: ORC
 ---
 # Humbug Pocket (Greater)
 ## Item 17
-### [[invested]][[occult]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 
 **Price** 12500 gp; 

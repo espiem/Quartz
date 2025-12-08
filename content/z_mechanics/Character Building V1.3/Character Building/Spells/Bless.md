@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bless
-![[systems-pf2e-icons-spells-bless.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-bless.webp|150]]
 
 Blessings from beyond help your companions strike true. You and your allies gain a +1 status bonus to attack rolls while within the emanation. Once per round on subsequent turns, you can Sustain the spell to increase the emanation's radius by 10 feet.
 

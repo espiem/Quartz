@@ -10,4 +10,4 @@ tags:
 # Laughing Gnoll
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-A gnoll's sinister giggle is a sound of warning and threat. You gain the [[Battle Cry]] skill feat. You don't take a penalty when you attempt to Demoralize a creature that doesn't understand your language.
+A gnoll's sinister giggle is a sound of warning and threat. You gain the [[z_mechanics/Character Building V1.3/Character Building/Feats/Battle Cry]] skill feat. You don't take a penalty when you attempt to Demoralize a creature that doesn't understand your language.

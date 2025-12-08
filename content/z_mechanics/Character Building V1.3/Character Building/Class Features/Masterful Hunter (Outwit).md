@@ -8,7 +8,7 @@ tags:
 ---
 
 # Masterful Hunter (Outwit)
-![[icons-creatures-invertebrates-spider-web-black.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-creatures-invertebrates-spider-web-black.webp|150]]
 
 ## Masterful Hunter UpgradeLevel 17
 

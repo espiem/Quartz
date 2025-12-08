@@ -24,7 +24,7 @@ As a Spellmaster, you are adept at identifying magic. You gain a +2 circumstance
 
 * * *
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Spellmaster|Spellmaster]] archetype.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[Spellmaster|Spellmaster]] archetype.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

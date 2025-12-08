@@ -13,7 +13,7 @@ license: ORC
 ---
 # Patron's Whisper
 ## Feat 10
-### [[archetype]][[auditory]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]]
 
 **Category** class; 
 

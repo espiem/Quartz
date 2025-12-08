@@ -13,7 +13,7 @@ license: OGL
 ---
 # Kalmaug's Journal
 ## Item 5
-### [unique](unique "Unique Rarity Trait")[[grimoire]][[invested]][[magical]][[relic]]
+### [unique](unique "Unique Rarity Trait")[[grimoire]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[relic]]
 
 
 **Price** 0 gp; 

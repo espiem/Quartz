@@ -14,7 +14,7 @@ license: OGL
 ---
 # Bat Form `pf2:1`
 ## Feat 10
-### [[archetype]][[concentrate]][[divine]][[polymorph]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[polymorph]]
 
 **Category** class; 
 

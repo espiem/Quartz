@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Knight Vigilant Dedication
 * * *
-You've learned how to maximize the defensive abilities of your tower shield. You are constantly [[Conditions/Quickened|Quickened]] and can use the additional action only to [[Actions/Take Cover|Take Cover]] behind your tower shield after you have Raised it.
+You've learned how to maximize the defensive abilities of your tower shield. You are constantly [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened]] and can use the additional action only to [[Actions/Take Cover|Take Cover]] behind your tower shield after you have Raised it.
 
 *Source: Pathfinder Lost Omens: Knights of Lastwall*
 *OGL*

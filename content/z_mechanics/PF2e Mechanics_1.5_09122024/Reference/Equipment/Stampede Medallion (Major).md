@@ -12,7 +12,7 @@ license: OGL
 ---
 # Stampede Medallion (Major)
 ## Item 18
-### [[eidolon]][[invested]][[magical]]
+### [[eidolon]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 21000 gp; 
@@ -29,7 +29,7 @@ When you invest this medallion for your eidolon, it changes shape to appear as a
 
 * * *
 
-**Effect** Your eidolon Concentrates on the medallion and their connection to you, allowing them to momentarily manifest into a stampede of dozens of copies of themself. The stampede rampages out in every direction, swerving around your allies while trampling any foe on the ground in an emanation around your eidolon with a radius equal to your eidolon's Speed. Each of these foes takes 14d6 bludgeoning damage, with a DC 38 Reflex check save. On a critical failure, the foe is also knocked [[Conditions/Prone|Prone]]. After dealing damage, the stampede of eidolons vanishes as quickly as it appeared.
+**Effect** Your eidolon Concentrates on the medallion and their connection to you, allowing them to momentarily manifest into a stampede of dozens of copies of themself. The stampede rampages out in every direction, swerving around your allies while trampling any foe on the ground in an emanation around your eidolon with a radius equal to your eidolon's Speed. Each of these foes takes 14d6 bludgeoning damage, with a DC 38 Reflex check save. On a critical failure, the foe is also knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]]. After dealing damage, the stampede of eidolons vanishes as quickly as it appeared.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Gnome
 
-### [[gnome]][[humanoid]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Gnome]][[humanoid]]
 
 
 
@@ -21,7 +21,7 @@ license: ORC
 
 _Long ago, early gnome ancestors emigrated from the First World, realm of the fey. While it's unclear why the first gnomes wandered to Golarion, this lineage manifests in modern gnomes as bizarre reasoning, eccentricity, obsessive tendencies, and what some see as naivete. These qualities are further reflected in their physical characteristics, such as spindly limbs, brightly colored hair, and childlike and extremely expressive facial features that further reflect their otherworldly origins._
 
-_[[PF2e Journals/Ancestries/Gnome|Gnome]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Gnome|Gnome]]_
 
 *Source: Pathfinder Player Core*
 *ORC*

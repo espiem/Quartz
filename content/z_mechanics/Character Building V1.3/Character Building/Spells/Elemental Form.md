@@ -8,7 +8,7 @@ tags:
 ---
 
 # Elemental Form
-![[systems-pf2e-icons-spells-elemental-form.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-elemental-form.webp|150]]
 
 You call upon the power of the planes to transform into a Medium elemental battle form. When you Cast this Spell, choose a listed element. While in this form, you gain the corresponding trait and the elemental trait. You have hands in this battle form and can take manipulate actions. You can Dismiss the spell.
 

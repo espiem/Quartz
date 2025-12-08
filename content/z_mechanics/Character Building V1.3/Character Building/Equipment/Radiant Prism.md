@@ -12,7 +12,7 @@ tags:
 
 Any armor or weapon this glass prism is affixed to glows softly with shifting colored lights. The spell DC of any spell cast by activating this item is 35.
 
-*   **Armor**(light) After you cast an abjuration spell by activating the prism, you glow with dim light in a multitude of shimmering hues, shedding light like a torch and making you [[Concealed]] until the end of your next turn.
+*   **Armor**(light) After you cast an abjuration spell by activating the prism, you glow with dim light in a multitude of shimmering hues, shedding light like a torch and making you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] until the end of your next turn.
 *   **Weapon** After you cast an abjuration spell by activating the prism, your Strikes with the weapon gain the _brilliant_ property rune until the end of your next turn.
 
 **Activate** Cast a Spell

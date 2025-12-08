@@ -13,7 +13,7 @@ license: OGL
 ---
 # Probing Cane
 ## Item 0
-### [[finesse]][[sweep]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[sweep]]
 
 |  |  |
 | -- | -- |

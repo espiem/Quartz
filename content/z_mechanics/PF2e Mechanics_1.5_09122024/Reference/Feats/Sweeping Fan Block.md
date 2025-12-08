@@ -13,7 +13,7 @@ license: ORC
 ---
 # Sweeping Fan Block `pf2:r`
 ## Feat 6
-### [[air]][[archetype]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[archetype]]
 
 **Category** class; 
 

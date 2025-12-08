@@ -13,7 +13,7 @@ license: OGL
 ---
 # Administer
 
-### [[concentrate]][[downtime]][[linguistic]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[downtime]][[linguistic]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 
 

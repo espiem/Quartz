@@ -12,7 +12,7 @@ license: ORC
 ---
 # Zoophonic Composition `pf2:0`
 ## Feat 4
-### [[bard]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Bard]]
 
 **Category** class; 
 

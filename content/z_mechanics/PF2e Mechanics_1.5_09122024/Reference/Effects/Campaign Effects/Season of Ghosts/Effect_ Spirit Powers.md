@@ -20,9 +20,9 @@ When the PCs [[Spells/Transmigrate|Transmigrate]] into the living world during t
 
 **Undead Vision:** They gain low-light vision, or darkvision if their ancestry already has low-light vision.
 
-**Transmigrated Survival:** A PC in this state never gains the wounded condition, but instead becomes exposed to soul degradation upon recovering from the dying condition (see below). If a PC dies while transmigrated, they awaken, alive, in the Willowshore mindscape and gain the [[Conditions/Doomed|Doomed 1]] condition.
+**Transmigrated Survival:** A PC in this state never gains the wounded condition, but instead becomes exposed to soul degradation upon recovering from the dying condition (see below). If a PC dies while transmigrated, they awaken, alive, in the Willowshore mindscape and gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]] condition.
 
-**Transmigrated Protection:** They gain a +2 circumstance bonus to saving throws (or any other defense) against disease, poison, sleep, and any effects that would impose the [[Conditions/Paralyzed|Paralyzed]] condition.
+**Transmigrated Protection:** They gain a +2 circumstance bonus to saving throws (or any other defense) against disease, poison, sleep, and any effects that would impose the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]] condition.
 
 **Spirit Powers:** While in this state, the PCs can also interact with the living world via their newfound spirit powers. When the PCs manifest their transmigrated bodies in the living world, they each gain two minor spirit powers and one major spirit power from the spirit powers listed below. Every time the PCs do their daily preparations, they can reselect their chosen spirit powers. When a spirit power calls for a saving throw, use the higher of that PC's class DC or spell DC. Any spirit powers calling for attack rolls use this DC – 10. Use the PC's own level for determining the effects of any counteract checks.
 

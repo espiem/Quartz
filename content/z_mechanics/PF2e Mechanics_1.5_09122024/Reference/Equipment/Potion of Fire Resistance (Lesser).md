@@ -14,7 +14,7 @@ license: ORC
 ---
 # Potion of Fire Resistance (Lesser)
 ## Item 6
-### [[consumable]][[magical]][[potion]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 45 gp; 
@@ -27,7 +27,7 @@ license: ORC
 
 Drinking this thick, fortifying potion grants resistance 5 against fire damage for 1 hour.
 
-[[Equipment Effects/Effect_ Potion of Fire Resistance (Lesser)|Effect: Potion of Fire Resistance (Lesser)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Potion of Fire Resistance (Lesser)|Effect: Potion of Fire Resistance (Lesser)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

@@ -12,14 +12,14 @@ license: ORC
 ---
 # Fearsome Brute
 ## Feat 10
-### [[fighter]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]]
 
 **Category** class; 
 
 
 
 
-Fear makes your foes weak and more vulnerable to your attacks. You gain a circumstance bonus to damage rolls for Strikes against [[Conditions/Frightened|Frightened]] creatures. The bonus is equal to double the target's frightened value.
+Fear makes your foes weak and more vulnerable to your attacks. You gain a circumstance bonus to damage rolls for Strikes against [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]] creatures. The bonus is equal to double the target's frightened value.
 
 If you're a master in Intimidation, increase the bonus to triple the target's frightened value.
 

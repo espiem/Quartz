@@ -12,7 +12,7 @@ license: OGL
 ---
 # Guide the Timeline `pf2:1`
 ## Feat 6
-### [[archetype]][[concentrate]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]]
 
 **Category** class; 
 

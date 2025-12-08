@@ -15,7 +15,7 @@ license: OGL
 ---
 # Blade of Fallen Stars
 ## Item 22
-### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[kickback]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[kickback]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 |  |  |
 | -- | -- |

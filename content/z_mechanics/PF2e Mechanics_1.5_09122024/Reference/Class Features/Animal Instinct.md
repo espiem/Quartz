@@ -12,7 +12,7 @@ license: ORC
 ---
 # Animal Instinct
 ## Feat 1
-### [[barbarian]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]]
 
 **Category** classfeature; 
 
@@ -66,7 +66,7 @@ The fury of a wild predator fills you when you Rage, granting you ferocious unar
 | Wasp | Stinger | 1d4 P | Backstabber, deadly d8, unarmed, venomous |
 | Wolf | Jaws | 1d10 P | Trip, unarmed |
 
-\*The spider's web attack deals no damage, but the target takes a –10-foot circumstance penalty to its Speeds for 1 round on a hit. If a target is hit a second time by the same character's web attack while they have this penalty, they're instead [[Conditions/Immobilized|Immobilized]] until they succeed at a check to [[Actions/Escape|Escape]] against your class DC.
+\*The spider's web attack deals no damage, but the target takes a –10-foot circumstance penalty to its Speeds for 1 round on a hit. If a target is hit a second time by the same character's web attack while they have this penalty, they're instead [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]] until they succeed at a check to [[Actions/Escape|Escape]] against your class DC.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

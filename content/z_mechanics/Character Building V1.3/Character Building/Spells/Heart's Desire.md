@@ -16,9 +16,9 @@ You surround your target with wondrous illusions of their greatest desires, whic
 
 **Critical Success** The target disbelieves the illusion and is unaffected.
 
-**Success** For 1 round, the target is [[Stupefied|Stupefied 2]] and takes a -2 status penalty to any checks it makes to determine the effects of reactions.
+**Success** For 1 round, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] and takes a -2 status penalty to any checks it makes to determine the effects of reactions.
 
-**Failure** For 1 minute, the target is [[Stupefied|Stupefied 2]] and can't use reactions.
+**Failure** For 1 minute, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] and can't use reactions.
 
 **Critical Failure** As failure, and all spaces are difficult terrain for the target.
 

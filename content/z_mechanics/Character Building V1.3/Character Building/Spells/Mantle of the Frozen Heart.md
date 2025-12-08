@@ -8,7 +8,7 @@ tags:
 ---
 
 # Mantle of the Frozen Heart
-![[systems-pf2e-icons-spells-mantle-of-the-frozen-heart.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-mantle-of-the-frozen-heart.webp|150]]
 
 You surround yourself in a mantle of frigid ice magic, and your skin and armor morph into cold blue ice. Freezing air emanates from your body, sending a chill down anyone's spine who draws too close and leaving a fine dusting of frost in your wake. Upon Casting this Spell, pick two of the options below. As a single action, which has the concentrate trait, you can change one of your chosen abilities to a different option from the list.
 

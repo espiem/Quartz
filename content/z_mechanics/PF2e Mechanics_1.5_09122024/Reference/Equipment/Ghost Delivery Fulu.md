@@ -13,7 +13,7 @@ license: OGL
 ---
 # Ghost Delivery Fulu
 ## Item 8
-### [[consumable]][[fulu]][[magical]]
+### [[consumable]][[fulu]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** fulu; 
 **Price** 100 gp; 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # True Gaze `pf2:1`
 ## Feat 17
-### [[arcane]][[concentrate]][[goloma]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Goloma]]
 
 **Category** ancestry; 
 

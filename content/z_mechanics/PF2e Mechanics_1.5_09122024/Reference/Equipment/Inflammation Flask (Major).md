@@ -18,7 +18,7 @@ license: ORC
 ---
 # Inflammation Flask (Major)
 ## Item 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[acid]][[alchemical]][[bomb]][[consumable]][[disease]][[splash]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Acid]][[alchemical]][[bomb]][[consumable]][[disease]][[splash]]
 
 |  |  |
 | -- | -- |

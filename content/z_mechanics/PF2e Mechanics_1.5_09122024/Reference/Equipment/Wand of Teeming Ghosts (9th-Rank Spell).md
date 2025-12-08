@@ -11,7 +11,7 @@ license: OGL
 ---
 # Wand of Teeming Ghosts (9th-Rank Spell)
 ## Item 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[wand]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wand]]
 
 
 **Price** 70000 gp; 
@@ -34,7 +34,7 @@ This pale wooden wand is carved to resemble a thigh bone with metal caps at each
 
 **Activation** `pf2:0` envision
 
-**Trigger** You successfully impart the [[Conditions/Frightened|Frightened 1]] condition to a creature
+**Trigger** You successfully impart the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]] condition to a creature
 
 **Requirements** You have at least 1 temporary Hit Point from false life
 

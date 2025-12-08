@@ -13,7 +13,7 @@ license: ORC
 ---
 # Hunt Prey `pf2:1`
 
-### [[concentrate]][[ranger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]]
 
 **Category** offensive; 
 

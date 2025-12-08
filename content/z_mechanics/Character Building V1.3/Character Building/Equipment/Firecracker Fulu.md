@@ -8,7 +8,7 @@ tags:
 ---
 
 # Firecracker Fulu
-![[systems-pf2e-icons-equipment-consumables-fulus-fulu-fancy.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-fulus-fulu-fancy.webp|150]]
 
 **Activate** f envision
 
@@ -16,4 +16,4 @@ tags:
 
 * * *
 
-The fulu explodes and showers the area with bright sparks. The creature struck takes an additional 1d4 sonic damage and must succeed at a DC 15 fortitude save or be [[Dazzled]] for 1 round (or dazzled for 1 minute on a critical failure).
+The fulu explodes and showers the area with bright sparks. The creature struck takes an additional 1d4 sonic damage and must succeed at a DC 15 fortitude save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round (or dazzled for 1 minute on a critical failure).

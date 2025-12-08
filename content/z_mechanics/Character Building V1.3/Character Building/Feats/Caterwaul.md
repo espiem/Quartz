@@ -18,4 +18,4 @@ tags:
 
 You give a daring yowl in the face of adversity, calling your companion back from the brink of unconsciousness.
 
-Your ally isn't knocked out and remains at 1 Hit Point. Your ally's [[Wounded]] condition still increases by 1 as though they had been dying and recovered.
+Your ally isn't knocked out and remains at 1 Hit Point. Your ally's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded]] condition still increases by 1 as though they had been dying and recovered.

@@ -14,14 +14,14 @@ license: ORC
 ---
 # Angelic Opera Cloak
 ## Item 19
-### [rare](rare "Rare Rarity Trait")[[apex]][[holy]][[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[apex]][[holy]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 40000 gp; 
 **Bulk** L; **Size** med
 **Usage** worncloak
 
-This luxurious cloak embodies an angel's swiftness. You gain a +3 item bonus to Acrobatics checks and never take falling damage, as your cloak billows like a pair of wings to soften any fall you take. When you invest in the cloak, you either increase your Dexterity score by 2 or increase it to 18, whichever would give you a higher score. If you are unholy, you are [[Conditions/Slowed|Slowed 1]] while wearing this cloak.
+This luxurious cloak embodies an angel's swiftness. You gain a +3 item bonus to Acrobatics checks and never take falling damage, as your cloak billows like a pair of wings to soften any fall you take. When you invest in the cloak, you either increase your Dexterity score by 2 or increase it to 18, whichever would give you a higher score. If you are unholy, you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] while wearing this cloak.
 
 **Activate—On Angel's Wings** `pf2:2` (concentrate)
 

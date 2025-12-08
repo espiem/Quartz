@@ -32,6 +32,6 @@ When you invest the gloves, you either increase your Strength score by 2 or incr
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is [[Deafened]] for 1 round.
+**Failure** The creature takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 round.
 
 **Critical Failure** The creature takes double damage, is deafened for 1 minute, and is [[Stunned 1]].

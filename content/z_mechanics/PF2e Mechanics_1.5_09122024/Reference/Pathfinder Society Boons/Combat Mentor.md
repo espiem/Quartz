@@ -28,7 +28,7 @@ While working with less experienced Pathfinder allies, you provide pointers and 
 
 **Special**: A PC can only benefit from two mentor boons.
 
-[[Feat_Feature Effects/Effect_ Combat Mentor Boon (PFS)|Effect: Combat Mentor Boon (PFS)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Combat Mentor Boon (PFS)|Effect: Combat Mentor Boon (PFS)]]
 
 *Source: *
 *OGL*

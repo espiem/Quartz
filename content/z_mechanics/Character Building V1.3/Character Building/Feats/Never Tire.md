@@ -10,9 +10,9 @@ tags:
 # Never Tire
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Trigger** You would gain the [[Fatigued]] condition.
+**Trigger** You would gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] condition.
 
-**Requirements** You are [[Observed]] by at least three creatures who aren't foes.
+**Requirements** You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Observed]] by at least three creatures who aren't foes.
 
 * * *
 

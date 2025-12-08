@@ -17,7 +17,7 @@ license: ORC
 ---
 # Crimson Bluff
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[agile]][[finesse]][[illusion]][[magical]][[twin]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[twin]]
 
 |  |  |
 | -- | -- |

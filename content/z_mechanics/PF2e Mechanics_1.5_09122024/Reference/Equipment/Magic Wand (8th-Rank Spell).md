@@ -13,7 +13,7 @@ license: ORC
 ---
 # Magic Wand (8th-Rank Spell)
 ## Item 17
-### [[magical]][[wand]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wand]]
 
 **Category** wand; 
 **Price** 15000 gp; 

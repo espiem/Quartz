@@ -14,7 +14,7 @@ license: ORC
 ---
 # Feral Linguist
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[catalyst]][[consumable]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[catalyst]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** catalyst; 
 **Price** 3 gp; 

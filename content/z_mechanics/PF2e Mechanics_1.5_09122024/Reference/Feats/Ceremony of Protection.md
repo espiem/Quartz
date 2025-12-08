@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ceremony of Protection `pf2:1`
 ## Feat 1
-### [[conrasu]][[manipulate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Conrasu]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** ancestry; 
 
@@ -21,7 +21,7 @@ license: OGL
 
 You manipulate your exoskeleton to overlap itself. You gain a +1 circumstance bonus to AC until the start of your next turn.
 
-[[Feat_Feature Effects/Effect_ Ceremony of Protection|Effect: Ceremony of Protection]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Ceremony of Protection|Effect: Ceremony of Protection]]
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

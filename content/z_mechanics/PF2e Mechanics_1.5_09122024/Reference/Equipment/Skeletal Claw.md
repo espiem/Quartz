@@ -18,7 +18,7 @@ license: OGL
 ---
 # Skeletal Claw
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[disarm]][[finesse]][[free-hand]][[magical]][[monk]][[parry]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[disarm]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[free-hand]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]][[parry]]
 
 |  |  |
 | -- | -- |

@@ -8,15 +8,15 @@ tags:
 ---
 
 # Demon's Knot
-![[systems-pf2e-icons-equipment-treasure-gems-greater-precious-stones-large-ruby.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-treasure-gems-greater-precious-stones-large-ruby.webp|150]]
 
 The demon Kaivirris is housed in the magnificent ruby that serves as the centerpiece of this beautiful, goldplated, cold iron pendant necklace. Creatures within 30 feet of the _demon's knot_ feel a subtle urge to acquire the necklace and take a –1 status penalty to Will saves.
 
 Upon donning the _demon's knot_, it fuses to you. You are subject to a _[[Geas]]_ that requires you to free Kaivirris from his prison. If you die without completing this task, you become a sulfur zombie that always remains within 100 feet of the demon's knot and is under the control of whoever is cursed by the _demon's knot_.
 
-The _demon's knot_ sustains your physical form and protects your mind from mental control. You don't need to eat or drink. You become immune to the [[Confused]] and [[Controlled]] conditions.
+The _demon's knot_ sustains your physical form and protects your mind from mental control. You don't need to eat or drink. You become immune to the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Controlled]] conditions.
 
-The _demon's knot_ corrupts anyone wearing it. You gain weakness to cold iron 10 and holy 10. Whenever you're within 60 feet of a celestial, you're [[Frightened|Frightened 2]] and can't reduce the value of the frightened condition below 2.
+The _demon's knot_ corrupts anyone wearing it. You gain weakness to cold iron 10 and holy 10. Whenever you're within 60 feet of a celestial, you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] and can't reduce the value of the frightened condition below 2.
 
 * * *
 

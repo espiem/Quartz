@@ -12,14 +12,14 @@ license: OGL
 ---
 # (Ghost) Fade `pf2:1`
 
-### [[divine]][[illusion]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[illusion]]
 
 **Category** defensive; 
 
 
 
 
-The ghost becomes [[Conditions/Invisible|Invisible]] until the beginning of its next turn.
+The ghost becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible|Invisible]] until the beginning of its next turn.
 
 *Source: Pathfinder #165: Eyes of Empty Death*
 *OGL*

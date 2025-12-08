@@ -17,7 +17,7 @@ license: ORC
 ---
 # Medium Armor Mastery
 ## Feat 17
-### [[alchemist]][[gunslinger]][[inventor]][[magus]][[ranger]][[thaumaturge]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Gunslinger]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Inventor]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Magus]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]]
 
 **Category** classfeature; 
 

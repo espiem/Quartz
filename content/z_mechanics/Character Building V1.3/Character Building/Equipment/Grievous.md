@@ -8,7 +8,7 @@ tags:
 ---
 
 # Grievous
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 When your attack roll with this weapon is a critical hit and gains the critical specialization effect, you gain an additional benefit depending on the weapon group.
 
@@ -22,7 +22,7 @@ When your attack roll with this weapon is a critical hit and gains the critical 
 
 **Crossbow** If the target of the critical hit is adjacent to a surface, it gets stuck to that surface by the missile, as the bow critical specialization.
 
-**Dart** The base [[Persistent Damage|Persistent Bleed Damage]] increases to 2d6.
+**Dart** The base [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Persistent Damage|Persistent Bleed Damage]] increases to 2d6.
 
 **Firearm** The target takes a -4 circumstance penalty to its save.
 
@@ -30,7 +30,7 @@ When your attack roll with this weapon is a critical hit and gains the critical 
 
 **Hammer** You can also knock the target 5 feet away from you.
 
-**Knife** The target takes a -5-foot status penalty to its Speed while it has the [[Persistent Damage|Persistent Bleed Damage]].
+**Knife** The target takes a -5-foot status penalty to its Speed while it has the [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Persistent Damage|Persistent Bleed Damage]].
 
 **Pick** The extra damage from the critical specialization effect increases to 4 per weapon damage die.
 
@@ -42,4 +42,4 @@ When your attack roll with this weapon is a critical hit and gains the critical 
 
 **Spear** The clumsy condition lasts for 2 rounds.
 
-**Sword** The target is [[Off-Guard]] until the end of your next turn.
+**Sword** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the end of your next turn.

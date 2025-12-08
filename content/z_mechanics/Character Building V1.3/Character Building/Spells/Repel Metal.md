@@ -8,7 +8,7 @@ tags:
 ---
 
 # Repel Metal
-![[icons-magic-defensive-shield-barrier-deflect-gold.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-defensive-shield-barrier-deflect-gold.webp|150]]
 
 **Trigger** A Strike with a metallic weapon or projectile would hit you or an ally within range.
 

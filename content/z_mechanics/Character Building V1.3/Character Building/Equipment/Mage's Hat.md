@@ -8,7 +8,7 @@ tags:
 ---
 
 # Mage's Hat
-![[icons-equipment-head-hat-belted-simple-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-equipment-head-hat-belted-simple-grey.webp|150]]
 
 This hat comes in many forms, such as a colorful turban or a pointy hat with a brim, and can bear symbols or runes. It grants you a +1 item bonus to Arcana checks and allows you to cast the _[[Prestidigitation]]_ cantrip as an arcane innate spell.
 

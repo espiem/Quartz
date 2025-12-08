@@ -10,7 +10,7 @@ tags:
 # Belittling Boast
 ![[icons-magic-control-buff-strength-muscle-damage-red.webp|150]]
 
-You boast about your skills or combat prowess, bolstering your own abilities and belittling your opponents. Select one of the following to boast about: melee attack rolls, ranged attack rolls, spell attack rolls, or a single skill. Attempt an Intimidation check to [[Demoralize]] all enemies within 30 feet. Each creature that becomes [[Frightened]] additionally takes a -1 circumstance penalty to the attack roll or skill you boasted about for 1 minute. If at least one creature becomes frightened, you gain a +1 status penalty to the attack roll or skill you boasted about for 1 minute.
+You boast about your skills or combat prowess, bolstering your own abilities and belittling your opponents. Select one of the following to boast about: melee attack rolls, ranged attack rolls, spell attack rolls, or a single skill. Attempt an Intimidation check to [[Demoralize]] all enemies within 30 feet. Each creature that becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened]] additionally takes a -1 circumstance penalty to the attack roll or skill you boasted about for 1 minute. If at least one creature becomes frightened, you gain a +1 status penalty to the attack roll or skill you boasted about for 1 minute.
 
 * * *
 

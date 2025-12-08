@@ -8,7 +8,7 @@ tags:
 ---
 
 # Blessing of Defiance
-![[systems-pf2e-icons-spells-blessing-of-defiance.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-blessing-of-defiance.webp|150]]
 
 Channeling forth the power to persevere in the face of adversity, you grant the target the means to deny danger and avoid dire harm. Choose one saving throw: Fortitude, Reflex, or Will. The target gets a +4 status bonus to that saving throw for 1 round. The potency and number of targets of this blessing depend on how many actions you spend when Casting the Spell.
 

@@ -17,7 +17,7 @@ license: ORC
 
 
 
-Whether due to a blessing from Hei Feng or hatching from your egg during a squall, you are resistant to storms. You gain electricity resistance equal to half your level (minimum 1). You automatically succeed at the flat check to target a [[Conditions/Concealed|Concealed]] creature if that creature is concealed only by rain or fog.
+Whether due to a blessing from Hei Feng or hatching from your egg during a squall, you are resistant to storms. You gain electricity resistance equal to half your level (minimum 1). You automatically succeed at the flat check to target a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] creature if that creature is concealed only by rain or fog.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

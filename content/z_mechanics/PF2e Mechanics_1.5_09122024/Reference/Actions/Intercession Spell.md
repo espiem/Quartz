@@ -14,7 +14,7 @@ license: ORC
 ---
 # Intercession Spell `pf2:r`
 
-### [[concentrate]][[divine]][[spellshape]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[spellshape]]
 
 **Category** defensive; 
 

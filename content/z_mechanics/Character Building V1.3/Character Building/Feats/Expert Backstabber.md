@@ -10,6 +10,6 @@ tags:
 # Expert Backstabber
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-When you Strike an [[Off-Guard]] foe with a weapon that has the backstabber weapon trait, you deal 2 extra precision damage instead of 1.
+When you Strike an [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] foe with a weapon that has the backstabber weapon trait, you deal 2 extra precision damage instead of 1.
 
 If the weapon is a +3 weapon, you deal 4 extra precision damage instead of 2.

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Nudge the Odds
-![[icons-tools-smithing-horseshoe-steel-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-tools-smithing-horseshoe-steel-grey.webp|150]]
 
 You bestow yourself supernaturally good luck at cards, dice, and other games of chance. You gain a +1 status bonus to Games Lore checks to gamble, and if you roll a critical failure on such a check, you get a failure instead; however, the spell is too short-lived to use for Earn Income checks from gambling.
 

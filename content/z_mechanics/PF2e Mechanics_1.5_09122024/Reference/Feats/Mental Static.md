@@ -14,7 +14,7 @@ license: OGL
 ---
 # Mental Static `pf2:r`
 ## Feat 8
-### [[mental]][[nonlethal]][[occult]][[psychic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[nonlethal]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** class; 
 

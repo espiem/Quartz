@@ -11,7 +11,7 @@ license: OGL
 ---
 # Wand of Reaching (3rd-level)
 ## Item 8
-### [[magical]][[wand]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wand]]
 
 
 **Price** 500 gp; 

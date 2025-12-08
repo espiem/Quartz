@@ -13,7 +13,7 @@ license: OGL
 ---
 # Thousand-Pains Fulu (Icicle)
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[fulu]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[fulu]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** fulu; 
 **Price** 630 gp; 

@@ -20,7 +20,7 @@ You manipulate the target's emotions, potentially allowing you to control it for
 
 **Failure** On the target's next turn, it's [[Stunned 1]] and you partially control it, causing it to take a single action of your choice. If it has actions left, it can act normally.
 
-**Critical Failure** The target is [[Controlled]] for 1 round.
+**Critical Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Controlled]] for 1 round.
 
 * * *
 

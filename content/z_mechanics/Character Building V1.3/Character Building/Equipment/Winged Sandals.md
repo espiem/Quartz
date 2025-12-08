@@ -8,7 +8,7 @@ tags:
 ---
 
 # Winged Sandals
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-winged-boots.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-worn-items-other-worn-items-winged-boots.webp|150]]
 
 Made from soft leather, with delicate white wings attached near the ankles, these sandals are ensorcelled with powerful air magic.
 

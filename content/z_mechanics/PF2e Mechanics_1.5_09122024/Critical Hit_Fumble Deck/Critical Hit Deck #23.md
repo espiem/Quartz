@@ -26,6 +26,6 @@ tags:
 
 # Distraction
 
-> The target is [[Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
 
 `Bomb or Spell`

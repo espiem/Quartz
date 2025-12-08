@@ -8,7 +8,7 @@ tags:
 ---
 
 # Perfect Droplet (Greater)
-![[systems-pf2e-icons-equipment-other-spellhearts-perfect-droplet.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-other-spellhearts-perfect-droplet.webp|150]]
 
 Intense blue water magically holds its shape-a perfect sphere. The spell DC of any spell cast by Activating this item is 24.
 

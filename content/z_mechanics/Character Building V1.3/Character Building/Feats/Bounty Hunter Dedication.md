@@ -14,4 +14,4 @@ When focused on finding your quarry, you're relentless. You gain the [[Hunt Prey
 
 If you already have Hunt Prey, you become an expert in Survival and gain the circumstance bonus to Gather Information about your prey; you can still designate a creature you're tracking during exploration, in addition to the conditions above.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[Bounty Hunter]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Bounty Hunter]] archetype.

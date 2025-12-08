@@ -18,4 +18,4 @@ While dormant, this tattoo appears to be a simple flower bud, but when activated
 
 * * *
 
-**Effect** Choose a willing ally you can see within 30 feet. Your ally takes on a regal bearing, exuding the presence of confident royalty. The bloom casts a 5th-level [[Command]] spell (DC 28) selecting targets within range of the ally. Each target that fails the save must fall [[Prone]] and pays homage to your ally.
+**Effect** Choose a willing ally you can see within 30 feet. Your ally takes on a regal bearing, exuding the presence of confident royalty. The bloom casts a 5th-level [[Command]] spell (DC 28) selecting targets within range of the ally. Each target that fails the save must fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] and pays homage to your ally.

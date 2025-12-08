@@ -8,7 +8,7 @@ tags:
 ---
 
 # Moonlight Ray
-![[systems-pf2e-icons-spells-moonlight-ray.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-moonlight-ray.webp|150]]
 
 You unleash a holy beam of freezing moonlight. Make a ranged spell attack. The ray deals 5d6 cold damage; if the target is a fiend or undead, you deal an extra 5d6 spirit damage.
 

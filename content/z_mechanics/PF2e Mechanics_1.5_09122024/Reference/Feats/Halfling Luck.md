@@ -13,7 +13,7 @@ license: ORC
 ---
 # Halfling Luck `pf2:0`
 ## Feat 1
-### [[fortune]][[halfling]]
+### [[fortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Halfling]]
 
 **Category** ancestry; 
 

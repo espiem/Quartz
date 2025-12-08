@@ -8,7 +8,7 @@ tags:
 ---
 
 # Angelic Wings
-![[systems-pf2e-icons-spells-angelic-wings.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-angelic-wings.webp|150]]
 
 Wings of pure light spread out from your back, granting you a fly Speed equal to your Speed. Your wings cast bright light in a 30-foot radius. When this spell's duration would end, if you're still flying, you float to the ground, as _[[Gentle Landing]]_.
 

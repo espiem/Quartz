@@ -12,7 +12,7 @@ license: ORC
 ---
 # Unbound Leaper
 ## Feat 17
-### [[grippli]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Grippli]]
 
 **Category** ancestry; 
 

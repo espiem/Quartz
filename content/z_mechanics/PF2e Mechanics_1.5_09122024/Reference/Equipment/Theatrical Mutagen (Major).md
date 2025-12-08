@@ -28,7 +28,7 @@ Developed and widely used by students at the Kitharodian Academy in Oppara, the 
 
 Benefit You gain a +4 item bonus to Acrobatics checks, Crafting checks, and Performance checks. If you're untrained in any of these skills, your proficiency bonus is equal to your level instead of +0. You also gain a +10 feet status bonus to your Speed.
 
-Drawback You take a –1 penalty to Perception checks and Will saves. After any round where you don't spend at least 1 action to Interact with an object, [[Actions/Perform|Perform]], Step, or Stride, you're [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn.
+Drawback You take a –1 penalty to Perception checks and Will saves. After any round where you don't spend at least 1 action to Interact with an object, [[Actions/Perform|Perform]], Step, or Stride, you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the start of your next turn.
 
 [[Equipment Effects/Effect_ Theatrical Mutagen (Major)|Effect: Theatrical Mutagen (Major)]]
 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Channeled Protection `pf2:1`
 ## Feat 4
-### [[animist]][[apparition]][[aura]]
+### [[animist]][[apparition]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]]
 
 **Category** class; 
 

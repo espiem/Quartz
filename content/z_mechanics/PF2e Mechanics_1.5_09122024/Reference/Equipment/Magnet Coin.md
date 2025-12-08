@@ -11,7 +11,7 @@ license: OGL
 ---
 # Magnet Coin
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[teleportation]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[teleportation]]
 
 
 **Price** 50 gp; 

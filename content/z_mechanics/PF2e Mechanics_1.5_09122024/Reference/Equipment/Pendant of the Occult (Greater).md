@@ -12,7 +12,7 @@ license: ORC
 ---
 # Pendant of the Occult (Greater)
 ## Item 9
-### [[invested]][[occult]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 
 **Price** 650 gp; 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Incredible Luck (Swashbuckler)
 ## Feat 18
-### [[fortune]][[swashbuckler]]
+### [[fortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 

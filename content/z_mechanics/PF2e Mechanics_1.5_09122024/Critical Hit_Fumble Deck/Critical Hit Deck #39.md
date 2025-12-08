@@ -8,7 +8,7 @@ tags:
 ---
 # Soul-Crushing Blow
 
-> **Crit Effect:** The target is [[Conditions/Doomed|Doomed 1]] and is [[Conditions/Stupefied|Stupefied 1]] for as long as it is doomed.
+> **Crit Effect:** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]] and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for as long as it is doomed.
 
 `Bludgeoning`
 

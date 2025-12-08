@@ -8,7 +8,7 @@ tags:
 ---
 
 # Summon Dragon
-![[systems-pf2e-icons-spells-summon-dragon.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-summon-dragon.webp|150]]
 
 You summon a creature that has the dragon trait and whose level is 5 or lower to fight for you. If the dragon has a magical tradition trait (arcane, divine, occult, or primal), you can summon it only if you're using that tradition to cast summon dragon.
 

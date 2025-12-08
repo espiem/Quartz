@@ -8,7 +8,7 @@ tags:
 ---
 
 # Avatar
-![[icons-equipment-head-helm-barbute-horned-gold-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-equipment-head-helm-barbute-horned-gold-red.webp|150]]
 
 You transform into an avatar of your deity, assuming a Huge battle form. You have hands in this battle form and can take manipulate actions. You can Dismiss this spell. You gain the following statistics and abilities regardless of which deity's battle form you assume:
 
@@ -23,7 +23,7 @@ You transform into an avatar of your deity, assuming a Huge battle form. You hav
 You also gain the specific abilities listed for your deity below:
 
 *   **Abadar**
-    *   Speed 50 feet, burrow Speed 30 feet, immune to [[Immobilized]];
+    *   Speed 50 feet, burrow Speed 30 feet, immune to [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]];
     *   **Ranged** a crossbow (range increment 120 feet, reload 1), **Damage** 6d10+3 piercing.
 *   **Achaekek**
     *   Speed 70 feet, climb Speed 50 feet, ignore difficult terrain and greater difficult terrain;
@@ -49,7 +49,7 @@ You also gain the specific abilities listed for your deity below:
     *   Speed 70 feet, air walk, ignore difficult terrain and greater difficult terrain;
     *   **Ranged** a longbow (deadly 3d8, range increment 150 feet), **Damage** 6d8+3 piercing.
 *   **Gorum**
-    *   Speed 70 feet, immune to [[Immobilized]];
+    *   Speed 70 feet, immune to [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]];
     *   **Melee** a greatsword (versatile P, reach 15 feet), **Damage** 6d12+6 slashing.
 *   **Gozreh**
     *   no land Speed, fly Speed 70 feet, swim Speed 70 feet, ignore difficult terrain and greater difficult terrain;
@@ -78,7 +78,7 @@ You also gain the specific abilities listed for your deity below:
     *   **Melee** a dagger (agile, finesse, reach 15 feet, thrown 40 feet), **Damage** 6d6+6 slashing;
     *   **Ranged** a spiral blast (range 120 feet, damages only undead), **Damage** 6d8+3 vitality.
 *   **Rovagug**
-    *   Speed 50 feet, burrow Speed 30 feet, immune to [[Immobilized]];
+    *   Speed 50 feet, burrow Speed 30 feet, immune to [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]];
     *   **Melee** a jaws(reach 15 feet), **Damage** 6d12+6 piercing;
     *   **Melee** a leg (agile, versatile P, reach 15 feet), **Damage** 6d8+6 bludgeoning.
 *   **Sarenrae**
@@ -90,7 +90,7 @@ You also gain the specific abilities listed for your deity below:
     *   **Melee** a glaive (deadly 3d8, nonlethal, reach 20 feet), **Damage** 6d8+6 slashing;
     *   **Ranged** a melody of inner beauty, (nonlethal, range 120 feet), **Damage** 6d6+3 sonic.
 *   **Torag**
-    *   Speed 50 feet, burrow Speed 30 feet, immune to [[Immobilized]]; shield (15 Hardness, can't be damaged);
+    *   Speed 50 feet, burrow Speed 30 feet, immune to [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]]; shield (15 Hardness, can't be damaged);
     *   **Melee** a warhammer (reach 15 feet, shove), **Damage** 6d8+6 bludgeoning.
 *   **Urgathoa**
     *   Speed 70 feet, air walk;

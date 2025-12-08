@@ -14,7 +14,7 @@ license: ORC
 ---
 # Irritating Seedpod (Greater)
 ## Item 10
-### [[catalyst]][[consumable]][[magical]]
+### [[catalyst]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 190 gp; 
@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-When you crack open this soft, spongy seedpod, you can use it as a catalyst when casting a [[Spells/Mist|Mist]] spell. When you do, irritating pollen fills the area for the spell's duration. Creatures in the area must attempt a DC 24 Fortitude check saving throw to avoid sneezing uncontrollably. On a failed save, the creature becomes [[Conditions/Slowed|Slowed 1]] for 3 rounds. A creature that succeeds at this saving throw becomes temporarily immune to the irritating seedpod's pollen for 10 minutes.
+When you crack open this soft, spongy seedpod, you can use it as a catalyst when casting a [[Spells/Mist|Mist]] spell. When you do, irritating pollen fills the area for the spell's duration. Creatures in the area must attempt a DC 24 Fortitude check saving throw to avoid sneezing uncontrollably. On a failed save, the creature becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] for 3 rounds. A creature that succeeds at this saving throw becomes temporarily immune to the irritating seedpod's pollen for 10 minutes.
 
 *Source: Pathfinder #203: Shepherd of Decay*
 *ORC*

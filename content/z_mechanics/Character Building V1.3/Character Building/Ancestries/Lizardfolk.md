@@ -12,4 +12,4 @@ tags:
 
 _Lizardfolk are consummate survivors, heirs to empires considered ancient even by the elves._
 
-_[[Lizardfolk]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Lizardfolk]]_

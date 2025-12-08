@@ -17,7 +17,7 @@ You try to knock a creature to the ground. Attempt an Athletics check against th
 
 * * *
 
-**Critical Success** The target falls and lands [[Prone]] and takes 1d6 bludgeoning damage.
+**Critical Success** The target falls and lands [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] and takes 1d6 bludgeoning damage.
 
 **Success** The target falls and lands prone.
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Faydhaan's Dallah
 ## Item 14
-### [[magical]][[water]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 
 **Price** 4250 gp; 

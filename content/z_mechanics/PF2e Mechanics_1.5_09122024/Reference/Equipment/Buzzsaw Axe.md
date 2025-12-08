@@ -13,7 +13,7 @@ license: OGL
 ---
 # Buzzsaw Axe
 ## Item 11
-### [[magical]][[sweep]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[sweep]]
 
 |  |  |
 | -- | -- |

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Jolt Coil (Greater)
 ## Item 8
-### [[electricity]][[magical]][[spellheart]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Electricity]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellheart]]
 
 
 **Price** 475 gp; 
@@ -24,9 +24,9 @@ Contained within this small glass tube is a twisted wire filament crackling with
 *   **Armor** You gain resistance 3 to electricity.
 *   **Weapon** After you cast an electricity spell by activating the coil, your Strikes with the weapon deal an additional 1d6 electricity damage until the end of your next turn.
 
-[[Equipment Effects/Effect_ Jolt Coil - Armor (Greater)|Effect: Jolt Coil - Armor (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Jolt Coil - Armor (Greater)|Effect: Jolt Coil - Armor (Greater)]]
 
-[[Equipment Effects/Effect_ Jolt Coil - Weapon (Greater)|Effect: Jolt Coil - Weapon (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Jolt Coil - Weapon (Greater)|Effect: Jolt Coil - Weapon (Greater)]]
 
 DC 24 Reflex check
 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Rat Form `pf2:1`
 ## Feat 9
-### [[concentrate]][[polymorph]][[primal]][[ratfolk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[polymorph]][[primal]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Ratfolk]]
 
 **Category** ancestry; 
 

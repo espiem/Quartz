@@ -11,7 +11,7 @@ license: OGL
 ---
 # Private Workshop
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[structure]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[structure]]
 
 
 **Price** 200 gp; 
@@ -20,7 +20,7 @@ license: OGL
 
 A _private workshop_ is a model building about the size of a music box that resembles a smithy, tannery, alchemy lab, or other crafting facility.
 
-[[Equipment Effects/Effect_ Private Workshop (Using for Crafting)|Effect: Private Workshop (Using for Crafting)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Private Workshop (Using for Crafting)|Effect: Private Workshop (Using for Crafting)]]
 
 * * *
 

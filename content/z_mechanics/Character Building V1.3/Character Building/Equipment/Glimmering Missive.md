@@ -12,4 +12,4 @@ tags:
 
 **Activate** 2 envision, Interact
 
-A glimmering missive sparkles as you compose it. When activated, it explodes, disintegrating into a shower of multicolored motes in a 10 foot burst from a corner of the missive's space. Creatures in the area are covered in sparkling dust that remains luminous for 1 hour. Visible creatures can't be [[Concealed]] while covered by the luminous dust; any [[Invisible]] creatures are concealed while covered in the luminous dust, rather than being undetected.
+A glimmering missive sparkles as you compose it. When activated, it explodes, disintegrating into a shower of multicolored motes in a 10 foot burst from a corner of the missive's space. Creatures in the area are covered in sparkling dust that remains luminous for 1 hour. Visible creatures can't be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] while covered by the luminous dust; any [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]] creatures are concealed while covered in the luminous dust, rather than being undetected.

@@ -28,7 +28,7 @@ In addition, you can cast [[Spells/Vitality Lash|Vitality Lash]] as a divine inn
 
 When you have at least two other feats from this archetype, the spiral glows with bright light in a 10-foot radius (and dim light for the next 10 feet). Feats that require a creature or object to be in the light of your spiral function whether it's in the bright or dim light.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Soul Warden|Soul Warden]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[Soul Warden|Soul Warden]] archetype.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

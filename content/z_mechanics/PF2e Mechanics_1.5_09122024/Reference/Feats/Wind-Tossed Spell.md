@@ -15,7 +15,7 @@ license: OGL
 ---
 # Wind-Tossed Spell `pf2:1`
 ## Feat 14
-### [[air]][[archetype]][[concentrate]][[spellshape]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[spellshape]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ license: OGL
 
 **Prerequisites** Elementalist Dedication; air is in your elemental philosophy
 * * *
-You enhance your spell with elemental air, using the wind to find your target and carry your magic around cover. If the next action you use is to Cast a Spell that requires a spell attack roll, you ignore the target's [[Conditions/Concealed|Concealed]] condition and any cover they have from you. The spell gains the air trait.
+You enhance your spell with elemental air, using the wind to find your target and carry your magic around cover. If the next action you use is to Cast a Spell that requires a spell attack roll, you ignore the target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] condition and any cover they have from you. The spell gains the air trait.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Ki Spells
-![[systems-pf2e-icons-spells-ki-strike.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-ki-strike.webp|150]]
 
 ## Ki Spells
 

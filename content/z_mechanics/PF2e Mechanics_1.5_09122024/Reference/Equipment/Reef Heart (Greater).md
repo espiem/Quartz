@@ -13,7 +13,7 @@ license: OGL
 ---
 # Reef Heart (Greater)
 ## Item 15
-### [[aquadynamic]][[invested]][[magical]]
+### [[aquadynamic]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** medium; **Group** skeletal
 **Price** 6500 gp; 

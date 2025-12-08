@@ -15,7 +15,7 @@ license: OGL
 ---
 # Aura Sight
 ## Feat 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[exploration]][[general]][[secret]][[skill]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[exploration]][[general]][[secret]][[skill]]
 
 **Category** skill; 
 

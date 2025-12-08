@@ -20,10 +20,10 @@ Gorgon's breath is a fine powder that can easily enter living creatures' bloodst
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** [[Slowed]] (1 round)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] (1 round)
 
 **Stage 2** 4d6 bludgeoning and slowed 1 (1 round)
 
-**Stage 3** [[Petrified]] (1 round)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Petrified]] (1 round)
 
 **Stage 4** petrified permanently

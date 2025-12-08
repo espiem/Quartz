@@ -18,6 +18,6 @@ When a creature enters the snare's square, several strands of strong wires endin
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is knock [[Prone]] and [[Immobilized]] for 1 round (Escape DC 28).
+**Failure** The creature takes full damage and is knock [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] for 1 round (Escape DC 28).
 
-**Critical Failure** The creature takes double damage, is knocked prone, and is [[Restrained]] for 1 round (Escape DC 28).
+**Critical Failure** The creature takes double damage, is knocked prone, and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]] for 1 round (Escape DC 28).

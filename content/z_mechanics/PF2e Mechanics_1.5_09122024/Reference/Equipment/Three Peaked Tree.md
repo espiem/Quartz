@@ -16,7 +16,7 @@ license: OGL
 ---
 # Three Peaked Tree
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[elf]][[fatal-d10]][[parry]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Elf]][[fatal-d10]][[parry]]
 
 |  |  |
 | -- | -- |

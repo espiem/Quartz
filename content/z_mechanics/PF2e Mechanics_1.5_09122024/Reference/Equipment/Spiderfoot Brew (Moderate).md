@@ -27,7 +27,7 @@ license: OGL
 
 This gelatinous, sticky fluid is made from the silk glands of giant spiders. When you drink a spiderfoot brew, tiny clinging hairs grow on your hands and feet, granting you a climb Speed of 20 feet and a +2 item bonus to athletics checks made to climb for 10 minutes.
 
-[[Equipment Effects/Effect_ Spiderfoot Brew (Moderate)|Effect: Spiderfoot Brew (Moderate)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Spiderfoot Brew (Moderate)|Effect: Spiderfoot Brew (Moderate)]]
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

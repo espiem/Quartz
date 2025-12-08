@@ -16,7 +16,7 @@ license: OGL
 ---
 # Scarlet Queen
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[combination]][[concussive]][[fatal-d10]][[fire]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[combination]][[concussive]][[fatal-d10]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 |  |  |
 | -- | -- |

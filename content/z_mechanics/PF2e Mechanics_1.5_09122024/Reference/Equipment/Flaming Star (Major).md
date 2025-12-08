@@ -12,7 +12,7 @@ license: OGL
 ---
 # Flaming Star (Major)
 ## Item 12
-### [[fire]][[magical]][[spellheart]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellheart]]
 
 
 **Price** 1750 gp; 
@@ -24,9 +24,9 @@ A sheen of red crosses the surface of this star-shaped goldstone medallion when 
 *   **Armor** You gain resistance 10 to fire.
 *   **Weapon** After you cast a fire spell by Activating the _star_, your Strikes with the weapon deal an additional 1d8 fire damage until the end of your next turn.
 
-[[Equipment Effects/Effect_ Flaming Star - Armor (Major)|Effect: Flaming Star - Armor (Major)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Flaming Star - Armor (Major)|Effect: Flaming Star - Armor (Major)]]
 
-[[Equipment Effects/Effect_ Flaming Star - Weapon (Major)|Effect: Flaming Star - Weapon (Major)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Flaming Star - Weapon (Major)|Effect: Flaming Star - Weapon (Major)]]
 
 * * *
 

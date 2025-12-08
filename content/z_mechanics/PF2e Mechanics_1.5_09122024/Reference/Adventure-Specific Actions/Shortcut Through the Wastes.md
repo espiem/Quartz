@@ -13,7 +13,7 @@ license: OGL
 ---
 # Shortcut Through the Wastes
 
-### [[concentrate]][[exploration]][[move]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[exploration]][[move]]
 
 **Category** interaction; 
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Recall the Teachings `pf2:1`
 
-### [[occult]][[psyche]][[psychic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[psyche]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** defensive; 
 

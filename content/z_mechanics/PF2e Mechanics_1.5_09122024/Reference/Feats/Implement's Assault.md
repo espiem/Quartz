@@ -12,7 +12,7 @@ license: OGL
 ---
 # Implement's Assault `pf2:3`
 ## Feat 18
-### [[magical]][[thaumaturge]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]]
 
 **Category** class; 
 

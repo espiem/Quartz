@@ -32,4 +32,4 @@ You use the power of nightmares to magically replicate the venomous attack of th
 
 **Stage 2** 3d6 poison damage and [[Drained 1|Drained 2]] (1 round)
 
-**Stage 3** 4d6 poison damage, [[Drained 1|Drained 2]], and [[Confused]] (1 round)
+**Stage 3** 4d6 poison damage, [[Drained 1|Drained 2]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] (1 round)

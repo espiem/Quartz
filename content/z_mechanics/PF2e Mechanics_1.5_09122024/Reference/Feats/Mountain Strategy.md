@@ -12,7 +12,7 @@ license: ORC
 ---
 # Mountain Strategy
 ## Feat 1
-### [[dwarf]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Dwarf]]
 
 **Category** ancestry; 
 
@@ -23,7 +23,7 @@ Dwarves have a long history fighting common foes, and you've mastered the ancien
 
 In addition, if any creature critically succeeds at an attack against you and deals damage to you, you gain your bonus to damage against that creature for 1 minute regardless of whether it has the chosen trait.
 
-[[Feat_Feature Effects/Effect_ Mountain Strategy (Critically Hit)|Effect: Mountain Strategy (Critically Hit)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Mountain Strategy (Critically Hit)|Effect: Mountain Strategy (Critically Hit)]]
 
 * * *
 

@@ -18,7 +18,7 @@ license: ORC
 ---
 # Towering Transformation `pf2:r`
 ## Feat 14
-### [[barbarian]][[druid]][[emotion]][[fear]][[mental]][[rage]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Druid]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[rage]][[visual]]
 
 **Category** class; 
 
@@ -35,9 +35,9 @@ The physical growth of your transformation is a spectacle that shakes foes to th
 
 **Success** The creature is unaffected.
 
-**Failure** The creature becomes [[Conditions/Frightened|Frightened 1]].
+**Failure** The creature becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Critical Failure** The creature becomes [[Conditions/Frightened|Frightened 2]], and you can push it up to 10 feet from you. This is forced movement.
+**Critical Failure** The creature becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]], and you can push it up to 10 feet from you. This is forced movement.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

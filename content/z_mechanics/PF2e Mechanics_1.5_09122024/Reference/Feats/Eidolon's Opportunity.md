@@ -13,7 +13,7 @@ license: OGL
 ---
 # Eidolon's Opportunity `pf2:r`
 ## Feat 6
-### [[eidolon]][[evolution]][[summoner]]
+### [[eidolon]][[evolution]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Summoner]]
 
 **Category** class; 
 

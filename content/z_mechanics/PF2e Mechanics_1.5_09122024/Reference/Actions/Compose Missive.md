@@ -12,7 +12,7 @@ license: OGL
 ---
 # Compose Missive
 
-### [[exploration]][[manipulate]]
+### [[exploration]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** interaction; 
 

@@ -12,4 +12,4 @@ tags:
 
 You trust your instincts and your sense of smell, using all of your senses to pinpoint your opponent's location.
 
-Make a melee Strike against an opponent that isn't hiding its scent with an effect like _[[Negate Aroma]]_. This attack ignores any flat check required due to the target being [[Concealed]] or [[Hidden]].
+Make a melee Strike against an opponent that isn't hiding its scent with an effect like _[[Negate Aroma]]_. This attack ignores any flat check required due to the target being [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]].

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Name Drop `pf2:r`
 
-### [[auditory]][[fortune]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[fortune]]
 
 **Category** interaction; 
 

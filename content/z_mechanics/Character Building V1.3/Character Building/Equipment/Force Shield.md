@@ -8,7 +8,7 @@ tags:
 ---
 
 # Force Shield
-![[systems-pf2e-icons-equipment-shields-specific-shields-force-shield.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-shields-specific-shields-force-shield.webp|150]]
 
 The edges of this elaborately engraved steel shield (Hardness 8, HP 32, BT 16) bear tiny glass tiles set in mosaic patterns.
 

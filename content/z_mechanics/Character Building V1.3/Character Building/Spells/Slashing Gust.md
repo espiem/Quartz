@@ -8,7 +8,7 @@ tags:
 ---
 
 # Slashing Gust
-![[icons-magic-air-air-wave-gust-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-air-air-wave-gust-blue.webp|150]]
 
 You slash your hand through the air, channeling miniature ripples of air from each finger to slice your enemy. If you have two hands free, you can target two creatures with this spell; otherwise, you target one.
 

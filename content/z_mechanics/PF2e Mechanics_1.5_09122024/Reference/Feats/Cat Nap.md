@@ -14,7 +14,7 @@ license: ORC
 ---
 # Cat Nap
 ## Feat 1
-### [[catfolk]][[concentrate]][[exploration]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Catfolk]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[exploration]]
 
 **Category** ancestry; 
 
@@ -27,7 +27,7 @@ license: ORC
 
 You can regain your energy quickly with a brief nap. You sleep for 10 minutes, after which you gain temporary Hit Points equal to your level that last for 1 hour.
 
-[[Feat_Feature Effects/Effect_ Cat Nap|Effect: Cat Nap]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Cat Nap|Effect: Cat Nap]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

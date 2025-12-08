@@ -11,7 +11,7 @@ license: OGL
 ---
 # Wand of Shrouded Step
 ## Item 4
-### [[magical]][[wand]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wand]]
 
 
 **Price** 80 gp; 
@@ -26,7 +26,7 @@ When you move this delicately carved poplar wand, it looks indistinct, leaving a
 
 * * *
 
-**Effect** You cast [[Spells/Fleet Step|Fleet Step]]. For the duration of the spell, you're also [[Conditions/Concealed|Concealed]] while you Stride.
+**Effect** You cast [[Spells/Fleet Step|Fleet Step]]. For the duration of the spell, you're also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] while you Stride.
 
 * * *
 

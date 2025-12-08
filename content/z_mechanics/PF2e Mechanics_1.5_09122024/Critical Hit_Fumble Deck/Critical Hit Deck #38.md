@@ -14,7 +14,7 @@ tags:
 
 # Eye patch for you
 
-> Triple damage. **Crit Effect:** The target is [[Conditions/Dazzled|Dazzled]] until healed.
+> Triple damage. **Crit Effect:** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] until healed.
 
 `Piercing`
 

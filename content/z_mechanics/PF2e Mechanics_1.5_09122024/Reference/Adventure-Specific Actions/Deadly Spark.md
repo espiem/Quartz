@@ -12,7 +12,7 @@ license: OGL
 ---
 # Deadly Spark `pf2:2`
 
-### [[air]][[electricity]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Electricity]]
 
 **Category** offensive; 
 

@@ -18,6 +18,6 @@ There are various types of _aeon stones_, each with a different appearance and m
 
 * * *
 
-This spherical piece of silvery stone helps you ignore minor issues. You can ignore status penalties to skill checks from [[Clumsy 1]], [[Enfeebled 1]], [[Frightened|Frightened 1]], [[Sickened 1]], and [[Stupefied|Stupefied 1]] conditions as long as the value of that condition is 1.
+This spherical piece of silvery stone helps you ignore minor issues. You can ignore status penalties to skill checks from [[Clumsy 1]], [[Enfeebled 1]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]], [[Sickened 1]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] conditions as long as the value of that condition is 1.
 
 Its resonant power allows you to cast _[[Guidance]]_ as an occult innate cantrip.

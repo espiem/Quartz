@@ -14,7 +14,7 @@ license: OGL
 ---
 # Storm Hammer
 ## Item 3
-### [[electricity]][[magical]][[shove]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Electricity]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[shove]]
 
 |  |  |
 | -- | -- |

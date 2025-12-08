@@ -8,7 +8,7 @@ tags:
 ---
 
 # Hurtling Stone
-![[systems-pf2e-icons-spells-hurtling-stone.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-hurtling-stone.webp|150]]
 
 You evoke a magical stone and throw it, with divine guide to your aim. The stone deals 2d6 bludgeoning damage depending on your spell attack roll against the target's AC.
 

@@ -17,7 +17,7 @@ license: OGL
 ---
 # Calcifying Sand `pf2:r`
 ## Feat 4
-### [[earth]][[impulse]][[incapacitation]][[kineticist]][[overflow]][[primal]]
+### [[earth]][[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[overflow]][[primal]]
 
 **Category** class; 
 
@@ -34,9 +34,9 @@ Your flesh gives way as you're struck, becoming coarse sand that can magically t
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[Conditions/Slowed|Slowed 1]] until the end of its next turn.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] until the end of its next turn.
 
-**Critical Failure** The creature is [[Conditions/Petrified|Petrified]] until the end of its next turn.
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Petrified|Petrified]] until the end of its next turn.
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

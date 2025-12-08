@@ -13,7 +13,7 @@ license: ORC
 ---
 # Genius Diadem
 ## Item 18
-### [rare](rare "Rare Rarity Trait")[[apex]][[arcane]][[intelligent]]
+### [rare](rare "Rare Rarity Trait")[[apex]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[intelligent]]
 
 
 **Price** 24000 gp; 

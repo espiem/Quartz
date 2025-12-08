@@ -26,7 +26,7 @@ You become trained in Fireworks Lore or become an expert if you were already tra
 
 You can also create special fireworks displays using your infused reagents, designed to create distinctive effects you can use to make onlookers marvel and even to gain an advantage in combat. You gain the Launch Fireworks Display action and learn some basic displays, and you can learn additional, more complex displays through other firework technician feats. The DC for any display is equal to your class DC or spell DC, whichever is higher.
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Firework Technician|Firework Technician]] archetype.
+**Special** You can't select another dedication feat until you've gained two other feats from the [[Firework Technician|Firework Technician]] archetype.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

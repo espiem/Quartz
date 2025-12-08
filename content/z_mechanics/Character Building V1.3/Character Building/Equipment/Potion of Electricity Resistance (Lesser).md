@@ -8,7 +8,7 @@ tags:
 ---
 
 # Potion of Electricity Resistance (Lesser)
-![[systems-pf2e-icons-equipment-consumables-potions-potion-of-electricity-resistance.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-potions-potion-of-electricity-resistance.webp|150]]
 
 **Activate** A (manipulate)
 

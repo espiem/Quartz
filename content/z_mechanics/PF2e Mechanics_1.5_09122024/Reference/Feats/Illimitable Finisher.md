@@ -14,14 +14,14 @@ license: ORC
 ---
 # Illimitable Finisher
 ## Feat 20
-### [[finisher]][[fortune]][[swashbuckler]]
+### [[finisher]][[fortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 
 
 
 
-**Requirements** You are not [[Conditions/Fatigued|Fatigued]].
+**Requirements** You are not [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]].
 
 * * *
 

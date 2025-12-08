@@ -17,7 +17,7 @@ license: ORC
 **Bulk** 2; **Size** med
 **Usage** held-in-two-hands
 
-Simple blinds consist of a series of poles with a cloth to cover them. The cloth covering is styled to represent the natural surroundings such as green and brown leaf and wood patterns for forests, or gray rocks for underground environments. This cloth is either sheer enough to be seen through on one side, or sometimes has small slits cut in it, allowing someone behind it to see what is going on outside while remaining [[Conditions/Hidden|Hidden]]. While not the most convincing camouflage, it's good enough to fool many animals and creatures with lower intelligence.
+Simple blinds consist of a series of poles with a cloth to cover them. The cloth covering is styled to represent the natural surroundings such as green and brown leaf and wood patterns for forests, or gray rocks for underground environments. This cloth is either sheer enough to be seen through on one side, or sometimes has small slits cut in it, allowing someone behind it to see what is going on outside while remaining [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]]. While not the most convincing camouflage, it's good enough to fool many animals and creatures with lower intelligence.
 
 Animal blinds take 1 minute to set up. Up to two Medium creatures or one Large creature may use the blinds at the same time. You can [[Actions/Take Cover|Take Cover]] behind the blind to gain standard cover. If the environment matches the terrain depicted on the blind, your circumstance bonus on Stealth checks to [[Actions/Hide|Hide]] increases to +4.
 

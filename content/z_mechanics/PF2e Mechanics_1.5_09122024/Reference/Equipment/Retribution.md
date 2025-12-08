@@ -18,7 +18,7 @@ license: ORC
 ---
 # Retribution
 ## Item 21
-### [unique](unique "Unique Rarity Trait")[[agile]][[artifact]][[backstabber]][[deadly-d8]][[divine]][[finesse]]
+### [unique](unique "Unique Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[artifact]][[backstabber]][[deadly-d8]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]]
 
 |  |  |
 | -- | -- |

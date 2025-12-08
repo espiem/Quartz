@@ -8,7 +8,7 @@ tags:
 ---
 # Collapsed Lung
 
-> Normal damage. **Crit Effect:** Until healed, the target is [[Conditions/Enfeebled|Enfeebled 2]] and [[Conditions/Fatigued|Fatigued]].
+> Normal damage. **Crit Effect:** Until healed, the target is [[Conditions/Enfeebled|Enfeebled 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]].
 
 `Bludgeoning`
 
@@ -20,7 +20,7 @@ tags:
 
 # Rupture Abdominal Cavity
 
-> Triple damage. The target is [[Conditions/Fatigued|Fatigued]].
+> Triple damage. The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]].
 
 `Slashing`
 

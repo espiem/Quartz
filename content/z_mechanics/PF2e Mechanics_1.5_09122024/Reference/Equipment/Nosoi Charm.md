@@ -11,7 +11,7 @@ license: OGL
 ---
 # Nosoi Charm
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 1900 gp; 
@@ -28,7 +28,7 @@ Nosois serve as scribes and messengers to psychopomps. They are rare outside of 
 
 **Effect** You twist the base of the charm, and the twittering it emits becomes helpful words to boost your arguments. You lose the item bonus to Performance checks and gain a +2 item bonus to Diplomacy checks to make Requests until you use this activation again.
 
-[[Equipment Effects/Effect_ Nosoi Charm (Diplomacy)|Effect: Nosoi Charm (Diplomacy)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Nosoi Charm (Diplomacy)|Effect: Nosoi Charm (Diplomacy)]]
 
 * * *
 
@@ -40,7 +40,7 @@ Nosois serve as scribes and messengers to psychopomps. They are rare outside of 
 
 **Effect** You gain lifesense as an imprecise sense with a range of 30 feet for 1 hour as long as you continue to hold the charm. This allows you to sense the life force that animates living creatures and the perverse force that animates the dead, though you can't distinguish between the two.
 
-[[Equipment Effects/Effect_ Nosoi Charm (Lifesense)|Effect: Nosoi Charm (Lifesense)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Nosoi Charm (Lifesense)|Effect: Nosoi Charm (Lifesense)]]
 
 *Source: Pathfinder Adventure: Night of the Gray Death*
 *OGL*

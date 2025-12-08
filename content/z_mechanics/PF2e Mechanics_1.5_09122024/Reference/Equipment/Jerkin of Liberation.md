@@ -12,7 +12,7 @@ license: OGL
 ---
 # Jerkin of Liberation
 ## Item 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** light; **Group** leather
 **Price** 14000 gp; 

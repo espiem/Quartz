@@ -22,7 +22,7 @@ An intangible hollow tree sprouts from the ground and grows to towering height, 
 
 **Success** The creature is unaffected, but it must attempt a new save at the end of its turn if it can still see the tree.
 
-**Failure** The creature is [[Fascinated]] with the tree until the end of its next turn. If it can still see the tree then, it must attempt a save again.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] with the tree until the end of its next turn. If it can still see the tree then, it must attempt a save again.
 
 **Critical Failure** The creature is fascinated with the tree until the spell ends. The tree's fire damage doesn't end the fascination; other hostile actions end it, as normal. If the fascination ends, the creature must attempt a new save at the end of its turn if it can still see the tree.
 

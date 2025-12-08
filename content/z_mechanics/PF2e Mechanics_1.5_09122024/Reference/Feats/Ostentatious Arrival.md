@@ -14,7 +14,7 @@ license: OGL
 ---
 # Ostentatious Arrival `pf2:0`
 ## Feat 6
-### [[concentrate]][[manipulate]][[spellshape]][[summoner]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[spellshape]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Summoner]]
 
 **Category** class; 
 

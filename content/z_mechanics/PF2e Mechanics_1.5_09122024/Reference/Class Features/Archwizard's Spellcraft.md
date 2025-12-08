@@ -12,7 +12,7 @@ license: ORC
 ---
 # Archwizard's Spellcraft
 ## Feat 19
-### [[wizard]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Wizard]]
 
 **Category** classfeature; 
 

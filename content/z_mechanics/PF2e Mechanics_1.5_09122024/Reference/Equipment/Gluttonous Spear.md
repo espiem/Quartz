@@ -14,7 +14,7 @@ license: OGL
 ---
 # Gluttonous Spear
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[monk]][[thrown-20]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]][[thrown-20]]
 
 |  |  |
 | -- | -- |

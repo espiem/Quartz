@@ -13,7 +13,7 @@ license: ORC
 ---
 # Blade of the Heart `pf2:1`
 ## Feat 10
-### [[archetype]][[emotion]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]]
 
 **Category** class; 
 

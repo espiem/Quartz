@@ -18,9 +18,9 @@ You tear open the ground then slam it shut. The target creature takes 2d6 bludge
 
 **Success** The target takes half damage.
 
-**Failure** The target takes full damage, is [[Off-Guard]], and takes a -10-foot circumstance penalty to Speed.
+**Failure** The target takes full damage, is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]], and takes a -10-foot circumstance penalty to Speed.
 
-**Critical Failure** The target takes double damage and is off-guard and [[Immobilized]]. It can attempt to Escape against your spell DC. If it doesn't Escape, the target takes an additional 2d6 bludgeoning damage when the spell ends.
+**Critical Failure** The target takes double damage and is off-guard and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]]. It can attempt to Escape against your spell DC. If it doesn't Escape, the target takes an additional 2d6 bludgeoning damage when the spell ends.
 
 * * *
 

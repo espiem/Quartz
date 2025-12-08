@@ -12,4 +12,4 @@ tags:
 
 _Ysoki—as ratfolk call themselves—are a clever, adaptable, and fastidious ancestry who happily crowd their large families into the smallest of living spaces._
 
-_[[Ratfolk]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Ratfolk]]_

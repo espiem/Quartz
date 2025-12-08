@@ -8,7 +8,7 @@ tags:
 ---
 
 # Discern Secrets
-![[icons-sundries-scrolls-scroll-runed-tan-white.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-sundries-scrolls-scroll-runed-tan-white.webp|150]]
 
 Your patron degins to whisper a few secrets. The target can [[Recall Knowledge]], [[Seek]], or [[Sense Motive]] as a free action. The target gains a +1 status bonus to the statistic used for the roll (a skill or Perception), as long as you Sustain the spell. The target is temporarily immune to _discern secrets_ for 1 minute.
 

@@ -11,7 +11,7 @@ tags:
 ---
 
 # Weapon Expertise
-![[icons-skills-melee-hand-grip-sword-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-skills-melee-hand-grip-sword-red.webp|150]]
 
 **Champion, Investigator, Oracle, Magus** You've dedicated yourself to learning the intricacies of your weapons. Your proficiency ranks for simple weapons, martial weapons, and unarmed attacks increase to expert.
 

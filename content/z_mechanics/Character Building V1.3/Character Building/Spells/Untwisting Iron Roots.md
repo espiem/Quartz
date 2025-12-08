@@ -8,9 +8,9 @@ tags:
 ---
 
 # Untwisting Iron Roots
-![[icons-magic-earth-barrier-stone-explosion-debris.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-earth-barrier-stone-explosion-debris.webp|150]]
 
-You manipulate the earth beneath your feet to throw your enemies off balance, leaving chunks of rock and rubble behind. Creatures within range take 2d6 bludgeoning damage, with a basic Reflex save; on a failed save, they also fall [[Prone]]. The affected area becomes difficult terrain, but you can move through the difficult terrain normally.
+You manipulate the earth beneath your feet to throw your enemies off balance, leaving chunks of rock and rubble behind. Creatures within range take 2d6 bludgeoning damage, with a basic Reflex save; on a failed save, they also fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]]. The affected area becomes difficult terrain, but you can move through the difficult terrain normally.
 
 * * *
 

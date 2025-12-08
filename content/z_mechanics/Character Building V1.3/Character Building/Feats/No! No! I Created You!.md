@@ -12,7 +12,7 @@ tags:
 
 **Frequency** once per minute
 
-**Trigger** Your construct companion would become [[Confused]] or controlled.
+**Trigger** Your construct companion would become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] or controlled.
 
 * * *
 

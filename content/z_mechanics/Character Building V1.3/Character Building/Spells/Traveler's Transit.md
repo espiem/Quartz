@@ -8,7 +8,7 @@ tags:
 ---
 
 # Traveler's Transit
-![[systems-pf2e-icons-spells-travelers-transit.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-travelers-transit.webp|150]]
 
 You add power to your muscles, allowing you to swim or climb walls with ease. When you Cast this Spell, you gain either a climb Speed or a swim Speed. The Speed is equal to your land Speed.
 

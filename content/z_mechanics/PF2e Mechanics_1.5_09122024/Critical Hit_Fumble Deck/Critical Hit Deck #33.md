@@ -8,7 +8,7 @@ tags:
 ---
 # Broken Ribs
 
-> Normal damage. **Crit Effect:** The target is [[Conditions/Slowed|Slowed 1]] until healed.
+> Normal damage. **Crit Effect:** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] until healed.
 
 `Bludgeoning`
 
@@ -20,7 +20,7 @@ tags:
 
 # Nerve Slice
 
-> **Crit Effect:** The target is [[Conditions/Slowed|Slowed 2]] for 1 round.
+> **Crit Effect:** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]] for 1 round.
 
 `Slashing`
 

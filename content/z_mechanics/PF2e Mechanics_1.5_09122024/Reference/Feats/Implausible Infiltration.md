@@ -14,7 +14,7 @@ license: ORC
 ---
 # Implausible Infiltration `pf2:2`
 ## Feat 18
-### [[magical]][[move]][[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[move]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Singular Expertise
-![[icons-skills-targeting-crosshair-bars-yellow.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-skills-targeting-crosshair-bars-yellow.webp|150]]
 
 You have particular expertise with guns and crossbows that grants you greater proficiency with them and the ability to deal more damage. You gain a +1 circumstance bonus to damage rolls with firearms and crossbows.
 

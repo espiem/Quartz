@@ -12,7 +12,7 @@ license: ORC
 ---
 # Mercy
 ## Feat 4
-### [[champion]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]]
 
 **Category** class; 
 
@@ -22,11 +22,11 @@ license: ORC
 * * *
 Your touch soothes the body or mind. You can cast lay on hands targeting a living creature using 2 actions instead of 1. If you do, you can attempt to counteract one condition of your choice affecting the target. When you select this feat, choose one of the following options, which determines the conditions you can choose:
 
-*   **Mercy of the Body** [[Conditions/Blinded|Blinded]], [[Conditions/Dazzled|Dazzled]], [[Conditions/Deafened|Deafened]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Sickened|Sickened]];
+*   **Mercy of the Body** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]], [[Conditions/Enfeebled|Enfeebled]], [[Conditions/Sickened|Sickened]];
     
-*   **Mercy of Grace** [[Conditions/Clumsy|Clumsy]], [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]];
+*   **Mercy of Grace** [[Conditions/Clumsy|Clumsy]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]];
     
-*   **Mercy of the Mind** [[Conditions/Fleeing|Fleeing]], [[Conditions/Frightened|Frightened]], [[Conditions/Stupefied|Stupefied]].
+*   **Mercy of the Mind** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing|Fleeing]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied]].
     
 
 * * *

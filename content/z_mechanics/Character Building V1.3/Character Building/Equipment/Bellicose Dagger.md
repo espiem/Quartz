@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bellicose Dagger
-![[systems-pf2e-icons-equipment-weapons-dagger.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-dagger.webp|150]]
 
 The hilt of a bellicose dagger is etched with the word for "war" in various languages. Having absorbed the spirit of violence over the course of its existence, the weapon now craves bloodshed. A bellicose dagger is a _+1 striking wounding dagger_. However, anytime you interact with creatures, no matter the context, you must succeed at a DC 25 will save or else find you have, as a reaction, drawn the dagger.
 

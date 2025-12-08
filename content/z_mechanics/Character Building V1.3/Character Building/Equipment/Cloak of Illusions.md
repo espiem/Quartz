@@ -8,7 +8,7 @@ tags:
 ---
 
 # Cloak of Illusions
-![[icons-equipment-back-cloak-collared-feathers-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-equipment-back-cloak-collared-feathers-green.webp|150]]
 
 This cloak flows, covering and concealing the wearer's body. The cloak allows you to cast _[[Figment]]_ as an occult innate cantrip. Although naturally a dull gray, while invested the cloak picks up colors and patterns from its surroundings, granting a +1 item bonus to Stealth checks.
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Necrotize
-![[icons-magic-unholy-hand-fire-skeleton-pink.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-unholy-hand-fire-skeleton-pink.webp|150]]
 
 You necrotize part of a creature's body, harming it and debilitating it as its body putrefies, mimicking the natural process of decay. The target takes 12d6 void damage and one of the following debilitations; roll 1d4 to randomly determine which. The effects depend on its Fortitude save.
 

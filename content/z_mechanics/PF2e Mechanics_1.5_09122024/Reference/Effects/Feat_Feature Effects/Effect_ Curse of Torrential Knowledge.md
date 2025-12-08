@@ -28,7 +28,7 @@ You take a -4 penalty to initiative, as trying to process a surge of information
 
 #### Moderate Curse
 
-The flow of information through your mind grows. The attention you divert to process this huge influx of information means you are always [[Conditions/Off-Guard|Off-Guard]].
+The flow of information through your mind grows. The attention you divert to process this huge influx of information means you are always [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]].
 
 At the start of each of your turns, you automatically make one check to [[Actions/Recall Knowledge|Recall Knowledge]] as a free action. This uses a skill of your choice that has the Recall Knowledge action, using a result equal to 10 + your proficiency bonus in that skill (with no other bonuses, penalties, or modifiers).
 

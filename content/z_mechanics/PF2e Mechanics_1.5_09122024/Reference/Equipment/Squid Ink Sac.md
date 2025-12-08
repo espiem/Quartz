@@ -13,7 +13,7 @@ license: ORC
 ---
 # Squid Ink Sac
 ## Item 5
-### [[graft]][[invested]][[magical]]
+### [[graft]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 160 gp; 
@@ -28,7 +28,7 @@ Sacs full of dark ink have been implanted inside your mouth, allowing you to spi
 
 **Frequency** once per day
 
-**Effect** You splatter ink in a 10-foot cone, covering creatures and revealing [[Conditions/Invisible|Invisible]] ones. Each creature in the area must succeed at a DC 20 Reflex check save or become covered in ink. If a creature has its invisibility negated by this ink, it is [[Conditions/Concealed|Concealed]] instead of invisible. A creature can negate the effects of the ink by spending two Interact actions to wipe off the ink.
+**Effect** You splatter ink in a 10-foot cone, covering creatures and revealing [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible|Invisible]] ones. Each creature in the area must succeed at a DC 20 Reflex check save or become covered in ink. If a creature has its invisibility negated by this ink, it is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] instead of invisible. A creature can negate the effects of the ink by spending two Interact actions to wipe off the ink.
 
 * * *
 
@@ -36,7 +36,7 @@ Sacs full of dark ink have been implanted inside your mouth, allowing you to spi
 
 **Success** The target's invisibility is negated for 2 rounds.
 
-**Failure** The target is [[Conditions/Blinded|Blinded]] for 1 round. Its invisibility is negated for 1 minute.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] for 1 round. Its invisibility is negated for 1 minute.
 
 **Critical Failure** The target is blinded for 10 minutes. Its invisibility is negated for 10 minutes.
 

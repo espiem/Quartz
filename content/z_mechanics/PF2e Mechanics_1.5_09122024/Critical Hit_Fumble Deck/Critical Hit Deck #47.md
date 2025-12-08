@@ -20,7 +20,7 @@ tags:
 
 # Brow Cut
 
-> Normal damage. **Crit Effect:** The target takes 1d4 bleed. Until the bleed ends, all creatures are [[Conditions/Concealed|Concealed]] to the target.
+> Normal damage. **Crit Effect:** The target takes 1d4 bleed. Until the bleed ends, all creatures are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] to the target.
 
 `Slashing`
 

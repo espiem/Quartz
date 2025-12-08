@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bone Spray
-![[icons-commodities-bones-bones-stack-tan.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-commodities-bones-bones-stack-tan.webp|150]]
 
 You fire a torrent of jagged bone shards from your hands, dealing 2d10 piercing damage and 1 persistent bleed damage to all creatures in the area.
 

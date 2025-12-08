@@ -20,4 +20,4 @@ You carefully tattoo the same design upon each secondary caster. The tattoo can 
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** The ritual has no effect and creates a backlash of persistent mental static. All casters are [[Stupefied|Stupefied 1]] for 1 day.
+**Critical Failure** The ritual has no effect and creates a backlash of persistent mental static. All casters are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for 1 day.

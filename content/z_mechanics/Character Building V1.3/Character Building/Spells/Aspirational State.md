@@ -8,7 +8,7 @@ tags:
 ---
 
 # Aspirational State
-![[systems-pf2e-icons-spells-face-in-the-crowd.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-face-in-the-crowd.webp|150]]
 
 The primary caster takes an ethereal form composed of the combined drive of every caster to exorcise a malevolent spirit. In this form the primary caster can automatically locate the target of this common goal, and they can orient the secondary casters to this location. The primary caster can't interact with physical objects in this form, but they can interfere with the abilities of other incorporeal creatures, including spirits possessing a physical body. The primary caster can also manifest the collective intent of the ritual's participants as shifts in reality that further the casters' goal. These shifts manifest as Aspiration Points, which the secondary casters can spend on the Material Plane to aid their cause. Using Aspiration Points is described on page 7.
 

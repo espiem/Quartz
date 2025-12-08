@@ -13,7 +13,7 @@ license: OGL
 ---
 # Resonating Ammunition (Bolt)
 ## Item 11
-### [[consumable]][[magical]][[sonic]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[sonic]]
 
 **Category** ammo; 
 **Price** 1200 gp; 

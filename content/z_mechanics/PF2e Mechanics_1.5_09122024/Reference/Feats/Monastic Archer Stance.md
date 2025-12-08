@@ -13,7 +13,7 @@ license: ORC
 ---
 # Monastic Archer Stance `pf2:1`
 ## Feat 1
-### [[monk]][[stance]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]][[stance]]
 
 **Category** class; 
 
@@ -28,7 +28,7 @@ You enter a specialized stance for a unique martial art centered around the use 
 
 You can use [[Actions/Flurry of Blows|Flurry of Blows]] with these bows. You can use your other monk feats or monk abilities that normally require unarmed attacks with these bows when attacking within half the first range increment (normally 50 feet for a longbow and 30 feet for a shortbow), so long as the feat or ability doesn't require a single, specific Strike.
 
-[[Feat_Feature Effects/Stance_ Monastic Archer Stance|Stance: Monastic Archer Stance]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Stance_ Monastic Archer Stance|Stance: Monastic Archer Stance]]
 
 * * *
 

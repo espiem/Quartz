@@ -8,7 +8,7 @@ tags:
 ---
 
 # Hauling
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 Hauling weapons are adept at moving creatures around the battlefield after a successful attack.
 

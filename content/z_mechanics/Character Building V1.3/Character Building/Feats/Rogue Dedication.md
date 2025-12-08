@@ -14,4 +14,4 @@ You gain a skill feat and the rogue's [[Surprise Attack]] class feature. You bec
 
 * * *
 
-**Special** You cannot gain another dedication feat until you have gained two other feats from the [[Rogue]] archetype.
+**Special** You cannot gain another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]] archetype.

@@ -14,9 +14,9 @@ You create a massive display of loud and colorful explosions. The explosions dea
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[Blinded]] and [[Deafened]] for 1 round.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 round.
 
-**Critical Failure** The creature is blinded for 1 round and [[Dazzled]] and deafened for 1 minute.
+**Critical Failure** The creature is blinded for 1 round and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] and deafened for 1 minute.
 
 * * *
 

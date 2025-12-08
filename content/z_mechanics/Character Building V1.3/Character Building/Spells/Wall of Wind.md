@@ -8,7 +8,7 @@ tags:
 ---
 
 # Wall of Wind
-![[icons-magic-air-fog-gas-smoke-swirling-white.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-air-fog-gas-smoke-swirling-white.webp|150]]
 
 You create a barrier of gusting winds that hinders anything moving through it. The wall of swirling winds is 5 feet thick, 60 feet long, and 30 feet high. The wall stands vertically, but you can shape its path. Though the wall of wind distorts the air, it does not hamper sight. The wall has the following effects.
 

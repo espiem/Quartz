@@ -12,7 +12,7 @@ license: ORC
 ---
 # Warden's Boon `pf2:1`
 ## Feat 8
-### [[ranger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]]
 
 **Category** class; 
 
@@ -21,9 +21,9 @@ license: ORC
 
 You point out vulnerabilities present in your hunted prey, granting the benefits listed in [[Actions/Hunt Prey|Hunt Prey]] and your hunter's edge to an ally until the end of their next turn. Depending on whether you call out or use gestures, this action gains either the auditory or visual trait.
 
-*   [[Feat_Feature Effects/Effect_ Hunter's Edge, Flurry|Effect: Hunter's Edge, Flurry]]
-*   [[Feat_Feature Effects/Effect_ Hunter's Edge, Outwit|Effect: Hunter's Edge, Outwit]]
-*   [[Feat_Feature Effects/Effect_ Hunter's Edge, Precision|Effect: Hunter's Edge, Precision]]
+*   [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Hunter's Edge, Flurry|Effect: Hunter's Edge, Flurry]]
+*   [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Hunter's Edge, Outwit|Effect: Hunter's Edge, Outwit]]
+*   [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Hunter's Edge, Precision|Effect: Hunter's Edge, Precision]]
 
 *Source: Pathfinder Player Core*
 *ORC*

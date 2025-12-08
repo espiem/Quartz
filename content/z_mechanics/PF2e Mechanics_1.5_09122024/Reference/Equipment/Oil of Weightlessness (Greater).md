@@ -14,7 +14,7 @@ license: ORC
 ---
 # Oil of Weightlessness (Greater)
 ## Item 6
-### [[consumable]][[magical]][[oil]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[oil]]
 
 **Category** oil; 
 **Price** 36 gp; 

@@ -10,4 +10,4 @@ tags:
 # Collateral Thrash
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-When you [[Thrash]] a [[Grabbed]] foe, you smack that foe into another nearby. Another foe adjacent to the grabbed foe also takes your Thrash damage, with a DC resolve reflex save against your class DC.
+When you [[Thrash]] a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] foe, you smack that foe into another nearby. Another foe adjacent to the grabbed foe also takes your Thrash damage, with a DC resolve reflex save against your class DC.

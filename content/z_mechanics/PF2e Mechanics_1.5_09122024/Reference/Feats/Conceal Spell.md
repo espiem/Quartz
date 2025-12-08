@@ -16,7 +16,7 @@ license: ORC
 ---
 # Conceal Spell `pf2:1`
 ## Feat 2
-### [[animist]][[concentrate]][[spellshape]][[witch]][[wizard]]
+### [[animist]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[spellshape]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Witch]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Wizard]]
 
 **Category** class; 
 

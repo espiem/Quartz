@@ -11,7 +11,7 @@ license: OGL
 ---
 # Fetchling
 
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fetchling]][[humanoid]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Fetchling]][[humanoid]]
 
 
 
@@ -20,7 +20,7 @@ license: OGL
 
 _Once human and now something apart, fetchlings display the Shadow Plane's ancient influence through monochrome complexions, glowing eyes, and the casting of supernatural shadows._
 
-_[[PF2e Journals/Ancestries/Fetchling|Fetchling]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Fetchling|Fetchling]]_
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

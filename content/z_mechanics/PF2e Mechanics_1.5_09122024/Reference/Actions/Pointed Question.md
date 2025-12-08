@@ -16,7 +16,7 @@ license: ORC
 ---
 # Pointed Question `pf2:1`
 
-### [[auditory]][[concentrate]][[investigator]][[linguistic]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Investigator]][[linguistic]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** interaction; 
 
@@ -29,7 +29,7 @@ You ask a question that charms or needles someone in just the right way. Ask a q
 
 **Critical Success** The target must directly answer your question. It doesn't have to answer truthfully, but you gain a +4 circumstance bonus to your Perception DC if the creature attempts to Lie to you.
 
-Whether it answers truthfully or not, you glean something from its body language, and it is [[Conditions/Off-Guard|Off-Guard]] to the Strike you make using Devise a Stratagem against it before the end of your turn.
+Whether it answers truthfully or not, you glean something from its body language, and it is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] to the Strike you make using Devise a Stratagem against it before the end of your turn.
 
 **Success** As critical success, but the circumstance bonus to your Perception DC is +2.
 

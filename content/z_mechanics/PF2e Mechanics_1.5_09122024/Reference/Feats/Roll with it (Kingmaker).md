@@ -11,7 +11,7 @@ license: OGL
 ---
 # Roll with it (Kingmaker) `pf2:r`
 ## Feat 12
-### [rare](rare "Rare Rarity Trait")[[ranger]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]]
 
 **Category** class; 
 
@@ -31,7 +31,7 @@ You can dodge attacks from giants. Attempt a Reflex save using 10 + the giant's 
 
 **Success** The attack deals half damage. You can Stride up to 5 feet as part of the reaction, but you must end this movement adjacent to the triggering giant. If you do so, the reaction gains the move trait.
 
-**Critical Failure** You fail to avoid the attack and are knocked [[Conditions/Prone|Prone]] by the blow.
+**Critical Failure** You fail to avoid the attack and are knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] by the blow.
 
 *Source: Pathfinder Kingmaker*
 *OGL*

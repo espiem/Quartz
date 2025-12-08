@@ -12,7 +12,7 @@ tags:
 
 When tied over your eyes, this ragged strip of black linen gives you a +3 item bonus to Intimidation checks and darkvision. You can see through the blindfold, but only using darkvision.
 
-The first time a particular creature sees you in a day, it must succeed at a DC 37 will save or be [[Frightened|Frightened 1]]. This is an emotion, fear, and mental effect, and your allies become immune to it after about a week.
+The first time a particular creature sees you in a day, it must succeed at a DC 37 will save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]]. This is an emotion, fear, and mental effect, and your allies become immune to it after about a week.
 
 * * *
 

@@ -24,7 +24,7 @@ Your venom is particularly potent, affecting targets in different ways. When you
     
     **Stage 1** no adjustment
     
-    **Stage 2** [[Off-Guard]]
+    **Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]]
     
     **Stage 3** off-guard and a –5-foot penalty to Speed
     

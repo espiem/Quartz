@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Fool
-![[icons-sundries-gaming-playing-cards-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Books (Int)
 
@@ -16,7 +16,7 @@ tags:
 
 * * *
 
-_The Fool_ represents grave foolishness, grand naivete, and exceptional greed. As long as you have _The Fool_ invested, anytime you gain the [[Stupefied]] condition, reduce its value by 1. You also gain a +2 item bonus to all saving throws against effects that cause the stupefied condition. This bonus increases to +3 if you're at least 17th level.
+_The Fool_ represents grave foolishness, grand naivete, and exceptional greed. As long as you have _The Fool_ invested, anytime you gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied]] condition, reduce its value by 1. You also gain a +2 item bonus to all saving throws against effects that cause the stupefied condition. This bonus increases to +3 if you're at least 17th level.
 
 **Activate** 2 envision, Interact (mental)
 
@@ -30,8 +30,8 @@ _The Fool_ represents grave foolishness, grand naivete, and exceptional greed. A
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is distracted by your antics and is [[Stupefied|Stupefied 1]] until the start of your next turn.
+**Success** The creature is distracted by your antics and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] until the start of your next turn.
 
-**Failure** The creature is [[Stupefied|Stupefied 2]].
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]].
 
-**Critical Failure** The creature is [[Stupefied|Stupefied 3]]. In addition, for 1 minute, the creature is [[Confused]].
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 3]]. In addition, for 1 minute, the creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]].

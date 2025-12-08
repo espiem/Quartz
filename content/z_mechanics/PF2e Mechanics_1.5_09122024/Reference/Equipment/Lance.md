@@ -15,7 +15,7 @@ license: ORC
 ---
 # Lance
 ## Item 0
-### [[deadly-d8]][[jousting-d6]][[reach]]
+### [[deadly-d8]][[jousting-d6]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]]
 
 |  |  |
 | -- | -- |

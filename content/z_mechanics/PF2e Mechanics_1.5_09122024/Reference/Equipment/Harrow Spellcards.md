@@ -11,7 +11,7 @@ license: OGL
 ---
 # Harrow Spellcards
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[grimoire]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[grimoire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 475 gp; 

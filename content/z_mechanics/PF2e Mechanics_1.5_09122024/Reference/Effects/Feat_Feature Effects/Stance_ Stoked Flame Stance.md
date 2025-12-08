@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feat_Feature Effects/Stance_ Stoked Flame Stance|Stance: Stoked Flame Stance]]
+Granted by [[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Effects/Feat_Feature Effects/Stance_ Stoked Flame Stance|Stance: Stoked Flame Stance]]
 
 You can make flashing spark attacks that deal 1d8 slashing damage. They are in the brawling group and have the forceful, nonlethal, sweep, and unarmed traits. If you have access to the flashing sparks' critical specialization effect, you can take an alternate effect instead: if your critical Strike dealt damage, the target takes 1d6 persistent fire damage.
 

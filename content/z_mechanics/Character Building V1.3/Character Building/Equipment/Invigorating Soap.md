@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-This slender bar of pine-scented soap can only be activated when you're immersed in water. Upon activation, the soap covers you in a sudsy foam that quickly fades, filling you with energy and soothing away aches and pains. It immediately restores 10 Hit Points and removes the [[Fatigued]] condition. If you begin an 8-hour period of rest immediately after using invigorating soap, you regain an additional 10 Hit Points from resting.
+This slender bar of pine-scented soap can only be activated when you're immersed in water. Upon activation, the soap covers you in a sudsy foam that quickly fades, filling you with energy and soothing away aches and pains. It immediately restores 10 Hit Points and removes the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] condition. If you begin an 8-hour period of rest immediately after using invigorating soap, you regain an additional 10 Hit Points from resting.

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Research
 
-### [[concentrate]][[exploration]][[linguistic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[exploration]][[linguistic]]
 
 **Category** interaction; 
 

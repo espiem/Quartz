@@ -8,7 +8,7 @@ tags:
 ---
 
 # Wholeness of Body
-![[systems-pf2e-icons-spells-wholeness-of-body.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-wholeness-of-body.webp|150]]
 
 You heal yourself in one of the following ways, chosen by you when you cast the spell.
 

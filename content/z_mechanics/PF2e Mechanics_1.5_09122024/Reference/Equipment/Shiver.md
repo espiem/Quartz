@@ -15,7 +15,7 @@ license: OGL
 ---
 # Shiver
 ## Item 3
-### [[alchemical]][[consumable]][[drug]][[ingested]][[poison]]
+### [[alchemical]][[consumable]][[drug]][[ingested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** drug; 
 **Price** 10 gp; 
@@ -32,7 +32,7 @@ A compound produced from the hallucinogenic venom of certain spiders, shiver is 
 
 **Maximum Duration** 4 hours
 
-**Stage 1** whenever you become [[Conditions/Frightened|Frightened]], reduce that condition's value by 1 (10 minutes)
+**Stage 1** whenever you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]], reduce that condition's value by 1 (10 minutes)
 
 **Stage 2** [[Conditions/Clumsy|Clumsy 2]] (1 hour)
 

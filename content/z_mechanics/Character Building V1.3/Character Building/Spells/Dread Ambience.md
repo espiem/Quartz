@@ -8,7 +8,7 @@ tags:
 ---
 
 # Dread Ambience
-![[systems-pf2e-icons-spells-dread-ambience.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-dread-ambience.webp|150]]
 
 In some places, it always feels like something is observing you, as if the very land doesn't want you there. Hostile creatures skitter about in the underbrush. Tendrils of mist try to lead you stray. Even the scent of the place is unwelcoming. Sometimes, this eerie atmosphere is a natural occurrence. Other times, it's the result of the dread ambience ritual.
 

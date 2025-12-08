@@ -9,4 +9,4 @@ tags:
 
 # Threatening Approach `pf2:2`
 
-You Stride to be adjacent to a foe and [[Demoralize]] that foe. If you succeed, the foe is [[Frightened|Frightened 2]] instead of frightened 1.
+You Stride to be adjacent to a foe and [[Demoralize]] that foe. If you succeed, the foe is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] instead of frightened 1.

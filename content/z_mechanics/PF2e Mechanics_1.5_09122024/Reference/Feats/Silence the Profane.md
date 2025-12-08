@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-Your training included instruction on how to prevent enemy priests from using their magic against you, a technique you have now mastered. Make a Strike with the required weapon against the opponent; if the Strike is successful, the triggering spell is disrupted and the target is [[Conditions/Off-Guard|Off-Guard]] for 1 round.
+Your training included instruction on how to prevent enemy priests from using their magic against you, a technique you have now mastered. Make a Strike with the required weapon against the opponent; if the Strike is successful, the triggering spell is disrupted and the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] for 1 round.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

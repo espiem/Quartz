@@ -8,7 +8,7 @@ tags:
 ---
 
 # Amity Cycle
-![[systems-pf2e-icons-spells-spirit-song.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-spirit-song.webp|150]]
 
 You perform an anbarit, which involves poetry reading, singing, music, and dancing. The primary caster can either act as a narrator throughout the performance or be one of the lead performers. The secondary casters can be dancers, musicians, or orators who participate in the anbarit.
 

@@ -34,7 +34,7 @@ Upon creating your mind weapon, you also learn to use a mind smith's keepsake: a
 
 * * *
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Mind Smith|Mind Smith]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[Mind Smith|Mind Smith]] archetype.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

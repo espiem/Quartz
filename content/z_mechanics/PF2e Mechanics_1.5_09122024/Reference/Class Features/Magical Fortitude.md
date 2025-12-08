@@ -15,7 +15,7 @@ license: ORC
 ---
 # Magical Fortitude
 ## Feat 5
-### [[oracle]][[sorcerer]][[witch]][[wizard]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Oracle]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Witch]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Wizard]]
 
 **Category** classfeature; 
 

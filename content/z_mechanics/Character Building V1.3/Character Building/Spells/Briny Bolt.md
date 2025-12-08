@@ -14,7 +14,7 @@ You hurl a bolt of saltwater from your extended hand. Make a ranged spell attack
 
 * * *
 
-**Critical Success** The creature takes 4d6 bludgeoning damage and is [[Blinded]] for 1 round and [[Dazzled]] for 1 minute as saltwater sprays into its eyes. The creature can spend an Interact action to rub its eyes and end the blinded condition, but not the dazzled condition.
+**Critical Success** The creature takes 4d6 bludgeoning damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 minute as saltwater sprays into its eyes. The creature can spend an Interact action to rub its eyes and end the blinded condition, but not the dazzled condition.
 
 **Success** The creature takes 2d6 bludgeoning damage and is blinded for 1 round. The creature can spend an Interact action wiping the salt water from its eyes to end the blinded condition.
 

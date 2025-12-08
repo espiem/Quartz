@@ -14,7 +14,7 @@ license: ORC
 ---
 # Sense Motive `pf2:1`
 
-### [[concentrate]][[general]][[secret]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[general]][[secret]]
 
 **Category** interaction; 
 

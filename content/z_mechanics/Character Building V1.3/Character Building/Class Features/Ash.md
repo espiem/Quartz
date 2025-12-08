@@ -8,7 +8,7 @@ tags:
 ---
 
 # Ash
-![[icons-magic-fire-flame-burning-skeleton-explosion.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-magic-fire-flame-burning-skeleton-explosion.webp|150]]
 
 You see all things in the world as little more than fleeting and temporary, waiting to be purified into their base essence: the ash left behind after a burning fire. While you understand fire is a necessary part of this process, you see fire mostly as a tool to achieve final purity, not a goal. You have much in common with oracles with the flames mystery, but you may consider them to be short-sighted, or at best simply lacking in understanding of the truths that their burning fires impart. You might see ash as the only true representation of the impermanent nature of life and its pointless existence. Alternatively, you may see the benefit ash can have on soils and farmlands as part of a larger cycle of death and rebirth. Perhaps you see the phoenix, with its life cycle of being reduced to ash and reborn, as a sacred creature that has achieved a higher state of being and worthy of imitation (or maybe you see it as a tragic creature that can't ever reach the goal of perfection). If you follow a deity, you might follow gods of fire like Sarenrae, those who burn impurities to ash such as Brigh or Torag, or those who strive to burn all things to ash, such as the archdevil Moloch or the demon lord Flauros.
 
@@ -38,7 +38,7 @@ The smoldering furnace of power within you begins to feed on your body and gener
 
 **Moderate Curse**
 
-The ash you produce intensifies and fills the area around you, obscuring details and making the ground challenging to navigate. You are [[Dazzled]]. An aura of ash surrounds you in a 10-foot emanation. You and creatures in the aura are [[Concealed]]. If you do not move for 1 round, heaps of ashes settle in the aura, creating difficult terrain that lasts until you move (when the ashes blow away).
+The ash you produce intensifies and fills the area around you, obscuring details and making the ground challenging to navigate. You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]]. An aura of ash surrounds you in a 10-foot emanation. You and creatures in the aura are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]]. If you do not move for 1 round, heaps of ashes settle in the aura, creating difficult terrain that lasts until you move (when the ashes blow away).
 
 **Major Curse (11th)**
 

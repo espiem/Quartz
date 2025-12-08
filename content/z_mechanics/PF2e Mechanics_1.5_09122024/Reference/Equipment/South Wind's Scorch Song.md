@@ -15,7 +15,7 @@ license: OGL
 ---
 # South Wind's Scorch Song
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fire]][[forceful]][[magical]][[sweep]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[forceful]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[sweep]]
 
 |  |  |
 | -- | -- |
@@ -28,7 +28,7 @@ license: OGL
 
 This _+1 striking flaming scimitar_ is always warm to the touch, nearly unbearably so. Lines of crackling flame radiate from carnelians affixed to its curved and blackened blade, and its pommel ends in a brilliant tassel of phoenix feathers. While you have a status bonus to at least one of your Speeds, your Strikes with this scimitar that deal fire damage gain a +2 status bonus to their fire damage. The status bonus increases to +3 if the weapon has a greater striking rune and +4 for major striking.
 
-[[Equipment Effects/Effect_ South Wind's Scorch Song (Damage)|Effect: South Wind's Scorch Song (Damage)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ South Wind's Scorch Song (Damage)|Effect: South Wind's Scorch Song (Damage)]]
 
 * * *
 
@@ -40,7 +40,7 @@ This _+1 striking flaming scimitar_ is always warm to the touch, nearly unbearab
 
 **Effect** You gain a +10-foot status bonus to your Speed until the end of your next turn.
 
-[[Equipment Effects/Effect_ South Wind's Scorch Song (Speed Boost)|Effect: South Wind's Scorch Song (Speed Boost)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ South Wind's Scorch Song (Speed Boost)|Effect: South Wind's Scorch Song (Speed Boost)]]
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

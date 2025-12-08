@@ -14,7 +14,7 @@ license: ORC
 ---
 # Manifest Realm `pf2:2`
 
-### [[concentrate]][[divine]][[manipulate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** offensive; 
 

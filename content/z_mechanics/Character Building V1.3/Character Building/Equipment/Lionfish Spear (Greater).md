@@ -32,4 +32,4 @@ Strikes with this weapon deal an additional 1d6 poison damage.
 
 **Stage 2** 5d6 poison damage and [[Sickened 1|Sickened 2]] (1 round)
 
-**Stage 3** [[Paralyzed]] for `dice: 2d4` hours
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] for `dice: 2d4` hours

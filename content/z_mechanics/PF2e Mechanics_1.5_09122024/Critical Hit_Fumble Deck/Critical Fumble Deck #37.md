@@ -20,12 +20,12 @@ tags:
 
 # Sneeze
 
-> You are [[Conditions/Slowed|Slowed 1]] until the end of your next turn.
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] until the end of your next turn.
 
 `Unarmed`
 
 # Spell Rush
 
-> You are [[Conditions/Stupefied|Stupefied 1]] until healed.
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] until healed.
 
 `Spell`

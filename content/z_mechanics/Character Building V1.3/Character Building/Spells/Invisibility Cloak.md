@@ -10,7 +10,7 @@ tags:
 # Invisibility Cloak
 ![[systems-pf2e-icons-spells-invisibility-cloak.webp|150]]
 
-You become [[Invisible]], with the same restrictions as the 2nd-level _[[Invisibility]]_ spell.
+You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]], with the same restrictions as the 2nd-level _[[Invisibility]]_ spell.
 
 * * *
 

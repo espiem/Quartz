@@ -14,7 +14,7 @@ license: ORC
 ---
 # Cry of Rebellion `pf2:3`
 ## Feat 16
-### [[auditory]][[mythic]][[sonic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[mythic]][[sonic]]
 
 **Category** class; 
 

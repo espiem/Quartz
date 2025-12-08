@@ -16,4 +16,4 @@ tags:
 
 * * *
 
-You explode in flame. Enemies in a 20 foot emanation take 7d6 fire damage (DC resolve reflex using your class DC or spell DC, whichever is higher). Allies in the area are [[Quickened]] for 1 round and can use the additional action to Strike or Stride.
+You explode in flame. Enemies in a 20 foot emanation take 7d6 fire damage (DC resolve reflex using your class DC or spell DC, whichever is higher). Allies in the area are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]] for 1 round and can use the additional action to Strike or Stride.

@@ -8,13 +8,13 @@ tags:
 ---
 # Momentum
 
-> You gain a [[Other Effects/Effect_ +2 circumstance bonus to attack rolls|+2 circumstance bonus to attack rolls]] until the end of your next turn.
+> You gain a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ +2 circumstance bonus to attack rolls|+2 circumstance bonus to attack rolls]] until the end of your next turn.
 
 `Bludgeoning`
 
 # Blowback
 
-> The target is knocked [[Conditions/Prone|Prone]].
+> The target is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 `Piercing`
 
@@ -26,6 +26,6 @@ tags:
 
 # Pretty Colors
 
-> The target is [[Conditions/Dazzled|Dazzled]] until the end of your next turn.
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] until the end of your next turn.
 
 `Bomb or Spell`

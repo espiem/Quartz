@@ -14,7 +14,7 @@ license: ORC
 ---
 # Staff
 ## Item 0
-### [[monk]][[two-hand-d8]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

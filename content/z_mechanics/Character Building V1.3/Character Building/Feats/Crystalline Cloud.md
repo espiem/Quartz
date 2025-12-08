@@ -12,4 +12,4 @@ tags:
 
 When you use [[Crystalline Dust]], you can spend one additional action to disperse the motes as a 10 foot emanation{10-foot-radius} cloud centered on you instead of as haze; the activity gains the concentrate trait.
 
-All creatures within the cloud become [[Concealed]], and all creatures outside the cloud become concealed to creatures within it.
+All creatures within the cloud become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]], and all creatures outside the cloud become concealed to creatures within it.

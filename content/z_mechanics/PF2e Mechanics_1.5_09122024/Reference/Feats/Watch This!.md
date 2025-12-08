@@ -13,7 +13,7 @@ license: OGL
 ---
 # Watch This! `pf2:r`
 ## Feat 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[auditory]][[emotion]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]]
 
 **Category** class; 
 

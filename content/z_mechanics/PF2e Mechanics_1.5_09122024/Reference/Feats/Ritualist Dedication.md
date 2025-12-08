@@ -25,7 +25,7 @@ You have begun to master the difficult art of casting rituals. You gain a +2 cir
 
 At 8th level and every 4 levels thereafter, you learn two more rituals with the same restrictions and with a maximum rank of half that level.
 
-[[PF2e Journals/Archetypes/Ritualist|Ritualist]]
+[[Ritualist|Ritualist]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

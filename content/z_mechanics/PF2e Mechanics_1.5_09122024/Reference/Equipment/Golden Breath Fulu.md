@@ -16,7 +16,7 @@ license: OGL
 ---
 # Golden Breath Fulu
 ## Item 20
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[fulu]][[healing]][[magical]][[talisman]][[vitality]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[fulu]][[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]][[vitality]]
 
 **Category** fulu; 
 **Price** 8100 gp; 

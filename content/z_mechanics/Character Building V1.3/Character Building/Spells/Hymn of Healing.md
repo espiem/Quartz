@@ -8,7 +8,7 @@ tags:
 ---
 
 # Hymn of Healing
-![[icons-magic-life-cross-beam-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-life-cross-beam-green.webp|150]]
 
 Your glorious singing mends wounds and provides a temporary respite from harm. The target gains fast healing 2. When you Cast the Spell and the first time each round you Sustain the Spell, the target gains 2 temporary Hit Points, which last for 1 round.
 

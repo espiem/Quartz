@@ -8,7 +8,7 @@ tags:
 ---
 
 # Phantasmal Protagonist
-![[systems-pf2e-icons-spells-illusory-disguise.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-illusory-disguise.webp|150]]
 
 You create a phantasmal incarnation of a significant character from a novel, historical work, or religious parable. The phantasm is Medium, regardless of the size of the character as it was described in the inspirational work. When you Cast the Spell, decide what theme the protagonist is, choosing from hero, ally, or villain. The protagonist appears in an unoccupied space within range, and the first time each round that you Sustain the Spell, you can direct the protagonist to Stride or take the action granted by its theme. The phantasmal protagonist has a speed of 25 feet and an AC of 22. Its saving throw modifiers, Perception modifier, and skill modifiers are +12. It has 90 HP.
 
@@ -16,7 +16,7 @@ You create a phantasmal incarnation of a significant character from a novel, his
 
 **Ally**: The protagonist takes the form of a recognizable support character. Its thematic action is to grant an adjacent creature 4d4 temporary Hit Points, which last for 1 round.
 
-**Villain**: The protagonist takes the form of a notorious villain. Its thematic action is to harry and mock an adjacent target. The target must succeed at a Will save or become [[Off-Guard]] ([[Slowed]] on a critical failure) until the end of your next turn.
+**Villain**: The protagonist takes the form of a notorious villain. Its thematic action is to harry and mock an adjacent target. The target must succeed at a Will save or become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] ([[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] on a critical failure) until the end of your next turn.
 
 * * *
 

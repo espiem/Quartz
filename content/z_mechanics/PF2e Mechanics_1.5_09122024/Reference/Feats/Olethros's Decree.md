@@ -13,7 +13,7 @@ license: OGL
 ---
 # Olethros's Decree `pf2:1`
 ## Feat 17
-### [[death]][[divine]][[duskwalker]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Death]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[duskwalker]]
 
 **Category** ancestry; 
 

@@ -10,7 +10,7 @@ tags:
 # Swipe Souvenir
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Requirements** You're [[Grabbed]] or [[Restrained]] by a creature.
+**Requirements** You're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]] by a creature.
 
 * * *
 

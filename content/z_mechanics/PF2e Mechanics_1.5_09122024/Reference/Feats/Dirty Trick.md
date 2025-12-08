@@ -15,7 +15,7 @@ license: ORC
 ---
 # Dirty Trick `pf2:1`
 ## Feat 1
-### [[attack]][[general]][[manipulate]][[skill]]
+### [[attack]][[general]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[skill]]
 
 **Category** skill; 
 
@@ -35,7 +35,7 @@ You hook a foe's bootlaces together, pull their hat over their eyes, loosen thei
 
 **Success** As critical success, but the condition ends automatically after 1 round.
 
-**Critical Failure** You fall [[Conditions/Prone|Prone]] as your attempt backfires.
+**Critical Failure** You fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] as your attempt backfires.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

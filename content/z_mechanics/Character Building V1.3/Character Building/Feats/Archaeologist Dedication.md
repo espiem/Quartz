@@ -12,4 +12,4 @@ tags:
 
 You are a student of peoples and their histories, and are in constant pursuit of knowledge and artifacts from the past. You become an expert in Society and Thievery, and you gain a +1 circumstance bonus to [[Recall Knowledge]] about ancient history, peoples, and cultures.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[Archaeologist]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Archaeologist]] archetype.

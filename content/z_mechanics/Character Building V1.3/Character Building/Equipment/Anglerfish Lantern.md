@@ -18,4 +18,4 @@ This [[Lantern (Bull's Eye)|bull's-eye lantern]] is either stylized after an ang
 
 **Frequency** once per hour
 
-**Effect** All creatures within the bright light of the _anglerfish lantern_ must succeed at a DC 19 will save or be [[Fascinated]] by the light for 1 round (1 minute on a critical failure). The fascination ends if the light is extinguished. Aquatic animals and creatures with the water trait take a –2 circumstance penalty to this check. Regardless of the result, the creature then becomes immune to this effect for the next 24 hours.
+**Effect** All creatures within the bright light of the _anglerfish lantern_ must succeed at a DC 19 will save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] by the light for 1 round (1 minute on a critical failure). The fascination ends if the light is extinguished. Aquatic animals and creatures with the water trait take a –2 circumstance penalty to this check. Regardless of the result, the creature then becomes immune to this effect for the next 24 hours.

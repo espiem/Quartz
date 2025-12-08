@@ -12,7 +12,7 @@ license: OGL
 ---
 # Catharsis `pf2:r`
 
-### [[concentrate]][[emotion]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 
 
@@ -25,7 +25,7 @@ license: OGL
 
 **Effect** You gain the catharsis activation effects listed for your catharsis emotion. You gain that emotion's emotional fervor benefits for 3 rounds. When your emotional fervor ends, you suffer the listed emotional fallout. After using Catharsis, you can't use it again until you use the [[Actions/Settle Emotions|Settle Emotions]] activity.
 
-[[Feat_Feature Effects/Effect_ Emotional Fervor|Effect: Emotional Fervor]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Emotional Fervor|Effect: Emotional Fervor]]
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

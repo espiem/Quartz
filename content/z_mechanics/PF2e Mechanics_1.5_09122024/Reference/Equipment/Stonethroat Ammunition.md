@@ -12,7 +12,7 @@ license: OGL
 ---
 # Stonethroat Ammunition
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 325 gp; 
@@ -33,7 +33,7 @@ Each piece of stonethroat ammunition is tipped with an unusual yellow stone. Whe
 
 **Success** The ammunition lodges itself loosely into the target's throat. For 1 round, the target takes a -2 status penalty to attack rolls with its jaws or fangs, and to Athletics checks.
 
-[[Equipment Effects/Effect_ Stonethroat Ammunition (Success)|Effect: Stonethroat Ammunition (Success)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Stonethroat Ammunition (Success)|Effect: Stonethroat Ammunition (Success)]]
 
 **Failure** The ammunition embeds itself deep in the target's throat. The target can't use its jaws or fangs Strike (if it has one) or the Swallow Whole ability until the end of its next turn.
 

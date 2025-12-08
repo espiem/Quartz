@@ -24,4 +24,4 @@ The euphemistically named saboteur's friend looks, smells, and tastes like an ap
 
 **Stage 2** [[Enfeebled 1]] and [[Sickened 1|Sickened 2]] (10 minutes)
 
-**Stage 3** enfeebled 1, [[Fatigued]], and [[Sickened 1|Sickened 3]] (10 minutes)
+**Stage 3** enfeebled 1, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]], and [[Sickened 1|Sickened 3]] (10 minutes)

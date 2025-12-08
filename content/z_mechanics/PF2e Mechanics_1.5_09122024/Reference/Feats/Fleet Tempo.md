@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fleet Tempo `pf2:2`
 ## Feat 4
-### [[archetype]][[auditory]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]]
 
 **Category** class; 
 
@@ -26,7 +26,7 @@ license: OGL
 
 To rush after a criminal or reach someone in need, you ring a sprightly tone. You and all allies within 30 feet gain a +10-foot status bonus to all Speeds for 1 minute.
 
-[[Feat_Feature Effects/Effect_ Fleet Tempo|Effect: Fleet Tempo]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Fleet Tempo|Effect: Fleet Tempo]]
 
 *Source: Pathfinder #170: Spoken on the Song Wind*
 *OGL*

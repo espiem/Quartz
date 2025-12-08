@@ -13,7 +13,7 @@ license: ORC
 ---
 # Decaying (Greater)
 ## Item 15
-### [[acid]][[magical]][[void]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Acid]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[void]]
 
 
 **Price** 6500 gp; 

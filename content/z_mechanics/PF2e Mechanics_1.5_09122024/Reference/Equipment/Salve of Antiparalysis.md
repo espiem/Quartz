@@ -15,7 +15,7 @@ license: ORC
 ---
 # Salve of Antiparalysis
 ## Item 6
-### [[consumable]][[healing]][[magical]][[oil]]
+### [[consumable]][[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[oil]]
 
 **Category** oil; 
 **Price** 40 gp; 

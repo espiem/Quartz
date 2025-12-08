@@ -15,7 +15,7 @@ license: OGL
 ---
 # Spy Staff (Greater)
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[magical]][[staff]][[two-hand-d8]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

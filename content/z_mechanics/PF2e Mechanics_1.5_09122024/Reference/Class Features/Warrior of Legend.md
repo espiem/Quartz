@@ -12,7 +12,7 @@ license: ORC
 ---
 # Warrior of Legend
 ## Feat 1
-### [[fighter]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]]
 
 **Category** classfeature; 
 
@@ -29,7 +29,7 @@ The armor expertise and armor mastery class features only improve your proficien
 
 Choose one physical damage type, which becomes your cursed weakness: bludgeoning, piercing, or slashing. You gain weakness to this damage type equal to half your level (minimum 1).
 
-You gain Diehard as a bonus feat, but you become [[Conditions/Doomed|Doomed 2]] whenever you take damage from your cursed weakness (unless your doomed value is already higher).
+You gain Diehard as a bonus feat, but you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 2]] whenever you take damage from your cursed weakness (unless your doomed value is already higher).
 
 Your fighter weapon mastery and weapon legend class features grant you increased proficiency in both spears and polearms, but you can't choose any other weapon group with these class features.
 

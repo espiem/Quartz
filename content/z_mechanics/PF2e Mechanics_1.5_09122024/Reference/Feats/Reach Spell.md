@@ -20,7 +20,7 @@ license: ORC
 ---
 # Reach Spell `pf2:1`
 ## Feat 1
-### [[bard]][[cleric]][[concentrate]][[druid]][[oracle]][[sorcerer]][[spellshape]][[witch]][[wizard]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Bard]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Druid]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Oracle]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]][[spellshape]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Witch]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Wizard]]
 
 **Category** class; 
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Qat
-![[systems-pf2e-icons-equipment-alchemical-items-drugs-qat.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-alchemical-items-drugs-qat.webp|150]]
 
 **Activate** 1 Interact
 
@@ -24,4 +24,4 @@ The save for addiction to qat is DC 14 fortitude, but the maximum addiction stag
 
 **Stage 1** +1 item bonus to Reflex saves (10 minutes)
 
-**Stage 2** [[Stupefied|Stupefied 1]] (1 hour)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (1 hour)

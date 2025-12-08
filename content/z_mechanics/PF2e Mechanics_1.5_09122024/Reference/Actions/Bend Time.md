@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bend Time `pf2:0`
 
-### [[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** interaction; 
 
@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-**Effect** You are [[Conditions/Quickened|Quickened]] this turn. You can use your extra action to Stride.
+**Effect** You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened]] this turn. You can use your extra action to Stride.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

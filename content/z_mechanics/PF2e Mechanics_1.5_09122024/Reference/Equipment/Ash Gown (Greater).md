@@ -13,7 +13,7 @@ license: OGL
 ---
 # Ash Gown (Greater)
 ## Item 11
-### [[fire]][[invested]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 1300 gp; 

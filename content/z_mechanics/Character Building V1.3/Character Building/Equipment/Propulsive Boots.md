@@ -18,4 +18,4 @@ These sleek red boots make your legs feel like they're bursting with energy. You
 
 * * *
 
-**Effect** You stomp three times and gain the [[Quickened]] condition for 1 minute. You can use the extra action to Stride, [[Climb]], or [[Swim]]. (You must still attempt an Athletics check for the Climb and Swim actions unless you have the appropriate movement type.)
+**Effect** You stomp three times and gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]] condition for 1 minute. You can use the extra action to Stride, [[Climb]], or [[Swim]]. (You must still attempt an Athletics check for the Climb and Swim actions unless you have the appropriate movement type.)

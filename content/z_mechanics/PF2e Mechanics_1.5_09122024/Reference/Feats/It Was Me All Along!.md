@@ -13,7 +13,7 @@ license: OGL
 ---
 # It Was Me All Along! `pf2:1`
 ## Feat 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[fortune]][[mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[fortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ license: OGL
 * * *
 **Frequency** once per day
 
-**Requirements** Your identity is [[Conditions/Hidden|Hidden]], either by magic or a disguise.
+**Requirements** Your identity is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]], either by magic or a disguise.
 
 * * *
 

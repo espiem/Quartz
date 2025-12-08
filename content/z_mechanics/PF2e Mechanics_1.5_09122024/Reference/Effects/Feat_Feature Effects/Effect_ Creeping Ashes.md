@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Feat_Feature Effects/Effect_ Curse of Creeping Ashes|Effect: Curse of Creeping Ashes]]
+Granted by [[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Effects/Feat_Feature Effects/Effect_ Curse of Creeping Ashes|Effect: Curse of Creeping Ashes]]
 
 **Moderate Curse**
 

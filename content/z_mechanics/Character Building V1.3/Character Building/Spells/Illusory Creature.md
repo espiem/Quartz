@@ -8,7 +8,7 @@ tags:
 ---
 
 # Illusory Creature
-![[icons-creatures-magical-spirit-undead-winged-ghost.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-magical-spirit-undead-winged-ghost.webp|150]]
 
 You create an illusory image of a Large or smaller creature. It generates the appropriate sounds, smells, and feels believable to the touch. If you and the image are ever farther than 500 feet apart, the spell ends.
 

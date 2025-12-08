@@ -15,7 +15,7 @@ license: ORC
 ---
 # Tangle Root Toxin
 ## Item 7
-### [[alchemical]][[consumable]][[contact]][[poison]]
+### [[alchemical]][[consumable]][[contact]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 55 gp; 
@@ -38,7 +38,7 @@ Tangle root toxin sees use to impede opponents in athletic competitions, in addi
 
 **Stage 2** [[Conditions/Clumsy|Clumsy 2]] and -20-foot status penalty to all Speeds (1 minute)
 
-**Stage 3** [[Conditions/Clumsy|Clumsy 3]], [[Conditions/Off-Guard|Off-Guard]], and -30-foot status penalty to all Speeds
+**Stage 3** [[Conditions/Clumsy|Clumsy 3]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]], and -30-foot status penalty to all Speeds
 
 *Source: Pathfinder Player Core 2*
 *ORC*

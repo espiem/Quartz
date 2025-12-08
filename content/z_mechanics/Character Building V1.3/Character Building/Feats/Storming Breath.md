@@ -14,7 +14,7 @@ You spit out a freezing breath or sonic scream. You deal 4d6 damage, plus 1d6 da
 
 * * *
 
-**Awakening** Your blast powerfully batters your foes. A creature that critically fails its save is knocked [[Prone]].
+**Awakening** Your blast powerfully batters your foes. A creature that critically fails its save is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].
 
 * * *
 

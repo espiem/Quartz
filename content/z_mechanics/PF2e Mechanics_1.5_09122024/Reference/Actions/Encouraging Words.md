@@ -15,7 +15,7 @@ license: OGL
 ---
 # Encouraging Words `pf2:1`
 
-### [[auditory]][[general]][[linguistic]][[mental]][[skill]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[general]][[linguistic]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[skill]]
 
 **Category** interaction; 
 

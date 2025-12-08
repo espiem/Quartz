@@ -14,7 +14,7 @@ license: ORC
 ---
 # Safeguard Spell `pf2:1`
 ## Feat 6
-### [[concentrate]][[sorcerer]][[spellshape]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]][[spellshape]]
 
 **Category** class; 
 

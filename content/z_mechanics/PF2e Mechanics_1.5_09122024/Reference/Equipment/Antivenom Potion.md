@@ -13,7 +13,7 @@ license: OGL
 ---
 # Antivenom Potion
 ## Item 2
-### [[consumable]][[magical]][[potion]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 6 gp; 

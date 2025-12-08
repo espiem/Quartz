@@ -25,7 +25,7 @@ Journeybread contains a mix of fruits, nuts, and grains with an alchemical boost
 
 In addition to the benefits of journeybread, power journeybread grants you a +1 item bonus to Athletics checks to [[Actions/Climb|Climb]], [[Actions/Force Open|Force Open]], and [[Actions/Swim|Swim]], and to Fortitude saving throws against being sickened. The number of minutes you can [[Actions/Hustle|Hustle]] changes to your Constitution modifier × 20. These benefits last for 4 hours.
 
-[[Equipment Effects/Effect_ Journeybread (Power)|Effect: Journeybread (Power)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Journeybread (Power)|Effect: Journeybread (Power)]]
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

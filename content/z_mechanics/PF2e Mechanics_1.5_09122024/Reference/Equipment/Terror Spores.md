@@ -14,7 +14,7 @@ license: OGL
 ---
 # Terror Spores
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 110 gp; 
@@ -35,11 +35,11 @@ Better known as the shrieking toadstool, the tragzioma fungus releases spores wh
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** [[Conditions/Frightened|Frightened 2]] (1 round)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] (1 round)
 
-**Stage 2** [[Conditions/Frightened|Frightened 3]] (1 round)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]] (1 round)
 
-**Stage 3** frightened 3 and [[Conditions/Fleeing|Fleeing]] for 1 round (1 round)
+**Stage 3** frightened 3 and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing|Fleeing]] for 1 round (1 round)
 
 *Source: Pathfinder #195: Heavy is the Crown*
 *OGL*

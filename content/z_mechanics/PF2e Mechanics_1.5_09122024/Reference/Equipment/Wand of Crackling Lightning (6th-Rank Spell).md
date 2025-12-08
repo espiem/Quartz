@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wand of Crackling Lightning (6th-Rank Spell)
 ## Item 14
-### [[electricity]][[magical]][[wand]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Electricity]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wand]]
 
 
 **Price** 4500 gp; 
@@ -28,7 +28,7 @@ This wand is made of two copper plates and a ceramic center.
 
 **Frequency** once per day, plus overcharge
 
-**Effect** You cast [[Spells/Lightning Bolt|Lightning Bolt]] at 6th-rank, but the spell's area is twice as wide (two adjacent and parallel 120-foot lines) and creatures that fail their save are [[Conditions/Off-Guard|Off-Guard]] for 1 round.
+**Effect** You cast [[Spells/Lightning Bolt|Lightning Bolt]] at 6th-rank, but the spell's area is twice as wide (two adjacent and parallel 120-foot lines) and creatures that fail their save are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] for 1 round.
 
 * * *
 

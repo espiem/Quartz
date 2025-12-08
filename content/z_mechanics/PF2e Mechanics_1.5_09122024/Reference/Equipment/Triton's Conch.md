@@ -10,7 +10,7 @@ license: OGL
 ---
 # Triton's Conch
 ## Item 9
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 640 gp; 
@@ -25,7 +25,7 @@ If you put this large opalescent conch shell to your ear, you can hear the sound
 
 **Effect** You can raise the conch to your lips and blow into it, letting out a long, rumbling note. For the next minute, you and all allies who were within 30 feet of you when you activated the conch gain a +2 item bonus to Athletics checks to Swim and can breathe under water.
 
-[[Equipment Effects/Effect_ Triton's Conch|Effect: Triton's Conch]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Triton's Conch|Effect: Triton's Conch]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

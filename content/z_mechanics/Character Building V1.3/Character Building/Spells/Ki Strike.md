@@ -8,7 +8,7 @@ tags:
 ---
 
 # Ki Strike
-![[systems-pf2e-icons-spells-ki-strike.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-ki-strike.webp|150]]
 
 You focus your ki into magical attacks. Make an unarmed Strike or Flurry of Blows (this doesn't change the limit on using only one flourish per turn).
 

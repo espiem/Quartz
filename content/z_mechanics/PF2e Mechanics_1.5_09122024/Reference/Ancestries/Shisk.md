@@ -11,7 +11,7 @@ license: OGL
 ---
 # Shisk
 
-### [rare](rare "Rare Rarity Trait")[[humanoid]][[shisk]]
+### [rare](rare "Rare Rarity Trait")[[humanoid]][[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Shisk]]
 
 
 
@@ -20,7 +20,7 @@ license: OGL
 
 _Shisks are secretive mountain-dwellers, bone-feathered humanoids who lurk underground in dark tunnels and caverns. Their fascination with collecting and protecting esoteric knowledge is one of the few things that can persuade them to explore the outside world._
 
-_[[PF2e Journals/Ancestries/Shisk|Shisk]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Shisk|Shisk]]_
 
 *Source: Pathfinder Lost Omens: The Mwangi Expanse*
 *OGL*

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Lightning Needles `pf2:1`
 
-### [[electricity]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Electricity]]
 
 **Category** familiar; 
 

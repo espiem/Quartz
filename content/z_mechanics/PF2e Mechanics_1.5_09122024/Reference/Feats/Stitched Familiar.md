@@ -12,7 +12,7 @@ license: ORC
 ---
 # Stitched Familiar
 ## Feat 8
-### [[witch]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Witch]]
 
 **Category** class; 
 

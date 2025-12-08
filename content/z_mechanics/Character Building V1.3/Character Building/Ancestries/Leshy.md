@@ -12,4 +12,4 @@ tags:
 
 _Guardians and emissaries of the environment, leshies are immortal spirits of nature temporarily granted a physical form._
 
-_[[Leshy]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Leshy]]_

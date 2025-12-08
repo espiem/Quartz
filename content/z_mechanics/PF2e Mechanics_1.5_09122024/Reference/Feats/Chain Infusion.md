@@ -13,7 +13,7 @@ license: OGL
 ---
 # Chain Infusion `pf2:1`
 ## Feat 10
-### [[infusion]][[kineticist]]
+### [[infusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]]
 
 **Category** class; 
 

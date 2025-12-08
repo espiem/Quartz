@@ -12,7 +12,7 @@ license: OGL
 ---
 # Thrasher Tail
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[clockwork]][[kobold]][[mechanical]]
+### [rare](rare "Rare Rarity Trait")[[clockwork]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Kobold]][[mechanical]]
 
 
 **Price** 620 gp; 
@@ -23,7 +23,7 @@ Kobolds admire well-designed objects, especially if it gives them an opportunity
 
 **Activate** `pf2:r`
 
-**Trigger** You're [[Conditions/Grabbed|Grabbed]]
+**Trigger** You're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]]
 
 * * *
 

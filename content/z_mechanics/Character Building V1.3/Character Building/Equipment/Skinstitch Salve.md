@@ -8,7 +8,7 @@ tags:
 ---
 
 # Skinstitch Salve
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-skinitch-salve.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-alchemical-items-alchemical-tools-skinitch-salve.webp|150]]
 
 This sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.
 
@@ -22,7 +22,7 @@ This sticky salve stubbornly holds wounds closed and encourages swift natural he
 
 **Activate** F Interact
 
-**Trigger** You [[Treat Wounds]] or use [[Battle Medicine]]
+**Trigger** You [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/GM Screen/Treat Wounds]] or use [[Battle Medicine]]
 
 * * *
 

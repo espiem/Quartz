@@ -13,7 +13,7 @@ license: OGL
 ---
 # Phase Out `pf2:3`
 ## Feat 6
-### [[concentrate]][[evolution]][[summoner]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[evolution]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Summoner]]
 
 **Category** class; 
 

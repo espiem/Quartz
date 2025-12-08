@@ -8,7 +8,7 @@ tags:
 ---
 
 # Seal Fate
-![[systems-pf2e-icons-spells-seal-fate.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-seal-fate.webp|150]]
 
 You utter a curse that a creature will meet a certain end-a death by freezing, stabbing, or another means you devise. Choose one type of damage from the following list: acid, bludgeoning, cold, electricity, fire, negative, piercing, slashing, or sonic. The effect is based on the target's Fortitude save.
 

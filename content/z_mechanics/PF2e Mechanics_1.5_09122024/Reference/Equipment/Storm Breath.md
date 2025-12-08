@@ -16,7 +16,7 @@ license: OGL
 ---
 # Storm Breath
 ## Item 9
-### [[air]][[bottled-breath]][[consumable]][[electricity]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[bottled-breath]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Electricity]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 125 gp; 
@@ -27,7 +27,7 @@ _Storm breaths_ are bottles of temperamental lightning captured during storms on
 
 After inhaling _storm breath_, you gain resistance 5 to both electricity and sonic. You can exhale the _storm breath_ as a bolt of lightning, dealing 4d12 electricity damage to all creatures in a 30-foot line, with a DC 25 Reflex check save.
 
-[[Equipment Effects/Effect_ Storm Breath|Effect: Storm Breath]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Storm Breath|Effect: Storm Breath]]
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

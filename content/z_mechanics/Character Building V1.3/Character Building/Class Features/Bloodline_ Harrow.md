@@ -18,4 +18,4 @@ tags:
 
 **Bloodline Spells** initial: _[[Unraveling Blast]]_; advanced: _[[Invoke the Harrow]]_; greater: _[[Rewrite Possibility]]_
 
-**Blood Magic** You become enveloped in possibility, represented as multiple versions of yourself from your possible futures overlaid on each other. You gain [[Concealed|Concealement]] for 1 round, but can't use the concealment to [[Hide]].
+**Blood Magic** You become enveloped in possibility, represented as multiple versions of yourself from your possible futures overlaid on each other. You gain [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealement]] for 1 round, but can't use the concealment to [[Hide]].

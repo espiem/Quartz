@@ -11,7 +11,7 @@ license: OGL
 ---
 # Riptide `pf2:r`
 ## Feat 9
-### [[azarketi]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Azarketi]]
 
 **Category** ancestry; 
 
@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-You Stride up to 10 feet to enter the water, bringing the [[Conditions/Grabbed|Grabbed]] creature with you into the water.
+You Stride up to 10 feet to enter the water, bringing the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]] creature with you into the water.
 
 *Source: Pathfinder Lost Omens: Absalom, City of Lost Omens*
 *OGL*

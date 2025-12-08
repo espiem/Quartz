@@ -11,7 +11,7 @@ license: OGL
 ---
 # Grim Sandglass
 ## Item 3
-### [[magical]][[spellheart]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellheart]]
 
 
 **Price** 55 gp; 
@@ -23,9 +23,9 @@ One bulb of this tiny hourglass contains black sand, the other white. After even
 *   **Armor** You gain resistance 2 to void.
 *   **Weapon** After you cast a necromancy spell by Activating the _sandglass_, your Strikes with the weapon deal an additional 1d4 void damage until the end of your next turn.
 
-[[Equipment Effects/Effect_ Grim Sandglass - Armor|Effect: Grim Sandglass - Armor]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Grim Sandglass - Armor|Effect: Grim Sandglass - Armor]]
 
-[[Equipment Effects/Effect_ Grim Sandglass - Weapon|Effect: Grim Sandglass - Weapon]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Grim Sandglass - Weapon|Effect: Grim Sandglass - Weapon]]
 
 * * *
 

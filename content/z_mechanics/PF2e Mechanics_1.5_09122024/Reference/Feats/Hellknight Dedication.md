@@ -24,7 +24,7 @@ You have forged your body to comply with the commands of your mind-orders steepe
 
 * * *
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Hellknight|Hellknight]] or [[PF2e Journals/Archetypes/Hellknight Armiger|Hellknight Armiger]] archetypes.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[Hellknight|Hellknight]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Hellknight Armiger|Hellknight Armiger]] archetypes.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

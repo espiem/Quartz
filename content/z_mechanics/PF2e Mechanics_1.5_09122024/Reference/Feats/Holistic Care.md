@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** trained in Diplomacy; Treat Condition
 * * *
-You provide emotional and spiritual care. Add [[Conditions/Frightened|Frightened]], [[Conditions/Stupefied|Stupefied]], and [[Conditions/Stunned|Stunned]] to the list of conditions you can reduce with [[Feats/Treat Condition|Treat Condition]]. If the stunned condition has a duration instead of a value, you can't use Treat Condition to reduce it.
+You provide emotional and spiritual care. Add [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied]], and [[Conditions/Stunned|Stunned]] to the list of conditions you can reduce with [[Feats/Treat Condition|Treat Condition]]. If the stunned condition has a duration instead of a value, you can't use Treat Condition to reduce it.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

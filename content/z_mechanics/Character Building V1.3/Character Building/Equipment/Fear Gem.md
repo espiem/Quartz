@@ -14,6 +14,6 @@ tags:
 
 * * *
 
-Dark smoke seems to writhe within this obsidian gem. When you activate the gem, make a melee Strike. If you hit and deal damage, the target is [[Frightened|Frightened 1]], or [[Frightened|Frightened 2]] on a critical hit.
+Dark smoke seems to writhe within this obsidian gem. When you activate the gem, make a melee Strike. If you hit and deal damage, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] on a critical hit.
 
-If you have the Intimidating Strike feat, increase the frightened condition value caused by the Strike to [[Frightened|Frightened 2]], or [[Frightened|Frightened 3]] on a critical hit.
+If you have the Intimidating Strike feat, increase the frightened condition value caused by the Strike to [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]] on a critical hit.

@@ -16,7 +16,7 @@ license: ORC
 ---
 # Viperous Elixir (Lesser)
 ## Item 5
-### [[alchemical]][[consumable]][[elixir]][[morph]][[poison]]
+### [[alchemical]][[consumable]][[elixir]][[morph]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** other; 
 **Price** 25 gp; 

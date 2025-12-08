@@ -8,7 +8,7 @@ tags:
 ---
 # Too much Stuff!
 
-> You get tangled in your gear and rare [[Conditions/Encumbered|Encumbered]] until you spend 2 Interact actions to free yourself.
+> You get tangled in your gear and rare [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Encumbered|Encumbered]] until you spend 2 Interact actions to free yourself.
 
 `Melee`
 

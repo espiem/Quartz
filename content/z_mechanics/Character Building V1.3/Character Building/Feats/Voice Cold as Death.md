@@ -10,7 +10,7 @@ tags:
 # Voice Cold as Death
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Requirements** You are not [[Fatigued]].
+**Requirements** You are not [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]].
 
 * * *
 

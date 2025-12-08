@@ -15,7 +15,7 @@ license: ORC
 ---
 # Shore Gift
 ## Feat 9
-### [[concentrate]][[merfolk]][[polymorph]][[primal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[merfolk]][[polymorph]][[primal]]
 
 **Category** ancestry; 
 

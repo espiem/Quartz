@@ -10,7 +10,7 @@ tags:
 # Rebuke Death
 ![[systems-pf2e-icons-spells-rebuke-death.webp|150]]
 
-You snatch creatures from the jaws of death, restoring them without the straing of a typical close call. You can spend 1 to 3 actions Casting this Spell, and you can target a number of creatures equal to the actions spent. Each target regains 3d6 Hit Points. If the target had the [[Dying]] condition, coming back from Dying due to this healing doesn't increase its [[Wounded]] condition.
+You snatch creatures from the jaws of death, restoring them without the straing of a typical close call. You can spend 1 to 3 actions Casting this Spell, and you can target a number of creatures equal to the actions spent. Each target regains 3d6 Hit Points. If the target had the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying]] condition, coming back from Dying due to this healing doesn't increase its [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded]] condition.
 
 * * *
 

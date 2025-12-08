@@ -8,7 +8,7 @@ tags:
 ---
 
 # Brewer's Regret (Greater)
-![[systems-pf2e-icons-equipment-alchemical-items-alchemical-tapas-brewers-regret.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-alchemical-items-alchemical-tapas-brewers-regret.webp|150]]
 
 **Activate** 1 Interact
 

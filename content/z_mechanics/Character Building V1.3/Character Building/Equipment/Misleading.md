@@ -8,9 +8,9 @@ tags:
 ---
 
 # Misleading
-![[systems-pf2e-icons-equipment-runes-armor-property-runes-armor-property-runes.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-runes-armor-property-runes-armor-property-runes.webp|150]]
 
-This rune attempts to obfuscate your location through illusory trickery. When you're [[Concealed]], the DC of the flat check to target you with an effect is 6 instead of 5.
+This rune attempts to obfuscate your location through illusory trickery. When you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]], the DC of the flat check to target you with an effect is 6 instead of 5.
 
 **Activate** 2 command, envision
 

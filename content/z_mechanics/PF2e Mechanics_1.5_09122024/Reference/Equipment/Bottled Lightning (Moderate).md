@@ -17,7 +17,7 @@ license: ORC
 ---
 # Bottled Lightning (Moderate)
 ## Item 3
-### [[alchemical]][[bomb]][[consumable]][[electricity]][[splash]]
+### [[alchemical]][[bomb]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Electricity]][[splash]]
 
 |  |  |
 | -- | -- |
@@ -33,7 +33,7 @@ license: ORC
 
 * * *
 
-Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals 2d6 electricity damage and 2 electricity splash damage. On a hit, the target becomes [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn. You gain a +1 item bonus to attack rolls.
+Bottled lightning is packed with volatile reagents that create a blast of electricity when they are exposed to air. Bottled lightning deals 2d6 electricity damage and 2 electricity splash damage. On a hit, the target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the start of your next turn. You gain a +1 item bonus to attack rolls.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

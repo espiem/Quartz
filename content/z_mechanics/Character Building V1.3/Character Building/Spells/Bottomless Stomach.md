@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bottomless Stomach
-![[icons-creatures-abilities-mouth-teeth-tongue-purple.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-abilities-mouth-teeth-tongue-purple.webp|150]]
 
 You create a shimmering extradimensional space accessible from the target's mouth. The space can hold objects and equipment, up to a total of 10 Bulk. This extradimensional storage doesn't hamper the target's ability to eat, drink, speak (if applicable), or otherwise act, as it only opens and closes when the target chooses.
 

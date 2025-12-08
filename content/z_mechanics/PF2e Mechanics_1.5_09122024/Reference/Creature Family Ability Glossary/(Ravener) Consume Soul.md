@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Ravener) Consume Soul `pf2:0`
 
-### [[death]][[divine]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Death]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 **Category** offensive; 
 

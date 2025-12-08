@@ -14,7 +14,7 @@ license: OGL
 ---
 # Juggling Club
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[nonlethal]][[thrown-20]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[nonlethal]][[thrown-20]]
 
 |  |  |
 | -- | -- |

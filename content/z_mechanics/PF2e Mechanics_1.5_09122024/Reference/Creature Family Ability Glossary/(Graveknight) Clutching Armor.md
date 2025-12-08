@@ -11,7 +11,7 @@ license: OGL
 ---
 # (Graveknight) Clutching Armor `pf2:r`
 
-### [[arcane]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]]
 
 **Category** defensive; 
 

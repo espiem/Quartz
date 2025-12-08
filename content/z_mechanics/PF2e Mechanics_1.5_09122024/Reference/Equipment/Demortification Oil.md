@@ -13,7 +13,7 @@ license: OGL
 ---
 # Demortification Oil
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]][[oil]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[oil]]
 
 **Category** oil; 
 **Price** 30 gp; 

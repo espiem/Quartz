@@ -17,7 +17,7 @@ license: OGL
 
 
 
-**Requirements** The rumored cryptid is [[Conditions/Undetected|Undetected]]
+**Requirements** The rumored cryptid is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Undetected|Undetected]]
 
 * * *
 

@@ -18,7 +18,7 @@ license: OGL
 
 _You can magically beckon a powerful being called an eidolon to your side, serving as the mortal conduit that anchors it to the world. Whether your eidolon is a friend, a servant, or even a personal god, your connection to it marks you as extraordinary, shaping the course of your life dramatically._
 
-_[[PF2e Journals/Classes/Summoner|Summoner]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Summoner|Summoner]]_
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

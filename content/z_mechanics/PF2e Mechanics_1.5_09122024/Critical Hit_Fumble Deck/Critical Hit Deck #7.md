@@ -8,24 +8,24 @@ tags:
 ---
 # Bell Ringer
 
-> **Crit Effect:** The target is [[Conditions/Sickened|Sickened 2]], and it is [[Conditions/Stupefied|Stupefied 2]] until it is no longer sickened.
+> **Crit Effect:** The target is [[Conditions/Sickened|Sickened 2]], and it is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] until it is no longer sickened.
 
 `Bludgeoning`
 
 # Skewered
 
-> Triple damage. **Crit Effect:** The target is [[Conditions/Slowed|Slowed 1]] for 1 round.
+> Triple damage. **Crit Effect:** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] for 1 round.
 
 `Piercing`
 
 # Momentum
 
-> You gain a [[Other Effects/Effect_ +2 circumstance bonus to attack rolls|+2 circumstance bonus to attack rolls]] until the end of your next turn.
+> You gain a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ +2 circumstance bonus to attack rolls|+2 circumstance bonus to attack rolls]] until the end of your next turn.
 
 `Slashing`
 
 # Petrified
 
-> The target is [[Conditions/Petrified|Petrified]] for 10 minutes.
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Petrified|Petrified]] for 10 minutes.
 
 `Bomb or Spell`

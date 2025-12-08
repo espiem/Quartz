@@ -13,7 +13,7 @@ license: OGL
 ---
 # Extinguish Light `pf2:2`
 ## Feat 5
-### [[darkness]][[fetchling]][[occult]]
+### [[darkness]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Fetchling]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** ancestry; 
 

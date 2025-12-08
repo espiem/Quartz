@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** master in Occultism
 * * *
-Your occult connection to the world helps you deal with being [[Conditions/Frightened|Frightened]] or [[Conditions/Stupefied|Stupefied]]. When your frightened or stupefied condition values would decrease, decrease the value by 2.
+Your occult connection to the world helps you deal with being [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied]]. When your frightened or stupefied condition values would decrease, decrease the value by 2.
 
 *Source: Pathfinder #197: Let the Leaves Fall*
 *OGL*

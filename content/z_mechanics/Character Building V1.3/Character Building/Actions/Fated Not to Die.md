@@ -15,4 +15,4 @@ tags:
 
 * * *
 
-**Effect** Draw a harrow card, and you automatically lose the dying condition, though you remain [[Unconscious]] at 0 Hit Points. If the card you drew was from the suit of Shields, you awaken and have an amount of Hit Points restored to you equal to 1d6 + your level.
+**Effect** Draw a harrow card, and you automatically lose the dying condition, though you remain [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] at 0 Hit Points. If the card you drew was from the suit of Shields, you awaken and have an amount of Hit Points restored to you equal to 1d6 + your level.

@@ -14,4 +14,4 @@ Choose a [[Bloodline]]. You become trained in the bloodline's two skills; for ea
 
 * * *
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[Sorcerer]] archetype.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]] archetype.

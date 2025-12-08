@@ -8,7 +8,7 @@ tags:
 ---
 
 # Life-Giving Form
-![[systems-pf2e-icons-spells-life-giving-form.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-life-giving-form.webp|150]]
 
 You transcend your physical form, becoming a beacon of healing energy. Your body exudes bright light like a torch. You gain resistance 5 to precision damage and weakness 5 to void damage, and your unarmed Strikes deal an extra 1d4 vitality damage.
 

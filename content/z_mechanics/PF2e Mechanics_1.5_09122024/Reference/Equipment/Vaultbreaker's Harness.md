@@ -11,7 +11,7 @@ license: OGL
 ---
 # Vaultbreaker's Harness
 ## Item 6
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 230 gp; 
@@ -26,7 +26,7 @@ A _vaultbreaker's harness_ has four pockets across the chest. The pockets contai
 
 **Effect** You cinch the harness to prepare for mischief. You gain a +1 item bonus to Stealth checks and a +10-foot item bonus to your Speed for 1 minute.
 
-[[Equipment Effects/Effect_ Vaultbreaker's Harness|Effect: Vaultbreaker's Harness]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Vaultbreaker's Harness|Effect: Vaultbreaker's Harness]]
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

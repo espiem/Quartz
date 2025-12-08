@@ -14,7 +14,7 @@ license: OGL
 ---
 # Necrobinding Serum
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[consumable]][[incapacitation]][[injury]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[injury]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** poison; 
 **Price** 30 gp; 

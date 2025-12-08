@@ -8,7 +8,7 @@ tags:
 ---
 
 # Armor of Bones
-![[icons-commodities-bones-bones-ribsbrown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-commodities-bones-bones-ribsbrown.webp|150]]
 
 You ossify your physical form, mimicking the durability of bone. You gain resistance 3 to cold, electricity, fire, piercing, and slashing damage.
 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Rejoice in Solstice Storm `pf2:2`
 ## Feat 8
-### [[concentrate]][[divine]][[exemplar]][[manipulate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[exemplar]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** class; 
 
@@ -32,9 +32,9 @@ You hold your arms out, and the fury of the seasons comes to your jubilant embra
 The emanation is quartered into four non-overlapping cones, each of a different season, which must be arranged clockwise from spring, to summer, to fall, to winter. Each cone has different traits, damage type, and a different effect to a creature that critically fails its saving throw; a creature large enough to be in multiple seasons can choose which it is affected by.
 
 *   **Spring** (electricity) Spring lightning deals electricity damage. Creatures who critically fail are left numb, becoming [[Conditions/Clumsy|Clumsy 2]] until the end of their next turn.
-*   **Summer** (water) A summer monsoon deals bludgeoning damage. Creatures who critically fail are knocked [[Conditions/Prone|Prone]] by hurricane winds.
-*   **Fall** (emotion, mental, wood) Falling leaves deal slashing damage. Creatures who critically fail are gripped by melancholy, becoming [[Conditions/Off-Guard|Off-Guard]] until the end of their next turn.
-*   **Winter** (cold) A blizzard deals cold damage. Creatures who critically fail are [[Conditions/Stupefied|Stupefied 2]] until the end of their next turn as the cold numbs their senses.
+*   **Summer** (water) A summer monsoon deals bludgeoning damage. Creatures who critically fail are knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] by hurricane winds.
+*   **Fall** (emotion, mental, wood) Falling leaves deal slashing damage. Creatures who critically fail are gripped by melancholy, becoming [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the end of their next turn.
+*   **Winter** (cold) A blizzard deals cold damage. Creatures who critically fail are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] until the end of their next turn as the cold numbs their senses.
 
 *Source: Pathfinder War of Immortals*
 *ORC*

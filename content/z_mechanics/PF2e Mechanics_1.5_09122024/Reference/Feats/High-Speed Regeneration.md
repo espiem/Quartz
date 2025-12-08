@@ -13,7 +13,7 @@ license: OGL
 ---
 # High-Speed Regeneration `pf2:0`
 ## Feat 6
-### [rare](rare "Rare Rarity Trait")[[deviant]][[healing]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[deviant]][[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** class; 
 
@@ -34,7 +34,7 @@ Your wounds knit together with barely a thought. You regain Hit Points equal to 
 
 **Awakening** Regrowth invigorates you. You gain a +10-foot status bonus to your Speed until the end of your turn.
 
-[[Feat_Feature Effects/Effect_ High-Speed Regeneration Speed Boost|Effect: High-Speed Regeneration Speed Boost]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ High-Speed Regeneration Speed Boost|Effect: High-Speed Regeneration Speed Boost]]
 
 *Source: Pathfinder Dark Archive*
 *OGL*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Strident Command
 ## Feat 10
-### [[archetype]][[vigilante]]
+### [[archetype]][[Vigilante]]
 
 **Category** class; 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Guardian Staff (Major)
 ## Item 14
-### [[magical]][[staff]][[two-hand-d8]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -33,7 +33,7 @@ A _guardian staff_ is formed from ivory strands woven in a diamond pattern and c
 
 **Effect** You raise the staff and choose an ally within 10 feet. A ruby-colored plane of force appears like a shield near the ally, granting them a +1 circumstance bonus to AC until the start of your next turn. If you use this action again, any creature you previously granted this bonus to loses it.
 
-[[Equipment Effects/Effect_ Guardian Staff|Effect: Guardian Staff]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Guardian Staff|Effect: Guardian Staff]]
 
 * * *
 

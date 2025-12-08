@@ -12,4 +12,4 @@ tags:
 
 _Poppets are small, basic constructs that typically help their owners with simple tasks. Occasionally, poppets gain sapience, independence, and a spark of life. Elevated beyond mere helpers or playthings, these poppets are free to chart their own destinies._
 
-_[[Poppet]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Poppet]]_

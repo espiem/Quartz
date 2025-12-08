@@ -8,9 +8,9 @@ tags:
 ---
 
 # Concealment's Curtain
-![[icons-skills-wounds-injury-eyes-blood-red-pink.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-wounds-injury-eyes-blood-red-pink.webp|150]]
 
-At twilight for 5 days, you line the fruit in front of the mirror, chanting the name of the target, and envisioning its eyes in your mind. At exactly midnight on the last day, you drive the pins through the fruits, miming the action of methodically blinding the target to you and your companions. The target is immediately affected and can't visually detect any of the casters involved in the ritual-provided that the ritual was successful, the target is unaware of the effects. Since the ritual affects the target's ability to see the casters, rather than make the casters [[Invisible]], effects like true seeing are ineffective against concealment's curtain; instead, the target would need to remove the curse with effects like remove curse. To perform this ritual, you must have been within 5 feet of the target at least once, close enough to get a good look at its eyes. The target is temporarily immune to further castings of concealment's curtain for 1 year.
+At twilight for 5 days, you line the fruit in front of the mirror, chanting the name of the target, and envisioning its eyes in your mind. At exactly midnight on the last day, you drive the pins through the fruits, miming the action of methodically blinding the target to you and your companions. The target is immediately affected and can't visually detect any of the casters involved in the ritual-provided that the ritual was successful, the target is unaware of the effects. Since the ritual affects the target's ability to see the casters, rather than make the casters [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]], effects like true seeing are ineffective against concealment's curtain; instead, the target would need to remove the curse with effects like remove curse. To perform this ritual, you must have been within 5 feet of the target at least once, close enough to get a good look at its eyes. The target is temporarily immune to further castings of concealment's curtain for 1 year.
 
 * * *
 
@@ -20,7 +20,7 @@ At twilight for 5 days, you line the fruit in front of the mirror, chanting the 
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** The ritual backfires and all casters participating in it are [[Blinded]] for the next 24 hours.
+**Critical Failure** The ritual backfires and all casters participating in it are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for the next 24 hours.
 
 * * *
 

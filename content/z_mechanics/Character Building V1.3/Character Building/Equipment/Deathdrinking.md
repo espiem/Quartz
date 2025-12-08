@@ -8,7 +8,7 @@ tags:
 ---
 
 # Deathdrinking
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 A weapon etched with a _deathdrinking_ rune shimmers with dark purple energy. When held by a living creature, the weapon causes twinges of hunger to manifest.
 

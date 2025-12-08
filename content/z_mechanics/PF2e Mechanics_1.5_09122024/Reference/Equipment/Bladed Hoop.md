@@ -14,7 +14,7 @@ license: OGL
 ---
 # Bladed Hoop
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[finesse]][[sweep]][[two-hand-d8]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[sweep]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |

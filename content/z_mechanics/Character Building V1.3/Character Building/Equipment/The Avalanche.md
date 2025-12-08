@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Avalanche
-![[icons-sundries-gaming-playing-cards-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Keys (Dex)
 
@@ -32,6 +32,6 @@ _The Avalanche_ represents unmitigated disasters, destruction that overruns all 
 
 **Success** The creature takes 5d8 bludgeoning damage and is pushed into an adjacent space of its choice.
 
-**Failure** The creature takes 10d8 bludgeoning damage, is knocked [[Prone]], and is [[Restrained]].
+**Failure** The creature takes 10d8 bludgeoning damage, is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]], and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]].
 
-**Critical Failure** The creature takes 20d8 bludgeoning damage, is knocked prone, and is [[Immobilized]].
+**Critical Failure** The creature takes 20d8 bludgeoning damage, is knocked prone, and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]].

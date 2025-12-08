@@ -16,7 +16,7 @@ Attempt an occultism check and compare the result to the Will DC of an enemy wit
 
 * * *
 
-**Critical Success** The target becomes [[Confused]] for 1 round and [[Frightened|Frightened 1]].
+**Critical Success** The target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] for 1 round and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
 **Success** The target becomes frightened 1.
 

@@ -18,4 +18,4 @@ You sigh, and your breath transforms into delicate, black-winged butterflies and
 
 * * *
 
-**Heightened (+1)** The amount of Hit Points healed every 10 minutes increases by 1d4 and the amount of Hit Points regained from the first [[Treat Wounds]] increases by 2d4.
+**Heightened (+1)** The amount of Hit Points healed every 10 minutes increases by 1d4 and the amount of Hit Points regained from the first [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/GM Screen/Treat Wounds]] increases by 2d4.

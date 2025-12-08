@@ -16,7 +16,7 @@ The elemental metal in your bloodline literally courses through your veins in th
 
 **Frequency** once per day
 
-**Requirements** Your most recent action was to [[Tumble Through]], and you successfully moved through an enemy's space
+**Requirements** Your most recent action was to [[z_mechanics/PF2e Mechanics_1.5_09122024/Hero Point Deck/Tumble Through]], and you successfully moved through an enemy's space
 
 * * *
 

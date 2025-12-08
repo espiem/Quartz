@@ -14,4 +14,4 @@ You know how to turn combat into a form of entertainment. You become trained in 
 
 At the start of a combat encounter, if you have spectators, you gain a number of temporary HP equal to your character level for 1 minute and you can roll Performance for your initiative.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[Gladiator]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Gladiator]] archetype.

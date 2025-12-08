@@ -15,7 +15,7 @@ license: ORC
 ---
 # Ill Tide `pf2:r`
 ## Feat 9
-### [[concentrate]][[merfolk]][[misfortune]][[primal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[merfolk]][[misfortune]][[primal]]
 
 **Category** ancestry; 
 

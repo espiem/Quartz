@@ -15,7 +15,7 @@ license: ORC
 ---
 # Spirit Walk
 ## Feat 8
-### [[animist]][[apparition]][[aura]][[exploration]]
+### [[animist]][[apparition]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[exploration]]
 
 **Category** class; 
 

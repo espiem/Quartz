@@ -14,7 +14,7 @@ license: ORC
 ---
 # Second Thoughts `pf2:r`
 ## Feat 18
-### [[concentrate]][[mental]][[wizard]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Wizard]]
 
 **Category** class; 
 

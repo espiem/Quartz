@@ -10,4 +10,4 @@ tags:
 # Wary Skulker
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-Ever alert, you [[Scout]] for danger even when you are trying to stay hidden. You can perform the Scout exploration activity at the same time as the [[Avoid Notice]] exploration activity.
+Ever alert, you [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Scout]] for danger even when you are trying to stay hidden. You can perform the Scout exploration activity at the same time as the [[Avoid Notice]] exploration activity.

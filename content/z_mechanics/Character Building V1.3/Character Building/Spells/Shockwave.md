@@ -16,9 +16,9 @@ You create a wave of energy that ripples through the earth. Terrestrial creature
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Off-Guard]] until the start of its next turn.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the start of its next turn.
 
-**Failure** The creature falls [[Prone]].
+**Failure** The creature falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].
 
 **Critical Failure** As failure, plus the creature takes 1d6 damage.
 

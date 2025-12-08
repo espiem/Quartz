@@ -13,7 +13,7 @@ license: OGL
 ---
 # Magical Lock Fulu
 ## Item 4
-### [[consumable]][[fulu]][[magical]]
+### [[consumable]][[fulu]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** fulu; 
 **Price** 15 gp; 

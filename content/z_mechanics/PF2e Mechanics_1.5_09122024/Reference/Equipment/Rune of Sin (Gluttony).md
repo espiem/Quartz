@@ -12,7 +12,7 @@ license: OGL
 ---
 # Rune of Sin (Gluttony)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[arcane]][[invested]][[tattoo]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[invested]][[tattoo]]
 
 
 **Price** 1700 gp; 

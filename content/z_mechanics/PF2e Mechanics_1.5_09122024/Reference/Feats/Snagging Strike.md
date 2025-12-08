@@ -12,7 +12,7 @@ license: ORC
 ---
 # Snagging Strike `pf2:1`
 ## Feat 1
-### [[fighter]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-You combine an attack with quick grappling moves to throw an enemy off balance as long as it stays in your reach. Make a Strike while keeping one hand free. If this Strike hits, the target is [[Conditions/Off-Guard|Off-Guard]] until the start of your next turn or until it's no longer within the reach of your hand, whichever comes first.
+You combine an attack with quick grappling moves to throw an enemy off balance as long as it stays in your reach. Make a Strike while keeping one hand free. If this Strike hits, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the start of your next turn or until it's no longer within the reach of your hand, whichever comes first.
 
 *Source: Pathfinder Player Core*
 *ORC*

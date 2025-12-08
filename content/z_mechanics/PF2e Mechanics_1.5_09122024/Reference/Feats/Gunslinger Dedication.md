@@ -23,7 +23,7 @@ license: OGL
 * * *
 You become trained in simple and martial crossbows and simple and martial firearms. You become trained in gunslinger class DC. Choose a [[Class Features/Gunslinger's Way|Gunslinger Way]]. You become trained in your way's associated skill; if you were already trained in this skill, you become trained in a skill of your choice. You don't gain any other abilities from your choice of way.
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Gunslinger|Gunslinger]] archetype.
+**Special** You can't select another dedication feat until you've gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Gunslinger|Gunslinger]] archetype.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

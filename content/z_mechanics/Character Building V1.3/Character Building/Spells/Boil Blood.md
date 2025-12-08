@@ -8,7 +8,7 @@ tags:
 ---
 
 # Boil Blood
-![[icons-skills-wounds-blood-cells-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-wounds-blood-cells-red.webp|150]]
 
 You heat a foe's blood and boil it within its veins. The target takes 10d10 fire damage, with a Fortitude save. A nonliving creature with blood in its body (such as a vampire) can be affected, but a creature with no blood is immune.
 

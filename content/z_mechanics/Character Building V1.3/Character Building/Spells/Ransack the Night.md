@@ -8,7 +8,7 @@ tags:
 ---
 
 # Ransack the Night
-![[icons-magic-unholy-energy-smoke-pink.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-unholy-energy-smoke-pink.webp|150]]
 
 When Fumeiyoshi was punished by the Celestial Court for deicide and fratricide, the rat who would become Lao Shu Po robbed the cangue-bound Fumeiyoshi of a sizable chunk of his shadow. This fully catalyzed the rat's transformation into Lao Shu Po, the new Tian goddess of night. Ransack the night is a Laoite ritual allowing you to mimic this divine thievery and shroud yourself in the night's cerements.
 
@@ -16,7 +16,7 @@ This ritual can only be performed at night. You dig narrow troughs into the dirt
 
 * * *
 
-**Critical Success** Fiends and undead who are 5th level or lower treat you as if you were [[Concealed]]. If you take a hostile action against a fiend or undead, you lose this concealment against that fiend or undead until the end of your next turn.
+**Critical Success** Fiends and undead who are 5th level or lower treat you as if you were [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]]. If you take a hostile action against a fiend or undead, you lose this concealment against that fiend or undead until the end of your next turn.
 
 **Success** As critical success, but when you lose concealment against a fiend or undead, you don't regain concealment from this ritual against that fiend or undead.
 

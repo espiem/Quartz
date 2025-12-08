@@ -14,7 +14,7 @@ license: OGL
 ---
 # Golden Spur
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]][[teleportation]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]][[teleportation]]
 
 **Category** talisman; 
 **Price** 300 gp; 

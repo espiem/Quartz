@@ -14,4 +14,4 @@ Your psychic abilities also allow you to detect the lingering thoughts of spirit
 
 You can also potentially notice ethereal creatures and spirits inside solid objects, provided they are within 30 feet of you. This applies while Searching, [[Seek|Seeking]], and on the automatic secret check from Sixth Sense. You can still notice spirits only on a successful check, and you can't see them if they're more than 5 feet inside an object.
 
-When you notice a creature with your Sixth Sense, you also learn its location, making it [[Hidden]] to you if it had been [[Undetected]].
+When you notice a creature with your Sixth Sense, you also learn its location, making it [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]] to you if it had been [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Undetected]].

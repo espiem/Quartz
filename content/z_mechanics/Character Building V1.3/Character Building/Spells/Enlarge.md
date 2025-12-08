@@ -8,7 +8,7 @@ tags:
 ---
 
 # Enlarge
-![[systems-pf2e-icons-spells-enlarge.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-enlarge.webp|150]]
 
 Bolstered by magical power, the target grows to size Large. Its equipment grows with it but returns to natural size if removed. The creature is [[Clumsy 1]]. Its reach increases by 5 feet (or by 10 feet if it started out Tiny), and it gains a +2 status bonus to melee damage. This spell has no effect on a Large or larger creature.
 

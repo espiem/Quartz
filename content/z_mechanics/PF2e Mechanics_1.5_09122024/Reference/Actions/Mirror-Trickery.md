@@ -14,7 +14,7 @@ license: OGL
 ---
 # Mirror-Trickery `pf2:r`
 
-### [[concentrate]][[illusion]][[occult]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[visual]]
 
 **Category** defensive; 
 

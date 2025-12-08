@@ -14,7 +14,7 @@ license: OGL
 ---
 # Duty `pf2:2`
 
-### [rare](rare "Rare Rarity Trait")[[incapacitation]][[linguistic]][[mental]][[occult]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[linguistic]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** deityboon; 
 
@@ -27,7 +27,7 @@ Stoic resolve or plain stubbornness form the core of this focus. While the dead 
 
 **Critical Success** The target hears your whispered words but isn't otherwise affected.
 
-**Success** The target is unnerved by your whispered words, and becomes [[Conditions/Frightened|Frightened 1]].
+**Success** The target is unnerved by your whispered words, and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
 **Failure** The target hears your whispered words and must obey your suggested course of action for 1 minute, until it has completed the task, or until the task becomes self-destructive or has other obvious negative effects. Your suggested course of action must be phrased in such a way as to seem like a logical course of action to the target.
 

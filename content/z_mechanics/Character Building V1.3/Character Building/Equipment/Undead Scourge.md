@@ -8,7 +8,7 @@ tags:
 ---
 
 # Undead Scourge
-![[systems-pf2e-icons-equipment-weapons-dagger.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-dagger.webp|150]]
 
 An _undead scourge_ is a _+1 striking disrupting dagger_ with a bluish-white metal blade that emits a faint glow. These used to be weapons of Pharasmin undead slayers only, but the slayers have since shared these daggers with the Knights of Lastwall.
 

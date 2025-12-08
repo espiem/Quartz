@@ -18,7 +18,7 @@ You touch a creature to implant a malignant seed in its body. The creature takes
 
 **Success** The creature takes half damage and takes a -10-foot status penalty to all its Speeds until the end of its next turn.
 
-**Failure** The target takes full damage and is [[Clumsy 1|Clumsy 2]] and [[Immobilized]] until the end of its next turn.
+**Failure** The target takes full damage and is [[Clumsy 1|Clumsy 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] until the end of its next turn.
 
 **Critical Failure** The target takes double damage and is clumsy 2 and immobilized. It attempts a new save at the end of each of its turns, ending the effect if it succeeds.
 

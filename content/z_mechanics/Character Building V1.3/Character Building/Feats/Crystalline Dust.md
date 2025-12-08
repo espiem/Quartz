@@ -16,6 +16,6 @@ tags:
 
 You've learned to disperse the crystalline motes coating your body as a haze.
 
-You become [[Concealed]], though you can't use this concealment to Hide or Sneak, as normal for concealment where your position is still obvious.
+You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]], though you can't use this concealment to Hide or Sneak, as normal for concealment where your position is still obvious.
 
 The motes stay within an inch of your skin, move with you, and last for a number of rounds equal to half your level.

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Boneshaker
-![[icons-skills-wounds-bone-broken-marrow-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-wounds-bone-broken-marrow-red.webp|150]]
 
 You reach out a hand and seize a creature's skeleton from afar, harming their body and potentially wrenching them by the bones to move them against their will. The number of actions you spend when Casting this Spell determines the spell's effects. Regardless of the number of actions spent to Cast this Spell, the target must attempt a Fortitude save.
 
@@ -20,7 +20,7 @@ You reach out a hand and seize a creature's skeleton from afar, harming their bo
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes half damage. If you cast the 3-action version, you can move the target up to 5 feet; it can choose to fall [[Prone]] to avoid moving.
+**Success** The target takes half damage. If you cast the 3-action version, you can move the target up to 5 feet; it can choose to fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] to avoid moving.
 
 **Failure** The target takes full damage and is [[Enfeebled 1]]. If you cast the 3-action version, you can move the target up to 15 feet; it can fall prone to avoid moving.
 

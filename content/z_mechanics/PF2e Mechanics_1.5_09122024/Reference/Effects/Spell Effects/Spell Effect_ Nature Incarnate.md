@@ -40,7 +40,7 @@ You gain specific abilities based on the incarnation you choose:
     *   **Melee** `pf2:1` jaws (reach 30 feet), **Damage** 6d10+10 piercing;
     *   **Melee** `pf2:1` claws (agile, reach 30 feet), **Damage** 6d8+8 slashing;
     *   **Melee** `pf2:1` foot (agile, reach 15 feet), **Damage** 6d6+10 bludgeoning;
-    *   **Unstoppable** You are immune to being [[Conditions/Immobilized|Immobilized]] and ignore difficult terrain and greater difficult terrain;
+    *   **Unstoppable** You are immune to being [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]] and ignore difficult terrain and greater difficult terrain;
     *   **Trample** `pf2:3` You move up to double your Speed and move through the spaces of Huge or smaller creatures, trampling each creature whose space you enter. A trampled creature takes foot damage with a Reflex check save against your spell DC.
 
 *Source: Pathfinder Player Core*

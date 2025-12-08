@@ -10,7 +10,7 @@ tags:
 # Percussive Impact
 ![[systems-pf2e-icons-spells-percussive-impact.webp|150]]
 
-You lob a compressed ball of sound at a foe. The ball explodes on impact, unleashing a powerful blast of sound. Make a spell attack roll. If you hit, you deal 4d8 bludgeoning damage plus 1d4 sonic splash damage. On a critical success, the target is also [[Deafened]] for 1 round.
+You lob a compressed ball of sound at a foe. The ball explodes on impact, unleashing a powerful blast of sound. Make a spell attack roll. If you hit, you deal 4d8 bludgeoning damage plus 1d4 sonic splash damage. On a critical success, the target is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 round.
 
 * * *
 

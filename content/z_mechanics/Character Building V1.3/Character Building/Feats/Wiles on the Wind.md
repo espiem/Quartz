@@ -18,6 +18,6 @@ You can have any creature within 40 feet of the illusion, or that comes within 4
 
 **Success** The creature is unaffected, disbelieves the illusion, and is temporarily immune for 1 hour.
 
-**Failure** The creature is [[Fascinated]] with the source of the sound until the end of its next turn. When the fascination ends, the creature is temporarily immune for 1 hour.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] with the source of the sound until the end of its next turn. When the fascination ends, the creature is temporarily immune for 1 hour.
 
 **Critical Failure** As failure, but the creature is fascinated for 1 minute or until it disbelieves.

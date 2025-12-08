@@ -8,9 +8,9 @@ tags:
 ---
 
 # Sleep
-![[systems-pf2e-icons-spells-sleep.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-sleep.webp|150]]
 
-Each creature in the area becomes drowsy and might fall asleep. A creature that falls [[Unconscious]] from this spell doesn't fall [[Prone]] or release what it's holding. This spell doesn't prevent creatures from waking up due to a successful Perception check, limiting its utility in combat.
+Each creature in the area becomes drowsy and might fall asleep. A creature that falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] from this spell doesn't fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] or release what it's holding. This spell doesn't prevent creatures from waking up due to a successful Perception check, limiting its utility in combat.
 
 * * *
 

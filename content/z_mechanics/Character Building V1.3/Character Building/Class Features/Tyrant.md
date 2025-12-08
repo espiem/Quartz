@@ -8,7 +8,7 @@ tags:
 ---
 
 # Tyrant
-![[icons-equipment-head-helm-barbute-horned-gold-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-equipment-head-helm-barbute-horned-gold-red.webp|150]]
 
 Might makes right, and you subjugate the weak to keep them in their proper place. You gain the [[Iron Command]] champion's reaction and the _[[Touch of Corruption]]_ devotion spell. You gain the follow edicts and anathema:
 
@@ -24,4 +24,4 @@ The regrets of disobedience linger. If an enemy refuses your Iron Command, it ta
 
 When you use Iron Command, each enemy within 15 feet of you other than the triggering creature must also either drop prone or take mental damage (the enemy chooses). These creatures take only minimum damage (typically 3 damage at 11th level, 4 at 12th, 5 at 16th, and 6 at 19th), and the effects they take can't be adjusted by anything that changes your Iron Command.
 
-For instance, the [[Iron Repercussions]] feat couldn't turn the damage into per [[Persistent Damage|Persistent Mental Damage]] for creatures other than the triggering creature.
+For instance, the [[Iron Repercussions]] feat couldn't turn the damage into per [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Persistent Damage|Persistent Mental Damage]] for creatures other than the triggering creature.

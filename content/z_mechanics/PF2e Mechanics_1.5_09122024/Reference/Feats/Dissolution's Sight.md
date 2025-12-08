@@ -13,7 +13,7 @@ license: ORC
 ---
 # Dissolution's Sight `pf2:1`
 ## Feat 9
-### [[occult]][[wayang]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[wayang]]
 
 **Category** ancestry; 
 

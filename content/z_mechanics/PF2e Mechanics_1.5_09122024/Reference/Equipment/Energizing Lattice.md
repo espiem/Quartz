@@ -13,7 +13,7 @@ license: OGL
 ---
 # Energizing Lattice
 ## Item 13
-### [[invested]][[light]][[magical]]
+### [[invested]][[light]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** medium; **Group** chain
 **Price** 3000 gp; 
@@ -22,7 +22,7 @@ license: OGL
 
 This suit of _+2 resilient fortification lattice armor_ has latticework of fine golden wire. After negating a critical hit with its _fortification_ rune, the latticework glows for 1 minute, shedding bright light in a 20-foot radius (and dim light for the next 20 feet). You can Dismiss this light.
 
-[[Equipment Effects/Effect_ Energizing Lattice|Effect: Energizing Lattice]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Energizing Lattice|Effect: Energizing Lattice]]
 
 * * *
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Bone Swarm `pf2:2`
 ## Feat 17
-### [[concentrate]][[polymorph]][[skeleton]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[polymorph]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Skeleton]]
 
 **Category** ancestry; 
 
@@ -26,7 +26,7 @@ license: OGL
 
 You scatter your body and transform into a whirling storm of bones for up to 1 minute or until you spend a single action to return to your normal shape. You become Huge, gain the swarm trait, and gain a fly Speed of 40 feet. As a swarm, you have the following characteristics.
 
-*   You are immune to the [[Conditions/Grabbed|Grabbed]], [[Conditions/Prone|Prone]], and [[Conditions/Restrained|Restrained]] conditions.
+*   You are immune to the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]] conditions.
 *   You have weakness 5 to area and splash damage.
 *   You can occupy the same space as other creatures and must do so to use your damaging ability.
 *   As a 2-action activity, you can deal 10d6 bludgeoning damage to all creatures sharing your space (Reflex check save with a DC equal to your class DC or spell DC, whichever is higher).

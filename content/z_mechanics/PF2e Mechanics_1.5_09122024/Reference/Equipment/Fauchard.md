@@ -15,7 +15,7 @@ license: OGL
 ---
 # Fauchard
 ## Item 0
-### [[deadly-d8]][[reach]][[sweep]][[trip]]
+### [[deadly-d8]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]][[sweep]][[trip]]
 
 |  |  |
 | -- | -- |

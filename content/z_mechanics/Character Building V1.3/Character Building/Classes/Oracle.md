@@ -14,4 +14,4 @@ _Your conduit to divine power eschews the traditional channels of prayer and ser
 
 _You explore one of these mysteries and draw upon its power to cast miraculous spells, but that power comes with a terrible price: a curse that grows stronger the more you draw upon it. Your abilities are a double-edged sword, which you might uphold as an instrument of the divine or view as a curse from the gods._
 
-_[[Oracle]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Classes/Oracle]]_

@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-**Effect** Your kinnara flashes his brilliant feathers. Each creature within a 30-foot emanation must attempt a Will check save against your class DC or spell DC, whichever is higher, or be [[Conditions/Dazzled|Dazzled]] for 2 rounds.
+**Effect** Your kinnara flashes his brilliant feathers. Each creature within a 30-foot emanation must attempt a Will check save against your class DC or spell DC, whichever is higher, or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for 2 rounds.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

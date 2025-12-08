@@ -13,7 +13,7 @@ license: OGL
 ---
 # Defiled Costa
 ## Item 14
-### [rare](rare "Rare Rarity Trait")[[catalyst]][[consumable]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[catalyst]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** other; 
 **Price** 900 gp; 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Hat of Disagreeable Disguise (Greater)
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[cursed]][[illusion]][[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[cursed]][[illusion]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 30 gp; 

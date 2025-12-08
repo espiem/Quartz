@@ -10,7 +10,7 @@ tags:
 # Slip The Grasp
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Requirements** You are [[Grabbed]], [[Immobilized]], or [[Restrained]].
+**Requirements** You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]].
 
 * * *
 

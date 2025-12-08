@@ -12,7 +12,7 @@ license: OGL
 ---
 # Bewitching Bloom (White Poppy)
 ## Item 4
-### [[invested]][[magical]][[tattoo]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[tattoo]]
 
 
 **Price** 80 gp; 

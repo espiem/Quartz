@@ -12,7 +12,7 @@ license: OGL
 ---
 # Eclectic Sword Mastery `pf2:2`
 ## Feat 13
-### [[concentrate]][[tengu]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Tengu]]
 
 **Category** ancestry; 
 

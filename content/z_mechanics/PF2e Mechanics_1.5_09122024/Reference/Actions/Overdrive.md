@@ -12,7 +12,7 @@ license: OGL
 ---
 # Overdrive `pf2:1`
 
-### [[inventor]][[manipulate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Inventor]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** offensive; 
 
@@ -25,7 +25,7 @@ license: OGL
 
 Temporarily cranking the gizmos on your body into overdrive, you try to add greater power to your attacks. Attempt a Crafting check that has a standard DC for your level.
 
-[[Feat_Feature Effects/Effect_ Overdrive|Effect: Overdrive]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Overdrive|Effect: Overdrive]]
 
 * * *
 

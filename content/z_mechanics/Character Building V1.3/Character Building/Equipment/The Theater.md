@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Theater
-![[icons-sundries-gaming-playing-cards-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Crown (Cha)
 
@@ -16,7 +16,7 @@ tags:
 
 * * *
 
-_The Theater_ represents prophecy and how prophets can't change the unfolding pageantry of fate. As long as you have _The Theater_ invested and as long as you are not already [[Doomed]], when you would gain the doomed condition, attempt a DC 10 flat. On a success, you do not gain the doomed condition.
+_The Theater_ represents prophecy and how prophets can't change the unfolding pageantry of fate. As long as you have _The Theater_ invested and as long as you are not already [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed]], when you would gain the doomed condition, attempt a DC 10 flat. On a success, you do not gain the doomed condition.
 
 **Activate** r (fortune) envision
 

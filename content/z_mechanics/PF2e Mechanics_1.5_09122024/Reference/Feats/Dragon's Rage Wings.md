@@ -14,7 +14,7 @@ license: ORC
 ---
 # Dragon's Rage Wings `pf2:1`
 ## Feat 12
-### [[barbarian]][[morph]][[rage]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[morph]][[rage]]
 
 **Category** class; 
 

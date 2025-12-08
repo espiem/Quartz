@@ -18,4 +18,4 @@ You hide insulating crystals or other material that releases a strong static cha
 
 **Failure** The target takes 1 persistent,electricity damage and takes a -1 circumstance penalty to saving throws against electricity effects for as long as the persistent electricity damage lasts.
 
-**Critical Failure** As failure, and the target attracts nearby dirt and dust. If the target is or becomes [[Invisible]], it's merely [[Hidden]] to creatures that have sight as a precise sense. This effect lasts as long as the persistent electricity damage does.
+**Critical Failure** As failure, and the target attracts nearby dirt and dust. If the target is or becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]], it's merely [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]] to creatures that have sight as a precise sense. This effect lasts as long as the persistent electricity damage does.

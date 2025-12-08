@@ -8,7 +8,7 @@ tags:
 ---
 
 # Elemental Instinct
-![[icons-magic-symbols-elements-air-earth-fire-water.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-magic-symbols-elements-air-earth-fire-water.webp|150]]
 
 This instinct option for barbarians allows you to channel elemental forces, bonding with a single element and its associated plane. Perhaps your ancestors were elemental conjurers or blessed by an elemental lord. Select an element from the Elemental Instincts table to be your instinct's element. If your element offers multiple damage types, choose one of those type when you select your element.
 
@@ -27,7 +27,7 @@ Disrespecting an elemental creature is anathema to your instinct; defending your
 
 ## Elemental Rage
 
-While raging, you're cloaked in a vortex of elemental matter; you become [[Concealed]] against ranged attacks. You can't use this concealment to [[Hide]] or [[Sneak]]. While raging, you increase the additional damage from Rage from 2 to 4 and change its damage type to the one you selected for your element.
+While raging, you're cloaked in a vortex of elemental matter; you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] against ranged attacks. You can't use this concealment to [[Hide]] or [[Sneak]]. While raging, you increase the additional damage from Rage from 2 to 4 and change its damage type to the one you selected for your element.
 
 If you have any kineticist impulses with the same element type as the one you chose for your instinct, such as ones gained by taking the Kineticist Dedication multiclass feat, they gain the rage trait.
 

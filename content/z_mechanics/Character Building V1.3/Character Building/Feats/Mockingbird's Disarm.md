@@ -12,7 +12,7 @@ tags:
 
 **Frequency** once per minute
 
-**Trigger** You succeed at a check to [[Tumble Through]] or use [[Tumbling Strike]], and you moved through an enemy's space.
+**Trigger** You succeed at a check to [[z_mechanics/PF2e Mechanics_1.5_09122024/Hero Point Deck/Tumble Through]] or use [[Tumbling Strike]], and you moved through an enemy's space.
 
 * * *
 

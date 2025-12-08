@@ -8,13 +8,13 @@ tags:
 ---
 # Winded
 
-> You are [[Conditions/Fatigued|Fatigued]].
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]].
 
 `Melee`
 
 # Bad Alignment
 
-> You take a [[Other Effects/Effect_ -2 circumstance penalty to attack rolls with this weapon|-2 circumstance penalty to attack rolls with this weapon]] until the end of your next turn.
+> You take a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -2 circumstance penalty to attack rolls with this weapon|-2 circumstance penalty to attack rolls with this weapon]] until the end of your next turn.
 
 `Ranged`
 

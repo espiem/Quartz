@@ -16,4 +16,4 @@ You gain the ghoul and undead traits and the [[Basic Undead Benefits]]. Your und
 
 You gain the [[Consume Flesh]] action. Satisfying your craving is difficult. Consuming Flesh temporarily satiates you. Many ghoul feats have extra abilities or functions that can be used when you are satiated, though using those abilities also causes you to lose your satiated status. You can always Consume Flesh, but eating more than a normal amount has no further effect; a ghoul's hunger is satiated, or it is not.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[Ghoul]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/2-Mechanics V1.3/Bestiary/bestiary-1/ghoul]] archetype.

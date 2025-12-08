@@ -14,7 +14,7 @@ license: ORC
 ---
 # Antimagic Oil
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[consumable]][[magical]][[oil]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[oil]]
 
 **Category** oil; 
 **Price** 13000 gp; 

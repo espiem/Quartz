@@ -12,7 +12,7 @@ license: OGL
 ---
 # Horned Hand Rests
 ## Item 6
-### [[companion]][[invested]][[magical]]
+### [[companion]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 225 gp; 

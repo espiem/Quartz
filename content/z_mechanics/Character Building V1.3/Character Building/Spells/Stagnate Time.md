@@ -16,6 +16,6 @@ You examine the time stream in a particular area, then proceed to stick a few me
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[Slowed]] this turn.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] this turn.
 
-**Critical Failure** The creature is [[Slowed|Slowed 2]] this turn.
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]] this turn.

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Ironblood Stance `pf2:1`
 ## Feat 8
-### [[monk]][[stance]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]][[stance]]
 
 **Category** class; 
 
@@ -28,7 +28,7 @@ You enter the stance of impenetrable iron, refusing to yield to any blow. You ca
 
 While in Ironblood Stance, you gain resistance 2 to all damage. The resistance increases to 3 at 12th level, to 4 at 16th level, and to 5 at 20th level.
 
-[[Feat_Feature Effects/Stance_ Ironblood Stance|Stance: Ironblood Stance]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Stance_ Ironblood Stance|Stance: Ironblood Stance]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

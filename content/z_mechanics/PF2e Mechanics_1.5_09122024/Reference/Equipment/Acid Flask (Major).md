@@ -17,7 +17,7 @@ license: ORC
 ---
 # Acid Flask (Major)
 ## Item 17
-### [[acid]][[alchemical]][[bomb]][[consumable]][[splash]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Acid]][[alchemical]][[bomb]][[consumable]][[splash]]
 
 |  |  |
 | -- | -- |

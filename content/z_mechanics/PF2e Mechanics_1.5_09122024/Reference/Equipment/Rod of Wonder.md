@@ -10,7 +10,7 @@ license: OGL
 ---
 # Rod of Wonder
 ## Item 8
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 465 gp; 
@@ -29,7 +29,7 @@ Any spell DC required is DC 27, and any spell attack roll required is 1d20+17. I
 
 Once activated, the rod can't be activated again for 1d4 hours.
 
-Roll on the [[Rollable Tables/Rod of Wonder|Rod of Wonder]] table to determine the outcome.
+Roll on the [[z_mechanics/PF2e Mechanics_1.5_09122024/Rollable Tables/Rod of Wonder|Rod of Wonder]] table to determine the outcome.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

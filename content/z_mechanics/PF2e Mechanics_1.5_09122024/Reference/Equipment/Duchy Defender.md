@@ -14,7 +14,7 @@ license: OGL
 ---
 # Duchy Defender
 ## Item 13
-### [rare](rare "Rare Rarity Trait")[[concussive]][[fatal-d10]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[concussive]][[fatal-d10]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 |  |  |
 | -- | -- |

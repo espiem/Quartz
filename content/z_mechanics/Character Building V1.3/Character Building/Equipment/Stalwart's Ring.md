@@ -8,7 +8,7 @@ tags:
 ---
 
 # Stalwart's Ring
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-stalwarts-ring.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-worn-items-other-worn-items-stalwarts-ring.webp|150]]
 
 This fairly simple ring has no gemstone inlaid, but the band is cast to resembled a fanged wolf's head.
 

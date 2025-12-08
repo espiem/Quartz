@@ -13,7 +13,7 @@ license: OGL
 ---
 # Alchemical Fuse
 ## Item 1
-### [[alchemical]][[consumable]][[fire]]
+### [[alchemical]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]]
 
 **Category** other; 
 **Price** 3 gp; 

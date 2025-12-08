@@ -24,9 +24,9 @@ You have an innate knack for tactical observation, and you've innovated to apply
 
 You're surrounded by an overwatch field aura in a 30-foot emanation. Your overwatch field aura grants you increased perception and allows you to call out warnings to your allies within the aura to point out threats. This aura has the auditory and visual traits. You and allies within your overwatch field receive a +2 circumstance bonus when using Perception for Initiative checks.
 
-[[Feat_Feature Effects/Effect_ Overwatch Field|Effect: Overwatch Field]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Overwatch Field|Effect: Overwatch Field]]
 
-**Special** You can't select another dedication feat until after you have gained at least two other feats from the [[PF2e Journals/Archetypes/Overwatch|Overwatch]] archetype.
+**Special** You can't select another dedication feat until after you have gained at least two other feats from the [[Overwatch|Overwatch]] archetype.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

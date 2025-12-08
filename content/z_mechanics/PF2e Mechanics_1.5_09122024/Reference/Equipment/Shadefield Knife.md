@@ -17,7 +17,7 @@ license: ORC
 ---
 # Shadefield Knife
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[agile]][[finesse]][[magical]][[thrown-10]][[versatile-s]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[thrown-10]][[versatile-s]]
 
 |  |  |
 | -- | -- |
@@ -36,7 +36,7 @@ This _+1 striking dagger_ made of black stone is carved from the bloodstained ea
 
 * * *
 
-**Effect** Blood seeps out of the knife, coating your hand. Enemies within 30 feet who can see this must succeed at a DC 26 Will check save or become [[Conditions/Frightened|Frightened 1]] (frightened 1 and [[Conditions/Doomed|Doomed 1]] on a critical failure). The knife continues to bleed for 1 minute or until you make a successful Strike with it, which deals an additional 1d6 persistent bleed damage.
+**Effect** Blood seeps out of the knife, coating your hand. Enemies within 30 feet who can see this must succeed at a DC 26 Will check save or become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]] (frightened 1 and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]] on a critical failure). The knife continues to bleed for 1 minute or until you make a successful Strike with it, which deals an additional 1d6 persistent bleed damage.
 
 *Source: Pathfinder #208: Hoof, Cinder, and Storm*
 *ORC*

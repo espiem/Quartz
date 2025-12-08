@@ -18,6 +18,6 @@ You tell a magical joke and infect a target with laughter that spreads to those 
 
 **Success** The target begins giggling and can't use reactions.
 
-**Failure** The target is [[Slowed]] and can't use reactions.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] and can't use reactions.
 
-**Critical Failure** The target falls [[Prone]] and can't use actions or reactions for 1 round. It then suffers the failure effect.
+**Critical Failure** The target falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] and can't use actions or reactions for 1 round. It then suffers the failure effect.

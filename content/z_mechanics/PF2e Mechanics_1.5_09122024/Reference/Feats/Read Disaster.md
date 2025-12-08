@@ -14,7 +14,7 @@ license: ORC
 ---
 # Read Disaster
 ## Feat 8
-### [[exploration]][[oracle]][[prediction]]
+### [[exploration]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Oracle]][[prediction]]
 
 **Category** class; 
 

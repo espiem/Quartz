@@ -8,7 +8,7 @@ tags:
 ---
 
 # Fearful Feast
-![[systems-pf2e-icons-spells-fearful-feast.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-fearful-feast.webp|150]]
 
 **Trigger** A creature within range becomes frightened.
 
@@ -26,7 +26,7 @@ You deal 6d4 mental damage to the creature, which must attempt a Will saving thr
 
 **Failure** The creature takes full damage; you regain Hit Points equal to half the damage the target takes.
 
-**Critical Failure** The creature's frightened condition increases by 1 (to a maximum of [[Frightened|Frightened 4]]) and it takes double damage; you regain Hit Points equal to half the damage the target takes.
+**Critical Failure** The creature's frightened condition increases by 1 (to a maximum of [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 4]]) and it takes double damage; you regain Hit Points equal to half the damage the target takes.
 
 * * *
 

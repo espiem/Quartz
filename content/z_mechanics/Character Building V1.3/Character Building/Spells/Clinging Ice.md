@@ -8,7 +8,7 @@ tags:
 ---
 
 # Clinging Ice
-![[icons-magic-water-barrier-ice-crystal-wall-faceted.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-water-barrier-ice-crystal-wall-faceted.webp|150]]
 
 Freezing sleet and heavy snowfall collect on the target's feet and legs, dealing 1d4 cold damage and other effects depending on its Reflex save.
 

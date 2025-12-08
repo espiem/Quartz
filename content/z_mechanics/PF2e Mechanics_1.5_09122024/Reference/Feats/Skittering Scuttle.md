@@ -12,7 +12,7 @@ license: ORC
 ---
 # Skittering Scuttle
 ## Feat 9
-### [[goblin]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Goblin]]
 
 **Category** ancestry; 
 

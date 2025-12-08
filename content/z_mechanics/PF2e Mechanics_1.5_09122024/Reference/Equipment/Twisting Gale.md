@@ -18,7 +18,7 @@ license: ORC
 ---
 # Twisting Gale
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[backswing]][[disarm]][[force]][[magical]][[monk]][[parry]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[backswing]][[disarm]][[force]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]][[parry]]
 
 |  |  |
 | -- | -- |

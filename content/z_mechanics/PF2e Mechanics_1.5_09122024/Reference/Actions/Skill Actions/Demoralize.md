@@ -17,7 +17,7 @@ license: ORC
 ---
 # Demoralize `pf2:1`
 
-### [[auditory]][[concentrate]][[emotion]][[fear]][[mental]][[skill]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[skill]]
 
 **Category** offensive; 
 
@@ -28,9 +28,9 @@ With a sudden shout, a well-timed taunt, or a cutting put-down, you can shake an
 
 * * *
 
-**Critical Success** The target becomes [[Conditions/Frightened|Frightened 2]].
+**Critical Success** The target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
-**Success** The target becomes [[Conditions/Frightened|Frightened 1]].
+**Success** The target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
 *Source: Pathfinder Player Core*
 *ORC*

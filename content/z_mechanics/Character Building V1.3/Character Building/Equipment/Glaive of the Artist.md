@@ -8,7 +8,7 @@ tags:
 ---
 
 # Glaive of the Artist
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-glaive-of-the-artist.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-specific-magic-weapons-glaive-of-the-artist.webp|150]]
 
 This _+2 [[Holy]] greater striking glaive_ has a long, multi-tailed rainbow-colored banner affixed to the butt of the pole in the style of Shelyn's religious symbol. While wielding the glaive, you gain a +2 item bonus on Crafting and Performance checks.
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Warding Jewel
 ## Feat 5
-### [[occult]][[sarangay]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[sarangay]]
 
 **Category** ancestry; 
 

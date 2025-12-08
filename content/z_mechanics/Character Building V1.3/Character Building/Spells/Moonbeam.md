@@ -14,7 +14,7 @@ You shine a ray of moonlight. Make a spell attack roll. The beam of light deals 
 
 * * *
 
-**Critical Success** The beam deals double damage, and the target is [[Dazzled]] for 1 minute.
+**Critical Success** The beam deals double damage, and the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 minute.
 
 **Success** The beam deals full damage, and the target is Dazzled for 1 round.
 

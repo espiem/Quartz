@@ -10,7 +10,7 @@ tags:
 ---
 
 # Commune
-![[systems-pf2e-icons-spells-commune.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-commune.webp|150]]
 
 You call upon an unknown, powerful being to answer questions. The being varies depending on the skill used for the primary check.
 
@@ -24,4 +24,4 @@ You call upon an unknown, powerful being to answer questions. The being varies d
     
     **Success** You can ask your questions and receive answers. Failure You fail to contact an appropriate being.
     
-    **Critical Failure** You are exposed to the enormity of the cosmos and are [[Stupefied|Stupefied 4]] for 1 week (can't remove by any means).
+    **Critical Failure** You are exposed to the enormity of the cosmos and are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 4]] for 1 week (can't remove by any means).

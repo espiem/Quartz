@@ -15,7 +15,7 @@ license: OGL
 ---
 # Grolna
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** drug; 
 **Price** 3 gp; 
@@ -38,9 +38,9 @@ Taking an additional dose of grolna while affected by the effects of stage 1 of 
 
 **Maximum Duration** 8 hours
 
-**Stage 1** gain scent (imprecise) 30 feet, gain a +3 item bonus to Survival checks to follow tracks, and become [[Conditions/Stupefied|Stupefied 1]] (1 hour)
+**Stage 1** gain scent (imprecise) 30 feet, gain a +3 item bonus to Survival checks to follow tracks, and become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (1 hour)
 
-**Stage 2** [[Conditions/Stupefied|Stupefied 2]] (6 hours)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (6 hours)
 
 *Source: Pathfinder #157: Devil at the Dreaming Palace*
 *OGL*

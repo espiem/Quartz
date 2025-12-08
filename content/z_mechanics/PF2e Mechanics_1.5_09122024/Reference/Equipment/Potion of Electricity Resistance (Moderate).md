@@ -14,7 +14,7 @@ license: ORC
 ---
 # Potion of Electricity Resistance (Moderate)
 ## Item 10
-### [[consumable]][[magical]][[potion]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 180 gp; 
@@ -27,7 +27,7 @@ license: ORC
 
 Drinking this thick, fortifying potion grants resistance 10 against electrical damage for 1 hour.
 
-[[Equipment Effects/Effect_ Potion of Electricity Resistance (Moderate)|Effect: Potion of Electricity Resistance (Moderate)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Potion of Electricity Resistance (Moderate)|Effect: Potion of Electricity Resistance (Moderate)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

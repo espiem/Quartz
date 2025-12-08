@@ -10,7 +10,7 @@ license: OGL
 ---
 # Recenter `pf2:1`
 
-### [[concentrate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]]
 
 
 

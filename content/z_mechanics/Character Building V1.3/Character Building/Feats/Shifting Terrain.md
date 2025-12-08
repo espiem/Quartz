@@ -26,4 +26,4 @@ After you use this action, you can't use it again for 1d4 rounds.
 
 **Failure** The creature is [[Clumsy 1|Clumsy 2]] for 1 round.
 
-**Critical Failure** The creature is clumsy 2 for 1 round and falls [[Prone]].
+**Critical Failure** The creature is clumsy 2 for 1 round and falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].

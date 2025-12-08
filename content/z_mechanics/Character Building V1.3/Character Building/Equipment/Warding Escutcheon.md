@@ -8,7 +8,7 @@ tags:
 ---
 
 # Warding Escutcheon
-![[icons-equipment-shield-wardoor-wooden-boss-brown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-equipment-shield-wardoor-wooden-boss-brown.webp|150]]
 
 An image of a keyhole adorns the coat of arms of this stone tower shield (Hardness 10, HP 40, BT 20).
 

@@ -20,7 +20,7 @@ Extending a finger, you fire a beam of void energy that weakens the life force o
 
 **Failure** The creature takes 4d8 persistent,void damage and becomes [[Drained 1]].
 
-**Critical Failure** The creature takes 4d8 persistent,void damage and becomes [[Drained 1|Drained 2]] and [[Doomed|Doomed 1]].
+**Critical Failure** The creature takes 4d8 persistent,void damage and becomes [[Drained 1|Drained 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]].
 
 * * *
 

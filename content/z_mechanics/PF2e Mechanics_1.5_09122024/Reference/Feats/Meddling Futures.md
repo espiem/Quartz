@@ -14,7 +14,7 @@ license: ORC
 ---
 # Meddling Futures `pf2:0`
 ## Feat 2
-### [[cursebound]][[divine]][[oracle]]
+### [[cursebound]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Oracle]]
 
 **Category** class; 
 

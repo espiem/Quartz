@@ -13,7 +13,7 @@ license: OGL
 ---
 # Aeon Stone (Polished Pebble)
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[earth]][[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[earth]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 50 gp; 

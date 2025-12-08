@@ -20,7 +20,7 @@ The ritual is easiest to cast on a subdued target, typically a low-ranking membe
 
 **Stage 1** carrier with no effect (1 month)
 
-**Stage 2** [[Fatigued]] (1 week)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] (1 week)
 
 **Stage 3** fatigued and [[Drained 1]] (1 day)
 

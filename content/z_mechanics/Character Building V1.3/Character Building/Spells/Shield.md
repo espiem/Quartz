@@ -8,7 +8,7 @@ tags:
 ---
 
 # Shield
-![[systems-pf2e-icons-spells-shield.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-shield.webp|150]]
 
 You raise a magical shield of force. This counts as using the Raise a Shield action, giving you a +1 circumstance bonus to AC until the start of your next turn, but it doesn't require a hand to use.
 

@@ -16,7 +16,7 @@ license: ORC
 ---
 # Prepare Elemental Medicine
 ## Feat 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[exploration]][[manipulate]][[secret]][[skill]][[general]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[exploration]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[secret]][[skill]][[general]]
 
 **Category** skill; 
 

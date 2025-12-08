@@ -31,7 +31,7 @@ When you increase your proficiency rank in Crafting to expert, master, or legend
 
 **Special** Rangers can adapt snare crafting techniques to create snares from natural materials. If you are a ranger, you can use Survival instead of Crafting for all prerequisites and functions of feats from this archetype. (This includes using Survival to Craft a snare.)
 
-[[PF2e Journals/Archetypes/Snarecrafter|Snarecrafter]]
+[[Snarecrafter|Snarecrafter]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

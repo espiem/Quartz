@@ -8,7 +8,7 @@ tags:
 ---
 
 # Shelyn
-![[systems-pf2e-icons-deity-Shelyn.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Deities/zz_asset-files/systems-pf2e-icons-deity-Shelyn.webp|150]]
 
 Shelyn, the Eternal Rose, promotes peace and love, and she encourages her followers to create beauty in a sometimes-dark world. She seeks to one day redeem her corrupted brother, Zon-Kuthon.
 

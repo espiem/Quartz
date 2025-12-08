@@ -14,7 +14,7 @@ license: ORC
 ---
 # (Lich) Blasphemous Utterances
 
-### [[arcane]][[aura]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** defensive; 
 
@@ -25,7 +25,7 @@ license: ORC
 
 A creature in the aura takes a -2 circumstance penalty to saves against mental effects and can't take actions that have the concentrate trait unless they succeed at a DC 10 Flat check check. On a failure, the action is disrupted.
 
-[[Bestiary Effects/Effect_ Blasphemous Utterances|Effect: Blasphemous Utterances]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Bestiary Effects/Effect_ Blasphemous Utterances|Effect: Blasphemous Utterances]]
 
 *Source: Pathfinder Monster Core*
 *ORC*

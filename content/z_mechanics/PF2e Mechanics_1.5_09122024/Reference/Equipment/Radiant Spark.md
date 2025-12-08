@@ -11,7 +11,7 @@ license: OGL
 ---
 # Radiant Spark
 ## Item 25
-### [unique](unique "Unique Rarity Trait")[[artifact]][[occult]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 
 **Price** 0 gp; 

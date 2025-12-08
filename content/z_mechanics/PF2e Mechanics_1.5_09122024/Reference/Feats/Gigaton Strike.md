@@ -11,7 +11,7 @@ license: OGL
 ---
 # Gigaton Strike
 ## Feat 8
-### [[inventor]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Feats/Inventor]]
 
 **Category** class; 
 

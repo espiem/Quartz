@@ -12,7 +12,7 @@ license: OGL
 ---
 # Nanite Shroud `pf2:2`
 ## Feat 5
-### [[android]][[concentrate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Android]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]]
 
 **Category** ancestry; 
 
@@ -25,7 +25,7 @@ license: OGL
 
 Your nanites fly out of your body, swarming around you in a cloud.
 
-You become [[Conditions/Concealed|Concealed]] for a number of rounds equal to half your level. You can't use this concealment to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]], as normal for concealment that makes your position obvious.
+You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] for a number of rounds equal to half your level. You can't use this concealment to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]], as normal for concealment that makes your position obvious.
 
 While Nanite Shroud is active, you can't use other abilities that require the use of your nanites.
 

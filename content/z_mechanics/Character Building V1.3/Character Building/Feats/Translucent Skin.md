@@ -10,4 +10,4 @@ tags:
 # Translucent Skin
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-Your body is translucent while underwater. Whenever you are fully submerged in water, you can Hide from other creatures even if you don't have cover against them and aren't [[Concealed]] from them.
+Your body is translucent while underwater. Whenever you are fully submerged in water, you can Hide from other creatures even if you don't have cover against them and aren't [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] from them.

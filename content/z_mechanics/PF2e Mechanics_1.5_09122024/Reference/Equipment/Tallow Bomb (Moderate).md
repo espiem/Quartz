@@ -16,7 +16,7 @@ license: OGL
 ---
 # Tallow Bomb (Moderate)
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[fire]][[splash]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[splash]]
 
 |  |  |
 | -- | -- |

@@ -12,7 +12,7 @@ tags:
 
 **Trigger** You are the target of a physical ranged Strike.
 
-**Requirements** You're aware of the attack, not [[Off-Guard]] against it, and either have a hand free or are wielding a melee weapon.
+**Requirements** You're aware of the attack, not [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] against it, and either have a hand free or are wielding a melee weapon.
 
 * * *
 

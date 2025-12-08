@@ -8,9 +8,9 @@ tags:
 ---
 
 # Command
-![[systems-pf2e-icons-spells-command.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-command.webp|150]]
 
-You shout a command that's hard to ignore. You can command the target to approach you, run away (as if it had the [[Fleeing]] condition), release what it's holding, drop [[Prone]], or stand in place. It can't [[Delay]] or take any reactions until it has obeyed your command. The effects depend on the target's Will save.
+You shout a command that's hard to ignore. You can command the target to approach you, run away (as if it had the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing]] condition), release what it's holding, drop [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]], or stand in place. It can't [[Delay]] or take any reactions until it has obeyed your command. The effects depend on the target's Will save.
 
 * * *
 

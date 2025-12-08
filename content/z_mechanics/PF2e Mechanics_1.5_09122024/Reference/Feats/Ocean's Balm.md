@@ -18,7 +18,7 @@ license: OGL
 ---
 # Ocean's Balm `pf2:1`
 ## Feat 1
-### [[healing]][[impulse]][[kineticist]][[manipulate]][[primal]][[vitality]][[water]]
+### [[healing]][[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[primal]][[vitality]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 **Category** class; 
 

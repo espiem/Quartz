@@ -18,7 +18,7 @@ license: ORC
 ---
 # No Cause for Alarm `pf2:3`
 ## Feat 1
-### [[auditory]][[concentrate]][[emotion]][[general]][[linguistic]][[mental]][[skill]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[general]][[linguistic]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[skill]]
 
 **Category** skill; 
 
@@ -26,7 +26,7 @@ license: ORC
 
 **Prerequisites** trained in Diplomacy
 * * *
-You attempt to reduce panic. Attempt a Diplomacy check check, comparing it to the Will DC of creatures in a 10-foot emanation around you who are [[Conditions/Frightened|Frightened]]. Each of them is temporarily immune for 1 hour.
+You attempt to reduce panic. Attempt a Diplomacy check check, comparing it to the Will DC of creatures in a 10-foot emanation around you who are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]]. Each of them is temporarily immune for 1 hour.
 
 * * *
 

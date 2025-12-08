@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wand of Slaughter (7th-Rank Spell)
 ## Item 16
-### [[magical]][[void]][[wand]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[void]][[wand]]
 
 
 **Price** 10000 gp; 

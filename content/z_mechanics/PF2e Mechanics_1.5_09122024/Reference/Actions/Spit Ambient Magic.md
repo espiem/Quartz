@@ -13,7 +13,7 @@ license: ORC
 ---
 # Spit Ambient Magic `pf2:1`
 
-### [[concentrate]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** offensive; 
 

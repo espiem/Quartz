@@ -12,7 +12,7 @@ license: OGL
 ---
 # Jolt Coil
 ## Item 3
-### [[electricity]][[magical]][[spellheart]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Electricity]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellheart]]
 
 
 **Price** 60 gp; 
@@ -24,9 +24,9 @@ Contained within this small glass tube is a twisted wire filament crackling with
 *   **Armor** You gain resistance 2 to electricity.
 *   **Weapon** After you cast an electricity spell by activating the coil, your Strikes with the weapon deal an additional 1d4 electricity damage until the end of your next turn.
 
-[[Equipment Effects/Effect_ Jolt Coil - Armor|Effect: Jolt Coil - Armor]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Jolt Coil - Armor|Effect: Jolt Coil - Armor]]
 
-[[Equipment Effects/Effect_ Jolt Coil - Weapon|Effect: Jolt Coil - Weapon]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Jolt Coil - Weapon|Effect: Jolt Coil - Weapon]]
 
 DC 17 Reflex check
 

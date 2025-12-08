@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Vampire, Strigoi) Levitation `pf2:2`
 
-### [[divine]][[shadow]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[shadow]]
 
 **Category** defensive; 
 

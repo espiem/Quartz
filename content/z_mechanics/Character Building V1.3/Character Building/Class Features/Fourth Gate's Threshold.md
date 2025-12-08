@@ -8,7 +8,7 @@ tags:
 ---
 
 # Fourth Gate's Threshold
-![[icons-magic-symbols-elements-air-earth-fire-water.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-magic-symbols-elements-air-earth-fire-water.webp|150]]
 
 You reach a new milestone in your odyssey to become in tune with your kinetic gate and must decide how to expand the gate's power. At 5th level and every 4 levels thereafter, you choose to either expand the portal or fork the path.
 

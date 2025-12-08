@@ -11,7 +11,7 @@ license: OGL
 ---
 # Golden Legion Epaulet
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 55 gp; 
@@ -30,7 +30,7 @@ These gleaming golden epaulets are issued to Eagle Knight officers and worn as p
 
 **Effect** Issue an order as part of the command. You and each ally within 60 feet who follows that order gain a +1 status bonus to attack rolls, damage rolls, and saving throws against fear until the beginning of your next turn.
 
-[[Equipment Effects/Effect_ Golden Legion Epaulet|Effect: Golden Legion Epaulet]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Golden Legion Epaulet|Effect: Golden Legion Epaulet]]
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

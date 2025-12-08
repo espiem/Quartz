@@ -8,7 +8,7 @@ tags:
 ---
 
 # Phantom Crowd
-![[systems-pf2e-icons-spells-phantom-crowd.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-phantom-crowd.webp|150]]
 
 A tightly packed crowd of humanoids appropriate to the area appear, facing you and agreeing loudly with anything you say. A creature that touches a member of the crowd or makes a Seek action to examine the crowd can attempt to disbelieve your illusion. The crowd is difficult terrain for anyone who hasn't disbelieved the illusion.
 

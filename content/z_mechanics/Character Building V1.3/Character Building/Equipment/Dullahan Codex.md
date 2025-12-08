@@ -22,8 +22,8 @@ If your name is on the list and you touch the volume or read from its pages, you
 
 **Success** The codex fuses to you.
 
-**Failure** The codex fuses to you, and you become [[Doomed|Doomed 1]].
+**Failure** The codex fuses to you, and you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]].
 
-**Critical Failure** As failure, but you're [[Doomed|Doomed 2]].
+**Critical Failure** As failure, but you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 2]].
 
 If you attempt to get rid of the codex while it's fused to you, it returns to your possession within an hour. Each day the codex is fused to you, you must attempt another Will saving throw, but a critical success does nothing. The doomed value from the codex can decrease only after it's no longer fused to you; once it's fused to you, you remain its intended victim unless you complete a _[[Freedom]]_ ritual aimed at ending this 10th-level effect. (On a critical failure with this ritual, the codex adds all casters to its list.) You can redirect the curse by inscribing another person's name in the grimoire and succeeding at a DC 40 arcana check. Doing so is an evil act. If the curse is ritually ended or redirected, or the chosen victim dies, the codex moves on to a new victim.

@@ -22,6 +22,6 @@ DC 15 acrobatics{Move through door}
 
 DC 10 acrobatics{Move through window}
 
-**Success** You move through the object, treating the square within it as difficult terrain. If you end your turn inside an object, you can move out of it only if you Pass Through again or use some other means of moving through a solid object. As normal for being incorporeal, starting your turn inside an object makes you [[Slowed]] for that turn.
+**Success** You move through the object, treating the square within it as difficult terrain. If you end your turn inside an object, you can move out of it only if you Pass Through again or use some other means of moving through a solid object. As normal for being incorporeal, starting your turn inside an object makes you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] for that turn.
 
 **Failure** Your movement ends, and you trigger reactions as if you moved out of the square you started in.

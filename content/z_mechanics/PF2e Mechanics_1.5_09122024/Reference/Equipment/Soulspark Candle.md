@@ -12,7 +12,7 @@ license: OGL
 ---
 # Soulspark Candle
 ## Item 20
-### [rare](rare "Rare Rarity Trait")[[artifact]][[consecration]][[divine]]
+### [rare](rare "Rare Rarity Trait")[[artifact]][[consecration]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 
 **Price** 0 gp; 
@@ -23,7 +23,7 @@ This thick, white pillar candle has flecks of ash and bone mixed amid the wax. W
 
 The area within the candle's light is a consecrated space. Worshippers of Pharasma within this area gain a +3 status bonus to attack rolls, skill checks, saving throws, and Perception checks. Undead creatures and worshippers of Urgathoa within this area take a –3 status penalty to those checks.
 
-[[Equipment Effects/Effect_ Soulspark Candle|Effect: Soulspark Candle]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Soulspark Candle|Effect: Soulspark Candle]]
 
 When an undead creature or a haunt comes within the light of a _soulspark candle_, the candle's flame turns from red to black, makes a loud crackling sound, and releases a flash of bright sparks. The candle continues to burn black and crackle for as long as a haunt or undead remains in the area.
 
@@ -47,7 +47,7 @@ When an undead creature or a haunt comes within the light of a _soulspark candle
 
 * * *
 
-**Effect** You command the candle to illuminate the dead. All undead creatures in the area are limned in blue, heatless fire for as long as they remain in the area, plus 1 minute after they leave the area or the light goes out. Visible undead can't be [[Conditions/Concealed|Concealed]] while limned in these flames. Invisible undead are concealed while limned in these flames, rather than being undetected. Haunts are unaffected by this light.
+**Effect** You command the candle to illuminate the dead. All undead creatures in the area are limned in blue, heatless fire for as long as they remain in the area, plus 1 minute after they leave the area or the light goes out. Visible undead can't be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] while limned in these flames. Invisible undead are concealed while limned in these flames, rather than being undetected. Haunts are unaffected by this light.
 
 **Activate** `pf2:3` command (divine, evocation, fire)
 

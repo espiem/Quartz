@@ -14,7 +14,7 @@ license: ORC
 ---
 # Potion of Water Breathing
 ## Item 3
-### [[consumable]][[magical]][[potion]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 11 gp; 

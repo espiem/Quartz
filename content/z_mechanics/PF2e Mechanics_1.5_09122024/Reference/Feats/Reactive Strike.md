@@ -16,7 +16,7 @@ license: ORC
 ---
 # Reactive Strike `pf2:r`
 ## Feat 6
-### [[barbarian]][[champion]][[exemplar]][[magus]][[swashbuckler]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]][[exemplar]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Magus]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 

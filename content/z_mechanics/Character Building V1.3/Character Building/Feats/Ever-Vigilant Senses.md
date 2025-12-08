@@ -12,6 +12,6 @@ tags:
 
 Your eidolon has enhanced senses. It gains a +2 circumstance bonus to Perception, and can't be flanked except by creatures that are higher level than it.
 
-It can see [[Invisible]] creatures and objects; they appear translucent and are [[Concealed]].
+It can see [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]] creatures and objects; they appear translucent and are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]].
 
 When your eidolon moves within 30 feet of an illusion that can be disbelieved, the GM rolls a secret check to disbelieve it, even if your eidolon didn't spend an action to Interact.

@@ -8,9 +8,9 @@ tags:
 ---
 
 # Fey Disappearance
-![[systems-pf2e-icons-spells-fey-disapperance.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-fey-disapperance.webp|150]]
 
-You become [[Invisible]] and ignore natural difficult terrain (such as underbrush). Any hostile action you use ends this invisibility, but you still ignore natural difficult terrain.
+You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]] and ignore natural difficult terrain (such as underbrush). Any hostile action you use ends this invisibility, but you still ignore natural difficult terrain.
 
 * * *
 

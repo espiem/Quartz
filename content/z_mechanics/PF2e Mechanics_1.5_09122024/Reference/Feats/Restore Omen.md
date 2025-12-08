@@ -13,7 +13,7 @@ license: OGL
 ---
 # Restore Omen
 ## Feat 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[exploration]][[manipulate]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[exploration]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** class; 
 
@@ -26,7 +26,7 @@ license: OGL
 
 You spend 10 minutes meditating with your harrow deck, then draw a card. The suit of the card grants you a new harrow omen.
 
-[[Feat_Feature Effects/Effect_ Harrow Omen|Effect: Harrow Omen]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Harrow Omen|Effect: Harrow Omen]]
 
 *Source: Pathfinder Stolen Fate Player's Guide*
 *OGL*

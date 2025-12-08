@@ -8,7 +8,7 @@ tags:
 ---
 # Wait, What?
 
-> You are [[Conditions/Confused|Confused]]
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]]
 
 `Melee`
 
@@ -20,12 +20,12 @@ tags:
 
 # Pinched Nerve
 
-> Until healed, you take a [[Other Effects/Effect_ -10-foot circumstance penalty to your land Speed|-10-foot circumstance penalty to your land Speed]] and are [[Conditions/Clumsy|Clumsy 1]].
+> Until healed, you take a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -10-foot circumstance penalty to your land Speed|-10-foot circumstance penalty to your land Speed]] and are [[Conditions/Clumsy|Clumsy 1]].
 
 `Unarmed`
 
 # Mental Slip
 
-> You are [[Conditions/Controlled|Controlled]] by the target until the end of your next turn.
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Controlled|Controlled]] by the target until the end of your next turn.
 
 `Spell`

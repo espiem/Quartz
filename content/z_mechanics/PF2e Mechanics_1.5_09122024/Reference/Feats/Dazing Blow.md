@@ -13,14 +13,14 @@ license: ORC
 ---
 # Dazing Blow `pf2:1`
 ## Feat 6
-### [[fighter]][[press]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]][[press]]
 
 **Category** class; 
 
 
 
 
-**Requirements** You have a creature [[Conditions/Grabbed|Grabbed]].
+**Requirements** You have a creature [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]].
 
 * * *
 

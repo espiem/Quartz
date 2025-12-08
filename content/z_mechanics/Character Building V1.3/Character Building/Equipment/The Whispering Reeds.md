@@ -14,7 +14,7 @@ This hefty tome was compiled centuries ago by an anonymous author who sought to 
 
 The anonymous compiler wanted to produce an enormous print run of _The Whispering Reeds_, but after the initial run they realized the danger and scuttled those plans, instead attempting to destroy those copies already created. This crusade caught the attention of Nhimbaloth's cult, who swiftly assassinated the compiler. Fewer than two dozen copies of this rare tome are believed to still exist. The book's sinister nature causes all attempts to transcribe it to fail, resulting in bodies of gibberish, nonsense text.
 
-_The Whispering Reeds_ provides several abilities, but you can't activate any of them while you are [[Stupefied]] unless you are a follower of Nhimbaloth.
+_The Whispering Reeds_ provides several abilities, but you can't activate any of them while you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied]] unless you are a follower of Nhimbaloth.
 
 * * *
 

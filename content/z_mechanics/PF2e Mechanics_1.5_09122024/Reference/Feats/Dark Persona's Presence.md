@@ -15,7 +15,7 @@ license: OGL
 ---
 # Dark Persona's Presence `pf2:0`
 ## Feat 8
-### [[aura]][[emotion]][[fear]][[mental]][[psychic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** class; 
 
@@ -34,11 +34,11 @@ The force of your dark persona's negativity batters constantly against all creat
 
 **Critical Success** The creature is unaffected.
 
-**Success** The target is [[Conditions/Frightened|Frightened 1]].
+**Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Failure** The target is [[Conditions/Frightened|Frightened 2]].
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
-**Critical Failure** The target is [[Conditions/Frightened|Frightened 3]].
+**Critical Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]].
 
 While your Psyche is Unleashed, your dark persona cares only for destruction. You can [[Actions/Cast a Spell|Cast a Spell]] only if it can directly damage an enemy or object or can impose a detrimental condition or penalty on one.
 

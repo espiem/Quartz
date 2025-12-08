@@ -14,7 +14,7 @@ license: OGL
 ---
 # Demon's Knot
 ## Item 15
-### [unique](unique "Unique Rarity Trait")[[artifact]][[cursed]][[invested]][[magical]][[unholy]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[cursed]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[unholy]]
 
 
 **Price** 0 gp; 
@@ -25,9 +25,9 @@ The demon Kaivirris is housed in the magnificent ruby that serves as the centerp
 
 Upon donning the _demon's knot_, it fuses to you. You are subject to a [[Spells/Geas|Geas]] that requires you to free Kaivirris from his prison. If you die without completing this task, you become a sulfur zombie that always remains within 100 feet of the demon's knot and is under the control of whoever is cursed by the _demon's knot_.
 
-The _demon's knot_ sustains your physical form and protects your mind from mental control. You don't need to eat or drink. You become immune to the [[Conditions/Confused|Confused]] and [[Conditions/Controlled|Controlled]] conditions.
+The _demon's knot_ sustains your physical form and protects your mind from mental control. You don't need to eat or drink. You become immune to the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Controlled|Controlled]] conditions.
 
-The _demon's knot_ corrupts anyone wearing it. You gain weakness to cold iron 10 and holy 10. Whenever you're within 60 feet of a celestial, you're [[Conditions/Frightened|Frightened 2]] and can't reduce the value of the frightened condition below 2.
+The _demon's knot_ corrupts anyone wearing it. You gain weakness to cold iron 10 and holy 10. Whenever you're within 60 feet of a celestial, you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] and can't reduce the value of the frightened condition below 2.
 
 * * *
 
@@ -37,7 +37,7 @@ The _demon's knot_ corrupts anyone wearing it. You gain weakness to cold iron 10
 
 **Effect** You allow Kaivirris's corrupting influence over you to outwardly manifest. For 1 minute, your features adopt a cruel cast, and you radiate a palpable aura of evil. During this time, you gain a +2 status bonus to Intimidation checks, and your Strikes deal an additional 1d6 spirit damage.
 
-[[Equipment Effects/Effect_ Demon's Knot|Effect: Demon's Knot]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Demon's Knot|Effect: Demon's Knot]]
 
 * * *
 

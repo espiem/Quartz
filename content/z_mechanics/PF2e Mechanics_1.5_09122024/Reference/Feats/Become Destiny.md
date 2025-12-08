@@ -13,7 +13,7 @@ license: ORC
 ---
 # Become Destiny `pf2:0`
 ## Feat 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[mythic]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[mythic]]
 
 **Category** class; 
 

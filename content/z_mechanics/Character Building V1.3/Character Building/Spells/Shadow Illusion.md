@@ -8,7 +8,7 @@ tags:
 ---
 
 # Shadow Illusion
-![[systems-pf2e-icons-spells-shadow-illusion.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-shadow-illusion.webp|150]]
 
 You create a shadowy illusion of a creature or a stationary object, but the illusion can exist only in an area of dim light or darkness. The spell ends if the illusion is ever out of an area of dim light or darkness. If the illusion is an object, it must fit within a 20-foot burst, and the creature can be of any size up to Gargantuan, filling a 20-foot-by-20-foot space.
 

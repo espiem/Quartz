@@ -26,7 +26,7 @@ If you have the [[Feats/Thorough Reports|Thorough Reports]] feat and have expert
 
 * * *
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Scrollmaster|Scrollmaster]] archetype.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[Scrollmaster|Scrollmaster]] archetype.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

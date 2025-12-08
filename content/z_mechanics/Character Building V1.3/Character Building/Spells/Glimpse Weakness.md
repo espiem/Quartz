@@ -8,7 +8,7 @@ tags:
 ---
 
 # Glimpse Weakness
-![[systems-pf2e-icons-spells-glimpse-weakness.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-glimpse-weakness.webp|150]]
 
 You glimpse a loose scale, a seam in a foe's armor, or a similar weakness, aiding your allies in landing a precise hit. The first ally that hits the target with a successful Strike deals additional precision damage equal to 1 + this spell's level, and then the spell ends.
 

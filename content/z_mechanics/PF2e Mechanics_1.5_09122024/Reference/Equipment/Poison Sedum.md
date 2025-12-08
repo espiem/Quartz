@@ -12,7 +12,7 @@ license: OGL
 ---
 # Poison Sedum
 
-### [rare](rare "Rare Rarity Trait")[[contact]][[poison]]
+### [rare](rare "Rare Rarity Trait")[[contact]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 0 gp; 

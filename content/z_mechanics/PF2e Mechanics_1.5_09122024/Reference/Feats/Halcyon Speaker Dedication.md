@@ -24,7 +24,7 @@ You devote much of your study to halcyon magic. You gain two common Halcyon cant
 
 * * *
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Halcyon Speaker|Halcyon Speaker]] archetype.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[Halcyon Speaker|Halcyon Speaker]] archetype.
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

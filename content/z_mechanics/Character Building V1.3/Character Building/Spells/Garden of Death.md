@@ -8,7 +8,7 @@ tags:
 ---
 
 # Garden of Death
-![[icons-magic-nature-plant-vines-skull-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-nature-plant-vines-skull-green.webp|150]]
 
 Typically associated with the less friendly fey or druids, this ritual calls all the poisonous, toxic, and venomous plants and animals of an area to congregate in a certain place, creating a beautiful but extravagantly deadly garden.
 

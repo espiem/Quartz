@@ -16,4 +16,4 @@ tags:
 
 * * *
 
-You shield a creature in dire need with your own life force, taking the harm upon yourself to save their life. The target is reduced to 1 Hit Point instead of 0 Hit Points. All remaining damage that was prevented from harming the target creature is instead dealt to you. Both you and the target become [[Wounded|Wounded 1]]; targets who are already wounded increased their wounded value by 1.
+You shield a creature in dire need with your own life force, taking the harm upon yourself to save their life. The target is reduced to 1 Hit Point instead of 0 Hit Points. All remaining damage that was prevented from harming the target creature is instead dealt to you. Both you and the target become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded|Wounded 1]]; targets who are already wounded increased their wounded value by 1.

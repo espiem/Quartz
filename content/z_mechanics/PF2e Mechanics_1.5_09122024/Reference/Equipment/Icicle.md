@@ -15,7 +15,7 @@ license: ORC
 ---
 # Icicle
 ## Item 16
-### [[cold]][[magical]][[reach]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Cold]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]]
 
 |  |  |
 | -- | -- |

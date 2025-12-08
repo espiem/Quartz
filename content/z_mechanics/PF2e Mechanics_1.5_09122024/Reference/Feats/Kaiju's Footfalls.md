@@ -12,7 +12,7 @@ license: ORC
 ---
 # Kaiju's Footfalls
 ## Feat 13
-### [[kobold]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Kobold]]
 
 **Category** ancestry; 
 
@@ -24,7 +24,7 @@ You channel the might and mass of a kaiju. You can cast [[Spells/Enlarge|Enlarge
 
 * * *
 
-**Failure** The creature is knocked [[Conditions/Prone|Prone]].
+**Failure** The creature is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 **Critical Failure** The creature is knocked prone and takes 2d6 bludgeoning damage.
 

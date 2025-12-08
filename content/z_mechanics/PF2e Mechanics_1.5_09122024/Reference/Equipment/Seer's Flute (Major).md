@@ -12,7 +12,7 @@ license: OGL
 ---
 # Seer's Flute (Major)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[coda]][[occult]][[staff]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[coda]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[staff]]
 
 
 **Price** 1900 gp; 

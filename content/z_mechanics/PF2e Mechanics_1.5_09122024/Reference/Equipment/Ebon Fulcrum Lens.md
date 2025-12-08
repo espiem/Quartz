@@ -11,7 +11,7 @@ license: OGL
 ---
 # Ebon Fulcrum Lens
 ## Item 12
-### [unique](unique "Unique Rarity Trait")[[invested]][[occult]]
+### [unique](unique "Unique Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 
 **Price** 2000 gp; 
@@ -36,7 +36,7 @@ This strangest and most powerful of the _fulcrum lenses_ resembles a chip of smo
 
 **Effect** For the first 24 hours after you rejuvenate, you gain a +1 item bonus to attack rolls, saving throws, and DCs. Reduce the number of glimmers remaining in the lens by 1.
 
-[[Equipment Effects/Effect_ Ebon Fulcrum Lens (Reaction)|Effect: Ebon Fulcrum Lens (Reaction)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Ebon Fulcrum Lens (Reaction)|Effect: Ebon Fulcrum Lens (Reaction)]]
 
 * * *
 
@@ -46,9 +46,9 @@ This strangest and most powerful of the _fulcrum lenses_ resembles a chip of smo
 
 **Requirements** At least one glimmer remains in the _Ebon Fulcrum Lens_
 
-**Effect** You draw upon a glimmer of Nhimbaloth's essence for power; reduce the number of glimmers remaining in the lens by 1. You're [[Conditions/Quickened|Quickened]] for 1 minute and gain a +1 item bonus to attack rolls, saving throws, and DCs. You can use this extra action to Stride or Step, or for an action in a special ghost ability you have.
+**Effect** You draw upon a glimmer of Nhimbaloth's essence for power; reduce the number of glimmers remaining in the lens by 1. You're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened]] for 1 minute and gain a +1 item bonus to attack rolls, saving throws, and DCs. You can use this extra action to Stride or Step, or for an action in a special ghost ability you have.
 
-[[Equipment Effects/Effect_ Ebon Fulcrum Lens (2 Action)|Effect: Ebon Fulcrum Lens (2 Action)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Ebon Fulcrum Lens (2 Action)|Effect: Ebon Fulcrum Lens (2 Action)]]
 
 *Source: Pathfinder Abomination Vaults Hardcover Compilation*
 *OGL*

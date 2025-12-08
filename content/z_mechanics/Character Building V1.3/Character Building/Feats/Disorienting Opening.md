@@ -10,4 +10,4 @@ tags:
 # Disorienting Opening
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You use your foes' openings to expose even greater weaknesses. When you hit a creature as part of a Reactive Strike, that creature becomes [[Off-Guard]] until the start of your next turn.
+You use your foes' openings to expose even greater weaknesses. When you hit a creature as part of a Reactive Strike, that creature becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the start of your next turn.

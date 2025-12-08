@@ -12,7 +12,7 @@ license: ORC
 ---
 # Focused Fascination
 ## Feat 1
-### [[swashbuckler]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 
@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Fascinating Performance
 * * *
-When you use [[Feats/Fascinating Performance|Fascinating Performance]] in a combat encounter, you need only a success, rather than a critical success, to [[Conditions/Fascinated|Fascinate]] your target. This works only if you're attempting to fascinate one target. For example, if you were an expert in Performance, you could choose to target multiple creatures normally or target one creature and fascinate it on a success.
+When you use [[Feats/Fascinating Performance|Fascinating Performance]] in a combat encounter, you need only a success, rather than a critical success, to [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated|Fascinate]] your target. This works only if you're attempting to fascinate one target. For example, if you were an expert in Performance, you could choose to target multiple creatures normally or target one creature and fascinate it on a success.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

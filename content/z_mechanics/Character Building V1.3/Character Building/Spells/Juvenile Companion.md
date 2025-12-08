@@ -8,7 +8,7 @@ tags:
 ---
 
 # Juvenile Companion
-![[icons-creatures-mammals-dog-husky-white-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-mammals-dog-husky-white-blue.webp|150]]
 
 You transform your companion into its juvenile form, such as a cub, foal, kitten, puppy, or piglet, making the target appear harmless. It becomes Tiny (if it was larger), and its reach is reduced to 0 feet. All of its Speeds are halved (to a minimum Speed of 5 feet), and it gains weakness 5 to physical damage. In all other ways, its abilities and statistics are unchanged.
 

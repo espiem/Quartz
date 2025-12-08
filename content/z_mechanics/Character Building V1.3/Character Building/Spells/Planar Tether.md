@@ -10,7 +10,7 @@ tags:
 ---
 
 # Planar Tether
-![[icons-equipment-shield-heater-steel-segmented-purple.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-equipment-shield-heater-steel-segmented-purple.webp|150]]
 
 You stitch the target to its current plane. While the target is affected by _planar tether,_ the spell attempts to counteract any teleportation effect that would move the target, or any effect that would transport it to a different plane. _Planar tether_'s duration is determined by the target's Will save.
 

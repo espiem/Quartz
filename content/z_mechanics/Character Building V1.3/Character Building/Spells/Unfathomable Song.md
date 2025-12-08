@@ -8,7 +8,7 @@ tags:
 ---
 
 # Unfathomable Song
-![[systems-pf2e-icons-spells-unfathomable-song.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-unfathomable-song.webp|150]]
 
 Fleeting notes of a strange and unnatural song fill the air, overtaking the mind. Each target must attempt a Will save when you cast the spell, and again the first time you Sustain this Spell each round. A creature needs to attempt only one save against the song each round, and you have to keep the same targets when you Sustain the Spell.
 
@@ -24,8 +24,8 @@ Fleeting notes of a strange and unnatural song fill the air, overtaking the mind
 
 | Result | Effect |  |
 | ---- | ---- | ---- |
-| 1 | The target is [[Frightened\|Frightened 2]] |  |
-| 2 | The target is [[Confused]] for 1 round |  |
-| 3 | The target is [[Stupefied\|Stupefied 4]] for 1 round |  |
-| 4 | The target is [[Blinded]] for 1 round |  |
+| 1 | The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened\|Frightened 2]] |  |
+| 2 | The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] for 1 round |  |
+| 3 | The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied\|Stupefied 4]] for 1 round |  |
+| 4 | The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round |  |
 | 5 | The target is [[Stunned 1\|Stunned]] for 1 round and [[Stupefied | Stupefied 1]] for an unlimited duration |

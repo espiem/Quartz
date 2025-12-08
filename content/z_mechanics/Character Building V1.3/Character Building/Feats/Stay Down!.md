@@ -10,7 +10,7 @@ tags:
 # Stay Down!
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Trigger** A [[Prone]] foe within your reach Stands.
+**Trigger** A [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] foe within your reach Stands.
 
 * * *
 

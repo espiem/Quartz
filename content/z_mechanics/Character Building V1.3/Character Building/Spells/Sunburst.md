@@ -20,7 +20,7 @@ A powerful globe of searing sunlight explodes in the area, dealing 8d10 fire dam
 
 **Failure** The creature takes full damage.
 
-**Critical Failure** The creature takes full damage and becomes [[Blinded]] permanently.
+**Critical Failure** The creature takes full damage and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] permanently.
 
 * * *
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Enduring Might
-![[systems-pf2e-icons-spells-enduring-might.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-enduring-might.webp|150]]
 
 **Trigger** An attack or effect would deal damage to you.
 

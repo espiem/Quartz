@@ -13,7 +13,7 @@ license: ORC
 ---
 # Twin Takedown `pf2:1`
 ## Feat 1
-### [[flourish]][[ranger]]
+### [[flourish]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]]
 
 **Category** class; 
 

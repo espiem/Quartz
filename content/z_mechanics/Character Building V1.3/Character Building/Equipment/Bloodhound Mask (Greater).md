@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bloodhound Mask (Greater)
-![[icons-equipment-head-mask-carved-wood-white.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-equipment-head-mask-carved-wood-white.webp|150]]
 
 **Activate** 1 Interact
 

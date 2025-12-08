@@ -12,7 +12,7 @@ license: ORC
 ---
 # Expeditious Inspection `pf2:0`
 
-### [[investigator]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Investigator]]
 
 **Category** interaction; 
 

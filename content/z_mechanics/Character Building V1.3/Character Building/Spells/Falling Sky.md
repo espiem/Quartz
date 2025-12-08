@@ -14,7 +14,7 @@ Extraordinary telekinetic pressure smashes down through the area, battering crea
 
 * * *
 
-**Critical Success** The creature is unaffected, and if it was flying, it isn't knocked [[Prone]] even though it took falling damage.
+**Critical Success** The creature is unaffected, and if it was flying, it isn't knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] even though it took falling damage.
 
 **Success** The creature is knocked prone.
 

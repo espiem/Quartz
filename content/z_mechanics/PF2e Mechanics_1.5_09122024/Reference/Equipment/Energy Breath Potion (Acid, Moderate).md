@@ -15,7 +15,7 @@ license: ORC
 ---
 # Energy Breath Potion (Acid, Moderate)
 ## Item 12
-### [[acid]][[consumable]][[magical]][[potion]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Acid]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 400 gp; 

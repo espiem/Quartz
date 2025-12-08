@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bracers of Missile Deflection
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-bracers-of-missile-deflection.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-worn-items-other-worn-items-bracers-of-missile-deflection.webp|150]]
 
 These bracers are made from plates of durable dawnsilver and gleam like the summer sun.
 

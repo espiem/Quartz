@@ -31,7 +31,7 @@ You also gain specific abilities based on the type of angel you choose:
 *   **Choral** Speed 30 feet, fly 40 feet; +1 status bonus to AC and saves against sonic and auditory;
     
     *   **Melee** `pf2:1` fist (agile), **Damage** 2d6+12 bludgeoning plus 1d6 spirit;
-    *   **Ranged** `pf2:1` piercing hymn (range 90 feet), **Damage** 1d6+12 sonic plus 1d6 spirit, and [[Conditions/Deafened|Deafened]] for 1 round on a critical hit.
+    *   **Ranged** `pf2:1` piercing hymn (range 90 feet), **Damage** 1d6+12 sonic plus 1d6 spirit, and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]] for 1 round on a critical hit.
 
 * * *
 

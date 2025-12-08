@@ -13,7 +13,7 @@ license: OGL
 ---
 # Heartening Missive (Rabbit)
 ## Item 6
-### [[consumable]][[magical]][[missive]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[missive]]
 
 **Category** other; 
 **Price** 50 gp; 

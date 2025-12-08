@@ -12,6 +12,6 @@ tags:
 
 You coat a creature's body in a layer of brilliantly sparkling glitter. The target gains a +2 status bonus on Deception checks to [[Create a Diversion]] and to [[Feint]], and on Performance checks to [[Perform]] that have the visual trait. When the target take damage, glitter bursts out of its wound in a 5 foot emanation. Creatures in the area must attempt a Fortitude save.
 
-**Failure** The creature is [[Dazzled]] for 1 round.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round.
 
 **Critical Failure** The creature is dazzled for 3 rounds.

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Armbands of Athleticism (Greater)
 ## Item 17
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 13000 gp; 

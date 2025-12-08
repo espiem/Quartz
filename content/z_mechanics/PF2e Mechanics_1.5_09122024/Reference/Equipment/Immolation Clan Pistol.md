@@ -17,7 +17,7 @@ license: OGL
 ---
 # Immolation Clan Pistol
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[concussive]][[cursed]][[dwarf]][[fatal-d10]][[fire]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[concussive]][[cursed]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Dwarf]][[fatal-d10]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 |  |  |
 | -- | -- |
@@ -33,7 +33,7 @@ This charred and blackened _+2 striking clan pistol_ is coated in a thick layer 
 
 No matter how much you clean and maintain it, an _immolation clan pistol_ is always at risk of a misfire, and the flat check to avoid a misfire is DC 7 rather than DC 5. On a misfire, an immolation clan pistol releases a blast of concentrated fire, dealing you 2d6 fire damage and 2d6 persistent fire damage.
 
-An _immolation clan pistol_ fuses with you when you first fire it. While you're fused with the _immolation clan pistol_, the pained spirit haunts your dreams, forcing you to relive its death each night. If you fired the _immolation clan pistol_ that day, you are unharmed by these dreams. If you didn't fire the _immolation clan pistol_ that day, but still possess it, you awaken [[Conditions/Fatigued|Fatigued]]. If you no longer possess the _immolation clan pistol_, the spirit of its dwarven smith is enraged by your neglect; you awaken fatigued and aflame, taking 2d6 persistent fire damage.
+An _immolation clan pistol_ fuses with you when you first fire it. While you're fused with the _immolation clan pistol_, the pained spirit haunts your dreams, forcing you to relive its death each night. If you fired the _immolation clan pistol_ that day, you are unharmed by these dreams. If you didn't fire the _immolation clan pistol_ that day, but still possess it, you awaken [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]]. If you no longer possess the _immolation clan pistol_, the spirit of its dwarven smith is enraged by your neglect; you awaken fatigued and aflame, taking 2d6 persistent fire damage.
 
 Regardless, these nightmares possess clues to the spirit's life. If you take the immolation clan pistol to the site of its creation and repair it with tools belonging to the tormented spirit, you might be able to break the curse. If the spirit is set free, this weapon becomes a _+2 greater striking flaming clan pistol_ with no other abilities or curses.
 
@@ -47,7 +47,7 @@ Regardless, these nightmares possess clues to the spirit's life. If you take the
 
 **Effect** You allow yourself to become partially possessed by the immolated spirit bound to the clan pistol. For 1 minute, you look like a flaming corpse. During this time, you gain a +2 status bonus to Intimidation checks and the _immolation clan pistol_ becomes a _+2 striking flaming clan pistol_.
 
-[[Equipment Effects/Effect_ Immolation Clan Pistol|Effect: Immolation Clan Pistol]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Immolation Clan Pistol|Effect: Immolation Clan Pistol]]
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

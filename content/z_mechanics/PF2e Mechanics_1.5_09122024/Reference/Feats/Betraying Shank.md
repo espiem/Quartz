@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-While your usual diplomacy is well intentioned, you know that sometimes those same skills will need to be turned to deception. In a flash, you draw a sheathed or concealed agile or finesse weapon and make a melee Strike. The target is [[Conditions/Off-Guard|Off-Guard]] against your Strike. You then roll Deception for initiative.
+While your usual diplomacy is well intentioned, you know that sometimes those same skills will need to be turned to deception. In a flash, you draw a sheathed or concealed agile or finesse weapon and make a melee Strike. The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] against your Strike. You then roll Deception for initiative.
 
 *Source: Pathfinder #189: Dreamers of the Nameless Spires*
 *OGL*

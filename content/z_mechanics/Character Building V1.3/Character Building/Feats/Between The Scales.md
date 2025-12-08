@@ -12,4 +12,4 @@ tags:
 
 Underestimating you is a grave mistake, but it's one others keep making. You've learned to take advantage of slips in your foes' defenses.
 
-When you Strike an [[Off-Guard]] creature using a melee weapon or unarmed attack that has the agile and finesse traits, it gains the backstabber trait.
+When you Strike an [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] creature using a melee weapon or unarmed attack that has the agile and finesse traits, it gains the backstabber trait.

@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Joke
-![[icons-sundries-gaming-playing-cards-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Books (Int)
 
@@ -16,7 +16,7 @@ tags:
 
 * * *
 
-_The Joke_ represents solving a problem not with strength, but with cleverness or artifice. As long as you have _The Joke_ invested, you can attempt an appropriate Lore check instead of an Athletics check made to [[Climb]], [[Force Open]], [[Grapple]], [[High Jump]], [[Long Jump]], or [[Swim]]. For example, you could make a Mountain Lore check to climb a cliff in the mountains, or Sailing Lore check to climb the rigging on a ship.
+_The Joke_ represents solving a problem not with strength, but with cleverness or artifice. As long as you have _The Joke_ invested, you can attempt an appropriate Lore check instead of an Athletics check made to [[Climb]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Force Open]], [[Grapple]], [[High Jump]], [[Long Jump]], or [[Swim]]. For example, you could make a Mountain Lore check to climb a cliff in the mountains, or Sailing Lore check to climb the rigging on a ship.
 
 **Activate** 2 envision, Interact
 

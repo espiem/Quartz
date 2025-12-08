@@ -8,13 +8,13 @@ tags:
 ---
 # Low Blow
 
-> **Crit Effect:** The target is [[Conditions/Sickened|Sickened 2]] and [[Conditions/Slowed|Slowed 1]] as long as it remains sickened.
+> **Crit Effect:** The target is [[Conditions/Sickened|Sickened 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] as long as it remains sickened.
 
 `Bludgeoning`
 
 # Hobbled
 
-> **Crit Effect:** Until healed, the target is [[Conditions/Clumsy|Clumsy 2]] and takes a [[Other Effects/Effect_ -10-foot circumstance penalty to all Speeds|-10-foot circumstance penalty to all Speeds]].
+> **Crit Effect:** Until healed, the target is [[Conditions/Clumsy|Clumsy 2]] and takes a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -10-foot circumstance penalty to all Speeds|-10-foot circumstance penalty to all Speeds]].
 
 `Piercing`
 

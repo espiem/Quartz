@@ -15,7 +15,7 @@ license: ORC
 ---
 # Comprehension Elixir (Greater)
 ## Item 7
-### [[alchemical]][[consumable]][[elixir]][[mental]]
+### [[alchemical]][[consumable]][[elixir]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** elixir; 
 **Price** 54 gp; 

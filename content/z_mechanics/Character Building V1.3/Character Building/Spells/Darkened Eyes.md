@@ -20,4 +20,4 @@ You infuse a creature's vision with darkness. After attempting its save, the tar
 
 **Failure** As success, but the duration is 1 minute.
 
-**Critical Failure** As success, but the duration is 1 minute, and the target is also [[Blinded]] for the duration. It can attempt a new save at the end of each of its turns. If it succeeds, it's no longer Blinded, but its darkvision or low-light vision remains suppressed.
+**Critical Failure** As success, but the duration is 1 minute, and the target is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for the duration. It can attempt a new save at the end of each of its turns. If it succeeds, it's no longer Blinded, but its darkvision or low-light vision remains suppressed.

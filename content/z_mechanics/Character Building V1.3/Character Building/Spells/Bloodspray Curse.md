@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bloodspray Curse
-![[icons-skills-melee-strike-sword-blood-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-melee-strike-sword-blood-red.webp|150]]
 
 You inflict a curse upon the target that causes any wound to gush blood. The target must attempt a Fortitude save.
 

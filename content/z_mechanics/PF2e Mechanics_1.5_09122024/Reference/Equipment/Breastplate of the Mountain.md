@@ -13,7 +13,7 @@ license: OGL
 ---
 # Breastplate of the Mountain
 ## Item 20
-### [[apex]][[invested]][[magical]]
+### [[apex]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** medium; **Group** plate
 **Price** 70000 gp; 
@@ -36,7 +36,7 @@ Constructed of dull gray metal, this breastplate is decorated with the symbol of
 
 **Effect** With a single tap, you gain immunity to poison for 1 minute.
 
-[[Equipment Effects/Effect_ Breastplate of the Mountain|Effect: Breastplate of the Mountain]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Breastplate of the Mountain|Effect: Breastplate of the Mountain]]
 
 * * *
 

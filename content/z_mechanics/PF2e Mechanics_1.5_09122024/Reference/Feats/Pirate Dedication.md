@@ -23,7 +23,7 @@ license: ORC
 * * *
 As a pirate, you sail the seas in search of enemy ships to plunder and great adventures to embark on. You gain the [[Feats/Additional Lore|Additional Lore]] general feat for Sailing Lore or for a specific coastal city you have a connection to (such as Port Peril Lore). You ignore the effects of difficult terrain or uneven ground caused by unstable ground (such as the deck of a ship). Additionally, you gain the [[Actions/Boarding Assault|Boarding Assault]] action.
 
-[[PF2e Journals/Archetypes/Pirate|Pirate]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Pirate|Pirate]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

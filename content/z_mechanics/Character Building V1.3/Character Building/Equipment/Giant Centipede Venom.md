@@ -22,6 +22,6 @@ Giant centipede venom causes severe muscle stiffness.
 
 **Stage 1** 1d4 poison damage (1 round)
 
-**Stage 2** 1d4 poison damage and [[Fatigued]] (1 round)
+**Stage 2** 1d4 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] (1 round)
 
-**Stage 3** 1d4 poison damage, [[Clumsy 1]], and [[Fatigued]] (1 round)
+**Stage 3** 1d4 poison damage, [[Clumsy 1]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] (1 round)

@@ -18,7 +18,7 @@ license: ORC
 ---
 # Serpent Dagger
 ## Item 5
-### [[agile]][[finesse]][[magical]][[poison]][[thrown-10]][[versatile-s]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[thrown-10]][[versatile-s]]
 
 |  |  |
 | -- | -- |

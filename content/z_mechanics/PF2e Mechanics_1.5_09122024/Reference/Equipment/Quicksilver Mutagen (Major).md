@@ -35,7 +35,7 @@ You become swifter and nimbler but also fragile.
 
 **Duration** 1 hour.
 
-[[Equipment Effects/Effect_ Quicksilver Mutagen (Major)|Effect: Quicksilver Mutagen (Major)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Quicksilver Mutagen (Major)|Effect: Quicksilver Mutagen (Major)]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

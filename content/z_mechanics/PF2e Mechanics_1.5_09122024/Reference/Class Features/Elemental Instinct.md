@@ -12,7 +12,7 @@ license: OGL
 ---
 # Elemental Instinct
 ## Feat 1
-### [[barbarian]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]]
 
 **Category** classfeature; 
 
@@ -38,7 +38,7 @@ Disrespecting an elemental creature is anathema to your instinct; defending your
 
 ## Elemental Rage
 
-While raging, you're cloaked in a vortex of elemental matter; you become [[Conditions/Concealed|Concealed]] against ranged attacks. You can't use this concealment to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]]. While raging, you increase the additional damage from Rage from 2 to 4 and change its damage type to the one you selected for your element.
+While raging, you're cloaked in a vortex of elemental matter; you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] against ranged attacks. You can't use this concealment to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]]. While raging, you increase the additional damage from Rage from 2 to 4 and change its damage type to the one you selected for your element.
 
 If you have any kineticist impulses with the same element type as the one you chose for your instinct, such as ones gained by taking the Kineticist Dedication multiclass feat, they gain the rage trait.
 

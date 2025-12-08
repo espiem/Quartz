@@ -11,7 +11,7 @@ license: OGL
 ---
 # Venom Spit
 ## Feat 5
-### [[nagaji]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Nagaji]]
 
 **Category** ancestry; 
 
@@ -20,7 +20,7 @@ license: OGL
 
 You've learned the art of lobbing toxic spittle at vulnerable spots on your foes, especially the eyes. You gain a venomous spit ranged unarmed attack with a range increment of 10 feet that deals 1d4 poison damage. On a critical hit, the target takes persistent poison damage equal to the number of weapon damage dice. Your spit doesn't have a weapon group, nor a critical specialization effect.
 
-**Special** If you have the hooded nagaji heritage, in addition to your venomous spit's normal critical hit effect, the target is also [[Conditions/Dazzled|Dazzled]] until the start of your next turn.
+**Special** If you have the hooded nagaji heritage, in addition to your venomous spit's normal critical hit effect, the target is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] until the start of your next turn.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

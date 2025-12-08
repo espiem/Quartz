@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Keep
-![[icons-sundries-gaming-playing-cards-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Hammers (Str)
 
@@ -16,7 +16,7 @@ tags:
 
 * * *
 
-_The Keep_ represents steadfastness and being unshakable to threats. As long as _The Keep_ is invested, you gain a +2 item bonus to saving throws against fear effects. Whenever you become [[Frightened]], reduce the condition value by 1 (to a minimum of 0). If you are 20th level, the item bonus increases to +3.
+_The Keep_ represents steadfastness and being unshakable to threats. As long as _The Keep_ is invested, you gain a +2 item bonus to saving throws against fear effects. Whenever you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened]], reduce the condition value by 1 (to a minimum of 0). If you are 20th level, the item bonus increases to +3.
 
 **Activate** 2 envision, Interact
 

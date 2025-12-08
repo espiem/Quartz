@@ -20,11 +20,11 @@ You cultivate four wooden bulbs, each filled with toxic pollen and sensitive to 
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and becomes [[Dazzled]] for 1 round.
+**Success** The creature takes half damage and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round.
 
-**Failure** The creature takes full damage, becomes dazzled for 1 round, and becomes [[Stupefied|Stupefied 1]] for 1 minute.
+**Failure** The creature takes full damage, becomes dazzled for 1 round, and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for 1 minute.
 
-**Critical Failure** The creature takes double damage, is dazzled for 1 round, and becomes [[Stupefied|Stupefied 2]] for 1 minute.
+**Critical Failure** The creature takes double damage, is dazzled for 1 round, and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] for 1 minute.
 
 * * *
 

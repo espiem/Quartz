@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Sporeborn) Potent Poison
 
-### [[fungus]][[poison]]
+### [[fungus]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** offensive; 
 

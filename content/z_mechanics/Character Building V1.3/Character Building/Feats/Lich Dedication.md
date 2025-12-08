@@ -14,4 +14,4 @@ After years of study and careful planning, you finally completed a soul cage to 
 
 You gain a unique _[[Soul Cage]]_—a magic item that houses your soul. Whenever you would die, your soul flees to the soul cage to allow you to be rebuilt. As long as your soul cage exists, you can't truly be destroyed.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[Lich]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/2-Mechanics V1.3/Bestiary/bestiary-1/lich]] archetype.

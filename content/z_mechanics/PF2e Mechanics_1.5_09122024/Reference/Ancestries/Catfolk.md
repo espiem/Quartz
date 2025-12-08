@@ -12,7 +12,7 @@ license: ORC
 ---
 # Catfolk
 
-### [uncommon](uncommon "Uncommon Rarity Trait")[[catfolk]][[humanoid]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Catfolk]][[humanoid]]
 
 
 
@@ -21,7 +21,7 @@ license: ORC
 
 _Curious and gregarious wanderers, catfolk combine the features of felines and humanoids in both appearance and temperament. They enjoy learning new things, collecting new tales and trinkets, and ensuring their loved ones are safe and happy. Catfolk view themselves as the chosen guardians of natural places in the world and are often recklessly brave, even in the face of overwhelming opposition. They believe that strong communities, breadth of experience, and continual self-improvement aid them in this fight._
 
-_[[PF2e Journals/Ancestries/Catfolk|Catfolk]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Catfolk|Catfolk]]_
 
 *Source: Pathfinder Player Core 2*
 *ORC*

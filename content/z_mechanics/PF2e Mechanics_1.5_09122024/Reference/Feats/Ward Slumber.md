@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ward Slumber
 ## Feat 12
-### [[archetype]][[occult]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** class; 
 

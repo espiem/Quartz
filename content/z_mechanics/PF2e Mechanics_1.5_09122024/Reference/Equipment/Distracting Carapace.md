@@ -13,7 +13,7 @@ license: ORC
 ---
 # Distracting Carapace
 ## Item 4
-### [[graft]][[invested]][[magical]]
+### [[graft]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 80 gp; 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Litany of Depravity
-![[icons-consumables-food-cooked-ribs-rack-glazed-bones-brown-white.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-consumables-food-cooked-ribs-rack-glazed-bones-brown-white.webp|150]]
 
 Your litany calls into question the morals your foe claims to hold dear. The target gains weakness 7 to unholy, then becomes temporarily immune to all your litanies for 1 minute.
 

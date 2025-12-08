@@ -12,7 +12,7 @@ license: ORC
 ---
 # Spell Repertoire (Bard)
 ## Feat 1
-### [[bard]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Bard]]
 
 **Category** classfeature; 
 

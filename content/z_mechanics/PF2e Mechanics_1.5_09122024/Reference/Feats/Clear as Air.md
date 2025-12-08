@@ -17,16 +17,16 @@ license: OGL
 ---
 # Clear as Air `pf2:2`
 ## Feat 6
-### [[air]][[illusion]][[impulse]][[kineticist]][[overflow]][[primal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[illusion]][[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[overflow]][[primal]]
 
 **Category** class; 
 
 
 
 
-Compact layers of air diffract and bend light around your body, making you appear as clear as the sky on a perfect day. You become [[Conditions/Invisible|Invisible]] until the end of your next turn. You can Sustain the impulse. If you use a hostile action, the impulse ends after that action is completed. If you activate your kinetic aura, the impulse conceals its elements, though any special effects of your aura might give away your location.
+Compact layers of air diffract and bend light around your body, making you appear as clear as the sky on a perfect day. You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible|Invisible]] until the end of your next turn. You can Sustain the impulse. If you use a hostile action, the impulse ends after that action is completed. If you activate your kinetic aura, the impulse conceals its elements, though any special effects of your aura might give away your location.
 
-This impulse weakens if you use it too frequently. Using it again within 10 minutes makes you [[Conditions/Concealed|Concealed]] instead of invisible.
+This impulse weakens if you use it too frequently. Using it again within 10 minutes makes you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] instead of invisible.
 
 * * *
 

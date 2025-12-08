@@ -20,4 +20,4 @@ Your confidence borders on self-delusion, but it keeps you going against overwhe
 
 **Critical Success** You avoid being knocked out and remain at 1 Hit Point.
 
-**Success** You avoid being knocked out and remain at 1 Hit Point, but you increase your [[Wounded]] value by 1.
+**Success** You avoid being knocked out and remain at 1 Hit Point, but you increase your [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded]] value by 1.

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Detect Anathema Fulu
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[fulu]][[magical]][[talisman]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[fulu]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** fulu; 
 **Price** 100 gp; 

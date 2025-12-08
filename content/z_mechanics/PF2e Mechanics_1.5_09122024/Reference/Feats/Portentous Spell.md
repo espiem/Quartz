@@ -16,7 +16,7 @@ license: ORC
 ---
 # Portentous Spell `pf2:1`
 ## Feat 16
-### [[manipulate]][[mental]][[oracle]][[spellshape]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Oracle]][[spellshape]][[visual]]
 
 **Category** class; 
 
@@ -25,7 +25,7 @@ license: ORC
 
 Your spellcasting is rife with strange lights, mild fumes, and other captivating effects that befuddle your foes. If the next action you use is to Cast a Spell, any creature that attempts to use a reaction triggered by your Cast a Spell activity takes a –2 circumstance penalty to attack rolls and skill checks rolled as part of the reaction.
 
-In addition, if the spell includes a spell attack or requires a saving throw, creatures you hit or that fail their saves are [[Conditions/Fascinated|Fascinated]] with you until the start of your next turn.
+In addition, if the spell includes a spell attack or requires a saving throw, creatures you hit or that fail their saves are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated|Fascinated]] with you until the start of your next turn.
 
 [[Feat_Feature Effects/Effect_ Portentous Spell|Effect: Portentous Spell]]
 

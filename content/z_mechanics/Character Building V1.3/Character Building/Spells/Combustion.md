@@ -8,7 +8,7 @@ tags:
 ---
 
 # Combustion
-![[icons-magic-fire-flame-burning-campfire-orange.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-flame-burning-campfire-orange.webp|150]]
 
 You ignite a creature in lasting flames. The fire deals 4d8 fire damage and 2d6 persistent,fire damage to the creature, which must attempt a Fortitude save.
 

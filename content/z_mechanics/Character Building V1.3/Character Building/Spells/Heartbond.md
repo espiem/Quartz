@@ -22,7 +22,7 @@ Creatures benefiting from a successful heartbond ritual can later participate in
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** Magical backlash creates discordant energy among the participants. For 1 week, each ritual participant is [[Clumsy 1|Clumsy 2]] and [[Stupefied|Stupefied 2]] whenever they are within 30 feet of another ritual participant.
+**Critical Failure** Magical backlash creates discordant energy among the participants. For 1 week, each ritual participant is [[Clumsy 1|Clumsy 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] whenever they are within 30 feet of another ritual participant.
 
 * * *
 

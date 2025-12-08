@@ -8,7 +8,7 @@ tags:
 ---
 
 # Heinous Future
-![[icons-magic-perception-orb-eye-scrying.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-perception-orb-eye-scrying.webp|150]]
 
 You hold up a fractured mirror to the target, and in that mirror it sees a thing that may yet come to pass—a ghastly foretelling that the target instinctively knows is eerily possible. It's not a guaranteed thing, just a dreadful possibility, but it haunts the target's thoughts all the same.
 
@@ -16,8 +16,8 @@ You hold up a fractured mirror to the target, and in that mirror it sees a thing
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Slowed]] and [[Stupefied|Stupefied 1]] for 1 round.
+**Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for 1 round.
 
 **Failure** The target is slowed 1 and stupefied 1 until it next gets eight hours of rest.
 
-**Critical Failure** The target is [[Slowed|Slowed 2]] and [[Stupefied|Stupefied 2]], decreasing these conditions by 1 for each eight hours of rest it gets.
+**Critical Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]], decreasing these conditions by 1 for each eight hours of rest it gets.

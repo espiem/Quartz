@@ -12,7 +12,7 @@ license: OGL
 ---
 # Dormant Eruption
 ## Feat 14
-### [rare](rare "Rare Rarity Trait")[[aftermath]][[fire]]
+### [rare](rare "Rare Rarity Trait")[[aftermath]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]]
 
 **Category** class; 
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Lore
-![[icons-sundries-scrolls-scroll-symbol-sun-brown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-sundries-scrolls-scroll-symbol-sun-brown.webp|150]]
 
 Knowledge and information come freely to you. You might use this lore to gain power or perhaps to understand the divine mysteries of the multiverse. You might have a conduit to the fabled Akashic Record, maintain a subtle telepathic connection to the collective subconscious of all living creatures, or follow in the footsteps of deities such as Abadar, Irori, Nethys, Irori's scholarly nephew Gruhastha, the fey triune goddess of fate Magdh, or the lawful aeon god-figure known as the Monad.
 
@@ -38,7 +38,7 @@ You take a -4 penalty to initiative, as trying to process a surge of information
 
 #### Moderate Curse
 
-The flow of information through your mind grows. The attention you divert to process this huge influx of information means you are always [[Off-Guard]].
+The flow of information through your mind grows. The attention you divert to process this huge influx of information means you are always [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]].
 
 At the start of each of your turns, you automatically make one check to [[Recall Knowledge]] as a free action. This uses a skill of your choice that has the Recall Knowledge action, using a result equal to 10 + your proficiency bonus in that skill (with no other bonuses, penalties, or modifiers).
 

@@ -16,7 +16,7 @@ Your draconic anatomy becomes especially pronounced. You increase the power of o
 
 **Dracomancer** Increase the number of times you can cast each of the granted 1st- and 2nd-level innate spells by 1.
 
-**Kobold Breath** Creatures that critically fail their save against your Kobold Breath take 3d4 persistent [[Persistent Damage]] of the type dealt by your draconic patron.
+**Kobold Breath** Creatures that critically fail their save against your Kobold Breath take 3d4 persistent [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Persistent Damage]] of the type dealt by your draconic patron.
 
 **Strongjaw Kobold** Your jaws unarmed attack gains the deadly d6 trait.
 

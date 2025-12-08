@@ -8,7 +8,7 @@ tags:
 ---
 
 # Shroud of Flame
-![[icons-magic-fire-projectile-feathers-embers-gold.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-projectile-feathers-embers-gold.webp|150]]
 
 You encircle yourself in an aura of protective flames. Each creature that hits you with an unarmed attack, Grapples you, or otherwise touches you takes 3 fire damage. When you Cast the Spell and the first time you sustain it each round, each creature in the area takes 3d6 fire damage (basic Reflex save).
 

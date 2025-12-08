@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Battleblooded
 * * *
-**Trigger** You lose the [[Conditions/Unconscious|Unconscious]] condition.
+**Trigger** You lose the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] condition.
 
 * * *
 

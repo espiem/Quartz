@@ -27,7 +27,7 @@ license: ORC
 
 After you drink this elixir, your sight becomes sharper in darkness. You gain darkvision for 10 minutes.
 
-[[Equipment Effects/Effect_ Darkvision Elixir (Lesser)|Effect: Darkvision Elixir (Lesser)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Darkvision Elixir (Lesser)|Effect: Darkvision Elixir (Lesser)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

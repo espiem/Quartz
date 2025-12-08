@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-You're used to the clamor of steel, the crack of a firearm, and the thunderous blast of explosions. You gain resistance 3 to sonic. If you roll a success on a saving throw against an auditory effect that causes the [[Deafened]] condition, you get a critical success instead.
+You're used to the clamor of steel, the crack of a firearm, and the thunderous blast of explosions. You gain resistance 3 to sonic. If you roll a success on a saving throw against an auditory effect that causes the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] condition, you get a critical success instead.

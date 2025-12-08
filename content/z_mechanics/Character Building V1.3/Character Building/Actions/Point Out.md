@@ -13,4 +13,4 @@ tags:
 
 * * *
 
-You indicate a creature that you can see to one or more allies, gesturing in a direction and describing the distance verbally. That creature is [[Hidden]] to your allies, rather than [[Undetected]]. This works only for allies who can see you and are in a position where they could potentially detect the target. If your allies can't hear or understand you, they must succeed at a Perception check against the creature's Stealth DC or they misunderstand and believe the target is in a different location.
+You indicate a creature that you can see to one or more allies, gesturing in a direction and describing the distance verbally. That creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]] to your allies, rather than [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Undetected]]. This works only for allies who can see you and are in a position where they could potentially detect the target. If your allies can't hear or understand you, they must succeed at a Perception check against the creature's Stealth DC or they misunderstand and believe the target is in a different location.

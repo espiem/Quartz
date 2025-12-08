@@ -14,7 +14,7 @@ license: ORC
 ---
 # Resuscitate `pf2:3`
 ## Feat 16
-### [[archetype]][[healing]][[manipulate]]
+### [[archetype]][[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** class; 
 
@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-You resuscitate the dead. Attempt a DC 40 Medicine check check to revive a dead creature who has been dead for no more than 3 rounds and whose body is mostly intact. If you succeed, the target returns to life with the effects of raise dead, except it still has the wounded condition it had before dying, increased by 1 (or [[Conditions/Wounded|Wounded 1]] if it wasn't wounded before dying). Whether you succeed or fail, the target is temporarily immune to Resuscitate for 1 day.
+You resuscitate the dead. Attempt a DC 40 Medicine check check to revive a dead creature who has been dead for no more than 3 rounds and whose body is mostly intact. If you succeed, the target returns to life with the effects of raise dead, except it still has the wounded condition it had before dying, increased by 1 (or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded|Wounded 1]] if it wasn't wounded before dying). Whether you succeed or fail, the target is temporarily immune to Resuscitate for 1 day.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Black Hole Armor
 ## Item 16
-### [[bulwark]][[entrench-ranged]][[invested]][[magical]][[ponderous]]
+### [[bulwark]][[entrench-ranged]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[ponderous]]
 
 **Category** heavy; **Group** plate
 **Price** 8500 gp; 

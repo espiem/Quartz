@@ -20,6 +20,6 @@ This lemony tea blended from rare Vudrani herbs and flowers is widely circulated
 
 **Maximum Duration** 30 minutes
 
-**Stage 1** [[Stupefied|Stupefied 2]] (1 minute)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (1 minute)
 
-**Stage 2** [[Unconscious]] and can ask a question with the effects of _[[Augury]]_ except the flat check DC is 10 (10 minutes)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] and can ask a question with the effects of _[[Augury]]_ except the flat check DC is 10 (10 minutes)

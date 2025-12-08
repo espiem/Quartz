@@ -12,7 +12,7 @@ license: OGL
 ---
 # Mask of Uncanny Breath
 ## Item 11
-### [[focused]][[invested]][[occult]]
+### [[focused]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 
 **Price** 1200 gp; 
@@ -38,7 +38,7 @@ A thin wooden mask carved in the shape of a skull, monstrous face, or eerily fea
 
 * * *
 
-**Effect** The mask contorts and inhales, sucking breath from your target's lungs. The target falls [[Conditions/Unconscious|Unconscious]] but doesn't fall [[Conditions/Prone|Prone]] or drop what it's holding. It wakes up at the end of your turn if it hasn't been woken up already.
+**Effect** The mask contorts and inhales, sucking breath from your target's lungs. The target falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] but doesn't fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] or drop what it's holding. It wakes up at the end of your turn if it hasn't been woken up already.
 
 * * *
 

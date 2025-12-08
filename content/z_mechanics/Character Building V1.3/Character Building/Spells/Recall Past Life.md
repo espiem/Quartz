@@ -20,6 +20,6 @@ On the final hour, the target returns to life, waking up temporarily possessed b
 
 **Success** As critical success, except there's no lingering knowledge, and the target isn't able to retrain a skill increase.
 
-**Failure** Nothing happens, though the target's [[Unconscious]] state is disturbing, and they wake up [[Fatigued]] as well as likely hungry and thirsty.
+**Failure** Nothing happens, though the target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] state is disturbing, and they wake up [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] as well as likely hungry and thirsty.
 
 **Critical Failure** The sigils are drawn improperly, or the wine was tainted. The swaddled baby orchids that grow around the body scream at the moment when the target would've awakened. The target dies and immediately animates as a malevolent zombie that carries the rot with them and seeks to destroy their former allies. Use the statistics for a husk zombie (Book of the Dead 170), or another zombie as appropriate for the target's ancestry.

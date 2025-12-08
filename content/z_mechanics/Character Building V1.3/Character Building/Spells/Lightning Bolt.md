@@ -8,7 +8,7 @@ tags:
 ---
 
 # Lightning Bolt
-![[icons-magic-lightning-bolt-strike-sparks-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-lightning-bolt-strike-sparks-blue.webp|150]]
 
 A bolt of lightning strikes outward from your hand, dealing 4d12 electricity damage.
 

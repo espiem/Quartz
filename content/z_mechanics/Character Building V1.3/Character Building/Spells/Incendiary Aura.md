@@ -8,7 +8,7 @@ tags:
 ---
 
 # Incendiary Aura
-![[systems-pf2e-icons-spells-incendiary-aura.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-incendiary-aura.webp|150]]
 
 You surround yourself with a combustible aura. Each time a creature within the emanation takes fire damage, it catches on fire, taking 2d4 persistent fire damage.
 

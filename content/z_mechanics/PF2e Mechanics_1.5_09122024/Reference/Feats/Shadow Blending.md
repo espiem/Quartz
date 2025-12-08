@@ -14,14 +14,14 @@ license: OGL
 ---
 # Shadow Blending `pf2:r`
 ## Feat 1
-### [[fetchling]][[illusion]][[occult]][[shadow]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Fetchling]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[shadow]]
 
 **Category** ancestry; 
 
 
 
 
-**Trigger** A creature attempts a flat check to target you while you're [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]] due to dim light or darkness.
+**Trigger** A creature attempts a flat check to target you while you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]] due to dim light or darkness.
 
 * * *
 

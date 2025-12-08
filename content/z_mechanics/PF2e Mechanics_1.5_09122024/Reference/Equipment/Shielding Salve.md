@@ -14,7 +14,7 @@ license: ORC
 ---
 # Shielding Salve
 ## Item 1
-### [[consumable]][[magical]][[oil]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[oil]]
 
 **Category** oil; 
 **Price** 4 gp; 
@@ -25,7 +25,7 @@ license: ORC
 
 This shimmering paste has many properties of a [[Spells/Shield|Shield]] spell. When you slather it onto a creature or object, the target gains a +1 circumstance bonus to AC for 1 round. The first time a physical attack or a force barrage hits the target during that round, the oil prevents 5 damage from that attack or spell, and then the oil's effect ends.
 
-[[Equipment Effects/Effect_ Shielding Salve|Effect: Shielding Salve]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Shielding Salve|Effect: Shielding Salve]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

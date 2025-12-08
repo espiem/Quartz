@@ -13,7 +13,7 @@ license: OGL
 ---
 # Recording Rod (Basic)
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[scrying]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[scrying]]
 
 **Category** other; 
 **Price** 20 gp; 

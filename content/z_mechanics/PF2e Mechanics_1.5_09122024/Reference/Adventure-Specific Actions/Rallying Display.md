@@ -12,7 +12,7 @@ license: OGL
 ---
 # Rallying Display `pf2:1`
 
-### [[auditory]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[visual]]
 
 **Category** interaction; 
 

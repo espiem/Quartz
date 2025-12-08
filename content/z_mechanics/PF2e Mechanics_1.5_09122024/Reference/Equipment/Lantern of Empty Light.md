@@ -10,7 +10,7 @@ license: OGL
 ---
 # Lantern of Empty Light
 ## Item 6
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 240 gp; 
@@ -35,7 +35,7 @@ It's said that the pale blue light of this eldritch lantern shines from another 
 
 **Success** The creature is unaffected but thinks the light was harmless, unless it knows the true nature of the lantern already.
 
-**Failure** The creature becomes [[Conditions/Fascinated|Fascinated]] by the lantern's light, and remains fascinated as long as you Sustain the Activation, up to 10 minutes.
+**Failure** The creature becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated|Fascinated]] by the lantern's light, and remains fascinated as long as you Sustain the Activation, up to 10 minutes.
 
 **Critical Failure** As failure, but you can Sustain the Activation for up to 1 hour. When the effect ends, the fascinated creature remembers any events that took place while fascinated only as indistinct, dream-like memories.
 

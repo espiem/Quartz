@@ -24,7 +24,7 @@ You've studied techniques allowing you to blend so-called hallowed necromancy in
 
 Casting spells that create, heal, or otherwise aid or promote undead is anathema to you, as is cooperation with undead. Using void energy isn't anathema, as it serves a natural purpose, but twisting that void energy for creation is blasphemous to you. If you perform acts that are anathema to your principles, you lose access to all feats from this archetype. These abilities can be regained only with an [[Spells/Atone|Atone]] ritual.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Hallowed Necromancer|Hallowed Necromancer]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[Hallowed Necromancer|Hallowed Necromancer]] archetype.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

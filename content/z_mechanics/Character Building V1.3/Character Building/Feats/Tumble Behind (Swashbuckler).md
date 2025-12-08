@@ -10,4 +10,4 @@ tags:
 # Tumble Behind (Swashbuckler)
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-Your tumbling catches your foe off guard. When you [[Tumble Through]] successfully, the foe you Tumbled Through is [[Off-Guard]] against the next attack you make before the end of your turn.
+Your tumbling catches your foe off guard. When you [[z_mechanics/PF2e Mechanics_1.5_09122024/Hero Point Deck/Tumble Through]] successfully, the foe you Tumbled Through is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] against the next attack you make before the end of your turn.

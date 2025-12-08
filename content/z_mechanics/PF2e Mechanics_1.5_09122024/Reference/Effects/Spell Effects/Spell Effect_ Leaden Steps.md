@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Spells/Leaden Steps|Leaden Steps]]
 
-The target is [[Conditions/Encumbered|Encumbered]] and has a weakness to electricity.
+The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Encumbered|Encumbered]] and has a weakness to electricity.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

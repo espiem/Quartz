@@ -16,7 +16,7 @@ license: ORC
 ---
 # Nethershade
 ## Item 10
-### [[alchemical]][[consumable]][[injury]][[poison]][[void]]
+### [[alchemical]][[consumable]][[injury]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[void]]
 
 **Category** poison; 
 **Price** 160 gp; 

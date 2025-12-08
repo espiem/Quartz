@@ -13,7 +13,7 @@ license: ORC
 ---
 # Decree of Banishment
 ## Feat 14
-### [[incapacitation]][[mythic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[mythic]]
 
 **Category** class; 
 

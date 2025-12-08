@@ -12,7 +12,7 @@ license: ORC
 ---
 # Wand of Purification (7th-Rank Spell)
 ## Item 16
-### [[magical]][[wand]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wand]]
 
 
 **Price** 10000 gp; 

@@ -26,4 +26,4 @@ This oily, dark purple powder gives off the distinct odor of boiled leather. Whe
 
 **Stage 2** 8d6 poison damage (1 round)
 
-**Stage 3** 10d6 poison damage and [[Confused]](1 round)
+**Stage 3** 10d6 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]](1 round)

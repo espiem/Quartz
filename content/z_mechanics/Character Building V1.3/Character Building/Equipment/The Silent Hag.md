@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Silent Hag
-![[icons-sundries-gaming-playing-cards-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Star (Wis)
 
@@ -26,6 +26,6 @@ _The Silent Hag_ represents insight, treacherous secrets, and strife. As long as
 
 **Effect** You choose to lose one of your senses and gain another until you use this activation again. Choose from one of the following:
 
-*   Your eyes are replaced by dark pits that see only death. You become [[Blinded]] and gain lifesense, an imprecise sense out to 60 feet. Lifesense allows you to see the vital essence of living and undead creatures, distinguishing between the vitality energy animating living creatures and void energy animating undead creatures, much as sight distinguishes colors.
-*   Your ears close up then become covered with hairs that are sensitive to movement. You become [[Deafened]], but you can't be flanked.
+*   Your eyes are replaced by dark pits that see only death. You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] and gain lifesense, an imprecise sense out to 60 feet. Lifesense allows you to see the vital essence of living and undead creatures, distinguishing between the vitality energy animating living creatures and void energy animating undead creatures, much as sight distinguishes colors.
+*   Your ears close up then become covered with hairs that are sensitive to movement. You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]], but you can't be flanked.
 *   Your mouth seals over with flesh. You lose the ability to speak, but you do not need to breathe.

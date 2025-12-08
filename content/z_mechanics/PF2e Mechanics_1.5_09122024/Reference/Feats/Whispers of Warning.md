@@ -16,7 +16,7 @@ license: ORC
 ---
 # Whispers of Warning `pf2:r`
 ## Feat 12
-### [[animist]][[apparition]][[divine]][[misfortune]][[wandering]]
+### [[animist]][[apparition]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[misfortune]][[wandering]]
 
 **Category** class; 
 

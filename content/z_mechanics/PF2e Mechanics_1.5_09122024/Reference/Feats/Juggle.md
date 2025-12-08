@@ -14,7 +14,7 @@ license: OGL
 ---
 # Juggle `pf2:1`
 ## Feat 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[general]][[manipulate]][[skill]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[general]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[skill]]
 
 **Category** skill; 
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Steady Spellcasting (Magus)
 ## Feat 4
-### [[magus]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Magus]]
 
 **Category** class; 
 

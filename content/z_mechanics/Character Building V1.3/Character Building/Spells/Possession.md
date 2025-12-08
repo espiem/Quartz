@@ -8,11 +8,11 @@ tags:
 ---
 
 # Possession
-![[systems-pf2e-icons-spells-possession.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-possession.webp|150]]
 
 You send your mind and soul into the target's body, attempting to take control. The target must attempt a Will save. If you want to exert less control over the target, you can choose to use the effects of any degree of success more favorable to the target.
 
-While you're possessing a target, your own body is [[Unconscious]] and can't wake up normally. You can sense everything the possessed target does. You can Dismiss this spell. If the possessed body dies, the spell ends and you must succeed at a Fortitude save against your spell DC or be [[Paralyzed]] for 1 hour, or 24 hours on a critical failure. If the spell ends during an encounter, you act just before the possessed creature's initiative.
+While you're possessing a target, your own body is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] and can't wake up normally. You can sense everything the possessed target does. You can Dismiss this spell. If the possessed body dies, the spell ends and you must succeed at a Fortitude save against your spell DC or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] for 1 hour, or 24 hours on a critical failure. If the spell ends during an encounter, you act just before the possessed creature's initiative.
 
 * * *
 

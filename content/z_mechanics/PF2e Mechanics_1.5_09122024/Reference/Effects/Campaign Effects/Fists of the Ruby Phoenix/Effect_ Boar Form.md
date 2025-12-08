@@ -32,7 +32,7 @@ The polymorphed character transforms into a Large animal. Each polymorphed chara
 
 **Melee** `pf2:1` tusk +25, Damage 3d10+16 piercing
 
-**[[Adventure-Specific Actions/Chained Charge|Chained Charge]]** `pf2:2` You Stride and then make a tusk Strike at the end of your movement. If you move farther than 15 feet from your chained allies, you pull them along to the nearest open space 15 feet behind you. The creature you hit must succeed at a DC 35 Reflex check save or fall [[Conditions/Prone|Prone]].
+**[[Adventure-Specific Actions/Chained Charge|Chained Charge]]** `pf2:2` You Stride and then make a tusk Strike at the end of your movement. If you move farther than 15 feet from your chained allies, you pull them along to the nearest open space 15 feet behind you. The creature you hit must succeed at a DC 35 Reflex check save or fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 *Source: Pathfinder #167: Ready? Fight!*
 *OGL*

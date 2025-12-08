@@ -8,7 +8,7 @@ tags:
 ---
 
 # Purple Worm Sting
-![[systems-pf2e-icons-spells-purple-worm-sting.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-purple-worm-sting.webp|150]]
 
 You replicate the attack of a deadly purple worm. You deal 3d6 piercing damage to the touched creature and afflict it with purple worm venom. The target must attempt a Fortitude save.
 

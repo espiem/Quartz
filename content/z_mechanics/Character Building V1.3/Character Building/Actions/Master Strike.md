@@ -9,7 +9,7 @@ tags:
 
 # Master Strike `pf2:0`
 
-**Trigger** Your Strike hits an [[Off-Guard]] creature and deals damage.
+**Trigger** Your Strike hits an [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] creature and deals damage.
 
 * * *
 
@@ -21,6 +21,6 @@ The target attempts a DC resolve fortitude save against your class DC. It then b
 
 **Success** The target is [[Enfeebled 1|Enfeebled 2]] until the end of your next turn.
 
-**Failure** The target is [[Paralyzed]] for 4 rounds.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] for 4 rounds.
 
-**Critical Failure** The target is paralyzed for 4 rounds, knocked [[Unconscious]] for 2 hours, or killed (your choice).
+**Critical Failure** The target is paralyzed for 4 rounds, knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] for 2 hours, or killed (your choice).

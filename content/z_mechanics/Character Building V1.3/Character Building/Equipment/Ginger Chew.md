@@ -8,7 +8,7 @@ tags:
 ---
 
 # Ginger Chew
-![[icons-consumables-vegetable-root-ginger-yellow.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-consumables-vegetable-root-ginger-yellow.webp|150]]
 
 This chewy ginger candy aids digestion and soothes unsettled stomachs. A ginger chew lasts for 1 hour and grants you a +1 item bonus to Fortitude saves against being sickened.
 

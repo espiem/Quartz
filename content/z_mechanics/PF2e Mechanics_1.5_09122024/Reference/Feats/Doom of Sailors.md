@@ -18,7 +18,7 @@ license: ORC
 ---
 # Doom of Sailors `pf2:2`
 ## Feat 17
-### [[auditory]][[concentrate]][[emotion]][[fear]][[mental]][[merfolk]][[primal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[merfolk]][[primal]]
 
 **Category** ancestry; 
 
@@ -35,11 +35,11 @@ Sailors know that the sight of an angry merfolk might well mean that they never 
 
 **Critical Success** The target is unaffected.
 
-**Success** The target takes half damage and is [[Conditions/Frightened|Frightened 1]] as it glimpses its demise.
+**Success** The target takes half damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]] as it glimpses its demise.
 
 **Failure** The target takes full damage and is frightened 1. In addition, it rolls twice for all skill checks and saving throws it attempts until the end of its next turn and takes the worse result; this is a misfortune effect.
 
-**Critical Failure** As failure, except double damage and [[Conditions/Frightened|Frightened 2]].
+**Critical Failure** As failure, except double damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

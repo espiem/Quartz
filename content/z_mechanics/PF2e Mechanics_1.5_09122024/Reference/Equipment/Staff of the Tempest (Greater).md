@@ -15,7 +15,7 @@ license: ORC
 ---
 # Staff of the Tempest (Greater)
 ## Item 10
-### [[magical]][[staff]][[two-hand-d8]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[staff]][[two-hand-d8]]
 
 |  |  |
 | -- | -- |
@@ -26,7 +26,7 @@ license: ORC
 
 
 
-A _staff of the tempest_ is usually crafted from the wood of a tree struck by lightning. It's often gnarled and blackened with the occasional spark of electricity flashing from its length. While wielding the staff, your vision is less inhibited by stormy weather. While you hold the staff, you ignore the [[Conditions/Concealed|Concealed]] condition from mist, precipitation, and the like.
+A _staff of the tempest_ is usually crafted from the wood of a tree struck by lightning. It's often gnarled and blackened with the occasional spark of electricity flashing from its length. While wielding the staff, your vision is less inhibited by stormy weather. While you hold the staff, you ignore the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] condition from mist, precipitation, and the like.
 
 * * *
 

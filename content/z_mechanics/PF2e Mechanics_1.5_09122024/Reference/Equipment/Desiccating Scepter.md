@@ -10,7 +10,7 @@ license: OGL
 ---
 # Desiccating Scepter
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 150 gp; 
@@ -33,9 +33,9 @@ Often wielded by priests of cruel desert gods, this thin scepter is carved from 
 
 **Success** The target takes half damage.
 
-**Failure** The target takes full damage and is [[Conditions/Slowed|Slowed 1]].
+**Failure** The target takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]].
 
-**Critical Failure** As failure, but the target is [[Conditions/Slowed|Slowed 2]].
+**Critical Failure** As failure, but the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]].
 
 *Source: Pathfinder Adventure: The Enmity Cycle*
 *OGL*

@@ -26,7 +26,7 @@ A set of _spiral chimes_ is a planar key for _[[Interplanar Teleport]]_ and simi
 
 * * *
 
-**Effect** You ring the chimes, blanketing everything in a 30 foot burst within 120 feet in visible, reverberating sound. This can negate invisibility, making creatures [[Concealed]] instead of [[Invisible]]. The duration and other effects depend on the result of each creature's attempt at a DC 30 reflex save.
+**Effect** You ring the chimes, blanketing everything in a 30 foot burst within 120 feet in visible, reverberating sound. This can negate invisibility, making creatures [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] instead of [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]]. The duration and other effects depend on the result of each creature's attempt at a DC 30 reflex save.
 
 * * *
 
@@ -34,6 +34,6 @@ A set of _spiral chimes_ is a planar key for _[[Interplanar Teleport]]_ and simi
 
 **Success** The target's invisibility is negated for 2 rounds.
 
-**Failure** The target is [[Deafened]] for 1 minute, and its invisibility is negated for 1 minute.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 minute, and its invisibility is negated for 1 minute.
 
 **Critical Failure** The target is deafened for 10 minutes, and its invisibility is negated for 10 minutes.

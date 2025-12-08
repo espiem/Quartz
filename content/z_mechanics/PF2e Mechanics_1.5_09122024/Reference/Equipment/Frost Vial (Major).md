@@ -17,7 +17,7 @@ license: ORC
 ---
 # Frost Vial (Major)
 ## Item 17
-### [[alchemical]][[bomb]][[cold]][[consumable]][[splash]]
+### [[alchemical]][[bomb]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Cold]][[consumable]][[splash]]
 
 |  |  |
 | -- | -- |
@@ -37,7 +37,7 @@ The bright blue liquid reagents in this vial rapidly absorb heat when exposed to
 
 You gain a +3 item bonus to attack rolls, the bomb deals 4d6 cold damage and 4 cold splash damage, and the target takes a -15-foot penalty.
 
-[[Equipment Effects/Effect_ Frost Vial (Major)|Effect: Frost Vial (Major)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Frost Vial (Major)|Effect: Frost Vial (Major)]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

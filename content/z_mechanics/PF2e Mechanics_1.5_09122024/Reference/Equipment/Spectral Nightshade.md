@@ -14,7 +14,7 @@ license: OGL
 ---
 # Spectral Nightshade
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]][[ingested]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[ingested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 450 gp; 
@@ -33,11 +33,11 @@ Belladonna cultivated in planes hazardous to living visitors, such as the Shadow
 
 **Maximum Duration** 6 minutes
 
-**Stage 1** 10d6 poison damage and [[Conditions/Dazzled|Dazzled]](1 minute)
+**Stage 1** 10d6 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]](1 minute)
 
 **Stage 2** 13d6 poison damage and [[Conditions/Drained|Drained 1]] (1 minute)
 
-**Stage 3** 15d6 poison damage, [[Conditions/Confused|Confused]], and [[Conditions/Drained|Drained 2]] (1 minute)
+**Stage 3** 15d6 poison damage, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]], and [[Conditions/Drained|Drained 2]] (1 minute)
 
 * * *
 

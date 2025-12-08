@@ -12,7 +12,7 @@ license: OGL
 ---
 # Pipes of Compulsion
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[coda]][[occult]][[staff]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[coda]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[staff]]
 
 
 **Price** 90 gp; 

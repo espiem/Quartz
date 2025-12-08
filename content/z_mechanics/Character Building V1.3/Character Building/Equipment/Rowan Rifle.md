@@ -8,7 +8,7 @@ tags:
 ---
 
 # Rowan Rifle
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-rowan-rifle-electricity.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-specific-magic-weapons-rowan-rifle-electricity.webp|150]]
 
 In a dense forest within Arcadia, djezet fell from the sky millennia ago, even before Earthfall. While this metal was poisonous to most of the plant life growing nearby, one stubborn rowan tree refused to die, its roots slowly absorbing djezet in small particles from the ground until the entire plant was suffused with it. Fey bowyers discovered the remarkable plant and coaxed it into growing into a very particular shape, its branching trunks woven together into a tightly twisted and naturally rifled barrel.
 
@@ -32,7 +32,7 @@ As a weapon forged to protect the fey peoples of Arcadia, the _Rowan Rifle's_ en
 
 * * *
 
-**Effect** The _Rowan Rifle_ fires a 60 foot line of liquid djezet that wraps around all creatures in the affected area before hardening, which impedes them with metallic vines unless the affected creature succeeds at a DC 35 reflex save. A creature who fails the save takes a -15-foot circumstance penalty to their Speeds, and a creature who critically fails is [[Immobilized]]. A creature who succeeds at a DC 35 [[Escape]] check ends this effect. Otherwise, the djezet vines last for 10 minutes before crumbling away.
+**Effect** The _Rowan Rifle_ fires a 60 foot line of liquid djezet that wraps around all creatures in the affected area before hardening, which impedes them with metallic vines unless the affected creature succeeds at a DC 35 reflex save. A creature who fails the save takes a -15-foot circumstance penalty to their Speeds, and a creature who critically fails is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]]. A creature who succeeds at a DC 35 [[Escape]] check ends this effect. Otherwise, the djezet vines last for 10 minutes before crumbling away.
 
 * * *
 

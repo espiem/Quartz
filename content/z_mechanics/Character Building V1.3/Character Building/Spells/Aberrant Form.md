@@ -8,7 +8,7 @@ tags:
 ---
 
 # Aberrant Form
-![[icons-creatures-claws-claw-talons-glowing-purple.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-claws-claw-talons-glowing-purple.webp|150]]
 
 Harnessing the power of vile entities, you transform yourself into a Large aberration. You must have enough space to expand into or the spell is lost. When you cast this spell, choose chuul, gogiteth, gug, or otyugh. While in this form, you gain the aberration trait. You can Dismiss the spell.
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Orchestral Brooch
-![[systems-pf2e-icons-equipment-consumables-talismans-orchestral-brooch.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-talismans-orchestral-brooch.webp|150]]
 
 **Usage** affixed to armor
 

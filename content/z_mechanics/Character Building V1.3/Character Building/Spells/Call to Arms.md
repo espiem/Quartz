@@ -8,7 +8,7 @@ tags:
 ---
 
 # Call to Arms
-![[icons-sundries-flags-banner-flag-red-white.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-sundries-flags-banner-flag-red-white.webp|150]]
 
 **Trigger** You are about to roll for initiative.
 

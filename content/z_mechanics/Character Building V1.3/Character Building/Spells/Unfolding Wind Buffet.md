@@ -8,7 +8,7 @@ tags:
 ---
 
 # Unfolding Wind Buffet
-![[icons-magic-air-fog-gas-smoke-swirling-white.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-air-fog-gas-smoke-swirling-white.webp|150]]
 
 You surround your unarmed attacks with the speed and force of air. Make three unarmed Strikes against the same target. If at least one was a successful hit, the target must attempt a Fortitude save or be pushed back 5 feet for each normal hit from the buffet, plus 10 feet for each critical hit.
 
@@ -20,4 +20,4 @@ You surround your unarmed attacks with the speed and force of air. Make three un
 
 **Failure** The target is pushed back the normal distance.
 
-**Critical Failure** The target is pushed back double the normal distance and then knocked [[Prone]].
+**Critical Failure** The target is pushed back double the normal distance and then knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].

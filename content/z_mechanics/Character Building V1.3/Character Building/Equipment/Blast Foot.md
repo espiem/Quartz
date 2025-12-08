@@ -8,7 +8,7 @@ tags:
 ---
 
 # Blast Foot
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-blast-boots.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-worn-items-other-worn-items-blast-boots.webp|150]]
 
 These prosthetic feet and legs, created by dwarven alchemists and spellcasters together, are engraved with simple but effective evocation symbols on the ball and heel, empowering you to leap to great heights and blast foes with your feet.
 

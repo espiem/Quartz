@@ -16,6 +16,6 @@ tags:
 
 You summon an aura of shimmering heat.
 
-For 1 minute, you gain [[Concealed|Concealment]] against creatures more than 5 feet away, and any creature that ends its turn within 5 feet of you suffers 1d12 fire damage (DC resolve reflex save using your class DC or spell DC, whichever is higher).
+For 1 minute, you gain [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealment]] against creatures more than 5 feet away, and any creature that ends its turn within 5 feet of you suffers 1d12 fire damage (DC resolve reflex save using your class DC or spell DC, whichever is higher).
 
 At 2d12 fire{13th} and 3d12 fire{17th} level, this damage increases by 1d12.

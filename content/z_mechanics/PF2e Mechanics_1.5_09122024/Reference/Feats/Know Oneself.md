@@ -12,7 +12,7 @@ license: OGL
 ---
 # Know Oneself `pf2:r`
 ## Feat 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fortune]][[human]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[fortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Human]]
 
 **Category** ancestry; 
 

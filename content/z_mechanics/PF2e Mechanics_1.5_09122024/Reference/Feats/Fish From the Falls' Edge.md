@@ -15,7 +15,7 @@ license: ORC
 ---
 # Fish From the Falls' Edge `pf2:r`
 ## Feat 10
-### [[divine]][[exemplar]][[healing]][[vitality]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[exemplar]][[healing]][[vitality]]
 
 **Category** class; 
 

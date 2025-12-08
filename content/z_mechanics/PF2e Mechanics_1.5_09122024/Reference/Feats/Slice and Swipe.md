@@ -13,7 +13,7 @@ license: OGL
 ---
 # Slice and Swipe `pf2:1`
 ## Feat 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[flourish]][[manipulate]][[rogue]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[flourish]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 

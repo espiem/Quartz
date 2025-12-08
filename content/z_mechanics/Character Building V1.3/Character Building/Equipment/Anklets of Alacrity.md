@@ -8,7 +8,7 @@ tags:
 ---
 
 # Anklets of Alacrity
-![[icons-equipment-neck-collar-rounded-gold-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-equipment-neck-collar-rounded-gold-blue.webp|150]]
 
 These gem-studded golden anklets give you a +3 item bonus to Acrobatics checks. When you invest the anklets, you either increase your Dexterity score by 2 or increase it to 18, whichever would give you a higher score.
 

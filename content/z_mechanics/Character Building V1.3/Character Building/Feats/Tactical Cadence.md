@@ -10,4 +10,4 @@ tags:
 # Tactical Cadence
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively. When you grant allies the quickened condition using Cadence Call, they can use the extra action to either Stride or Strike, and they aren't [[Slowed]] on their following turn if they use the extra action.
+Your remarkable breath control and concise instructions allow you to coordinate your allies more effectively. When you grant allies the quickened condition using Cadence Call, they can use the extra action to either Stride or Strike, and they aren't [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] on their following turn if they use the extra action.

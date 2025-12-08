@@ -12,7 +12,7 @@ license: OGL
 ---
 # Vengeful Oath
 ## Feat 2
-### [[champion]][[oath]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]][[oath]]
 
 **Category** class; 
 

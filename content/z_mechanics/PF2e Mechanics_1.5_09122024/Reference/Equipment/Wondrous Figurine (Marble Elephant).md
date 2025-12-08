@@ -10,7 +10,7 @@ license: OGL
 ---
 # Wondrous Figurine (Marble Elephant)
 ## Item 13
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 2700 gp; 

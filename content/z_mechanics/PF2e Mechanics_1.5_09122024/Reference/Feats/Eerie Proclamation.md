@@ -18,7 +18,7 @@ license: OGL
 ---
 # Eerie Proclamation `pf2:2`
 ## Feat 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[auditory]][[concentrate]][[curse]][[druid]][[linguistic]][[manipulate]][[primal]][[ranger]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Curse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Druid]][[linguistic]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[primal]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]]
 
 **Category** class; 
 
@@ -49,8 +49,8 @@ You know there are places in the world that are just wrong-places where the bird
 | --- | --- | --- |
 | 1 | [[Conditions/Clumsy\|Clumsy 2]] | [[Conditions/Clumsy\|Clumsy 3]] |
 | 2 | [[Conditions/Enfeebled\|Enfeebled 2]] | [[Conditions/Enfeebled\|Enfeebled 3]] |
-| 3 | [[Conditions/Stupefied\|Stupefied 2]] | [[Conditions/Stupefied\|Stupefied 3]] |
-| 4 | [[Conditions/Dazzled\|Dazzled]] | [[Conditions/Blinded\|Blinded]] for 1 round, then [[Conditions/Dazzled\|Dazzled]] |
+| 3 | [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied\|Stupefied 2]] | [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied\|Stupefied 3]] |
+| 4 | [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled\|Dazzled]] | [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded\|Blinded]] for 1 round, then [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled\|Dazzled]] |
 
 *Source: Pathfinder Dark Archive*
 *OGL*

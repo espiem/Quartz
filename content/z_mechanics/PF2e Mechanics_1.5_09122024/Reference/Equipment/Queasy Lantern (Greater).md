@@ -11,7 +11,7 @@ license: OGL
 ---
 # Queasy Lantern (Greater)
 ## Item 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[light]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[light]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 13500 gp; 

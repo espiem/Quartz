@@ -14,13 +14,13 @@ tags:
 
 # Overreaction
 
-> Normal damage. The target triggers reactions as if it just used a move action. It is also [[Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
+> Normal damage. The target triggers reactions as if it just used a move action. It is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
 
 `Piercing`
 
 # Paper Cut
 
-> The target takes a [[Other Effects/Effect_ -2 circumstance penalty to attack rolls|-2 circumstance penalty to attack rolls]] until the end of its next turn.
+> The target takes a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -2 circumstance penalty to attack rolls|-2 circumstance penalty to attack rolls]] until the end of its next turn.
 
 `Slashing`
 

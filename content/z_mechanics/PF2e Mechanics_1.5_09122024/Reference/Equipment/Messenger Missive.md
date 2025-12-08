@@ -13,7 +13,7 @@ license: OGL
 ---
 # Messenger Missive
 ## Item 4
-### [[consumable]][[magical]][[missive]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[missive]]
 
 **Category** other; 
 **Price** 18 gp; 

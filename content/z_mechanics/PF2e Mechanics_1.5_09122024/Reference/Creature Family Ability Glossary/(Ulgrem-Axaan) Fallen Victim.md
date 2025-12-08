@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-**Effect** Ulgrem-Axaan attempts a jaws Strike against the creature. If successful, Ulgrem-Axaan immediately [[Conditions/Grabbed|Grabs]] the creature, and the creature takes an additional 2d10 bludgeoning damage.
+**Effect** Ulgrem-Axaan attempts a jaws Strike against the creature. If successful, Ulgrem-Axaan immediately [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabs]] the creature, and the creature takes an additional 2d10 bludgeoning damage.
 
 *Source: Pathfinder Lost Omens: Monsters of Myth*
 *OGL*

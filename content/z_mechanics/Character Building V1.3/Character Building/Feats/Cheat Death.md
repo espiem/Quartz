@@ -14,6 +14,6 @@ tags:
 
 * * *
 
-Somehow you always escape the reaper by a hair's breadth. You avoid being knocked out or killed and remain at 1 Hit Point, but you become [[Doomed|Doomed 1]] (or increase your doomed value by 1 if you were already doomed).
+Somehow you always escape the reaper by a hair's breadth. You avoid being knocked out or killed and remain at 1 Hit Point, but you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]] (or increase your doomed value by 1 if you were already doomed).
 
 You can't reduce or ignore the doomed condition from Cheating Death. The doomed condition from Cheating Death lasts for 10 minutes, though this doesn't affect the duration of any other doomed condition you have.

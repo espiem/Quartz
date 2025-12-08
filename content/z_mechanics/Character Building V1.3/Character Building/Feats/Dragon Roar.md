@@ -14,7 +14,7 @@ tags:
 
 * * *
 
-You bellow, instilling fear in your enemies. Enemies within a 15 foot emanation must succeed at a Will save against your Intimidation DC or be [[Frightened|Frightened 1]] ([[Frightened|Frightened 2]] on a critical failure). When a creature frightened by the roar begins its turn adjacent to you, it can't reduce its frightened value below 1 on that turn.
+You bellow, instilling fear in your enemies. Enemies within a 15 foot emanation must succeed at a Will save against your Intimidation DC or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]] ([[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] on a critical failure). When a creature frightened by the roar begins its turn adjacent to you, it can't reduce its frightened value below 1 on that turn.
 
 Your first attack that hits a frightened creature after you roar and before the end of your next turn gains a +4 circumstance bonus to damage.
 

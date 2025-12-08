@@ -15,7 +15,7 @@ license: ORC
 ---
 # Hemlock
 ## Item 17
-### [[alchemical]][[consumable]][[ingested]][[poison]]
+### [[alchemical]][[consumable]][[ingested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 2250 gp; 

@@ -11,7 +11,7 @@ license: ORC
 ---
 # Spectacles of Discernment
 ## Item 13
-### [unique](unique "Unique Rarity Trait")[[magical]]
+### [unique](unique "Unique Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 3000 gp; 

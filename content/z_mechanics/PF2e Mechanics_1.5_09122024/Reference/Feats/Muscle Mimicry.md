@@ -13,7 +13,7 @@ license: OGL
 ---
 # Muscle Mimicry `pf2:r`
 ## Feat 7
-### [[archetype]][[concentrate]][[skill]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[skill]]
 
 **Category** skill; 
 

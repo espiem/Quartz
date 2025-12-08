@@ -15,7 +15,7 @@ license: OGL
 ---
 # Rally
 
-### [[auditory]][[emotion]][[exploration]][[linguistic]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[exploration]][[linguistic]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** interaction; 
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Solar Rejuvenation
 ## Feat 9
-### [[ghoran]][[leshy]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Ghoran]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Leshy]]
 
 **Category** ancestry; 
 

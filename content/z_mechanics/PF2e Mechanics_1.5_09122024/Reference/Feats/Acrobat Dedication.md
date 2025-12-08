@@ -23,7 +23,7 @@ license: ORC
 * * *
 You become an expert in Acrobatics. At 7th level, you become a master in Acrobatics, and at 15th level, you become legendary in Acrobatics. Whenever you critically succeed at an Acrobatics check to [[Actions/Tumble Through|Tumble Through]] an enemy's space, you don't treat the enemy's space as difficult terrain.
 
-[[PF2e Journals/Archetypes/Acrobat|Acrobat]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Acrobat|Acrobat]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

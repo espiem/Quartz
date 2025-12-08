@@ -21,7 +21,7 @@ license: ORC
 
 **Frequency** once per hour
 
-**Trigger** You would gain the [[Conditions/Fatigued|Fatigued]] condition.
+**Trigger** You would gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]] condition.
 
 * * *
 

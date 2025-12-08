@@ -10,7 +10,7 @@ tags:
 # Spider Lily Tattoo
 ![[systems-pf2e-icons-equipment-tattoos-warding-tattoo.webp|150]]
 
-The spider lily tattoo marks you as a trusted member of Granny Hu's network. This crimson tattoo fades and becomes [[Invisible]] within a day of being applied, reappearing only when you Activate it, when you gain the [[Doomed]] condition, or when you die. The higher the doomed value, the more vivid the color.
+The spider lily tattoo marks you as a trusted member of Granny Hu's network. This crimson tattoo fades and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]] within a day of being applied, reappearing only when you Activate it, when you gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed]] condition, or when you die. The higher the doomed value, the more vivid the color.
 
 If your tattoo is plainly visible, you gain a +1 item bonus to Intimidation checks against all creatures that can see the tattoo, but you take a –1 item penalty to Diplomacy checks to [[Make an Impression]] on those who understand the actual meaning of the spider lily tattoo (including all of Willowshore's citizens).
 

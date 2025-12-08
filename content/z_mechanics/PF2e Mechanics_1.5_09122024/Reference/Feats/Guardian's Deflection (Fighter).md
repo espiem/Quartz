@@ -12,7 +12,7 @@ license: ORC
 ---
 # Guardian's Deflection (Fighter) `pf2:r`
 ## Feat 6
-### [[fighter]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]]
 
 **Category** class; 
 
@@ -27,7 +27,7 @@ license: ORC
 
 You use your weapon to deflect the attack against your ally, granting a +2 circumstance bonus to their Armor Class against the triggering attack. This turns the triggering critical hit into a hit, or the triggering hit into a miss.
 
-[[Feat_Feature Effects/Effect_ Guardian's Deflection|Effect: Guardian's Deflection]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Guardian's Deflection|Effect: Guardian's Deflection]]
 
 *Source: Pathfinder Player Core*
 *ORC*

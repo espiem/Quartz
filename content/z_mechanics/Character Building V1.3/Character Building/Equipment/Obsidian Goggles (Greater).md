@@ -8,7 +8,7 @@ tags:
 ---
 
 # Obsidian Goggles (Greater)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-goggles-of-night.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-worn-items-other-worn-items-goggles-of-night.webp|150]]
 
 The sleek, black lenses of these goggles somehow make everything seem more brightly lit. While wearing the goggles, you gain a +2 item bonus to Perception checks involving sight.
 

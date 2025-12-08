@@ -12,7 +12,7 @@ license: ORC
 ---
 # Mage's Hat
 ## Item 3
-### [[arcane]][[invested]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[invested]]
 
 
 **Price** 50 gp; 

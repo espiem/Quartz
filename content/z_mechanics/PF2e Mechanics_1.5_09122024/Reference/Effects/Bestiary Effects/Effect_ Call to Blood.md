@@ -16,7 +16,7 @@ license: OGL
 
 
 
-The creature gains a +2 status bonus to attack rolls against [[Conditions/Off-Guard|Off-Guard]] creatures.
+The creature gains a +2 status bonus to attack rolls against [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] creatures.
 
 *Source: Pathfinder Bestiary 2*
 *OGL*

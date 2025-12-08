@@ -18,7 +18,7 @@ license: OGL
 ---
 # Vexing Vapor (Greater)
 ## Item 11
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[inhaled]][[mental]][[poison]][[splash]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[bomb]][[consumable]][[inhaled]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[splash]]
 
 |  |  |
 | -- | -- |

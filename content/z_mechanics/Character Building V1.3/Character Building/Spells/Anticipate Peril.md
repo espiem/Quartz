@@ -8,7 +8,7 @@ tags:
 ---
 
 # Anticipate Peril
-![[systems-pf2e-icons-spells-anticipate-peril.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-anticipate-peril.webp|150]]
 
 You grant the target brief foresight. The target gains a +1 status bonus to its next initiative roll, after which the spell ends.
 

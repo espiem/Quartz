@@ -8,7 +8,7 @@ tags:
 ---
 
 # Conch of Otherworldly Seas
-![[icons-environment-creatures-shell-conch-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-environment-creatures-shell-conch-blue.webp|150]]
 
 Magical writing covers the surface of this beautiful conch shell, which emits a blue light from inside. A _conch of otherworldly seas_ is a virtuoso handheld musical instrument that grants a +2 item bonus to Performance checks attempted while using it.
 

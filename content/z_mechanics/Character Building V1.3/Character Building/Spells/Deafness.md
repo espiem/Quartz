@@ -16,7 +16,7 @@ The target loses hearing; it must attempt a Fortitude save. The target is then t
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Deafened]] for 1 round.
+**Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 round.
 
 **Failure** The target is Deafened for 10 minutes.
 

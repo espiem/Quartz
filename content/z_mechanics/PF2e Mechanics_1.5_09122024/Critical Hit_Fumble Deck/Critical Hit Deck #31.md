@@ -20,12 +20,12 @@ tags:
 
 # Across the Eyes
 
-> Normal damage. **Crit Effect:** The target is [[Conditions/Blinded|Blinded]] until healed.
+> Normal damage. **Crit Effect:** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] until healed.
 
 `Slashing`
 
 # Slowed Down
 
-> The target is [[Conditions/Slowed|Slowed 2]] for 1 round.
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]] for 1 round.
 
 `Bomb or Spell`

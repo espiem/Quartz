@@ -23,7 +23,7 @@ license: ORC
 * * *
 You make a point of always having a few toxins near at hand—you never know when some arsenic or the like might prove useful. You gain the advanced alchemy benefits. You can use advanced alchemy to create four alchemical poison consumables each day. You remember alchemical poison formulas and don't need a formula book for them.
 
-[[PF2e Journals/Archetypes/Poisoner|Poisoner]]
+[[Poisoner|Poisoner]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

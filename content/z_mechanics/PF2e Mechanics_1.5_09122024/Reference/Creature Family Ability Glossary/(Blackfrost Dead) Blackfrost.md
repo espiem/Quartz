@@ -14,7 +14,7 @@ license: OGL
 ---
 # (Blackfrost Dead) Blackfrost
 
-### [[cold]][[curse]][[disease]][[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Cold]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Curse]][[disease]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** offensive; 
 

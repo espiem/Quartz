@@ -10,4 +10,4 @@ tags:
 # Watchful Gaze
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You use your many eyes to look in all directions at once, making you extremely observant for a short period of time. You gain [[All-Around Vision]] until the start of your next turn. This lets you see in all directions and prevents you from being flanked.
+You use your many eyes to look in all directions at once, making you extremely observant for a short period of time. You gain [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/All-Around Vision]] until the start of your next turn. This lets you see in all directions and prevents you from being flanked.

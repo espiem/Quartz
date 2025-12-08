@@ -12,4 +12,4 @@ tags:
 
 Your blade ally thirsts for the blood of your foes.
 
-Whenever you critically hit an enemy with the weapon inhabited by your blade ally while dealing extra damage from your champion's reaction, the target takes [[Persistent Damage|Persistent Bleed Damage]] equal to two of the weapon's damage dice.
+Whenever you critically hit an enemy with the weapon inhabited by your blade ally while dealing extra damage from your champion's reaction, the target takes [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Persistent Damage|Persistent Bleed Damage]] equal to two of the weapon's damage dice.

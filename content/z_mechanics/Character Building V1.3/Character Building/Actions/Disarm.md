@@ -21,4 +21,4 @@ You try to knock an item out of a creature's grasp. Attempt an Athletics check a
 
 **Success** You weaken your target's grasp on the item. Further attempts to Disarm the target of that item gain a +2 circumstance bonus, and the target takes a -2 circumstance penalty to attacks with the item or other checks requiring a firm grasp on the item. The creature can end the effect by [[Interact|Interacting]] to change its grip on the item; otherwise, it lasts as long as the creature holds the item.
 
-**Critical Failure** You lose your balance and become [[Off-Guard]] until the start of your next turn.
+**Critical Failure** You lose your balance and become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the start of your next turn.

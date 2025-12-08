@@ -14,7 +14,7 @@ license: ORC
 ---
 # Among Humanity
 ## Feat 5
-### [[occult]][[polymorph]][[yaoguai]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[polymorph]][[yaoguai]]
 
 **Category** ancestry; 
 

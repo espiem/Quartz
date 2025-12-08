@@ -13,7 +13,7 @@ license: OGL
 ---
 # Arcane Cascade `pf2:1`
 
-### [[concentrate]][[magus]][[stance]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Magus]][[stance]]
 
 **Category** offensive; 
 

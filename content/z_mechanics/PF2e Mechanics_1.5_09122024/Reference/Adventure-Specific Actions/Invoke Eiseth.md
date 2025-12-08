@@ -15,7 +15,7 @@ license: OGL
 ---
 # Invoke Eiseth `pf2:1`
 
-### [[auditory]][[concentrate]][[emotion]][[linguistic]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[linguistic]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** offensive; 
 
@@ -30,11 +30,11 @@ license: OGL
 
 * * *
 
-**Critical Success** Lorthact becomes [[Conditions/Frightened|Frightened 2]] and [[Conditions/Slowed|Slowed 1]].
+**Critical Success** Lorthact becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]].
 
 **Success** Lorthact becomes frightened 2.
 
-**Failure** Lorthact becomes [[Conditions/Frightened|Frightened 1]].
+**Failure** Lorthact becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
 **Critical Failure** Your floundering attempt backfires and instead amuses Lorthact; he is temporarily immune to all attempts to Invoke Eiseth until the end of your next turn.
 

@@ -16,7 +16,7 @@ license: ORC
 ---
 # King's Sleep
 ## Item 18
-### [[alchemical]][[consumable]][[ingested]][[poison]][[virulent]]
+### [[alchemical]][[consumable]][[ingested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[virulent]]
 
 **Category** poison; 
 **Price** 4000 gp; 

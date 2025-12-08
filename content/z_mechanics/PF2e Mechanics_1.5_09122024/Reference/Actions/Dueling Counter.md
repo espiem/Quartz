@@ -12,7 +12,7 @@ license: ORC
 ---
 # Dueling Counter `pf2:r`
 
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** defensive; 
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Bow Staff
 ## Item 0
-### [[combination]][[deadly-d8]][[monk]]
+### [[combination]][[deadly-d8]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 |  |  |
 | -- | -- |

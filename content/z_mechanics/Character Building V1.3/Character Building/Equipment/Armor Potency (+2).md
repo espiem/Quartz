@@ -8,7 +8,7 @@ tags:
 ---
 
 # Armor Potency (+2)
-![[systems-pf2e-icons-equipment-runes-fundamental-armor-runes-armor-potency.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-runes-fundamental-armor-runes-armor-potency.webp|150]]
 
 Magic wards deflect attacks. Increase the armor's item bonus to AC by 2. The armor can be etched with two property runes.
 

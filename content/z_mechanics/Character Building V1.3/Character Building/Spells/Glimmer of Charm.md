@@ -16,8 +16,8 @@ You're bathed in a smooth, almost glittering aura that improves the attitude of 
 
 **Critical Success** The creature is unaffected and is aware of the aura.
 
-**Success** The creature's attitude toward you improves by one step. If that improves its attitude to at least [[Indifferent]], it can't take hostile actions against you, though the effect ends as soon as you take a hostile action against the creature or its allies.
+**Success** The creature's attitude toward you improves by one step. If that improves its attitude to at least [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Indifferent]], it can't take hostile actions against you, though the effect ends as soon as you take a hostile action against the creature or its allies.
 
 **Failure** The creature's attitude toward you improves by two steps. It can't take hostile actions against you, though the effect ends as soon as you take a hostile action against the creature or its allies.
 
-**Critical Failure** The creature's attitude becomes [[Helpful]] to you, though the effect ends as soon as you take a hostile action against the creature or its allies. While the creature is helpful, it can't take hostile actions against you.
+**Critical Failure** The creature's attitude becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Helpful]] to you, though the effect ends as soon as you take a hostile action against the creature or its allies. While the creature is helpful, it can't take hostile actions against you.

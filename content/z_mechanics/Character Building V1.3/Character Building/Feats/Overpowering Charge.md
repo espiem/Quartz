@@ -10,4 +10,4 @@ tags:
 # Overpowering Charge
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You trample foes as you charge past. When you use Barreling Charge and successfully move through a creature's space, that creature takes bludgeoning damage equal to your Strength modifier. On a critical success, the creature takes double damage and is [[Off-Guard]] until the end of your next turn.
+You trample foes as you charge past. When you use Barreling Charge and successfully move through a creature's space, that creature takes bludgeoning damage equal to your Strength modifier. On a critical success, the creature takes double damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the end of your next turn.

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Swarming
-![[systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-runes-weapon-property-runes-weapon-property-runes.webp|150]]
 
 Able to copy itself many times over when thrown until the air is filled with deadly blades, a swarming weapon turns a single weapon into a shower of devastation.
 

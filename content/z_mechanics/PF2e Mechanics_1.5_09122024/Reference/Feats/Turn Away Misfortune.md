@@ -15,7 +15,7 @@ license: OGL
 ---
 # Turn Away Misfortune `pf2:r`
 ## Feat 2
-### [[esoterica]][[fortune]][[manipulate]][[occult]][[thaumaturge]]
+### [[esoterica]][[fortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]]
 
 **Category** class; 
 

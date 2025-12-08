@@ -18,4 +18,4 @@ At 5th level, the eidolon's ability score that was reduced to 16 increases to 18
 
 * * *
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[Summoner]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Summoner]] archetype.

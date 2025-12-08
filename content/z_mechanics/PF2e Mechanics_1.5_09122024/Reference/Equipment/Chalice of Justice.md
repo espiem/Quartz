@@ -15,7 +15,7 @@ license: ORC
 ---
 # Chalice of Justice
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[holy]][[versatile-p]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[holy]][[versatile-p]]
 
 |  |  |
 | -- | -- |
@@ -34,7 +34,7 @@ This gleaming golden sword is a _+2 greater striking holy cold iron longsword_ g
 
 **Frequency** once per day
 
-**Effect** The pommel of the weapon transmutes into the shape of a miniature chalice. You drink deep from the chalice and regain HP equal to the chalice's level. If you're holy, you regain double the HP, and for 1 minute, whenever you critically hit an unholy creature with the _chalice of justice_, the creature takes 2d6 persistent spirit damage, and it's [[Conditions/Slowed|Slowed 1]] for 1 round. The persistent spirit damage has the holy trait.
+**Effect** The pommel of the weapon transmutes into the shape of a miniature chalice. You drink deep from the chalice and regain HP equal to the chalice's level. If you're holy, you regain double the HP, and for 1 minute, whenever you critically hit an unholy creature with the _chalice of justice_, the creature takes 2d6 persistent spirit damage, and it's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] for 1 round. The persistent spirit damage has the holy trait.
 
 [[Equipment Effects/Effect_ Sip of Justice|Effect: Sip of Justice]]
 

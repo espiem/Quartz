@@ -18,7 +18,7 @@ If the ritual is successful, sentient undead and other spirits become less hosti
 
 * * *
 
-**Critical Success** Haunts and undead in the settlement that are level 3 or lower become easier to defeat. Reduce all Disable DCs for affected haunts in the settlement by 2, and all affected undead within the settlement begin combat [[Frightened|Frightened 1]]. If the PCs perform this ritual during this adventure, they gain 3 Hope Points.
+**Critical Success** Haunts and undead in the settlement that are level 3 or lower become easier to defeat. Reduce all Disable DCs for affected haunts in the settlement by 2, and all affected undead within the settlement begin combat [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]]. If the PCs perform this ritual during this adventure, they gain 3 Hope Points.
 
 **Success** Haunts in the settlement that are level 3 or lower become easier to notice and defeat. Reduce all Disable DCs for affected haunts in the settlement by 1. If the PCs perform this ritual during this adventure, they gain 1 Hope Point.
 

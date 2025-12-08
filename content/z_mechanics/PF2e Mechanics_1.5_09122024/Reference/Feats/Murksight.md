@@ -12,14 +12,14 @@ license: ORC
 ---
 # Murksight
 ## Feat 8
-### [[witch]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Witch]]
 
 **Category** class; 
 
 
 
 
-Your vision pierces through non-magical fog, mist, rain, and snow. You don't take circumstance penalties to ranged attacks or Perception checks caused by non-magical precipitation, and your targeted attacks don't require a flat check to succeed against a target [[Conditions/Concealed|Concealed]] only by such effects.
+Your vision pierces through non-magical fog, mist, rain, and snow. You don't take circumstance penalties to ranged attacks or Perception checks caused by non-magical precipitation, and your targeted attacks don't require a flat check to succeed against a target [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] only by such effects.
 
 *Source: Pathfinder Player Core*
 *ORC*

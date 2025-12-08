@@ -8,7 +8,7 @@ tags:
 ---
 
 # Tremorsense
-![[icons-environment-wilderness-terrain-rocky-ground.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-environment-wilderness-terrain-rocky-ground.webp|150]]
 
 You become aware of vibrations in the ground around you. You gain tremorsense as an imprecise sense with a range of 30 feet. As normal for tremorsense, you can detect a creature only if it's on the same surface as you and only if the subject is moving along (or burrowing through) the surface.
 

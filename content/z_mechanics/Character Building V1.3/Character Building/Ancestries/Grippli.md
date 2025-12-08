@@ -12,4 +12,4 @@ tags:
 
 _Gripplis are a shy and cautious people who generally seek to avoid being drawn into the complicated and dangerous affairs of others. Despite their outlook and small stature, gripplis often take bold and noble action when the situation demands it._
 
-_[[Grippli]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Grippli]]_

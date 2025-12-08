@@ -8,6 +8,6 @@ tags:
 ---
 
 # Spyglass
-![[systems-pf2e-icons-equipment-adventuring-gear-spyglass.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-adventuring-gear-spyglass.webp|150]]
 
 A typical spyglass lets you see eight times farther than normal.

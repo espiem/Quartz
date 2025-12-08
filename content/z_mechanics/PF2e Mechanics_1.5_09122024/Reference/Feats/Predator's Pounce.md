@@ -14,7 +14,7 @@ license: ORC
 ---
 # Predator's Pounce `pf2:1`
 ## Feat 12
-### [[barbarian]][[flourish]][[rage]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[flourish]][[rage]]
 
 **Category** class; 
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Energy Robe of Electricity
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-energy-robe-of-electricity.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-worn-items-other-worn-items-energy-robe-of-electricity.webp|150]]
 
 This brightly colored linen robe is covered in delicate embroidery depicting creatures and natural phenomena suiting its aligned energy, such as a living thunderclap, pools of acid, roaring flames, or dancing marids. You gain resistance 5 to electricity.
 

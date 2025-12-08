@@ -10,7 +10,7 @@ license: OGL
 ---
 # Cursebreak Bulwark
 ## Item 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 14500 gp; 

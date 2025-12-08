@@ -8,7 +8,7 @@ tags:
 ---
 
 # Awaken Object
-![[systems-pf2e-icons-spells-plant-form.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-plant-form.webp|150]]
 
 You imbue a single Small or smaller object with rudimentary awareness and consciousness, and it gains mental ability modifiers depending on the results of the ritual. It gains the ability to see and hear, and the ability to understand (but not speak) a single language that you know. It's indifferent to you and all living creatures. In all other respects, it's an ordinary object of its type. An awakened object that gains the broken condition is rendered insensate until Repaired above its Broken Threshold.
 
@@ -22,4 +22,4 @@ Magical objects and constructs can't be awakened, nor can most spell or magic it
 
 **Failure** The target is unaffected and the ritual fails.
 
-**Critical Failure** The target is unaffected, and the primary caster's intellect is trapped in the object for 24 hours. During this time, their original body is [[Unconscious]] and inert and can't be awakened by any means.
+**Critical Failure** The target is unaffected, and the primary caster's intellect is trapped in the object for 24 hours. During this time, their original body is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] and inert and can't be awakened by any means.

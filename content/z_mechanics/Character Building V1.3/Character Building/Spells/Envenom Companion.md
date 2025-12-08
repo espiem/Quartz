@@ -8,7 +8,7 @@ tags:
 ---
 
 # Envenom Companion
-![[icons-creatures-mammals-elk-moose-marked-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-mammals-elk-moose-marked-green.webp|150]]
 
 You envenom your companion or eidolon's attacks, which drip with highly toxic venom for the spell's duration. The first time each round the target hits a creature with an unarmed Strike that deals piercing or slashing damage, that Strike deals an additional 1d8 poison damage. A creature that is damaged by this poison must attempt a Fortitude save. On a failure, it's also [[Clumsy 1]] for 1 round. This spell can't target familiars.
 

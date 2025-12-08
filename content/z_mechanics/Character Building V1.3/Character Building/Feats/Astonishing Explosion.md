@@ -16,4 +16,4 @@ tags:
 
 * * *
 
-Your bomb incorporates an explosive spark of wonder that leaves witnesses dumbfounded. Any target hit by your Strike with the bomb is [[Fascinated]] by you for 1 round. On a critical success, the target is also [[Stunned 1]].
+Your bomb incorporates an explosive spark of wonder that leaves witnesses dumbfounded. Any target hit by your Strike with the bomb is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] by you for 1 round. On a critical success, the target is also [[Stunned 1]].

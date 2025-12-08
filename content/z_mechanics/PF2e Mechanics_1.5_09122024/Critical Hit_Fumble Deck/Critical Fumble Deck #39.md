@@ -26,6 +26,6 @@ tags:
 
 # Can you hear me Now?
 
-> Until healed, you are [[Conditions/Deafened|Deafened]].
+> Until healed, you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]].
 
 `Spell`

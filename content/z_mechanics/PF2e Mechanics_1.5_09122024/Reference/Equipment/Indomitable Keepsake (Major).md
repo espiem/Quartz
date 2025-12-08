@@ -14,7 +14,7 @@ license: OGL
 ---
 # Indomitable Keepsake (Major)
 ## Item 15
-### [[consumable]][[fortune]][[magical]][[talisman]]
+### [[consumable]][[fortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 1200 gp; 

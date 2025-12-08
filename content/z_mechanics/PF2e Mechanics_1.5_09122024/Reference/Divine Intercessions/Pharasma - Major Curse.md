@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Pharasma wills the end of your life and your lineage. You become unable to have children (or otherwise procreate by any means, including create spawn abilities) and are permanently [[Conditions/Doomed|Doomed 2]].
+Pharasma wills the end of your life and your lineage. You become unable to have children (or otherwise procreate by any means, including create spawn abilities) and are permanently [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 2]].
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

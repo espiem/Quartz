@@ -13,7 +13,7 @@ license: OGL
 ---
 # Jyoti's Feather (Greater)
 ## Item 14
-### [[healing]][[magical]][[spellheart]][[vitality]]
+### [[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellheart]][[vitality]]
 
 
 **Price** 4100 gp; 
@@ -25,9 +25,9 @@ A _jyoti's feather_ is a shimmering red and gold feather, seeming almost metalli
 *   **Armor** You gain a +3 item bonus to saving throws against death effects and void energy.
 *   **Weapon** The weapon has the _disrupting_ rune while the _feather_ is affixed.
 
-[[Equipment Effects/Effect_ Jyoti's Feather - Armor (Greater)|Effect: Jyoti's Feather - Armor (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Jyoti's Feather - Armor (Greater)|Effect: Jyoti's Feather - Armor (Greater)]]
 
-[[Equipment Effects/Effect_ Jyoti's Feather - Weapon (Greater)|Effect: Jyoti's Feather - Weapon (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Jyoti's Feather - Weapon (Greater)|Effect: Jyoti's Feather - Weapon (Greater)]]
 
 * * *
 

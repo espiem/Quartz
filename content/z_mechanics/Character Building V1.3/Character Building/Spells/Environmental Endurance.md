@@ -10,7 +10,7 @@ tags:
 ---
 
 # Environmental Endurance
-![[systems-pf2e-icons-spells-endure-elements.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-endure-elements.webp|150]]
 
 You shield the target against dangerous temperatures. Choose severe cold or heat. The target is protected from the temperature you chose (but not extreme cold or heat).
 

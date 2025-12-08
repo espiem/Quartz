@@ -8,6 +8,6 @@ tags:
 ---
 
 # Sun's Fury
-![[systems-pf2e-icons-spells-suns-fury.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-suns-fury.webp|150]]
 
 The target weapon becomes wreathed in a glowing flame. The weapon deals an additional 1d4 fire and 1 spirit damage on a successful Strike. In addition, the flame causes the weapon to glow as bright as a torch. You can Dismiss the spell.

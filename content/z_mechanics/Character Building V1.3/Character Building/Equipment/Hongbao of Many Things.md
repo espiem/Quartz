@@ -24,7 +24,7 @@ This enchanted long, red envelope is decorated with beautiful illustrations in g
 4.  A stuffed bunny dressed in red robes.
 5.  50 feet of coiled silk [[Rope]].
 6.  A bottle of snake wine.
-7.  A wooden, horse-drawn [[Wagon]].
+7.  A wooden, horse-drawn [[z_mechanics/PF2e Mechanics_1.5_09122024/Vehicles/Wagon]].
 8.  A musical [[Musical Instrument (Handheld)]] made out of a ram's horn.
 9.  A collapsible metal-banded bo [[Staff]].
 10.  An ornate jeweled egg.

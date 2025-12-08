@@ -14,7 +14,7 @@ license: OGL
 ---
 # Knockout Dram
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[ingested]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[ingested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 70 gp; 
@@ -33,7 +33,7 @@ This soporific chemical comes in liquid form and is virtually undetectable by ta
 
 **Maximum Duration** 10 hours
 
-**Stage 1** fall [[Conditions/Unconscious|Unconscious]] and can't attempt Perception checks to wake up (1 minute)
+**Stage 1** fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] and can't attempt Perception checks to wake up (1 minute)
 
 **Stage 2** sleep normally (1d4 hours)
 

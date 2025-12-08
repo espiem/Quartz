@@ -8,7 +8,7 @@ tags:
 ---
 
 # Breath of Life
-![[icons-magic-life-heart-shadow-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-life-heart-shadow-red.webp|150]]
 
 **Trigger** A living creature within range would die.
 

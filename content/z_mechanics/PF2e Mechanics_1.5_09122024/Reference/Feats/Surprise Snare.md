@@ -13,7 +13,7 @@ license: ORC
 ---
 # Surprise Snare `pf2:3`
 ## Feat 4
-### [[archetype]][[manipulate]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** class; 
 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Blood Sap
 ## Item 1
-### [[alchemical]][[consumable]][[drug]][[ingested]][[poison]]
+### [[alchemical]][[consumable]][[drug]][[ingested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** drug; 
 **Price** 4 gp; 
@@ -36,7 +36,7 @@ This potent drug is distilled from a certain tropical vine into a deep-red syrup
 
 **Stage 1** [[Conditions/Drained|Drained 1]], +1 item bonus to weapon and unarmed attack rolls, Acrobatics checks, and Athletics checks (10 minutes)
 
-**Stage 2** [[Conditions/Slowed|Slowed 1]] (1 hour)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] (1 hour)
 
 *Source: Pathfinder Gamemastery Guide*
 *OGL*

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Resonant Reflection: Reflection of Life
 ## Feat 5
-### [[healing]][[magical]]
+### [[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** deityboon; 
 
@@ -31,7 +31,7 @@ You regain double the normal number of Hit Points when resting (meaning you rega
 
 **Effect** You gain fast healing 3 for 1 minute. This amount of fast healing increases by 1 for every 2 levels you have beyond 5th level.
 
-[[Campaign Effects/Effect_ Reflection of Life (Fast Healing)|Effect: Reflection of Life (Fast Healing)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Campaign Effects/Effect_ Reflection of Life (Fast Healing)|Effect: Reflection of Life (Fast Healing)]]
 
 *Source: Pathfinder #151: The Show Must Go On*
 *OGL*

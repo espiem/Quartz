@@ -8,7 +8,7 @@ tags:
 ---
 
 # Geas
-![[systems-pf2e-icons-spells-geas.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-geas.webp|150]]
 
 You enforce a magic rule on a willing target, forcing it to either perform or refrain from carrying out a certain act. A _geas_ to perform an act is usually conditional, such as, "Always offer hospitality to strangers seeking a place to stay." An unconditional _geas_ to perform a certain act doesn't require the target to perform that act exclusively, though it must prioritize the task above all leisurely pursuits. The most common _geas_ to refrain from carrying out an act is a specification to avoid violating a contract. In those cases, the secondary caster usually takes charge of making sure the wording of the contract is attuned correctly with the ritual's magic. Because the target is willing, _geas_ can have a duration that lasts for as long as the target agrees to. If the target is unable to fulfill the _geas_, it becomes [[Sickened 1]], and the sickened condition increases by 1 for each consecutive day it is prevented from following the _geas_, to a maximum of sickened 4. The sickened condition ends immediately when it follows the _geas_ again; it can't remove the sickened condition in any other way. Only powerful magic such as a _[[Wish]]_ ritual can remove the effects of _geas_ from a willing target.
 

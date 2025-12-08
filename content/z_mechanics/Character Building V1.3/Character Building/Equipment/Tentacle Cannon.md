@@ -24,7 +24,7 @@ A _tentacle cannon_ is a _+1 striking_ weapon, built using components from squid
 
 **Activate** 1 Interact
 
-**Requirements** The _tentacle cannon_ has a creature [[Grabbed]]
+**Requirements** The _tentacle cannon_ has a creature [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]]
 
 * * *
 
@@ -38,7 +38,7 @@ A _tentacle cannon_ is a _+1 striking_ weapon, built using components from squid
 
 * * *
 
-**Effect** The cannon fires a spray of ink in a 15 foot cone. Creatures in the area must attempt a DC 23 reflex save. On a failure, the creature is covered in ink and becomes [[Blinded]] for 1 round and [[Dazzled]] for 1 minute or until it removes the ink. On a critical failure, the creature becomes blinded and dazzled; both conditions last for 1 minute or until it removes the ink. The creature, or an adjacent creature, can use an Interact action to remove the ink from its eyes to remove the blinded and dazzled conditions.
+**Effect** The cannon fires a spray of ink in a 15 foot cone. Creatures in the area must attempt a DC 23 reflex save. On a failure, the creature is covered in ink and becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 minute or until it removes the ink. On a critical failure, the creature becomes blinded and dazzled; both conditions last for 1 minute or until it removes the ink. The creature, or an adjacent creature, can use an Interact action to remove the ink from its eyes to remove the blinded and dazzled conditions.
 
 * * *
 

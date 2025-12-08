@@ -22,8 +22,8 @@ This oil, which is pressed from vrock spores and mixed with a combination of aca
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 4d6 mental damage, [[Quickened|Quickened 1]], attack nearby creatures as if [[Confused]] (1 round)
+**Stage 1** 4d6 mental damage, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened 1]], attack nearby creatures as if [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] (1 round)
 
 **Stage 2** 6d6 mental damage, attack nearby creatures as if confused (1 round)
 
-**Stage 3** 8d6 mental damage, [[Fatigued]], attack nearby creatures as if confused (1 round)
+**Stage 3** 8d6 mental damage, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]], attack nearby creatures as if confused (1 round)

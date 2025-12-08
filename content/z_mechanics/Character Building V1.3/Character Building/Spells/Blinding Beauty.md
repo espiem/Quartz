@@ -16,8 +16,8 @@ You channel the allure of your nymph bloodline into a terribly beautiful glance.
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Dazzled]] until the start of its next turn.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] until the start of its next turn.
 
-**Failure** The creature is [[Blinded]] until the start of its next turn.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] until the start of its next turn.
 
 **Critical Failure** The creature is Blinded for 1 minute.

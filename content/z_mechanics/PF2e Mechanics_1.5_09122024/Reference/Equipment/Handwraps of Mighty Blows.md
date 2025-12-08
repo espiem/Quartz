@@ -15,7 +15,7 @@ license: ORC
 ---
 # Handwraps of Mighty Blows
 ## Item 2
-### [[invested]][[magical]][[unarmed]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[unarmed]]
 
 |  |  |
 | -- | -- |

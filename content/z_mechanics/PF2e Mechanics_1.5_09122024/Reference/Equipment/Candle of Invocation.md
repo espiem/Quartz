@@ -12,7 +12,7 @@ license: OGL
 ---
 # Candle of Invocation
 ## Item 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[divine]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 **Category** other; 
 **Price** 2000 gp; 

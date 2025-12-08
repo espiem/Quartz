@@ -10,7 +10,7 @@ tags:
 # Felling Shot
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-Your ranged attacks can shoot an unprepared foe right out of the air. Make a ranged Strike against an [[Off-Guard]] creature. If the Strike is a success and deals damage, the target must attempt a DC resolve reflex save against your class DC.
+Your ranged attacks can shoot an unprepared foe right out of the air. Make a ranged Strike against an [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] creature. If the Strike is a success and deals damage, the target must attempt a DC resolve reflex save against your class DC.
 
 * * *
 

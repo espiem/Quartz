@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Warrior of Legend Dedication
 * * *
-**Requirements** You are [[Conditions/Doomed|Doomed 2]] or greater.
+**Requirements** You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 2]] or greater.
 
 * * *
 

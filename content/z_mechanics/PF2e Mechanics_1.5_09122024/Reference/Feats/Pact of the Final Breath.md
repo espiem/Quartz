@@ -12,7 +12,7 @@ license: OGL
 ---
 # Pact of the Final Breath
 ## Feat 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[divine]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 **Category** class; 
 

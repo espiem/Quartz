@@ -12,7 +12,7 @@ license: OGL
 ---
 # Thunderblast Slippers
 ## Item 9
-### [[invested]][[magical]][[sonic]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[sonic]]
 
 
 **Price** 650 gp; 
@@ -27,7 +27,7 @@ Unassuming in appearance, these slippers indicate their nature only with a signa
 
 **Frequency** once per day
 
-**Effect** You move like the wind, with precision and speed. You Stride up to 60 feet; this movement doesn't trigger reactions. When you stop, if you've moved at least 30 feet from where you started, you release a thunderous 5-foot emanation that deals 2d6 bludgeoning damage and 2d6 sonic damage with a DC 25 Fortitude check. A creature that critically fails its save is also knocked [[Conditions/Prone|Prone]].
+**Effect** You move like the wind, with precision and speed. You Stride up to 60 feet; this movement doesn't trigger reactions. When you stop, if you've moved at least 30 feet from where you started, you release a thunderous 5-foot emanation that deals 2d6 bludgeoning damage and 2d6 sonic damage with a DC 25 Fortitude check. A creature that critically fails its save is also knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

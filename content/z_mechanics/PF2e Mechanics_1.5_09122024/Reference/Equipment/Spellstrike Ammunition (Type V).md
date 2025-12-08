@@ -13,7 +13,7 @@ license: ORC
 ---
 # Spellstrike Ammunition (Type V)
 ## Item 11
-### [[consumable]][[magical]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** ammo; 
 **Price** 300 gp; 

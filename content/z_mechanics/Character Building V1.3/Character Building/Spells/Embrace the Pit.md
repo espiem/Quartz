@@ -8,7 +8,7 @@ tags:
 ---
 
 # Embrace the Pit
-![[systems-pf2e-icons-spells-embrace-the-pit.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-embrace-the-pit.webp|150]]
 
 Devil horns grow from your skull, and your skin takes on features of the devil responsible for your diabolic bloodline. You gain resistance 5 to fire, poison, and unholy, and resistance 1 to physical damage (except silver). You gain weakness 5 to holy.
 

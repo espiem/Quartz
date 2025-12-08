@@ -14,7 +14,7 @@ tags:
 
 # Aching Back
 
-> You are [[Conditions/Fatigued|Fatigued]].
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]].
 
 `Ranged`
 

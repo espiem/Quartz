@@ -34,7 +34,7 @@ In addition, you gain resistance to poison equal to half your level. You gain a 
 
 #### Major Curse (11th)
 
-You stand just steps from the grave. You become [[Conditions/Wounded|Wounded 1]]. This wounded condition is removed only when you Refocus; effects that normally remove the wounded condition reduce your wounded condition to wounded 1 instead.
+You stand just steps from the grave. You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded|Wounded 1]]. This wounded condition is removed only when you Refocus; effects that normally remove the wounded condition reduce your wounded condition to wounded 1 instead.
 
 When you would attempt a recovery check, you can choose to get an automatic success instead of rolling, and if you roll a critical failure on a save against a disease, poison, or death effect, you get a failure instead.
 

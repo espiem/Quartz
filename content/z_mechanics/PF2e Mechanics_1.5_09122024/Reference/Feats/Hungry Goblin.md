@@ -11,7 +11,7 @@ license: OGL
 ---
 # Hungry Goblin
 ## Feat 9
-### [[goblin]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Goblin]]
 
 **Category** ancestry; 
 
@@ -19,9 +19,9 @@ license: OGL
 
 **Prerequisites** Fang Sharpener
 * * *
-You'll eat anything and anyone. Whenever you inflict [[Conditions/Persistent Damage|Persistent Bleed Damage]] with your jaws unarmed attack, you gain temporary Hit Points equal to half your level for 1 minute.
+You'll eat anything and anyone. Whenever you inflict [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Persistent Damage|Persistent Bleed Damage]] with your jaws unarmed attack, you gain temporary Hit Points equal to half your level for 1 minute.
 
-[[Feat_Feature Effects/Effect_ Hungry Goblin|Effect: Hungry Goblin]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Hungry Goblin|Effect: Hungry Goblin]]
 
 *Source: Pathfinder Lost Omens: Character Guide*
 *OGL*

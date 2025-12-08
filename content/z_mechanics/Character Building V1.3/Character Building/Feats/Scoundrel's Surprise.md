@@ -10,4 +10,4 @@ tags:
 # Scoundrel's Surprise
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You drop your disguise at the right moment and surprise your target. After you [[Impersonate]] someone else using a disguise kit, you can remove your disguise with a dramatic gesture. Any creatures that previously failed to see through your disguise are [[Off-Guard]] against the next attack you make before the end of your turn.
+You drop your disguise at the right moment and surprise your target. After you [[Impersonate]] someone else using a disguise kit, you can remove your disguise with a dramatic gesture. Any creatures that previously failed to see through your disguise are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] against the next attack you make before the end of your turn.

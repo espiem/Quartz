@@ -8,7 +8,7 @@ tags:
 ---
 
 # Monstrosity Form
-![[systems-pf2e-icons-spells-monstrosity-form.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-monstrosity-form.webp|150]]
 
 You transform into the shape of a legendary monster, assuming a Huge battle form. You must have enough space to expand into or the spell is lost. When you cast this spell, choose phoenix, cave worm, or sea serpent. While in this form, you gain the beast trait (for phoenix) or the animal trait (for cave worm or sea serpent). You can Dismiss the spell.
 
@@ -32,7 +32,7 @@ You also gain specific abilities based on the type of monster you choose:
     *   **Melee** 1 jaws (reach 10 feet), **Damage** 2d12+20 piercing;
     *   **Melee** 1 stinger (agile, reach 10 feet), **Damage** 2d8+15 piercing plus 2d6 persistent poison;
     *   **Melee** 1 body (reach 10 feet) **Damage** 2d8+20 bludgeoning;
-    *   **Inexorable** You automatically recover from the [[Paralyzed]], [[Slowed|Slowed]], and [[Stunned 1|Stunned]] conditions at the end of each of your turns. You're also immune to being [[Immobilized]] and ignore difficult terrain and greater difficult terrain.
+    *   **Inexorable** You automatically recover from the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed]], and [[Stunned 1|Stunned]] conditions at the end of each of your turns. You're also immune to being [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] and ignore difficult terrain and greater difficult terrain.
 *   **Sea Serpent**
     *   Speed 20 feet, swim Speed 90 feet;
     *   **Melee** 1 jaws (reach 15 feet), **Damage** 2d12+20 piercing;

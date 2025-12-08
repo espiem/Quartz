@@ -11,7 +11,7 @@ license: OGL
 ---
 # Champion's Reaction
 ## Feat 1
-### [[champion]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]]
 
 **Category** classfeature; 
 

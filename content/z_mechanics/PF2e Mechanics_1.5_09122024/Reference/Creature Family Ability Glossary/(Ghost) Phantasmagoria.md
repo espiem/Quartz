@@ -16,7 +16,7 @@ license: OGL
 ---
 # (Ghost) Phantasmagoria `pf2:3`
 
-### [[auditory]][[divine]][[illusion]][[mental]][[olfactory]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[olfactory]][[visual]]
 
 **Category** interaction; 
 

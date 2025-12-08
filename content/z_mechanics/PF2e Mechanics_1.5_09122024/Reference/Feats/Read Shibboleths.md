@@ -28,7 +28,7 @@ If a target of this ability is being deceptive about their social environment, s
 
 Once you've gleaned one or more true minor facts about a person, you can then incorporate these mannerisms into your speech to present yourself in a way that they find familiar. This grants you a +1 circumstance bonus to your Diplomacy and Deception checks with them.
 
-[[Feat_Feature Effects/Effect_ Read Shibboleths|Effect: Read Shibboleths]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Read Shibboleths|Effect: Read Shibboleths]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

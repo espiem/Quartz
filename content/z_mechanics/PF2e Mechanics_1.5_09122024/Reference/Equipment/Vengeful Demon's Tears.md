@@ -13,7 +13,7 @@ license: OGL
 ---
 # Vengeful Demon's Tears
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[potion]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 160 gp; 
@@ -22,7 +22,7 @@ license: OGL
 
 **Activate** `pf2:1` Interact
 
-Vengeful demon's tears is an infamously noxious spirit mixed into a potent magical cocktail and traditionally packaged in a gourd adorned with an engraving of a terrifying demonic face. Drinking it feels akin to lighting your throat on fire and putting it out with an herbal tonic. When you activate this potion, you gain the [[Conditions/Quickened|Quickened]] condition for 3 rounds and can use the extra action each round to Strike, Stride, or to take the following action.
+Vengeful demon's tears is an infamously noxious spirit mixed into a potent magical cocktail and traditionally packaged in a gourd adorned with an engraving of a terrifying demonic face. Drinking it feels akin to lighting your throat on fire and putting it out with an herbal tonic. When you activate this potion, you gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened]] condition for 3 rounds and can use the extra action each round to Strike, Stride, or to take the following action.
 
 * * *
 

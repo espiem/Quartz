@@ -22,7 +22,7 @@ Opening this vial releases a mighty gust, forming into a fearsome Huge elemental
 
 **Failure** The creature is pushed 20 feet.
 
-**Critical Failure** The creature is pushed 20 feet and knocked [[Prone]].
+**Critical Failure** The creature is pushed 20 feet and knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].
 
 * * *
 

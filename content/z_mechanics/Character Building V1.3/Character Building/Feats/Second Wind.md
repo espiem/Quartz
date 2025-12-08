@@ -10,4 +10,4 @@ tags:
 # Second Wind
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You can enter a second rage, but afterward you need to catch your breath. You can Rage without waiting for 1 minute after the previous Rage (or 1 round, with quick rage), but when you end this second Rage, you're [[Fatigued]] until you rest for 10 minutes.
+You can enter a second rage, but afterward you need to catch your breath. You can Rage without waiting for 1 minute after the previous Rage (or 1 round, with quick rage), but when you end this second Rage, you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] until you rest for 10 minutes.

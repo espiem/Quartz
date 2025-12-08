@@ -21,6 +21,6 @@ If the target is evil, it takes a -2 circumstance penalty to its save. Regardles
 
 **Success** The target can't use reactions.
 
-**Failure** The target is [[Slowed]] and can't use reactions.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] and can't use reactions.
 
-**Critical Failure** As failure, and the target is also [[Confused]] for 1 round. The confusion can't be extended, but the other effects can.
+**Critical Failure** As failure, and the target is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] for 1 round. The confusion can't be extended, but the other effects can.

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Invisible Chain Shirt
 ## Item 13
-### [[comfort]][[flexible]][[invested]][[magical]]
+### [[comfort]][[flexible]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** light; **Group** chain
 **Price** 2750 gp; 
@@ -31,7 +31,7 @@ This _+2 resilient [[Equipment/Invisibility|Invisibility]] chain shirt_ is itsel
 
 * * *
 
-**Effect** You Stride and turn partially invisible, becoming [[Conditions/Concealed|Concealed]] until the end of your next turn or until you use a hostile action, whichever comes first. As normal, you can use the concealment from this activation to [[Actions/Hide|Hide]].
+**Effect** You Stride and turn partially invisible, becoming [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] until the end of your next turn or until you use a hostile action, whichever comes first. As normal, you can use the concealment from this activation to [[Actions/Hide|Hide]].
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

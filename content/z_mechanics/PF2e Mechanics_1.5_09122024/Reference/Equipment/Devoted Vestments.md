@@ -13,7 +13,7 @@ license: ORC
 ---
 # Devoted Vestments
 ## Item 11
-### [[divine]][[focused]][[invested]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[focused]][[invested]]
 
 
 **Price** 1250 gp; 

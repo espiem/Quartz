@@ -18,7 +18,7 @@ license: OGL
 ---
 # Ghost Ampoule
 ## Item 4
-### [[alchemical]][[auditory]][[consumable]][[divine]][[emotion]][[expandable]][[fear]][[mental]]
+### [[alchemical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[expandable]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** other; 
 **Price** 20 gp; 
@@ -27,7 +27,7 @@ license: OGL
 
 **Activate** `pf2:2` Interact
 
-A daub of ectoplasm twitches within this glass container, faintly glowing with ghostly light. When opened it forms the echo of a departed spirit, which looks like a Medium ghost. You can throw the ampoule up to 30 feet when you Activate it. The ghost utters a final lament, forcing each living creature in a 15-foot emanation except you to attempt a DC 18 Will check save. On a failure, a creature becomes [[Conditions/Frightened|Frightened 2]] (or [[Conditions/Frightened|Frightened 3]] on a critical failure).
+A daub of ectoplasm twitches within this glass container, faintly glowing with ghostly light. When opened it forms the echo of a departed spirit, which looks like a Medium ghost. You can throw the ampoule up to 30 feet when you Activate it. The ghost utters a final lament, forcing each living creature in a 15-foot emanation except you to attempt a DC 18 Will check save. On a failure, a creature becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] (or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]] on a critical failure).
 
 * * *
 

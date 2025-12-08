@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bottle the Storm
-![[icons-magic-lightning-bolt-strike-blue-white.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-lightning-bolt-strike-blue-white.webp|150]]
 
 **Trigger** You would take electricity damage.
 

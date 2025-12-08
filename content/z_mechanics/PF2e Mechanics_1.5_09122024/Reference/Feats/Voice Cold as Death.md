@@ -17,7 +17,7 @@ license: OGL
 ---
 # Voice Cold as Death `pf2:1`
 ## Feat 7
-### [[archetype]][[auditory]][[concentrate]][[emotion]][[fear]][[mental]][[skill]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[skill]]
 
 **Category** skill; 
 
@@ -25,7 +25,7 @@ license: OGL
 
 **Prerequisites** Knight Reclaimant Dedication; master in Intimidation
 * * *
-**Requirements** You are not [[Conditions/Fatigued|Fatigued]].
+**Requirements** You are not [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]].
 
 * * *
 

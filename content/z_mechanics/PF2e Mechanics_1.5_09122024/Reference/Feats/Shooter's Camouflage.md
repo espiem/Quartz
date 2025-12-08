@@ -11,7 +11,7 @@ license: OGL
 ---
 # Shooter's Camouflage
 ## Feat 12
-### [[gunslinger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Gunslinger]]
 
 **Category** class; 
 
@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** master in Stealth
 * * *
-You specialize in blending into a particular type of environment, able to disappear after taking your shot. Choose either natural or urban terrain. In the chosen terrain, you can [[Actions/Hide|Hide]] and [[Actions/Sneak|Sneak]] even without cover or being [[Conditions/Concealed|Concealed]].
+You specialize in blending into a particular type of environment, able to disappear after taking your shot. Choose either natural or urban terrain. In the chosen terrain, you can [[Actions/Hide|Hide]] and [[Actions/Sneak|Sneak]] even without cover or being [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]].
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

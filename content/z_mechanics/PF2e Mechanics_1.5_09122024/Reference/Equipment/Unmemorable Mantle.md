@@ -12,7 +12,7 @@ license: OGL
 ---
 # Unmemorable Mantle
 ## Item 7
-### [[illusion]][[invested]][[magical]]
+### [[illusion]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 300 gp; 

@@ -10,4 +10,4 @@ tags:
 # Incredible Ricochet
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-After your first shot singles out your opponent's position, you direct another that ricochets around obstacles and strikes unerringly. Make a ranged weapon Strike against a creature you previously attacked this turn. You ignore the target's [[Concealed]] condition and all cover.
+After your first shot singles out your opponent's position, you direct another that ricochets around obstacles and strikes unerringly. Make a ranged weapon Strike against a creature you previously attacked this turn. You ignore the target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] condition and all cover.

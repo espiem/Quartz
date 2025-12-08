@@ -12,14 +12,14 @@ license: ORC
 ---
 # Between the Scales
 ## Feat 9
-### [[kobold]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Kobold]]
 
 **Category** ancestry; 
 
 
 
 
-You've learned to take advantage of slips in your foes' defenses. When you Strike an [[Conditions/Off-Guard|Off-Guard]] creature using a melee weapon or unarmed attack that has the agile and finesse traits, it gains the backstabber trait.
+You've learned to take advantage of slips in your foes' defenses. When you Strike an [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] creature using a melee weapon or unarmed attack that has the agile and finesse traits, it gains the backstabber trait.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -12,6 +12,6 @@ tags:
 
 You become an expert in Acrobatics. At 7th level, you become a master in Acrobatics, and at 15th level, you become legendary in Acrobatics.
 
-Whenever you critically succeed at an Acrobatics check to [[Tumble Through]] an enemy's space, you don't treat the enemy's space as difficult terrain.
+Whenever you critically succeed at an Acrobatics check to [[z_mechanics/PF2e Mechanics_1.5_09122024/Hero Point Deck/Tumble Through]] an enemy's space, you don't treat the enemy's space as difficult terrain.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[Acrobat]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/2-Mechanics V1.3/Bestiary/gm-guide/acrobat]] archetype.

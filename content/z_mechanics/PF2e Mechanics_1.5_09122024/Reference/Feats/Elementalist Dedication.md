@@ -32,7 +32,7 @@ This attunement lasts until you next make your daily preparations.
 
 **Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Elementalist|Elementalist]] archetype.
 
-[[Feat_Feature Effects/Effect_ Elementalist Dedication|Effect: Elementalist Dedication]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Elementalist Dedication|Effect: Elementalist Dedication]]
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

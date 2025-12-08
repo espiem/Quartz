@@ -12,9 +12,9 @@ tags:
 
 **Activate** f command
 
-**Trigger** You lose the [[Dying]] condition
+**Trigger** You lose the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying]] condition
 
-**Requirements** You have a [[Wounded]] value of 1 or more.
+**Requirements** You have a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded]] value of 1 or more.
 
 * * *
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Hallajin Key
 ## Item 7
-### [unique](unique "Unique Rarity Trait")[[intelligent]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[intelligent]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 

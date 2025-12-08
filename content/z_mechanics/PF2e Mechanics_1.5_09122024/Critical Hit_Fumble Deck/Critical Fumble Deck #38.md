@@ -8,7 +8,7 @@ tags:
 ---
 # Rang your own Bell
 
-> Until healed, you are [[Conditions/Deafened|Deafened]].
+> Until healed, you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]].
 
 `Melee`
 
@@ -26,6 +26,6 @@ tags:
 
 # The magic is Gone
 
-> You take a [[Other Effects/Effect_ -1 circumstance penalty to attack rolls until you score a critical hit|-1 circumstance penalty to attack rolls until you score a critical hit]].
+> You take a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -1 circumstance penalty to attack rolls until you score a critical hit|-1 circumstance penalty to attack rolls until you score a critical hit]].
 
 `Spell`

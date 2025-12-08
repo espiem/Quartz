@@ -22,6 +22,6 @@ This sweet-scented poison triggers vivid hallucinations in those who succumb to 
 
 **Stage 1** 2d6 slashing damage (1 round)
 
-**Stage 2** 2d6 slashing damage and [[Stupefied|Stupefied 1]] (1 round)
+**Stage 2** 2d6 slashing damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (1 round)
 
 **Stage 3** 2d6 slashing damage, [[Drained 1]], and stupefied 1

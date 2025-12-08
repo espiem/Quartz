@@ -15,4 +15,4 @@ tags:
 
 * * *
 
-You pick a precise moment to attack, giving you an edge. Your opponent is [[Off-Guard]] against the attack. If your opponent is using Deception for initiative when this ability is used, they are instead off-guard until the start of their next turn.
+You pick a precise moment to attack, giving you an edge. Your opponent is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] against the attack. If your opponent is using Deception for initiative when this ability is used, they are instead off-guard until the start of their next turn.

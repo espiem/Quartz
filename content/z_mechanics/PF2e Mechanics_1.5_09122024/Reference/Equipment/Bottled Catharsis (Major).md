@@ -26,7 +26,7 @@ license: ORC
 
 * * *
 
-This drink unlocks a flood of emotions that helps reset your mental state. When you drink this elixir, the elixir attempts to counteract at 9th-rank and has a +28 counteract modifier each effect on you that has the emotion trait or is inflicting the [[Conditions/Stupefied|Stupefied]] condition on you, using the listed counteract rank and modifier.
+This drink unlocks a flood of emotions that helps reset your mental state. When you drink this elixir, the elixir attempts to counteract at 9th-rank and has a +28 counteract modifier each effect on you that has the emotion trait or is inflicting the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied]] condition on you, using the listed counteract rank and modifier.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

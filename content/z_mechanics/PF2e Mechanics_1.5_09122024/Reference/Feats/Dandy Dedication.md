@@ -23,7 +23,7 @@ license: ORC
 * * *
 You are a consummate student of dignity, etiquette, and fashion. You become trained in Deception and Society; if you were already trained in either, you become an expert in it instead. You gain the [[Actions/Influence Rumor|Influence Rumor]] downtime activity.
 
-[[PF2e Journals/Archetypes/Dandy|Dandy]]
+[[Dandy|Dandy]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

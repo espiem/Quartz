@@ -16,8 +16,8 @@ You sow seeds of confusion in your target's mind, causing their actions and thou
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Clumsy 1]] and [[Stupefied|Stupefied 1]].
+**Success** The target is [[Clumsy 1]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]].
 
-**Failure** The target is [[Clumsy 1|Clumsy 2]] and [[Stupefied|Stupefied 2]].
+**Failure** The target is [[Clumsy 1|Clumsy 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]].
 
-**Critical Failure** The target is [[Clumsy 1|Clumsy 3]], [[Stupefied|Stupefied 3]], and [[Confused]].
+**Critical Failure** The target is [[Clumsy 1|Clumsy 3]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 3]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]].

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Underhanded Assault `pf2:2`
 ## Feat 2
-### [[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 
@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** trained in Stealth
 * * *
-You capitalize on the distraction provided by an ally. You [[Actions/Sneak|Sneak]] up to a foe adjacent to one of your allies. You can roll against the foe you're Sneaking up on, even if it's currently observing you, as though you were [[Conditions/Hidden|Hidden]]. You take a –2 penalty on your Stealth check. If your Stealth check against the chosen foe succeeds, you can make a melee Strike against that foe at the end of your Sneak.
+You capitalize on the distraction provided by an ally. You [[Actions/Sneak|Sneak]] up to a foe adjacent to one of your allies. You can roll against the foe you're Sneaking up on, even if it's currently observing you, as though you were [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]]. You take a –2 penalty on your Stealth check. If your Stealth check against the chosen foe succeeds, you can make a melee Strike against that foe at the end of your Sneak.
 
 *Source: Pathfinder Player Core*
 *ORC*

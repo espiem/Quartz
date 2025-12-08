@@ -11,7 +11,7 @@ license: OGL
 ---
 # Bend Space
 ## Feat 17
-### [uncommon](uncommon "Uncommon Rarity Trait")[[kashrishi]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Kashrishi]]
 
 **Category** ancestry; 
 

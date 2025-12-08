@@ -15,7 +15,7 @@ license: ORC
 ---
 # Hatchet
 ## Item 0
-### [[agile]][[sweep]][[thrown-10]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[sweep]][[thrown-10]]
 
 |  |  |
 | -- | -- |

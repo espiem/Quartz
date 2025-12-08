@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Path Maiden) Scorn Fate `pf2:2`
 
-### [[curse]][[misfortune]][[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Curse]][[misfortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** offensive; 
 

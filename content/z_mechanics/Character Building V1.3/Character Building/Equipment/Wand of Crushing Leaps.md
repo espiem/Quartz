@@ -18,7 +18,7 @@ This supple, light wooden wand drifts to the ground like a feather or leaf when 
 
 * * *
 
-**Effect** You cast _[[Jump]]_, but can jump up to 60 feet. When you land you shatter the ground, making each creature in a 5 foot emanation [[Off-Guard]] until the start of its next turn. In addition, the space you land in and all squares in the emanation become difficult terrain for 1 minute.
+**Effect** You cast _[[Jump]]_, but can jump up to 60 feet. When you land you shatter the ground, making each creature in a 5 foot emanation [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the start of its next turn. In addition, the space you land in and all squares in the emanation become difficult terrain for 1 minute.
 
 * * *
 

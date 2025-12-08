@@ -12,7 +12,7 @@ license: ORC
 ---
 # Lizardfolk
 
-### [uncommon](uncommon "Uncommon Rarity Trait")[[humanoid]][[lizardfolk]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[humanoid]][[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Lizardfolk]]
 
 
 
@@ -21,7 +21,7 @@ license: ORC
 
 _Lizardfolk are consummate survivors, heirs to empires considered ancient even by the elves._
 
-_[[PF2e Journals/Ancestries/Lizardfolk|Lizardfolk]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Lizardfolk|Lizardfolk]]_
 
 *Source: Pathfinder Player Core 2*
 *ORC*

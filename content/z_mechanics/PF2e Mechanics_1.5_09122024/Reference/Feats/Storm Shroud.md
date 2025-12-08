@@ -13,7 +13,7 @@ license: OGL
 ---
 # Storm Shroud `pf2:2`
 ## Feat 8
-### [[archetype]][[concentrate]][[divine]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 **Category** class; 
 
@@ -25,7 +25,7 @@ license: OGL
 
 * * *
 
-You become surrounded by a swirling storm of rain, sand, snow, or clouds, whichever of those suits your bound terrain. This activity has traits appropriate to the storm you create-typically earth for sand and water for rain, snow, or clouds. You become [[Conditions/Concealed|Concealed]] for 1 minute. You can't use this concealment to Hide or [[Actions/Sneak|Sneak]], as normal for concealment that makes your position obvious.
+You become surrounded by a swirling storm of rain, sand, snow, or clouds, whichever of those suits your bound terrain. This activity has traits appropriate to the storm you create-typically earth for sand and water for rain, snow, or clouds. You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] for 1 minute. You can't use this concealment to Hide or [[Actions/Sneak|Sneak]], as normal for concealment that makes your position obvious.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

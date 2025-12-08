@@ -13,7 +13,7 @@ license: OGL
 ---
 # Library Robes
 ## Item 9
-### [[inscribed]][[invested]][[magical]]
+### [[inscribed]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** unarmored; **Group** cloth
 **Price** 700 gp; 

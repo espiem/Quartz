@@ -8,7 +8,7 @@ tags:
 ---
 
 # Energy Adaptive
-![[systems-pf2e-icons-equipment-runes-armor-property-runes-armor-property-runes.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-runes-armor-property-runes-armor-property-runes.webp|150]]
 
 A complex pattern of protective symbols gives protection against various forms of energy, but only part of the runic structure can be active at a given time.
 

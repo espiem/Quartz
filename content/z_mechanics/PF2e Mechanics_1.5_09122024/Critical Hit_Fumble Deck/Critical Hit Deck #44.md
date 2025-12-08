@@ -14,7 +14,7 @@ tags:
 
 # Deep Hurting
 
-> **Crit Effect:** The target is [[Conditions/Fatigued|Fatigued]].
+> **Crit Effect:** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]].
 
 `Piercing`
 

@@ -16,4 +16,4 @@ tags:
 
 * * *
 
-This slimy green stone glows with a strong light whenever the shield it adorns blocks a melee attack. When the eye is activated, the attacker must succeed at a DC 25 fortitude save or become [[Slowed]] for 1 minute as its body slowly stiffens in partial petrification.
+This slimy green stone glows with a strong light whenever the shield it adorns blocks a melee attack. When the eye is activated, the attacker must succeed at a DC 25 fortitude save or become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] for 1 minute as its body slowly stiffens in partial petrification.

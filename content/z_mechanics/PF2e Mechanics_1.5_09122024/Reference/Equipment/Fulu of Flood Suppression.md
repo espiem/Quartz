@@ -13,7 +13,7 @@ license: OGL
 ---
 # Fulu of Flood Suppression
 ## Item 3
-### [[consumable]][[fulu]][[magical]]
+### [[consumable]][[fulu]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** fulu; 
 **Price** 10 gp; 

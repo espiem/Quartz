@@ -12,7 +12,7 @@ license: OGL
 ---
 # Saoc Astrology `pf2:1`
 ## Feat 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concentrate]][[human]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Human]]
 
 **Category** ancestry; 
 

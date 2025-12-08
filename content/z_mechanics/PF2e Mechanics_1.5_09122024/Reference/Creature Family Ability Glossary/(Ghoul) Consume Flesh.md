@@ -12,7 +12,7 @@ license: ORC
 ---
 # (Ghoul) Consume Flesh `pf2:1`
 
-### [[manipulate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** offensive; 
 

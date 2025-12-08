@@ -8,7 +8,7 @@ tags:
 ---
 
 # Paralyze
-![[systems-pf2e-icons-spells-paralyze.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-paralyze.webp|150]]
 
 You block the target's motor impulses before they can leave its mind, threatening to freeze the target in place. The target must attempt a Will save.
 
@@ -18,7 +18,7 @@ You block the target's motor impulses before they can leave its mind, threatenin
 
 **Success** The target is [[Stunned 1]].
 
-**Failure** The target is [[Paralyzed]] for 1 round.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] for 1 round.
 
 **Critical Failure** The target is Paralyzed for 4 rounds. At the end of each of its turns, it can attempt a new Will save to reduce the remaining duration by 1 round, or end it entirely on a critical success.
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Bleed Out `pf2:1`
 ## Feat 2
-### [[attack]][[sorcerer]]
+### [[attack]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]]
 
 **Category** class; 
 

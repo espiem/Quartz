@@ -16,14 +16,14 @@ license: ORC
 ---
 # Shadows Within Shadows `pf2:r`
 ## Feat 12
-### [[animist]][[apparition]][[divine]][[misfortune]][[wandering]]
+### [[animist]][[apparition]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[misfortune]][[wandering]]
 
 **Category** class; 
 
 
 
 
-**Trigger** You would be detected by an enemy Seeking you, or an enemy would succeed at a counteract check against a spell making you [[Conditions/Hidden|Hidden]], [[Conditions/Concealed|Concealed]], or [[Conditions/Undetected|Undetected]].
+**Trigger** You would be detected by an enemy Seeking you, or an enemy would succeed at a counteract check against a spell making you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Undetected|Undetected]].
 
 **Requirements** Your attuned apparition grants Hunting Lore or Underworld Lore as one of its apparition skills.
 

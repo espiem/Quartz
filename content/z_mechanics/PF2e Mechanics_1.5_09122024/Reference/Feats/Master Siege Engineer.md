@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Artillerist Dedication
 * * *
-What you don't know about artillery isn't worth knowing and your mastery allows you to perform an impossible number of actions as part of a siege weapon's crew. You're permanently [[Conditions/Quickened|Quickened]]. You can only use the extra action to Aim or Launch a siege weapon.
+What you don't know about artillery isn't worth knowing and your mastery allows you to perform an impossible number of actions as part of a siege weapon's crew. You're permanently [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened]]. You can only use the extra action to Aim or Launch a siege weapon.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

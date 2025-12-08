@@ -14,7 +14,7 @@ license: OGL
 ---
 # Mistaken Identity `pf2:r`
 ## Feat 5
-### [[concentrate]][[fortune]][[mental]][[reflection]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[fortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[reflection]]
 
 **Category** ancestry; 
 
@@ -27,7 +27,7 @@ license: OGL
 
 * * *
 
-You feel a strong connection with your progenitor and can convince yourself an effect targeting your mind was meant for theirs instead, allowing you to shrug off harmful effects. Roll the saving throw twice, and take the higher result. However, subsuming your identity is disturbing, and you're [[Conditions/Frightened|Frightened 1]].
+You feel a strong connection with your progenitor and can convince yourself an effect targeting your mind was meant for theirs instead, allowing you to shrug off harmful effects. Roll the saving throw twice, and take the higher result. However, subsuming your identity is disturbing, and you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
 *Source: Pathfinder Dark Archive*
 *OGL*

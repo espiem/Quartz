@@ -13,7 +13,7 @@ license: OGL
 ---
 # Resonant Guitar
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[metal]][[sonic]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[metal]][[sonic]]
 
 
 **Price** 1850 gp; 
@@ -32,7 +32,7 @@ A _resonant guitar_ is a planar key for [[Spells/Interplanar Teleport|Interplana
 
 **Effect** You play a magnetic tune, enchanting one metallic weapon within 60 feet of you. This item gains the [[Equipment/Thundering|Thundering]] rune for 1 hour.
 
-[[Equipment Effects/Effect_ Strum of Thunder|Effect: Strum of Thunder]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Strum of Thunder|Effect: Strum of Thunder]]
 
 * * *
 

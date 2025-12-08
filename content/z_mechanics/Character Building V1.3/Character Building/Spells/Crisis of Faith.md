@@ -8,7 +8,7 @@ tags:
 ---
 
 # Crisis of Faith
-![[icons-magic-holy-prayer-hands-glowing-yellow-white.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-holy-prayer-hands-glowing-yellow-white.webp|150]]
 
 You assault the target's faith, riddling the creature with doubt and mental turmoil that deal 6d6 mental damage, or 6d8 mental damage if it can cast divine spells. The effects are determined by its Will save.
 
@@ -20,9 +20,9 @@ To many deities, casting this spell on a follower of your own deity without sign
 
 **Success** The target takes half damage.
 
-**Failure** The target takes full damage; if the target can cast divine spells, it's [[Stupefied|Stupefied 1]] for 1 round.
+**Failure** The target takes full damage; if the target can cast divine spells, it's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for 1 round.
 
-**Critical Failure** The target takes double damage, is [[Stupefied|Stupefied 1]] for 1 round, and can't cast divine spells for 1 round.
+**Critical Failure** The target takes double damage, is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for 1 round, and can't cast divine spells for 1 round.
 
 * * *
 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Howler Pistol
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[magical]][[scatter-5]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[scatter-5]]
 
 |  |  |
 | -- | -- |

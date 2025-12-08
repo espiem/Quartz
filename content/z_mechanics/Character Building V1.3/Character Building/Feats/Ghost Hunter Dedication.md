@@ -20,4 +20,4 @@ Choose two cantrips from the occult spell list. Each cantrip must have the divin
 
 * * *
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[Ghost Hunter]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/Character Building V1.3/Character Building/Feats/Ghost Hunter]] archetype.

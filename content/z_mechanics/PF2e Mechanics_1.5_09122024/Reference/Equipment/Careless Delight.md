@@ -15,7 +15,7 @@ license: OGL
 ---
 # Careless Delight
 ## Item 9
-### [[alchemical]][[consumable]][[ingested]][[mental]][[poison]]
+### [[alchemical]][[consumable]][[ingested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 130 gp; 
@@ -32,11 +32,11 @@ Sometimes called liquid persuasion, this sweet-tasting tincture induces euphoria
 
 **Maximum Duration** 10 minutes
 
-**Stage 1** [[Conditions/Stupefied|Stupefied 1]] (1 minute)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (1 minute)
 
-**Stage 2** [[Conditions/Stupefied|Stupefied 2]] (1 minute)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (1 minute)
 
-**Stage 3** [[Conditions/Stupefied|Stupefied 3]], and the victim's attitude toward others improves by one step (1 minute)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 3]], and the victim's attitude toward others improves by one step (1 minute)
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

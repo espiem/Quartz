@@ -13,7 +13,7 @@ license: OGL
 ---
 # Bodysnatcher
 ## Feat 14
-### [rare](rare "Rare Rarity Trait")[[archetype]][[divine]][[polymorph]]
+### [rare](rare "Rare Rarity Trait")[[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[polymorph]]
 
 **Category** class; 
 

@@ -27,7 +27,7 @@ When you apply the sun orchid poultice, it reduces your _clumsy_, _drained_, and
 
 In addition, the poultice provides a youthful burst of energy, granting you a +3 item bonus to saves and 20 temporary Hit Points for 1 hour.
 
-[[Equipment Effects/Effect_ Sun Orchid Poultice|Effect: Sun Orchid Poultice]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Sun Orchid Poultice|Effect: Sun Orchid Poultice]]
 
 *Source: Pathfinder Lost Omens: Legends*
 *OGL*

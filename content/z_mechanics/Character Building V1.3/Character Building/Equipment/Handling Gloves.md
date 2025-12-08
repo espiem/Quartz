@@ -8,4 +8,4 @@ tags:
 ---
 
 # Handling Gloves
-![[icons-equipment-hand-gauntlet-simple-leather-brown-gold.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-equipment-hand-gauntlet-simple-leather-brown-gold.webp|150]]

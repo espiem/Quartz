@@ -14,7 +14,7 @@ license: OGL
 ---
 # Oneiric Influence
 ## Feat 12
-### [[archetype]][[incapacitation]][[mental]][[occult]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** class; 
 

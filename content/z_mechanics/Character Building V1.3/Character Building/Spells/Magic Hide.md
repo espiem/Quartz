@@ -8,6 +8,6 @@ tags:
 ---
 
 # Magic Hide
-![[systems-pf2e-icons-spells-magic-hide.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-magic-hide.webp|150]]
 
 Your animal companion grows a thicker hide, matted fur, or a harder shell, granting it a +1 status bonus to AC.

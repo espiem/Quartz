@@ -12,7 +12,7 @@ license: OGL
 ---
 # Warding Statuette (Greater)
 ## Item 13
-### [[force]][[magical]][[spellheart]]
+### [[force]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellheart]]
 
 
 **Price** 2600 gp; 
@@ -24,9 +24,9 @@ This small figurine is carved from soapstone in the shape of a deity or guardian
 *   **Armor** You gain resistance 5 against ranged weapon attacks.
 *   **Weapon** When you hit with a Strike using the affixed weapon, or when a spell effect you created by activating the statuette hits with a Strike, you can choose a creature adjacent to the creature that was hit. That creature gains a +1 status bonus to AC until the start of your next turn. No more than one creature can benefit from this each turn.
 
-[[Equipment Effects/Effect_ Warding Statuette - Armor (Greater)|Effect: Warding Statuette - Armor (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Warding Statuette - Armor (Greater)|Effect: Warding Statuette - Armor (Greater)]]
 
-[[Equipment Effects/Effect_ Warding Statuette - Weapon|Effect: Warding Statuette - Weapon]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Warding Statuette - Weapon|Effect: Warding Statuette - Weapon]]
 
 * * *
 

@@ -18,6 +18,6 @@ You draw upon the target's negative fate to afflict it and its nearby allies wit
 
 **Success** The creature takes 4d6 mental damage, and then an aura of shimmering mist with a 10 foot emanation surrounds the creature. This mist isn't dense enough to affect sight, but it does cause the creature and any of its allies in the aura to take a –1 status penalty to all skill checks.
 
-**Failure** As success, but the creature takes an initial 8d6 mental damage and is then [[Slowed]] for the duration of the effect.
+**Failure** As success, but the creature takes an initial 8d6 mental damage and is then [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] for the duration of the effect.
 
 **Critical Failure** As success, but the creature takes an initial 16d6 mental damage, then is slowed 1 for the duration of the effect. Any of the target's allies who begin their turn in the 10 foot emanation is slowed 1 for 1 round.

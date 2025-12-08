@@ -15,7 +15,7 @@ license: OGL
 ---
 # Tumbling Lumber `pf2:2`
 ## Feat 4
-### [[impulse]][[kineticist]][[primal]][[wood]]
+### [[impulse]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[primal]][[wood]]
 
 **Category** class; 
 
@@ -32,7 +32,7 @@ A slew of logs eject from the Plane of Wood and slam into your enemies. They rol
 
 **Failure** The creature takes full damage and is pushed out of the line in the most direct path available.
 
-**Critical Failure** The creature takes double damage and is knocked [[Conditions/Prone|Prone]].
+**Critical Failure** The creature takes double damage and is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 * * *
 

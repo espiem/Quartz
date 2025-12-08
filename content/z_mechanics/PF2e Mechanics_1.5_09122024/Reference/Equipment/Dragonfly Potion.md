@@ -14,7 +14,7 @@ license: OGL
 ---
 # Dragonfly Potion
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[morph]][[potion]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[morph]][[potion]]
 
 **Category** potion; 
 **Price** 310 gp; 
@@ -29,7 +29,7 @@ Your eyes transform into those of a giant dragonfly, the thousands of separate f
 
 Additionally, you gain low-light vision and a +2 item bonus to visual Perception checks, and you can't be flanked except by creatures higher level than you are (though lower-level creatures can still help their higher-level allies flank). These effects last for 1 minute.
 
-[[Equipment Effects/Effect_ Dragonfly Potion|Effect: Dragonfly Potion]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Dragonfly Potion|Effect: Dragonfly Potion]]
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

@@ -19,7 +19,7 @@ license: ORC
 
 
 
-**Trigger** You would become [[Conditions/Grabbed|Grabbed]], [[Conditions/Immobilized|Immobilized]], [[Conditions/Prone|Prone]], or [[Conditions/Restrained|Restrained]].
+**Trigger** You would become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]].
 
 * * *
 

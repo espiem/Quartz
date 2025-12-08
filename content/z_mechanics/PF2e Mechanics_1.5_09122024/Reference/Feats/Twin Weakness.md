@@ -12,7 +12,7 @@ license: OGL
 ---
 # Twin Weakness `pf2:2`
 ## Feat 10
-### [[esoterica]][[thaumaturge]]
+### [[esoterica]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]]
 
 **Category** class; 
 

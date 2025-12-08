@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wyrm on the Wing (Greater)
 ## Item 13
-### [[invested]][[magical]][[tattoo]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[tattoo]]
 
 
 **Price** 2800 gp; 

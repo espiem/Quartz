@@ -20,4 +20,4 @@ A _minotaur chair_ is a traveler's chair with chair storage, _impulse control_, 
 
 * * *
 
-**Effect** You rush forward with the wheelchair in a powerful charge, bowling through foes who stand in the way. Stride in a straight line, moving through enemies' spaces and making an attack with the wheel spikes against every foe in the line. If the foe is [[Prone]], the following effects apply: the attack gains a +1 circumstance bonus to damage per weapon damage die, and the wounding rune deals 1d12 bleed on a hit (or 3d6 bleed on a critical hit).
+**Effect** You rush forward with the wheelchair in a powerful charge, bowling through foes who stand in the way. Stride in a straight line, moving through enemies' spaces and making an attack with the wheel spikes against every foe in the line. If the foe is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]], the following effects apply: the attack gains a +1 circumstance bonus to damage per weapon damage die, and the wounding rune deals 1d12 bleed on a hit (or 3d6 bleed on a critical hit).

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Searing Blade
 ## Item 13
-### [[fire]][[magical]][[versatile-p]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |

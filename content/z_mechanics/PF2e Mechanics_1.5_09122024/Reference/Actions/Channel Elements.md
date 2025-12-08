@@ -14,7 +14,7 @@ license: OGL
 ---
 # Channel Elements `pf2:1`
 
-### [[aura]][[kineticist]][[primal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[primal]]
 
 **Category** offensive; 
 

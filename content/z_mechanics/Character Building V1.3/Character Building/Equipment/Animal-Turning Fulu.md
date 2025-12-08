@@ -8,7 +8,7 @@ tags:
 ---
 
 # Animal-Turning Fulu
-![[systems-pf2e-icons-equipment-consumables-fulus-fulu-fancy.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-fulus-fulu-fancy.webp|150]]
 
 **Activate** r envision
 
@@ -16,4 +16,4 @@ tags:
 
 * * *
 
-Frightened animals depicted on this fulu flee in all directions from a central figure (traditionally represented by a human hunter, but sometimes depicted as a skeletal undead creature or even a fiend with long, broken arms). You activate this fulu, gaining a +2 item bonus to AC against the triggering Strike. If this causes the Strike to miss, you become [[Concealed]] from the triggering creature until the start of your next turn.
+Frightened animals depicted on this fulu flee in all directions from a central figure (traditionally represented by a human hunter, but sometimes depicted as a skeletal undead creature or even a fiend with long, broken arms). You activate this fulu, gaining a +2 item bonus to AC against the triggering Strike. If this causes the Strike to miss, you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] from the triggering creature until the start of your next turn.

@@ -13,7 +13,7 @@ license: OGL
 ---
 # No! No! I Created You!
 ## Feat 1
-### [[auditory]][[concentrate]][[inventor]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Feats/Inventor]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ license: OGL
 * * *
 **Frequency** once per minute
 
-**Trigger** Your construct companion would become [[Conditions/Confused|Confused]] or controlled.
+**Trigger** Your construct companion would become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]] or controlled.
 
 * * *
 

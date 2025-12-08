@@ -8,7 +8,7 @@ tags:
 ---
 
 # Flexible Spell Preparation
-![[icons-magic-unholy-hand-marked-pink.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-magic-unholy-hand-marked-pink.webp|150]]
 
 This class feature alters your spellcasting class feature (such as Arcane Spellcasting for the wizard or Divine Spellcasting for the cleric). If you choose this class archetype, you must select [[Flexible Spellcaster Dedication]] as your 2nd-level class feat.
 

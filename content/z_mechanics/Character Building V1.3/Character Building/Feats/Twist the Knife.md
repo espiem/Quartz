@@ -10,7 +10,7 @@ tags:
 # Twist the Knife
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Requirements** Your last action was a melee Strike that dealt sneak attack damage to an [[Off-Guard]] target.
+**Requirements** Your last action was a melee Strike that dealt sneak attack damage to an [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] target.
 
 * * *
 

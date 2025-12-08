@@ -12,4 +12,4 @@ tags:
 
 _Technological wonders from another world, androids have synthetic bodies and living_ _souls. Their dual nature makes them quick-thinking and calm under pressure, but_ _comfortable in stillness and solitude._
 
-_[[Android]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Android]]_

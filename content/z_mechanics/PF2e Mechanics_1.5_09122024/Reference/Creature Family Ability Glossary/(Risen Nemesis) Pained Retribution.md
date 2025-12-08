@@ -12,14 +12,14 @@ license: ORC
 ---
 # (Risen Nemesis) Pained Retribution `pf2:2`
 
-### [[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** offensive; 
 
 
 
 
-The Risen Nemesis demands the PCs see how they have wronged them. All PCs within 30 feet of the Risen Nemesis must attempt a DC 42 Will check save. Regardless of the outcome, the PCs become temporarily immune to this ability for 24 hours. On failure, the PCs are [[Conditions/Restrained|Restrained]] by invisible chains of guilt that only they can see ([[Actions/Escape|Escape]] DC 42). On a critical failure, the PC is also [[Conditions/Slowed|Slowed 1]] for 1 minute as they hesitate from a guilty conscience.
+The Risen Nemesis demands the PCs see how they have wronged them. All PCs within 30 feet of the Risen Nemesis must attempt a DC 42 Will check save. Regardless of the outcome, the PCs become temporarily immune to this ability for 24 hours. On failure, the PCs are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]] by invisible chains of guilt that only they can see ([[Actions/Escape|Escape]] DC 42). On a critical failure, the PC is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] for 1 minute as they hesitate from a guilty conscience.
 
 *Source: Pathfinder #206: Bring the House Down*
 *ORC*

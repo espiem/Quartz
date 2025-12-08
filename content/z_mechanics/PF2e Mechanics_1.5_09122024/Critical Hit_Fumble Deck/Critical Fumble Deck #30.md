@@ -14,7 +14,7 @@ tags:
 
 # Kickback like a Mule
 
-> You fall [[Conditions/Prone|Prone]].
+> You fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 `Ranged`
 
@@ -26,6 +26,6 @@ tags:
 
 # Drawing a Blank
 
-> Until healed, you are [[Conditions/Stupefied|Stupefied 1]].
+> Until healed, you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]].
 
 `Spell`

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Thermal Remedy
-![[icons-consumables-fruit-apple-orange-glass.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-consumables-fruit-apple-orange-glass.webp|150]]
 
 You adjust the delicate levels of bitter ingredients in food and drink to draw out their full restorative and fortifying properties. Choose one of the benefits listed below. Any creature that consumes the targeted drink or food gains that benefit. Up to 10 creatures can partake in the meal, and a creature gets no extra benefit for consuming more than one portion.
 

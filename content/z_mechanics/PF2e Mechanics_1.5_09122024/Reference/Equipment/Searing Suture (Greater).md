@@ -13,7 +13,7 @@ license: OGL
 ---
 # Searing Suture (Greater)
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[fire]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]]
 
 **Category** other; 
 **Price** 120 gp; 

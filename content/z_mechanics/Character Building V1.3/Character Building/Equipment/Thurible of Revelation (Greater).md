@@ -8,7 +8,7 @@ tags:
 ---
 
 # Thurible of Revelation (Greater)
-![[systems-pf2e-icons-equipment-held-items-thurible-of-revelation.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-held-items-thurible-of-revelation.webp|150]]
 
 This brass censer dangles on a length of chain. Most _thuribles of revelation_ are adorned with swirling Empyrean text, though some are iron and feature Diabolic or Chthonian text.
 

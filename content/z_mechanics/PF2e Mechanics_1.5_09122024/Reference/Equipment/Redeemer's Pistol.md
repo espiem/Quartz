@@ -17,7 +17,7 @@ license: OGL
 ---
 # Redeemer's Pistol
 ## Item 11
-### [unique](unique "Unique Rarity Trait")[[concealable]][[concussive]][[fatal-d10]][[holy]][[magical]][[mental]]
+### [unique](unique "Unique Rarity Trait")[[concealable]][[concussive]][[fatal-d10]][[holy]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 |  |  |
 | -- | -- |

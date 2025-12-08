@@ -12,7 +12,7 @@ license: ORC
 ---
 # Bloodline: Aberrant
 ## Feat 1
-### [[sorcerer]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]]
 
 **Category** classfeature; 
 
@@ -31,7 +31,7 @@ Something ancient and unknowable speaks to you from beyond the stars or below th
 
 **Blood Magic—Eerie Veil** An ominous pall spills from your mind. Either one target takes a –1 status penalty to Will saving throws for 1 round or you gain a +2 status bonus to Will saving throws for 1 round.
 
-[[Feat_Feature Effects/Effect_ Aberrant Blood Magic|Effect: Aberrant Blood Magic]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Aberrant Blood Magic|Effect: Aberrant Blood Magic]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

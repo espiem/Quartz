@@ -8,7 +8,7 @@ tags:
 ---
 
 # Insect Form
-![[icons-creatures-invertebrates-spider-mandibles-brown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-invertebrates-spider-mandibles-brown.webp|150]]
 
 You envision a simple bug and transform into a Medium animal battle form. When you Cast this Spell, choose a listed battle form. You can decide the specific type of animal (such as such as a ladybug or scarab for beetle), but this has no effect on the form's Size or statistics. While in this form, you gain the animal trait. You can Dismiss this spell.
 

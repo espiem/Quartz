@@ -14,7 +14,7 @@ license: ORC
 ---
 # Lantern Beam `pf2:1`
 
-### [[fire]][[light]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[light]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** offensive; 
 

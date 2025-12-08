@@ -11,7 +11,7 @@ license: OGL
 ---
 # Subconscious Mind
 ## Feat 1
-### [[psychic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** classfeature; 
 

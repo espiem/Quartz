@@ -10,4 +10,4 @@ tags:
 # Pushing Attack
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-Your eidolon has an attack that pushes away enemies. Choose one of the eidolon's unarmed attacks with the shove trait. It gains the [[Push]] action for that attack.
+Your eidolon has an attack that pushes away enemies. Choose one of the eidolon's unarmed attacks with the shove trait. It gains the [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Push]] action for that attack.

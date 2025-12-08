@@ -14,7 +14,7 @@ You tumble around your foes, expertly avoiding their reactions. Stride up to hal
 
 * * *
 
-**Critical Success** This movement doesn't trigger reactions from the foe, the foe is [[Off-Guard]] to you until the end of your turn, and you gain Panache.
+**Critical Success** This movement doesn't trigger reactions from the foe, the foe is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] to you until the end of your turn, and you gain Panache.
 
 **Success** This movement doesn't trigger reactions from the foe, and you gain panache.
 

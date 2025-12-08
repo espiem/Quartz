@@ -13,7 +13,7 @@ license: OGL
 ---
 # Brazier of Harmony
 ## Item 5
-### [[censer]][[fire]][[magical]]
+### [[censer]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 150 gp; 

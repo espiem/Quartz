@@ -14,7 +14,7 @@ license: ORC
 ---
 # Dalang's Ally `pf2:1`
 ## Feat 13
-### [[occult]][[shadow]][[wayang]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[shadow]][[wayang]]
 
 **Category** ancestry; 
 

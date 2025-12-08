@@ -14,7 +14,7 @@ license: ORC
 ---
 # No Scar but This `pf2:1`
 
-### [[concentrate]][[healing]][[transcendence]][[vitality]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[healing]][[transcendence]][[vitality]]
 
 
 

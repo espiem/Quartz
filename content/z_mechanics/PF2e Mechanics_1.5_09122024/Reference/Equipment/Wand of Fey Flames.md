@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of Fey Flames
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[light]][[magical]][[wand]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[light]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wand]]
 
 
 **Price** 360 gp; 
@@ -29,7 +29,7 @@ This red maple wand carved into a tongue of flame feels warm in your hand.
 
 **Effect** You cast [[Spells/Faerie Fire|Faerie Fire]]. For the duration of the spell, you can use the limning flames as a source for your magic. Creatures affected by your _faerie fire_ must succeed at a Will save against your spell DC or take a - 2 status penalty to their Will saves against enchantment and illusions spells as long as they are affected by _faerie fire_. You can cast an enchantment or illusion spell on such a creature up to a distance twice the spell's normal range. If the spell has a range of touch, or doesn't have a range, it is unaffected by the increase in range from the _faerie fire_.
 
-[[Equipment Effects/Effect_ Wand of Fey Flames|Effect: Wand of Fey Flames]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Wand of Fey Flames|Effect: Wand of Fey Flames]]
 
 * * *
 

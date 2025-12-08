@@ -8,7 +8,7 @@ tags:
 ---
 
 # Biting Words
-![[icons-magic-death-mouth-bite-fangs-vampire.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-death-mouth-bite-fangs-vampire.webp|150]]
 
 You entwine magic with your voice, causing your taunts and jibes to physically harm your enemies. You can attack with your words once when you finish Casting the Spell, and can repeat the attack once on each of your subsequent turns by taking a single action, which has the attack, concentrate, and linguistic traits. After your third attack total, the spell ends.
 

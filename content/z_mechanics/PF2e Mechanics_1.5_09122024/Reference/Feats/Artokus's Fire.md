@@ -12,7 +12,7 @@ license: OGL
 ---
 # Artokus's Fire `pf2:0`
 ## Feat 6
-### [rare](rare "Rare Rarity Trait")[[additive2]][[alchemist]]
+### [rare](rare "Rare Rarity Trait")[[additive2]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist]]
 
 **Category** class; 
 

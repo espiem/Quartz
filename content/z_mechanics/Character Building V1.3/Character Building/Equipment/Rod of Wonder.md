@@ -22,4 +22,4 @@ Any spell DC required is DC 27, and any spell attack roll required is `dice: 1d2
 
 Once activated, the rod can't be activated again for `dice: 1d4` hours.
 
-Roll on the [[Rod of Wonder]] table to determine the outcome.
+Roll on the [[z_mechanics/Character Building V1.3/Character Building/Equipment/Rod of Wonder]] table to determine the outcome.

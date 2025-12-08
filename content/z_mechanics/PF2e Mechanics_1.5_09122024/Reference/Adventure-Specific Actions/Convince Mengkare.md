@@ -14,7 +14,7 @@ license: OGL
 ---
 # Convince Mengkare
 
-### [[auditory]][[concentrate]][[linguistic]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[linguistic]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** interaction; 
 

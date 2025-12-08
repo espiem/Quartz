@@ -15,7 +15,7 @@ license: OGL
 ---
 # Spoon Gun
 ## Item 1
-### [uncommon](uncommon "Uncommon Rarity Trait")[[cobbled]][[goblin]][[modular]][[scatter-5]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[cobbled]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Goblin]][[modular]][[scatter-5]]
 
 |  |  |
 | -- | -- |

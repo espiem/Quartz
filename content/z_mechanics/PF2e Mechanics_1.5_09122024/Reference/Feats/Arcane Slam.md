@@ -11,7 +11,7 @@ license: OGL
 ---
 # Arcane Slam `pf2:2`
 ## Feat 9
-### [[automaton]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Automaton]]
 
 **Category** ancestry; 
 
@@ -19,7 +19,7 @@ license: OGL
 
 **Prerequisites** Warrior automaton
 * * *
-**Requirements** You have a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]].
+**Requirements** You have a creature [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]].
 
 * * *
 
@@ -27,7 +27,7 @@ You channel magical power from your core into your arm, empowering your attack a
 
 * * *
 
-**Critical Success** You slam the foe down and the magical energy overwhelms it. The creature is knocked [[Conditions/Prone|Prone]], becomes [[Conditions/Dazzled|Dazzled]] for 1 round, and takes damage equal to 2d6 plus your Strength modifier. The foe is no longer grabbed or restrained by you.
+**Critical Success** You slam the foe down and the magical energy overwhelms it. The creature is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]], becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for 1 round, and takes damage equal to 2d6 plus your Strength modifier. The foe is no longer grabbed or restrained by you.
 
 **Success** You slam the foe down. The creature is knocked prone and takes damage equal to your Strength modifier. The foe is no longer grabbed or restrained by you.
 

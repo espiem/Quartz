@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Tenets of Evil
-![[icons-sundries-books-book-eye-pink.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-sundries-books-book-eye-pink.webp|150]]
 
 You gain the unholy trait and add that trait to any Strikes you make. In addition to your other edicts and anathema, you gain the following. None of these prevents you from performing acts others might consider helpful, but these acts must be done with the expectation that they ultimately furthers your own goals or those of your deity.
 

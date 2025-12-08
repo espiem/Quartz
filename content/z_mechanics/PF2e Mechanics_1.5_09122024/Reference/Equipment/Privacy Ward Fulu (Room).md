@@ -14,7 +14,7 @@ license: OGL
 ---
 # Privacy Ward Fulu (Room)
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[consumable]][[fulu]][[magical]][[talisman]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[fulu]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** fulu; 
 **Price** 25 gp; 
@@ -23,7 +23,7 @@ license: OGL
 
 This fulu seeks to keep thieves, spies, and unwanted attention away from a room. A depiction of a lock appears in the center of this fulu, which is in turn surrounded by circles of broken keys. When applied to a wall inside a room, all creatures within the room gain an item bonus to Stealth checks against creatures outside the room.
 
-The fulu can shield a room of up to 30 square feet, grants a +1 item bonus, and has a duration of 8 hours. If you become [[Conditions/Hidden|Hidden]] within the room, you automatically become undetected to creatures of the fulu's level or lower.
+The fulu can shield a room of up to 30 square feet, grants a +1 item bonus, and has a duration of 8 hours. If you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]] within the room, you automatically become undetected to creatures of the fulu's level or lower.
 
 *Source: Pathfinder #196: The Summer That Never Was*
 *OGL*

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Horrifying Blood Loss
-![[icons-skills-wounds-blood-drip-droplet-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-wounds-blood-drip-droplet-red.webp|150]]
 
 You curse the target, filling it with terror at the loss of its blood. The target must attempt a Will save.
 
@@ -16,11 +16,11 @@ You curse the target, filling it with terror at the loss of its blood. The targe
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Frightened|Frightened 1]].
+**Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Failure** The target is [[Frightened|Frightened 2]]. Until it stops bleeding, its frightened value can't decrease below frightened 1.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]]. Until it stops bleeding, its frightened value can't decrease below frightened 1.
 
-**Critical Failure** As failure, but the target is [[Frightened|Frightened 3]].
+**Critical Failure** As failure, but the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]].
 
 * * *
 

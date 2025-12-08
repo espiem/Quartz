@@ -8,7 +8,7 @@ tags:
 ---
 
 # Mad Monkeys
-![[icons-creatures-magical-construct-face-stone-pink.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-magical-construct-face-stone-pink.webp|150]]
 
 Magical monkey spirits fill the area as they pile and climb on top of one another. Because the monkeys are magical spirits, they can't be attacked or hurt. Casting _[[Calm]]_ or a similar effect over the monkeys makes them docile, causing them to cease making mischief for the duration of _mad monkeys_.
 
@@ -28,7 +28,7 @@ Choose the kind of mischief your monkeys make when you [[Cast a Spell|Cast the S
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[Deafened]] for 1 round.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 round.
 
 **Critical Failure** The creature is Deafened for 1 minute.
 

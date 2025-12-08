@@ -8,7 +8,7 @@ tags:
 ---
 
 # Serrate
-![[icons-weapons-swords-sword-broad-serrated-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-weapons-swords-sword-broad-serrated-blue.webp|150]]
 
 With a pinch, the metal of a weapon twists, adding numerous jagged blades along its surface. Strikes with the target weapon deal an additional 1d4 slashing damage until the start of your next turn.
 

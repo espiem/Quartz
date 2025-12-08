@@ -29,7 +29,7 @@ Witnesses to ancient battles may be the lingering remnants of soldiers who never
 
 **Vessel Spell** [[Spells/Embodiment of Battle|Embodiment of Battle]]
 
-**Avatar** _General of Endless Battle_ Speed 70 feet, immune to [[Conditions/Immobilized|Immobilized]]
+**Avatar** _General of Endless Battle_ Speed 70 feet, immune to [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]]
 
 **Melee** `pf2:1` final strike (agile, fatal d12, reach 15 feet), Damage 6d8+6 slashing
 

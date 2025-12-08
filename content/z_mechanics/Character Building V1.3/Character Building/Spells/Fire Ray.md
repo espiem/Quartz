@@ -8,7 +8,7 @@ tags:
 ---
 
 # Fire Ray
-![[icons-magic-fire-blast-jet-stream-embers-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-blast-jet-stream-embers-red.webp|150]]
 
 A blazing band of fire arcs through the air, lighting your opponent and the ground they stand upon on fire. Make a spell attack roll against the target's AC. The ray deals 2d6 fire damage on a hit (or double damage on a critical hit). On any result other than a critical failure, the ground in the target's space catches fire, dealing 1d6 fire damage to each creature that ends its turn in one of the squares.
 

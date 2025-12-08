@@ -8,7 +8,7 @@ tags:
 ---
 
 # Polished Demon Horn (Major)
-![[systems-pf2e-icons-unarmed-attacks-tusk.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-unarmed-attacks-tusk.webp|150]]
 
 This spellheart is fashioned from the tip of a demon's horn that's been polished until smooth and shiny. The spell DC of any spell cast by Activating this item is 29.
 

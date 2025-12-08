@@ -14,7 +14,7 @@ license: OGL
 ---
 # Black Dragon's Breath Potion (Wyrm)
 ## Item 17
-### [[acid]][[consumable]][[magical]][[potion]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Acid]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 3000 gp; 

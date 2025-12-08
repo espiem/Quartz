@@ -15,7 +15,7 @@ license: ORC
 ---
 # Magic Sense
 ## Feat 12
-### [[detection]][[oracle]][[sorcerer]][[wizard]]
+### [[detection]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Oracle]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Wizard]]
 
 **Category** class; 
 

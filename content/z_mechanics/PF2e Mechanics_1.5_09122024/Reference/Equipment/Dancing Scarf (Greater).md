@@ -13,7 +13,7 @@ license: ORC
 ---
 # Dancing Scarf (Greater)
 ## Item 9
-### [[invested]][[magical]][[visual]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[visual]]
 
 
 **Price** 650 gp; 
@@ -28,7 +28,7 @@ This long and billowing scarf is typically woven of silk or sheer fabric and ado
 
 **Requirements** On your most recent action, you succeeded at a Performance check to dance
 
-**Effect** You become [[Conditions/Concealed|Concealed]] until the beginning of your next turn. You can also Stride up to half your Speed or Step.
+**Effect** You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] until the beginning of your next turn. You can also Stride up to half your Speed or Step.
 
 *Source: Pathfinder GM Core*
 *ORC*

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Detect Alignment
-![[systems-pf2e-icons-spells-detect-alignment.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-detect-alignment.webp|150]]
 
 Your eyes glow as you sense aligned auras. Choose chaotic, evil, good, or lawful. You detect auras of that alignment. You receive no information beyond presence or absence. You can choose not to detect creatures or effects you're aware have that alignment.
 

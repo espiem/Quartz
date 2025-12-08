@@ -18,9 +18,9 @@ You touch a creature and force them to see and feel the ancestors surrounding yo
 
 **Success** The target takes half damage.
 
-**Failure** The target is [[Frightened|Frightened 1]] and takes full damage.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]] and takes full damage.
 
-**Critical Failure** The target is [[Frightened|Frightened 2]] and takes double damage.
+**Critical Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] and takes double damage.
 
 * * *
 

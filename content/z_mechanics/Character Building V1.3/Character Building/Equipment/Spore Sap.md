@@ -20,4 +20,4 @@ This flexible +2 striking sap is crafted from the stalks of cave fungi and bound
 
 * * *
 
-**Effect** The _spore sap_ releases a puff of stupefying fungal spores. The target must succeed at a DC 28 fortitude or become stupefied 1 for 1 minute ([[Stupefied|Stupefied 2]] on a critical failure).
+**Effect** The _spore sap_ releases a puff of stupefying fungal spores. The target must succeed at a DC 28 fortitude or become stupefied 1 for 1 minute ([[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] on a critical failure).

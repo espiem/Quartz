@@ -14,7 +14,7 @@ license: OGL
 ---
 # Chromotherapy `pf2:2`
 ## Feat 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[general]][[healing]][[manipulate]][[skill]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[general]][[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[skill]]
 
 **Category** skill; 
 

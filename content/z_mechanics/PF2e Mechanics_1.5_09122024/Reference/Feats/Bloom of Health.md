@@ -13,7 +13,7 @@ license: ORC
 ---
 # Bloom of Health `pf2:1`
 ## Feat 14
-### [[auditory]][[mythic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[mythic]]
 
 **Category** class; 
 

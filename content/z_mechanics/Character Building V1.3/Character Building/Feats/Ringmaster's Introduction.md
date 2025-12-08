@@ -16,4 +16,4 @@ tags:
 
 * * *
 
-You announce the triggering ally with a litany of their legendary achievements, spurring them to action. The target is [[Quickened]] this turn and can spend the extra action to Stride, Strike, Demoralize, Feint, or Perform.
+You announce the triggering ally with a litany of their legendary achievements, spurring them to action. The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]] this turn and can spend the extra action to Stride, Strike, Demoralize, Feint, or Perform.

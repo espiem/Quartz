@@ -10,7 +10,7 @@ tags:
 ---
 
 # Truespeech
-![[systems-pf2e-icons-spells-tongues.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-tongues.webp|150]]
 
 The target can understand all words regardless of language and also speak the languages of other creatures. When in a mixed group of creatures, each time the target speaks, it can choose a creature and speak in a language that creature understands, even if the target doesn't know what language that is.
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Purifying Spoon (Tablespoon)
 ## Item 1
-### [[magical]][[wood]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wood]]
 
 
 **Price** 20 gp; 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Girzanje's March
-![[icons-skills-melee-sword-winged-holy-orange.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-melee-sword-winged-holy-orange.webp|150]]
 
 You sing a prayer for war, inspiring valor in allies who hear your song. Allied creatures who can hear and understand you gain a +1 status bonus to attack rolls, Fortitude saves, and Will saves against mental effects.
 

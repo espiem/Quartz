@@ -15,7 +15,7 @@ license: OGL
 ---
 # Petrification Cannon
 ## Item 15
-### [uncommon](uncommon "Uncommon Rarity Trait")[[concussive]][[double-barrel]][[fatal-d10]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[concussive]][[double-barrel]][[fatal-d10]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 |  |  |
 | -- | -- |

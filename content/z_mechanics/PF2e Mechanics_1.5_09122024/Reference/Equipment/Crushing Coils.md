@@ -13,14 +13,14 @@ license: OGL
 ---
 # Crushing Coils
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[cursed]][[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[cursed]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** light; **Group** leather
 **Price** 2 gp; 
 **Bulk** 1; **Size** med
 **Usage** wornarmor
 
-Made from constrictor snakeskin, the strips of this _+1 leather armor_ wrap around you like an anaconda might wrap around its victim. The first time you roll a 1 on any attack roll or check after donning the armor, it fuses with you and constricts. It constricts anytime you roll a 1 on any attack roll or check thereafter. When the armor constricts, you're [[Conditions/Restrained|Restrained]] for 1 round.
+Made from constrictor snakeskin, the strips of this _+1 leather armor_ wrap around you like an anaconda might wrap around its victim. The first time you roll a 1 on any attack roll or check after donning the armor, it fuses with you and constricts. It constricts anytime you roll a 1 on any attack roll or check thereafter. When the armor constricts, you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]] for 1 round.
 
 **Activate** `pf2:1` command, Interact
 

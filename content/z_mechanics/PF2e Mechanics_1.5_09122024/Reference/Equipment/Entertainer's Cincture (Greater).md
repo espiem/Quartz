@@ -13,7 +13,7 @@ license: ORC
 ---
 # Entertainer's Cincture (Greater)
 ## Item 17
-### [[focused]][[invested]][[occult]]
+### [[focused]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 
 **Price** 13000 gp; 

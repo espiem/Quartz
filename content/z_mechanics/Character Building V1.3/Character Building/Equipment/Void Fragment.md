@@ -28,7 +28,7 @@ Hovering midair, thrumming and whispering of its power, a void fragment is a cry
 
 If you die at this stage or higher, your body implodes. Your soul reincarnates as an aberration of a level close to yours, which extrudes from the location of your implosion. Common forms include amalgamite, brain collector, gibbering mouther, gosreg, intellect devourer, quelaunt, or shoggoth. This creature isn't you, but fleeting memories of your former existence remain with it. You can't be raised from the dead while this monster endures. Its alignment is chaotic evil. The void fragment reappears somewhere on the same planet.
 
-**Stage 3 (32 Days)** Your telepathy range increases to 100 feet, and the wisp grants you resistance to mental damage equal to your level. The mental noise increases the penalty to Perception to –2. Whenever you roll initiative, you become [[Confused]] for up to 1d4 rounds.
+**Stage 3 (32 Days)** Your telepathy range increases to 100 feet, and the wisp grants you resistance to mental damage equal to your level. The mental noise increases the penalty to Perception to –2. Whenever you roll initiative, you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] for up to 1d4 rounds.
 
 **Stage 4** You die.
 

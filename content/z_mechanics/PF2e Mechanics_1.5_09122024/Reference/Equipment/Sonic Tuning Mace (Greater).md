@@ -16,7 +16,7 @@ license: OGL
 ---
 # Sonic Tuning Mace (Greater)
 ## Item 13
-### [[agile]][[finesse]][[magical]][[shove]][[sonic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[shove]][[sonic]]
 
 |  |  |
 | -- | -- |

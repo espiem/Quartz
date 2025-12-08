@@ -13,7 +13,7 @@ license: ORC
 ---
 # Loremaster's Etude
 ## Feat 2
-### [[bard]][[fortune]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Bard]][[fortune]]
 
 **Category** class; 
 

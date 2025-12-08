@@ -16,4 +16,4 @@ tags:
 
 * * *
 
-Symbols of good fortune and luck are carved on this thin, square wooden plaque. It smells of sandalwood from the blessings placed upon it. After activation, for the next minute, you can sense attacks from undead. You aren't [[Off-Guard]] to [[Hidden]], [[Undetected]], or flanking undead of your level or lower, or undead of your level or lower using surprise attack. However, they can still help their allies flank.
+Symbols of good fortune and luck are carved on this thin, square wooden plaque. It smells of sandalwood from the blessings placed upon it. After activation, for the next minute, you can sense attacks from undead. You aren't [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] to [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Undetected]], or flanking undead of your level or lower, or undead of your level or lower using surprise attack. However, they can still help their allies flank.

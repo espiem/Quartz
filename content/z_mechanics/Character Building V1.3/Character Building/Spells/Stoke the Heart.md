@@ -8,7 +8,7 @@ tags:
 ---
 
 # Stoke the Heart
-![[icons-skills-melee-strike-sword-blood-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-melee-strike-sword-blood-red.webp|150]]
 
 Your patron fills a creature with fervor, empowering their blows. The target gains a +2 status bonus to damage rolls.
 

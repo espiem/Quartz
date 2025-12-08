@@ -8,7 +8,7 @@ tags:
 ---
 
 # Scope of Truth
-![[systems-pf2e-icons-equipment-other-attached-items-scope.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-other-attached-items-scope.webp|150]]
 
 The _scope of truth_ is a bit bigger than most to accommodate larger lenses, which have been magically prepared with tiny shards from crystal balls to reveal the truth. The scope grants you a +2 item bonus to Perception checks made to [[Seek]] in areas you can see through the scope.
 

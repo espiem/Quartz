@@ -21,7 +21,7 @@ license: ORC
 
 **Prerequisites** master in Intimidation
 * * *
-When you critically succeed at the [[Actions/Demoralize|Demoralize]] action, if the target's level is lower than yours, the target is [[Conditions/Fleeing|Fleeing]] for 1 round.
+When you critically succeed at the [[Actions/Demoralize|Demoralize]] action, if the target's level is lower than yours, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing|Fleeing]] for 1 round.
 
 *Source: Pathfinder Player Core*
 *ORC*

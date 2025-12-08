@@ -12,7 +12,7 @@ license: OGL
 ---
 # Reading the Signs
 ## Feat 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[concentrate]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]]
 
 **Category** class; 
 

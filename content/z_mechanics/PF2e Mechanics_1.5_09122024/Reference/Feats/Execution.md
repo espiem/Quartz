@@ -12,7 +12,7 @@ license: OGL
 ---
 # Execution `pf2:2`
 ## Feat 14
-### [[archetype]][[vigilante]]
+### [[archetype]][[Vigilante]]
 
 **Category** class; 
 

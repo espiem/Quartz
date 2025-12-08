@@ -11,7 +11,7 @@ license: OGL
 ---
 # Smuggler's Sack (Type I)
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[extradimensional]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[extradimensional]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 75 gp; 

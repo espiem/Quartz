@@ -12,7 +12,7 @@ license: OGL
 ---
 # Feast `pf2:2`
 ## Feat 4
-### [[archetype]][[manipulate]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** class; 
 
@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** Zombie Dedication
 * * *
-**Requirements** You are adjacent to a [[Conditions/Restrained|Restrained]] or [[Conditions/Unconscious|Unconscious]] creature, or a deceased creature that died in the past hour.
+**Requirements** You are adjacent to a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] creature, or a deceased creature that died in the past hour.
 
 * * *
 

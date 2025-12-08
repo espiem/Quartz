@@ -12,7 +12,7 @@ license: ORC
 ---
 # Shed Tail `pf2:r`
 ## Feat 5
-### [[lizardfolk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Lizardfolk]]
 
 **Category** ancestry; 
 
@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Iruxi Armaments (Tail)
 * * *
-**Trigger** You become [[Conditions/Grabbed|Grabbed]].
+**Trigger** You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]].
 
 **Requirements** You have a fully grown tail.
 

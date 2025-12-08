@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ghastly Cauldron
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]][[void]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[void]]
 
 
 **Price** 900 gp; 

@@ -10,7 +10,7 @@ tags:
 ---
 
 # Aeon Stone (Amplifying)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-orange-prism.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-orange-prism.webp|150]]
 
 Over millennia, these mysterious, intricately cut gemstones have been hoarded by mystics and fanatics hoping to discover their secrets. Despite their myriad forms and functions, these stones are purportedly all fragments of crystal tools used by otherworldly entities to construct the universe in primeval times.
 

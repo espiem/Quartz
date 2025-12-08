@@ -8,7 +8,7 @@ tags:
 ---
 
 # Mind Probe
-![[systems-pf2e-icons-spells-mind-probe.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-mind-probe.webp|150]]
 
 You cast your thoughts through a creature's mind, sifting for information. You access the target's memories and knowledge unless it fends you off with a Will save.
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Relentless Stalker `pf2:r`
 ## Feat 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[move]][[ranger]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[move]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]]
 
 **Category** class; 
 

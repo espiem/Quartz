@@ -12,7 +12,7 @@ license: ORC
 ---
 # Obsidian Goggles (Greater)
 ## Item 11
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 1250 gp; 
@@ -29,7 +29,7 @@ The sleek, black lenses of these goggles somehow make everything seem more brigh
 
 **Effect** Adjusting your goggles, you gain darkvision until you deactivate it as an Interact action or the item is no longer invested by you, whichever comes first.
 
-[[Equipment Effects/Effect_ Obsidian Goggles (Greater)|Effect: Obsidian Goggles (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Obsidian Goggles (Greater)|Effect: Obsidian Goggles (Greater)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

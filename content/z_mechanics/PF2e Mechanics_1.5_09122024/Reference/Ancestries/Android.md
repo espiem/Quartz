@@ -11,7 +11,7 @@ license: OGL
 ---
 # Android
 
-### [rare](rare "Rare Rarity Trait")[[android]][[humanoid]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Android]][[humanoid]]
 
 
 
@@ -20,7 +20,7 @@ license: OGL
 
 _Technological wonders from another world, androids have synthetic bodies and living souls. Their dual nature makes them quick-thinking and calm under pressure, but comfortable in stillness and solitude._
 
-_[[PF2e Journals/Ancestries/Android|Android]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Android|Android]]_
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

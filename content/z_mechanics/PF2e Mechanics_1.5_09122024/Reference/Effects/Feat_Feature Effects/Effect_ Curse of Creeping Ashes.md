@@ -28,7 +28,7 @@ The smoldering furnace of power within you begins to feed on your body and gener
 
 **Moderate Curse**
 
-The ash you produce intensifies and fills the area around you, obscuring details and making the ground challenging to navigate. You are [[Conditions/Dazzled|Dazzled]]. An aura of ash surrounds you in a 10-foot emanation. You and creatures in the aura are [[Conditions/Concealed|Concealed]]. If you do not move for 1 round, heaps of ashes settle in the aura, creating difficult terrain that lasts until you move (when the ashes blow away).
+The ash you produce intensifies and fills the area around you, obscuring details and making the ground challenging to navigate. You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]]. An aura of ash surrounds you in a 10-foot emanation. You and creatures in the aura are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]]. If you do not move for 1 round, heaps of ashes settle in the aura, creating difficult terrain that lasts until you move (when the ashes blow away).
 
 **Major Curse (11th)**
 

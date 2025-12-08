@@ -11,7 +11,7 @@ license: OGL
 ---
 # Jar of Shifting Sands
 ## Item 7
-### [[earth]][[magical]]
+### [[earth]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 320 gp; 

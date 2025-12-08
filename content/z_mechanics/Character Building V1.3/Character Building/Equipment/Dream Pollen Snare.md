@@ -16,7 +16,7 @@ This simple trap is made of taut twigs that, when triggered, snap down on a poll
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Stupefied|Stupefied 1]] for 1 round.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for 1 round.
 
 **Failure** The creature is stupefied 1 for 1 round. For 1 minute, the creature becomes friendly to all creatures to which it was indifferent, or helpful to all creatures to which it was friendly. If the creature was unfriendly or hostile to any creatures, it remains unfriendly or hostile to them. If the creature is an animal, any creature to which it's friendly or helpful can use Diplomacy to [[Make an Impression]] on it and to make very simple Requests of it.
 

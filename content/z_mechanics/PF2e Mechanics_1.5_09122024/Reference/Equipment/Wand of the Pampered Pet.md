@@ -12,7 +12,7 @@ license: OGL
 ---
 # Wand of the Pampered Pet
 ## Item 4
-### [[extradimensional]][[magical]][[wand]]
+### [[extradimensional]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wand]]
 
 
 **Price** 75 gp; 

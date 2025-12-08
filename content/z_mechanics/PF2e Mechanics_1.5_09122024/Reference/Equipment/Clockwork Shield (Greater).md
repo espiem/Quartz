@@ -10,7 +10,7 @@ license: OGL
 ---
 # Clockwork Shield (Greater)
 ## Item 18
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 22000 gp; 

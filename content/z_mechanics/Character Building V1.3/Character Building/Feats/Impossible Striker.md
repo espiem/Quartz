@@ -10,4 +10,4 @@ tags:
 # Impossible Striker
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-Nothing can prevent you from making a sneak attack, even if your opponent can see every blow coming. Instead of dealing the damage from [[Sly Striker]], you can deal your full sneak attack damage to a target even if the target isn't [[Off-Guard]].
+Nothing can prevent you from making a sneak attack, even if your opponent can see every blow coming. Instead of dealing the damage from [[Sly Striker]], you can deal your full sneak attack damage to a target even if the target isn't [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]].

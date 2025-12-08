@@ -16,11 +16,11 @@ You override a target's olfactory senses, luring them to a specific location thr
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is distracted by the tantalizing scents, becoming [[Stupefied|Stupefied 1]] for 1 round.
+**Success** The target is distracted by the tantalizing scents, becoming [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] for 1 round.
 
-**Failure** The target is [[Stupefied|Stupefied 2]] and moves toward the selected location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] and moves toward the selected location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way.
 
-**Critical Failure** The target is [[Stupefied|Stupefied 4]] and moves to the selected location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way. If the creature reaches the destination, it must remain in that location for 1d4 rounds but can otherwise act normally.
+**Critical Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 4]] and moves to the selected location via the most direct route possible for 1 round, bypassing any obvious hazards and enemies in the way. If the creature reaches the destination, it must remain in that location for 1d4 rounds but can otherwise act normally.
 
 * * *
 

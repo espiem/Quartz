@@ -12,7 +12,7 @@ license: OGL
 ---
 # Breath Weapon `pf2:2`
 
-### [[arcane]][[eidolon]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[eidolon]]
 
 **Category** offensive; 
 

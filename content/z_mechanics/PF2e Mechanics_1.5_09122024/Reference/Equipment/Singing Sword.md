@@ -15,7 +15,7 @@ license: ORC
 ---
 # Singing Sword
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[intelligent]][[occult]][[versatile-p]]
+### [rare](rare "Rare Rarity Trait")[[intelligent]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[versatile-p]]
 
 |  |  |
 | -- | -- |

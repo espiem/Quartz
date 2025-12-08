@@ -12,7 +12,7 @@ license: OGL
 ---
 # Binding Vow `pf2:1`
 
-### [[auditory]][[concentrate]][[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 
 

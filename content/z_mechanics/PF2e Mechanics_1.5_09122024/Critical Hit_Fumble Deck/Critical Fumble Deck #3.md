@@ -8,13 +8,13 @@ tags:
 ---
 # Bad Fall
 
-> You fall [[Conditions/Prone|Prone]] and are [[Conditions/Slowed|Slowed 1]] until the end of your next turn.
+> You fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] and are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] until the end of your next turn.
 
 `Melee`
 
 # Spraining Shot
 
-> Until healed, you take a [[Other Effects/Effect_ -10-foot circumstance penalty to your land Speed|-10-foot circumstance penalty to your land Speed]] and are [[Conditions/Clumsy|Clumsy 1]].
+> Until healed, you take a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -10-foot circumstance penalty to your land Speed|-10-foot circumstance penalty to your land Speed]] and are [[Conditions/Clumsy|Clumsy 1]].
 
 `Ranged`
 

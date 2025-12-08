@@ -13,7 +13,7 @@ license: ORC
 ---
 # Feint `pf2:1`
 
-### [[mental]][[skill]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[skill]]
 
 **Category** offensive; 
 
@@ -28,7 +28,7 @@ With a misleading flourish, you leave an opponent unprepared for your real attac
 
 * * *
 
-**Critical Success** You throw your enemy's defenses against you entirely off. The target is [[Conditions/Off-Guard|Off-Guard]] against melee attacks that you attempt against it until the end of your next turn.
+**Critical Success** You throw your enemy's defenses against you entirely off. The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] against melee attacks that you attempt against it until the end of your next turn.
 
 **Success** Your foe is fooled, but only momentarily. The target is off-guard against the next melee attack that you attempt against it before the end of your current turn.
 

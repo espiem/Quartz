@@ -13,7 +13,7 @@ license: ORC
 ---
 # Premonition of Clarity `pf2:r`
 ## Feat 14
-### [[cleric]][[fortune]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]][[fortune]]
 
 **Category** class; 
 

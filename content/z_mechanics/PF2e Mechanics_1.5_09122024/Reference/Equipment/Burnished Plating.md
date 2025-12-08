@@ -29,7 +29,7 @@ These highly polished metal plates can be added to any armor. While wearing armo
 
 * * *
 
-**Effect** You twist to reflect light in your foe's eyes. The attacking creature must succeed at a DC 3 Flat check check or the attack fails. The attacker doesn't need to roll this flat check if it has a precise sense other than vision or if it would already need to roll a flat check with a higher DC to target you, such as if you are [[Conditions/Concealed|Concealed]] or [[Conditions/Hidden|Hidden]].
+**Effect** You twist to reflect light in your foe's eyes. The attacking creature must succeed at a DC 3 Flat check check or the attack fails. The attacker doesn't need to roll this flat check if it has a precise sense other than vision or if it would already need to roll a flat check with a higher DC to target you, such as if you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]].
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

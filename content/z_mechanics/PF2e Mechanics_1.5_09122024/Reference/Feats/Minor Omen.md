@@ -13,7 +13,7 @@ license: OGL
 ---
 # Minor Omen `pf2:r`
 ## Feat 8
-### [[archetype]][[fortune]][[occult]]
+### [[archetype]][[fortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** class; 
 

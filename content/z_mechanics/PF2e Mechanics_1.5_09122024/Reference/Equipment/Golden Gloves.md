@@ -14,7 +14,7 @@ license: ORC
 ---
 # Golden Gloves
 ## Item 19
-### [rare](rare "Rare Rarity Trait")[[apex]][[holy]][[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[apex]][[holy]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 40000 gp; 
@@ -29,7 +29,7 @@ These golden-threaded gloves fit snuggly past the elbows, and imbue all other wo
 
 * * *
 
-**Effect** You throw wide your arms, putting the _golden gloves_ on full display and causing a blazing halo to form above your head. All enemies within a 40-feet emanation must make a DC 41 Fortitude check save or be [[Conditions/Dazzled|Dazzled]] for 1 minute (or [[Conditions/Blinded|Blinded]] for 1 minute on critical failure). Unholy creatures take a –2 item penalty to their roll. The halo then melts into your body and attempts to counteract any one affliction you are currently suffering of your choice with a counteract rank of 9 and a counteract modifier of +31.
+**Effect** You throw wide your arms, putting the _golden gloves_ on full display and causing a blazing halo to form above your head. All enemies within a 40-feet emanation must make a DC 41 Fortitude check save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for 1 minute (or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] for 1 minute on critical failure). Unholy creatures take a –2 item penalty to their roll. The halo then melts into your body and attempts to counteract any one affliction you are currently suffering of your choice with a counteract rank of 9 and a counteract modifier of +31.
 
 *Source: Pathfinder #206: Bring the House Down*
 *ORC*

@@ -18,7 +18,7 @@ Solidified radiance comprises this slender, featureless wand. It sheds bright li
 
 * * *
 
-**Effect** You cast 5th-level _[[Holy Light]]_, dazzling your target with the beam's intensity. A creature that takes damage from the spell is [[Blinded]] for 1 round and [[Dazzled]] for a number of rounds equal to the spell level. On a critical success on the attack roll, the target is also blinded for as long as it's dazzled from the spell. However, it can attempt a Fortitude saving throw against your spell DC at the end of each of its turns, ending the blinded condition on a success (but remaining dazzled).
+**Effect** You cast 5th-level _[[Holy Light]]_, dazzling your target with the beam's intensity. A creature that takes damage from the spell is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for a number of rounds equal to the spell level. On a critical success on the attack roll, the target is also blinded for as long as it's dazzled from the spell. However, it can attempt a Fortitude saving throw against your spell DC at the end of each of its turns, ending the blinded condition on a success (but remaining dazzled).
 
 * * *
 

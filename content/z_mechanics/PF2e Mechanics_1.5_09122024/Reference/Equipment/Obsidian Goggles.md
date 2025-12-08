@@ -12,7 +12,7 @@ license: ORC
 ---
 # Obsidian Goggles
 ## Item 5
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 150 gp; 
@@ -29,7 +29,7 @@ The sleek, black lenses of these goggles somehow make everything seem more brigh
 
 **Effect** Adjusting your goggles, you gain darkvision for 1 hour.
 
-[[Equipment Effects/Effect_ Obsidian Goggles|Effect: Obsidian Goggles]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Obsidian Goggles|Effect: Obsidian Goggles]]
 
 *Source: Pathfinder GM Core*
 *ORC*

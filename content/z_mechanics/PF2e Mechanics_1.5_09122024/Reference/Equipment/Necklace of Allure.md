@@ -13,7 +13,7 @@ license: ORC
 ---
 # Necklace of Allure
 ## Item 17
-### [[apex]][[invested]][[magical]]
+### [[apex]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 15000 gp; 

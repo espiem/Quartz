@@ -8,7 +8,7 @@ tags:
 ---
 
 # Rime Crystal (Major)
-![[icons-magic-water-orb-ice-opaque.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-magic-water-orb-ice-opaque.webp|150]]
 
 Slowly spinning at the center of this crystalline orb is a single snowflake, and its surface remains lightly covered in frost no matter how hot the weather is outside. The spell attack roll of any spell cast by activating this item is +20, and the spell DC is 30.
 

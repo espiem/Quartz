@@ -12,7 +12,7 @@ tags:
 
 **Frequency** once per minute
 
-**Requirements** Your most recent action was to [[Tumble Through]] or [[Tumbling Strike]], and you successfully moved through an enemy's space.
+**Requirements** Your most recent action was to [[z_mechanics/PF2e Mechanics_1.5_09122024/Hero Point Deck/Tumble Through]] or [[Tumbling Strike]], and you successfully moved through an enemy's space.
 
 * * *
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Bronze Dragon's Breath Potion (Young)
 ## Item 7
-### [[consumable]][[electricity]][[magical]][[potion]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Electricity]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 70 gp; 

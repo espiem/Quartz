@@ -12,7 +12,7 @@ license: ORC
 ---
 # Swaggering Initiative `pf2:0`
 ## Feat 4
-### [[swashbuckler]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-You swagger readily into any fight. You gain a +2 circumstance bonus to your initiative roll and can Interact to draw a weapon. If you are the first to act in combat, you gain [[Feat_Feature Effects/Effect_ Panache|Panache]].
+You swagger readily into any fight. You gain a +2 circumstance bonus to your initiative roll and can Interact to draw a weapon. If you are the first to act in combat, you gain [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Panache|Panache]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

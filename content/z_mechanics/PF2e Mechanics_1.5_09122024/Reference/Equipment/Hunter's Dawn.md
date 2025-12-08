@@ -14,7 +14,7 @@ license: OGL
 ---
 # Hunter's Dawn
 ## Item 23
-### [unique](unique "Unique Rarity Trait")[[arcane]][[artifact]][[thrown-10]]
+### [unique](unique "Unique Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[artifact]][[thrown-10]]
 
 |  |  |
 | -- | -- |

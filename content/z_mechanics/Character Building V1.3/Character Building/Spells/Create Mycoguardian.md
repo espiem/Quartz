@@ -8,7 +8,7 @@ tags:
 ---
 
 # Create Mycoguardian
-![[systems-pf2e-icons-spells-monstrosity-form.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-monstrosity-form.webp|150]]
 
 You transform the target into an fungus creature with a level up to that allowed in the below table. There are many versions of this ritual, each specific to a particular type of mycoguardian, and the rituals that create rare mycroguardians are also rare.
 

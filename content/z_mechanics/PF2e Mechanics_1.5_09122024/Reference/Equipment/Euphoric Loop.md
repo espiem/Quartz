@@ -13,7 +13,7 @@ license: OGL
 ---
 # Euphoric Loop
 ## Item 5
-### [[catalyst]][[consumable]][[magical]]
+### [[catalyst]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** catalyst; 
 **Price** 30 gp; 
@@ -28,7 +28,7 @@ This catalyst is made from twisted sapling bark harvested under a full moon. Whe
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Conditions/Stunned|Stunned 1]] or, if the spell ended because of a hostile action, [[Conditions/Confused|Confused]] for 1 round.
+**Success** The target is [[Conditions/Stunned|Stunned 1]] or, if the spell ended because of a hostile action, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]] for 1 round.
 
 **Failure** The target is [[Conditions/Stunned|Stunned 2]] or, if the spell ended because of a hostile action, confused for 1 round.
 

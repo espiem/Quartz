@@ -18,7 +18,7 @@ license: ORC
 ---
 # Celestial Peachwood Sword
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[agile]][[finesse]][[holy]][[magical]][[versatile-s]][[vitality]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[holy]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[versatile-s]][[vitality]]
 
 |  |  |
 | -- | -- |

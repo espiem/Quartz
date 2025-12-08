@@ -16,7 +16,7 @@ license: OGL
 ---
 # Phalanx Piercer
 ## Item 1
-### [[concussive]][[hobgoblin]][[propulsive]][[razing]][[volley-30]]
+### [[concussive]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Hobgoblin]][[propulsive]][[razing]][[volley-30]]
 
 |  |  |
 | -- | -- |

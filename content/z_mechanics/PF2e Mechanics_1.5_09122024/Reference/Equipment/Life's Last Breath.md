@@ -15,7 +15,7 @@ license: OGL
 ---
 # Life's Last Breath
 ## Item 18
-### [unique](unique "Unique Rarity Trait")[[deadly-d8]][[holy]][[magical]][[two-hand-d10]]
+### [unique](unique "Unique Rarity Trait")[[deadly-d8]][[holy]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[two-hand-d10]]
 
 |  |  |
 | -- | -- |

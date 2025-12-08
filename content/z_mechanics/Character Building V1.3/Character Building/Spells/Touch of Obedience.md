@@ -16,8 +16,8 @@ Your imperious touch erodes the target's willpower, making it easier to control.
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Stupefied|Stupefied 1]] until the end of your next turn.
+**Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] until the end of your next turn.
 
-**Failure** The target is [[Stupefied|Stupefied 2]] until the end of your next turn.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] until the end of your next turn.
 
-**Critical Failure** The target is [[Stupefied|Stupefied 2]] for 1 minute and is forced to its knees, becoming prone.
+**Critical Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] for 1 minute and is forced to its knees, becoming prone.

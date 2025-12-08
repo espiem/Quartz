@@ -14,14 +14,14 @@ license: ORC
 ---
 # Compound Eyes
 ## Item 4
-### [[fortune]][[graft]][[invested]][[magical]]
+### [[fortune]][[graft]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 75 gp; 
 **Bulk** 0; **Size** med
 **Usage** implanted
 
-You replace your eyes with ones similar to an insect's or a crustacean's, which allow you to better pinpoint movement. Once per day when you attempt a flat check to target a creature that's [[Conditions/Concealed|Concealed]] from you, you can roll twice and take the better result.
+You replace your eyes with ones similar to an insect's or a crustacean's, which allow you to better pinpoint movement. Once per day when you attempt a flat check to target a creature that's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] from you, you can roll twice and take the better result.
 
 *Source: Pathfinder Howl of the Wild*
 *ORC*

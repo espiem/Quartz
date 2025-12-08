@@ -37,9 +37,9 @@ This vial of glowing goo constantly sheds dim light in a 10-foot radius. When a 
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for 1 round.
 
-**Critical Failure** The creature is [[Conditions/Blinded|Blinded]] for 1 round, then dazzled for 1 round.
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] for 1 round, then dazzled for 1 round.
 
 *Source: Pathfinder #187: The Seventh Arch*
 *OGL*

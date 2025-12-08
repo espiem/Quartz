@@ -8,7 +8,7 @@ tags:
 ---
 
 # Forbidding Ward
-![[systems-pf2e-icons-spells-forbidding-ward.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-forbidding-ward.webp|150]]
 
 You ward an ally against the attacks and hostile spells from the target enemy. The target ally gains a +1 status bonus to Armor Class and saving throws against the target enemy's attacks, spells, and other effects.
 

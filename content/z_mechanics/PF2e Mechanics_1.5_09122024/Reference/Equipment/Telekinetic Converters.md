@@ -11,7 +11,7 @@ license: OGL
 ---
 # Telekinetic Converters
 ## Item 12
-### [rare](rare "Rare Rarity Trait")[[invested]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 1950 gp; 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Protector's Sphere
-![[systems-pf2e-icons-spells-protectors-sphere.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-protectors-sphere.webp|150]]
 
 A protective aura emanates out from you, safeguarding you and your allies. You gain resistance 3 to all damage. Your allies also gain this resistance while in the area.
 

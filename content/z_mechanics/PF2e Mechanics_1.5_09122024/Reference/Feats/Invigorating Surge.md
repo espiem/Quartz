@@ -13,7 +13,7 @@ license: ORC
 ---
 # Invigorating Surge `pf2:1`
 ## Feat 14
-### [[concentrate]][[mythic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[mythic]]
 
 **Category** class; 
 

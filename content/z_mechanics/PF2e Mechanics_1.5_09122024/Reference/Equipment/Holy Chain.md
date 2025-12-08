@@ -15,7 +15,7 @@ license: ORC
 ---
 # Holy Chain
 ## Item 13
-### [[divine]][[holy]][[invested]][[noisy]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[holy]][[invested]][[noisy]]
 
 **Category** medium; **Group** chain
 **Price** 2500 gp; 

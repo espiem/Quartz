@@ -8,7 +8,7 @@ tags:
 ---
 
 # Silence
-![[systems-pf2e-icons-spells-silence.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-silence.webp|150]]
 
 The target makes no sound, preventing creatures from noticing it using hearing alone. The target can't use sonic attacks, nor can it use actions with the auditory trait. This prevents it from casting spells due to the magical words involved in casting, with the exception of subtle spells.
 

@@ -10,4 +10,4 @@ tags:
 # Diehard
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-It takes more to kill you than most. You die from the [[Dying]] condition at dying 5, rather than dying 4.
+It takes more to kill you than most. You die from the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying]] condition at dying 5, rather than dying 4.

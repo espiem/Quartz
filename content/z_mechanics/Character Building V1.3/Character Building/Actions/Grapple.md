@@ -17,10 +17,10 @@ You attempt to grab a creature or object with your free hand. Attempt an Athleti
 
 * * *
 
-**Critical Success** Your target is [[Restrained]] until the end of your next turn unless you move or your target [[Escape|Escapes]].
+**Critical Success** Your target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]] until the end of your next turn unless you move or your target [[Escape|Escapes]].
 
-**Success** Your target is [[Grabbed]] until the end of your next turn unless you move or your target Escapes.
+**Success** Your target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] until the end of your next turn unless you move or your target Escapes.
 
 **Failure** You fail to grab your target. If you already had the target grabbed or restrained, it breaks free.
 
-**Critical Failure** If you already had the target grabbed or restrained, it breaks free. Your target can either grab you, as if it succeeded at using the Grapple action against you, or force you to fall and land [[Prone]].
+**Critical Failure** If you already had the target grabbed or restrained, it breaks free. Your target can either grab you, as if it succeeded at using the Grapple action against you, or force you to fall and land [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].

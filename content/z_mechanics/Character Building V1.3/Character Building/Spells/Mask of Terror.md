@@ -16,9 +16,9 @@ When any creature attempts a hostile action against the target, the creature mus
 
 **Success** The creature is unaffected.
 
-**Failure** The creature becomes [[Frightened|Frightened 2]] before using its action.
+**Failure** The creature becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] before using its action.
 
-**Critical Failure** The creature becomes [[Frightened|Frightened 2]], and its action fails and is wasted.
+**Critical Failure** The creature becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]], and its action fails and is wasted.
 
 * * *
 

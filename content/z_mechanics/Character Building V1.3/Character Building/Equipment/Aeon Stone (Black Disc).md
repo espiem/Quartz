@@ -8,7 +8,7 @@ tags:
 ---
 
 # Aeon Stone (Black Disc)
-![[systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-pale-lavender-ellipsoid.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-worn-items-other-worn-items-aeon-stone-pale-lavender-ellipsoid.webp|150]]
 
 This aeon stone slowly infuses void energy into your body. The stone deals 1 persistent void damage to you (10 void damage per minute) so long as it's invested, and you can't recover from persistent void damage while you have the stone invested.
 

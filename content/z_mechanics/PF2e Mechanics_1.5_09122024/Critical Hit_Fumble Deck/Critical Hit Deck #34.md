@@ -20,12 +20,12 @@ tags:
 
 # Leg Swipe
 
-> The target is knocked [[Conditions/Prone|Prone]].
+> The target is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 `Slashing`
 
 # Terrifying Display
 
-> The target is [[Conditions/Frightened|Frightened 3]].
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]].
 
 `Bomb or Spell`

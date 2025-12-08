@@ -22,8 +22,8 @@ The GM might add additional effects in certain areas. Cliffs might collapse, cau
 
 **Critical Success** The creature takes half collapse damage.
 
-**Success** The creature takes half the collapse damage and falls [[Prone]].
+**Success** The creature takes half the collapse damage and falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].
 
 **Failure** The creature takes the full collapse damage and falls prone.
 
-**Critical Failure** The creature takes the full collapse damage and is [[Restrained]] by debris until it successfully Escapes (DC equal to the spell's save DC).
+**Critical Failure** The creature takes the full collapse damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]] by debris until it successfully Escapes (DC equal to the spell's save DC).

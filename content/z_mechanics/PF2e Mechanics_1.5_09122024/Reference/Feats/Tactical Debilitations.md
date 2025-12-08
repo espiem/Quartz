@@ -12,7 +12,7 @@ license: ORC
 ---
 # Tactical Debilitations
 ## Feat 10
-### [[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ license: ORC
 You learn new debilitations that grant you tactical advantages against your foes. Add the following debilitations to the list you can choose from when you use Debilitating Strike.
 
 *   **Debilitation** The target can't use reactions.
-*   **Debilitation** The target can't flank or contribute to allies' flanking. [[Feat_Feature Effects/Effect_ Tactical Debilitations (No Flanking)|Effect: Tactical Debilitations (No Flanking)]]
+*   **Debilitation** The target can't flank or contribute to allies' flanking. [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Tactical Debilitations (No Flanking)|Effect: Tactical Debilitations (No Flanking)]]
 
 *Source: Pathfinder Player Core*
 *ORC*

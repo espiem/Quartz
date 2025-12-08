@@ -20,4 +20,4 @@ Rather than restrict the senses, a stag's helm enhances them, causing the world 
 
 **Frequency** once per day (or once per hour if the wearer worships Erastil)
 
-**Effect** Choose a single creature within 30 feet. The stag's helm focuses your aim and grants supernatural insight into your next shot. Your target is [[Off-Guard]] to the next ranged Strike you make this turn against them.
+**Effect** Choose a single creature within 30 feet. The stag's helm focuses your aim and grants supernatural insight into your next shot. Your target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] to the next ranged Strike you make this turn against them.

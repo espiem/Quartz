@@ -11,7 +11,7 @@ license: OGL
 ---
 # Sprite
 
-### [rare](rare "Rare Rarity Trait")[[fey]][[sprite]]
+### [rare](rare "Rare Rarity Trait")[[fey]][[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Sprite]]
 
 
 
@@ -20,7 +20,7 @@ license: OGL
 
 _Sprites are diminutive, whimsical, and exuberant creatures from the fey realm known as the First World. They love playing pranks, exploring new things, and embracing everything to do with magic._
 
-_[[PF2e Journals/Ancestries/Sprite|Sprite]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Sprite|Sprite]]_
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Produce Flame
-![[icons-magic-fire-flame-burning-earth-orange.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-flame-burning-earth-orange.webp|150]]
 
 A small ball of flame appears in the palm of your hand, and you lash out with it either in melee or at range. Make a spell attack roll against your target's AC. This is normally a ranged attack, but you can also make a melee attack against a creature in your unarmed reach.
 

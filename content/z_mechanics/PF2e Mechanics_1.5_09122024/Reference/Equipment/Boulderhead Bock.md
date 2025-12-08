@@ -25,7 +25,7 @@ No one is sure if Gorm brews this malty ale himself, but it seems to be an off-d
 
 For 1 hour, you gain a +1 item bonus to saving throws against effects that would make you stunned or stupefied. However, you also become less aware of your surroundings, taking a -2 item penalty to Perception for 1 hour.
 
-[[Equipment Effects/Effect_ Boulderhead Bock|Effect: Boulderhead Bock]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Boulderhead Bock|Effect: Boulderhead Bock]]
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

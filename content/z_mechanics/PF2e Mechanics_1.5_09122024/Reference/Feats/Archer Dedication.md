@@ -24,7 +24,7 @@ You have familiarity with all weapons in the bow and crossbow weapon groups. For
 
 If you are at least an expert in the bow or crossbow you are using, you get the critical specialization effect of that weapon when you get a critical hit with it.
 
-[[PF2e Journals/Archetypes/Archer|Archer]]
+[[Archer|Archer]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

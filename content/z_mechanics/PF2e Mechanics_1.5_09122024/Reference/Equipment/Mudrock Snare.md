@@ -16,7 +16,7 @@ license: ORC
 ---
 # Mudrock Snare
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[kobold]][[mechanical]][[snare]][[trap]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Kobold]][[mechanical]][[snare]][[trap]]
 
 **Category** snare; 
 **Price** 170 gp; 
@@ -33,7 +33,7 @@ Fired clay covers a shallow pit of thin mud interspersed with fragile vials of a
 
 **Failure** The creature is [[Conditions/Stunned|Stunned 2]], and it takes a –10-foot circumstance penalty to its Speed for 1 minute or until it Escapes (DC 27).
 
-**Critical Failure** The creature is [[Conditions/Stunned|Stunned 3]], and it's [[Conditions/Immobilized|Immobilized]] for 1 minute or until it Escapes (DC 27).
+**Critical Failure** The creature is [[Conditions/Stunned|Stunned 3]], and it's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]] for 1 minute or until it Escapes (DC 27).
 
 [[Equipment Effects/Effect_ Mudrock Snare|Effect: Mudrock Snare]]
 

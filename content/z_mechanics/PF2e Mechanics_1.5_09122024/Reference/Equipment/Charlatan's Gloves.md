@@ -12,7 +12,7 @@ license: ORC
 ---
 # Charlatan's Gloves
 ## Item 3
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 50 gp; 

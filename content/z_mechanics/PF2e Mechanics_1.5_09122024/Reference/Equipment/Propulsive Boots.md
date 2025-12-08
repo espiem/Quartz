@@ -12,7 +12,7 @@ license: ORC
 ---
 # Propulsive Boots
 ## Item 13
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 3000 gp; 
@@ -27,7 +27,7 @@ These sleek red boots make your legs feel like they're bursting with energy. You
 
 * * *
 
-**Effect** You stomp three times and gain the [[Conditions/Quickened|Quickened]] condition for 1 minute. You can use the extra action to Stride, [[Actions/Climb|Climb]], or [[Actions/Swim|Swim]]. (You must still attempt an Athletics check for the Climb and Swim actions unless you have the appropriate movement type.)
+**Effect** You stomp three times and gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened]] condition for 1 minute. You can use the extra action to Stride, [[Actions/Climb|Climb]], or [[Actions/Swim|Swim]]. (You must still attempt an Athletics check for the Climb and Swim actions unless you have the appropriate movement type.)
 
 *Source: Pathfinder GM Core*
 *ORC*

@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-You move 5 feet by crawling and continue to stay [[Conditions/Prone|Prone]].
+You move 5 feet by crawling and continue to stay [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 *Source: Pathfinder Player Core*
 *ORC*

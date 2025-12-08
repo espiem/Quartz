@@ -10,7 +10,7 @@ tags:
 # Perfected Body
 ![[systems-pf2e-icons-spells-perfected-form.webp|150]]
 
-**Trigger** You fail or critically fail a saving throw against an effect that has the morph, poison, or polymorph trait, or that would make you [[Clumsy 1|Clumsy]], [[Doomed]], [[Enfeebled 1|Enfeebled]], [[Petrified]], or [[Sickened 1|Sickened]].
+**Trigger** You fail or critically fail a saving throw against an effect that has the morph, poison, or polymorph trait, or that would make you [[Clumsy 1|Clumsy]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed]], [[Enfeebled 1|Enfeebled]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Petrified]], or [[Sickened 1|Sickened]].
 
 * * *
 

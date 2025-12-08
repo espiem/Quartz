@@ -15,7 +15,7 @@ license: ORC
 ---
 # Thorn Brush
 ## Item 15
-### [rare](rare "Rare Rarity Trait")[[holy]][[magical]][[versatile-p]]
+### [rare](rare "Rare Rarity Trait")[[holy]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[versatile-p]]
 
 |  |  |
 | -- | -- |
@@ -42,9 +42,9 @@ This _+2 greater striking holy shifting morningstar_ has a head that appears to 
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is [[Conditions/Dazzled|Dazzled]] by paint in its eyes for 1 minute.
+**Failure** The creature takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] by paint in its eyes for 1 minute.
 
-**Critical Failure** The creature takes double damage and is [[Conditions/Blinded|Blinded]] by paint in its eyes for 1 round and then dazzled for 1 minute.
+**Critical Failure** The creature takes double damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] by paint in its eyes for 1 round and then dazzled for 1 minute.
 
 *Source: Pathfinder #205: Singer, Stalker, Skinsaw Man*
 *ORC*

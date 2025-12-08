@@ -8,7 +8,7 @@ tags:
 ---
 
 # Skyrider Sword
-![[icons-weapons-swords-greatsword-crossguard-silver.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-weapons-swords-greatsword-crossguard-silver.webp|150]]
 
 This _+2 greater striking shock greatsword_ has a broad, flat blade that can support the weight of a Medium-sized or smaller wielder. Magic allows the weapon to soar through the air, carrying its wielder along with it.
 

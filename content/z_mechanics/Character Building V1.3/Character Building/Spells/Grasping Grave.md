@@ -20,7 +20,7 @@ Hundreds of skeletal arms erupt from the ground in the area, clawing at creature
 
 **Failure** The creature takes full damage and a -10-foot circumstance penalty to its Speeds for 1 round.
 
-**Critical Failure** The creature takes double damage and is [[Immobilized]] for 1 round or until it Escapes.
+**Critical Failure** The creature takes double damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] for 1 round or until it Escapes.
 
 * * *
 

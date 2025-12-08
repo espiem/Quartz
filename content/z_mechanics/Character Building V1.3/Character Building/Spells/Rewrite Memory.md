@@ -10,7 +10,7 @@ tags:
 ---
 
 # Rewrite Memory
-![[systems-pf2e-icons-spells-modify-memory.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-modify-memory.webp|150]]
 
 You alter the target's memories, either erasing a memory, enhancing a memory's clarity, altering a memory, or adding a false memory. The target can attempt a Will save to resist the spell.
 

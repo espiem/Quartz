@@ -8,7 +8,7 @@ tags:
 ---
 
 # Celestial Brand
-![[icons-magic-fire-barrier-wall-flame-ring-yellow.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-barrier-wall-flame-ring-yellow.webp|150]]
 
 A blazing symbol appears on the target, cursing it to face divine justice. You and your allies receive a +1 status bonus to your attack rolls and skill checks against it.
 

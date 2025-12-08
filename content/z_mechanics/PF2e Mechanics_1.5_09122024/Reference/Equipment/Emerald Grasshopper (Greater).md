@@ -14,7 +14,7 @@ license: ORC
 ---
 # Emerald Grasshopper (Greater)
 ## Item 9
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 150 gp; 

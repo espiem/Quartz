@@ -15,7 +15,7 @@ license: OGL
 ---
 # Demon Dust
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[inhaled]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[inhaled]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** drug; 
 **Price** 45 gp; 
@@ -34,15 +34,15 @@ The save for addiction to demon dust is DC 24 Fortitude check, and the addiction
 
 **Stage 1** +2 item bonus to Athletics checks and treat up to 4 Bulk as being negligible in weight (1 minute)
 
-[[Equipment Effects/Effect_ Demon Dust (Stage 1)|Effect: Demon Dust (Stage 1)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Demon Dust (Stage 1)|Effect: Demon Dust (Stage 1)]]
 
-**Stage 2** +2 item bonus to Athletics checks, treat up to 4 Bulk as being negligible in weight, and [[Conditions/Stupefied|Stupefied 1]] (1 hour)
+**Stage 2** +2 item bonus to Athletics checks, treat up to 4 Bulk as being negligible in weight, and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (1 hour)
 
-[[Equipment Effects/Effect_ Demon Dust (Stage 2)|Effect: Demon Dust (Stage 2)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Demon Dust (Stage 2)|Effect: Demon Dust (Stage 2)]]
 
 **Stage 3** stupefied 1 (1 hour)
 
-**Stage 4** [[Conditions/Stupefied|Stupefied 2]] (1 hour)
+**Stage 4** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] (1 hour)
 
 **Stage 5** stupefied 2 and all memories made since you were first exposed to this dose of demon dust become hazy and vague (1 hour)
 

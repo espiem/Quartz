@@ -14,7 +14,7 @@ license: OGL
 ---
 # Favorable Winds `pf2:1`
 ## Feat 5
-### [[air]][[changeling]][[concentrate]][[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[changeling]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** ancestry; 
 

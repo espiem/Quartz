@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wand of Toxic Blades (6th-level)
 ## Item 15
-### [[force]][[magical]][[poison]][[wand]]
+### [[force]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[wand]]
 
 
 **Price** 6000 gp; 

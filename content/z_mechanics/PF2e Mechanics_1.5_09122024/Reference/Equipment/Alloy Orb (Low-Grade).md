@@ -14,7 +14,7 @@ license: ORC
 ---
 # Alloy Orb (Low-Grade)
 ## Item 3
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** other; 
 **Price** 10 gp; 
@@ -27,7 +27,7 @@ license: ORC
 
 Although solid, this orb of metal swirls with bright silver and dark iron colors, as if made of liquid. When you activate the _alloy orb_, select cold iron or silver. The affixed weapon functions as the chosen material for 1 minute, suppressing its original material. This orb only works on weapons of 8th level or lower.
 
-[[Equipment Effects/Effect_ Alloy Orb (Low-Grade)|Effect: Alloy Orb (Low-Grade)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Alloy Orb (Low-Grade)|Effect: Alloy Orb (Low-Grade)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

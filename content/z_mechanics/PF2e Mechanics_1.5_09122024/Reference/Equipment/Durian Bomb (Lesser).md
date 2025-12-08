@@ -42,7 +42,7 @@ Once a creature is sickened by a durian bomb, they're immune to the sickened con
 
 **Success** The creature is [[Conditions/Sickened|Sickened 1]].
 
-**Failure** The creature is [[Conditions/Dazzled|Dazzled]] for 1 round and sickened 1.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for 1 round and sickened 1.
 
 **Critical Failure** The creature is dazzled for 1 round and [[Conditions/Sickened|Sickened 2]].
 

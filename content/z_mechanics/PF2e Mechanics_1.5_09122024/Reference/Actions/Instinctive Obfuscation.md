@@ -13,7 +13,7 @@ license: OGL
 ---
 # Instinctive Obfuscation `pf2:r`
 
-### [[gnome]][[illusion]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Gnome]][[illusion]][[visual]]
 
 **Category** defensive; 
 

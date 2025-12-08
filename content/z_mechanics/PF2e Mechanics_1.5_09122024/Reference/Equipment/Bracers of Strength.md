@@ -13,7 +13,7 @@ license: ORC
 ---
 # Bracers of Strength
 ## Item 17
-### [[apex]][[invested]][[magical]]
+### [[apex]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 15000 gp; 
@@ -26,7 +26,7 @@ Etchings of powerful bears decorate these brass bracers. You gain a +3 item bonu
 
 **Activate—Bear Hug** `pf2:1` (manipulate)
 
-Attempt to [[Actions/Grapple|Grapple]] a creature. If you succeed, you crush the creature in your grasp, dealing bludgeoning damage to it equal to your Strength modifier. If you critically succeeded, the damage is equal to double your Strength modifier, and the creature suffocates as long as it remains [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by you.
+Attempt to [[Actions/Grapple|Grapple]] a creature. If you succeed, you crush the creature in your grasp, dealing bludgeoning damage to it equal to your Strength modifier. If you critically succeeded, the damage is equal to double your Strength modifier, and the creature suffocates as long as it remains [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]] by you.
 
 *Source: Pathfinder GM Core*
 *ORC*

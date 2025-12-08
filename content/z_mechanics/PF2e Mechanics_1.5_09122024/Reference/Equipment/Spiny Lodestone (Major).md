@@ -13,7 +13,7 @@ license: OGL
 ---
 # Spiny Lodestone (Major)
 ## Item 12
-### [[magical]][[metal]][[spellheart]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[metal]][[spellheart]]
 
 
 **Price** 1750 gp; 
@@ -25,9 +25,9 @@ This perfectly octahedral magnetite crystal is covered in a hair-like layer of i
 *   **Armor** You gain a +2 item bonus to Athletics checks and resistance 10 to nonlethal damage.
 *   **Weapon** After you cast a spell by Activating the spiny lodestone, your Strikes with the weapon deal an additional 1d8 piercing damage until the end of your next turn.
 
-[[Equipment Effects/Effect_ Spiny Lodestone - Armor (Major)|Effect: Spiny Lodestone - Armor (Major)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Spiny Lodestone - Armor (Major)|Effect: Spiny Lodestone - Armor (Major)]]
 
-[[Equipment Effects/Effect_ Spiny Lodestone - Weapon (Major)|Effect: Spiny Lodestone - Weapon (Major)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Spiny Lodestone - Weapon (Major)|Effect: Spiny Lodestone - Weapon (Major)]]
 
 * * *
 

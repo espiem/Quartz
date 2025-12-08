@@ -26,7 +26,7 @@ You can [[Dismiss]] _temporal ward_. The maximum number of _temporal wards_ you 
 
 **Failure** The creature is thrown briefly backwards in time. The action or activity they used to open the door or container is wasted and they're returned to the position they were located at during the start of their turn. Their turn then ends.
 
-**Critical Failure** As failure, but the temporal displacement also causes the creature to lose their bearings, making them [[Confused]] for 1 minute.
+**Critical Failure** As failure, but the temporal displacement also causes the creature to lose their bearings, making them [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] for 1 minute.
 
 * * *
 

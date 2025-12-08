@@ -14,7 +14,7 @@ license: ORC
 ---
 # Whirlwind Strike `pf2:3`
 ## Feat 14
-### [[barbarian]][[fighter]][[flourish]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]][[flourish]]
 
 **Category** class; 
 

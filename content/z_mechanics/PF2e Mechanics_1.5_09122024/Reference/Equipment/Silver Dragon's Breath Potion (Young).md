@@ -14,7 +14,7 @@ license: OGL
 ---
 # Silver Dragon's Breath Potion (Young)
 ## Item 7
-### [[cold]][[consumable]][[magical]][[potion]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Cold]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 70 gp; 

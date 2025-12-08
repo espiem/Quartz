@@ -18,4 +18,4 @@ You become trained in the skill associated with the patron's tradition; if you w
 
 * * *
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[Witch]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Witch]] archetype.

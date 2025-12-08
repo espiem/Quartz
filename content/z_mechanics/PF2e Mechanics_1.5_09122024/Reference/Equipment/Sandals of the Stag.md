@@ -12,7 +12,7 @@ license: OGL
 ---
 # Sandals of the Stag
 ## Item 18
-### [[apex]][[invested]][[magical]]
+### [[apex]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 24000 gp; 

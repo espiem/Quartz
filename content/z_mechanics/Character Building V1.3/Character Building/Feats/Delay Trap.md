@@ -24,4 +24,4 @@ You try to jam the workings of a trap to delay its effects. Attempt a Thievery c
 
 **Failure** No effect.
 
-**Critical Failure** You're [[Off-Guard]] until the start of your next turn.
+**Critical Failure** You're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the start of your next turn.

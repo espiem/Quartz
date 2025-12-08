@@ -10,7 +10,7 @@ license: OGL
 ---
 # Cresset of Grisly Interrogation
 ## Item 9
-### [rare](rare "Rare Rarity Trait")[[magical]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 700 gp; 

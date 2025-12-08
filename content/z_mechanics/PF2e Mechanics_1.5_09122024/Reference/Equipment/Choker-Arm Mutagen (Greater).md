@@ -30,7 +30,7 @@ For 1 hour your limbs become extremely limber, letting you stretch and twist to 
 
 **Drawback** You take a –1 penalty to Athletics checks, Stealth checks, Thievery checks, and attack rolls, and a –1 penalty per damage die to all weapon and unarmed attack damage.
 
-[[Equipment Effects/Effect_ Choker-Arm Mutagen (Greater)|Effect: Choker-Arm Mutagen (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Choker-Arm Mutagen (Greater)|Effect: Choker-Arm Mutagen (Greater)]]
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

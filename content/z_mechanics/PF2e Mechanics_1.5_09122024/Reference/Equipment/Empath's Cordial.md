@@ -14,7 +14,7 @@ license: OGL
 ---
 # Empath's Cordial
 ## Item 7
-### [[consumable]][[magical]][[mental]][[potion]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[potion]]
 
 **Category** potion; 
 **Price** 65 gp; 

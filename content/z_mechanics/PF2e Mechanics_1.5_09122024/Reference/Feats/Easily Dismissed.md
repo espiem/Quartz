@@ -11,7 +11,7 @@ license: OGL
 ---
 # Easily Dismissed
 ## Feat 5
-### [uncommon](uncommon "Uncommon Rarity Trait")[[halfling]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Halfling]]
 
 **Category** ancestry; 
 

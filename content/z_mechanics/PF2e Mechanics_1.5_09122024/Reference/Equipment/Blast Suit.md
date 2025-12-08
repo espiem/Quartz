@@ -13,7 +13,7 @@ license: OGL
 ---
 # Blast Suit
 ## Item 9
-### [uncommon](uncommon "Uncommon Rarity Trait")[[bulwark]][[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[bulwark]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** heavy; **Group** plate
 **Price** 650 gp; 
@@ -29,9 +29,9 @@ Crafted from heavy steel plating and riveted together with cunning precision, th
 * * *
 
 **Effect** The _blast suit_ locks together into a rigid bulwark, protecting you from the blast but preventing you from moving from your position under any circumstances.  
-You become [[Conditions/Immobilized|Immobilized]], gain a +2 circumstance bonus to your Reflex save against area effects, and gain resistance 5 to all damage you would normally take from area effects and scatter splash damage (this doesn't damage the _blast suit_). These effects persist for as long as the suit remains in the locked position. You can Interact with the suit to unlock it.
+You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]], gain a +2 circumstance bonus to your Reflex save against area effects, and gain resistance 5 to all damage you would normally take from area effects and scatter splash damage (this doesn't damage the _blast suit_). These effects persist for as long as the suit remains in the locked position. You can Interact with the suit to unlock it.
 
-[[Equipment Effects/Effect_ Blast Suit|Effect: Blast Suit]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Blast Suit|Effect: Blast Suit]]
 
 *Source: Pathfinder #180: The Smoking Gun*
 *OGL*

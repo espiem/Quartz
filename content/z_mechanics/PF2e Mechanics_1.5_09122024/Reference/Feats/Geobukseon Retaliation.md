@@ -15,7 +15,7 @@ license: ORC
 ---
 # Geobukseon Retaliation `pf2:r`
 ## Feat 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fire]][[inventor]][[modification]][[unstable]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Feats/Inventor]][[modification]][[unstable]]
 
 **Category** class; 
 

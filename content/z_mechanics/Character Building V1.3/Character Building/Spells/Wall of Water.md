@@ -8,7 +8,7 @@ tags:
 ---
 
 # Wall of Water
-![[systems-pf2e-icons-spells-wall-of-water.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-wall-of-water.webp|150]]
 
 Raising your hand in the air, you call a massive wave onto the battlefield. The wall stays upright in a straight line that is 60 feet long, 10 feet high, and 5 feet thick.
 

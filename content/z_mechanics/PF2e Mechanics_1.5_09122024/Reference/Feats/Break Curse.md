@@ -16,7 +16,7 @@ license: ORC
 ---
 # Break Curse
 ## Feat 7
-### [[concentrate]][[exploration]][[healing]][[skill]][[general]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[exploration]][[healing]][[skill]][[general]]
 
 **Category** skill; 
 

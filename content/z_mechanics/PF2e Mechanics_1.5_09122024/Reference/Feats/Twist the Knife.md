@@ -12,14 +12,14 @@ license: ORC
 ---
 # Twist the Knife `pf2:1`
 ## Feat 6
-### [[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 
 
 
 
-**Requirements** Your last action was a melee Strike that dealt sneak attack damage to an [[Conditions/Off-Guard|Off-Guard]] target.
+**Requirements** Your last action was a melee Strike that dealt sneak attack damage to an [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] target.
 
 * * *
 

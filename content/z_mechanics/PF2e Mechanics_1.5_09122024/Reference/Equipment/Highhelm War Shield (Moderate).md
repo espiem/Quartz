@@ -12,7 +12,7 @@ license: OGL
 ---
 # Highhelm War Shield (Moderate)
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[integrated-1d6-s]][[magical]][[shield-throw-20]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[integrated-1d6-s]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[shield-throw-20]]
 
 
 **Price** 4000 gp; 
@@ -27,7 +27,7 @@ This specialized [[Equipment/Razor Disc|Razor Disc]] was originally designed by 
 
 * * *
 
-**Effect** The shield's blades grow and dig themselves into your foe. The creature becomes [[Conditions/Grabbed|Grabbed]] as it becomes impaled on the shield spikes. While you have a creature grabbed in this way, you can't Raise the Shield, but the creature takes persistent bleed damage every round equal to the number of damage dice. This persistent bleed can't end as long as the creature is impaled on the shield. You can Release the shield to leave it embedded in the creature. This ends the grab but doesn't end the persistent bleed damage. The creature can remove the shield and end the grab by attempting a check to [[Actions/Escape|Escape]]. This normally uses your Athletics DC to Escape, but if you're no longer holding the shield, the Escape DC is 31.
+**Effect** The shield's blades grow and dig themselves into your foe. The creature becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]] as it becomes impaled on the shield spikes. While you have a creature grabbed in this way, you can't Raise the Shield, but the creature takes persistent bleed damage every round equal to the number of damage dice. This persistent bleed can't end as long as the creature is impaled on the shield. You can Release the shield to leave it embedded in the creature. This ends the grab but doesn't end the persistent bleed damage. The creature can remove the shield and end the grab by attempting a check to [[Actions/Escape|Escape]]. This normally uses your Athletics DC to Escape, but if you're no longer holding the shield, the Escape DC is 31.
 
 *Source: Pathfinder Lost Omens: Highhelm*
 *OGL*

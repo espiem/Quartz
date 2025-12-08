@@ -12,7 +12,7 @@ license: ORC
 ---
 # Wand of Continuation (6th-Rank Spell)
 ## Item 15
-### [[magical]][[wand]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wand]]
 
 
 **Price** 6500 gp; 

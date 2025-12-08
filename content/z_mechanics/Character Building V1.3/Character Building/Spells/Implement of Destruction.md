@@ -18,7 +18,7 @@ You solemnly declare that the target weapon will bring death to a foe, implantin
 
 **Success** The target weapon deals an additional 2d6 mental damage the first time it hits the target enemy before the end of the spell's duration.
 
-**Failure** The target weapon deals an additional 2d6 persistent,mental damage to the target enemy. If the enemy is critically hit by the weapon, the enemy is [[Doomed|Doomed 1]] for as long as it takes this persistent mental damage.
+**Failure** The target weapon deals an additional 2d6 persistent,mental damage to the target enemy. If the enemy is critically hit by the weapon, the enemy is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]] for as long as it takes this persistent mental damage.
 
 **Critical Failure** The target weapon deals an additional 4d6 persistent,mental damage to the target enemy. If the enemy is critically hit by the weapon, the enemy is doomed 1.
 

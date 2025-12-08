@@ -12,14 +12,14 @@ license: OGL
 ---
 # Slip the Grasp `pf2:1`
 ## Feat 9
-### [[fleshwarp]][[flourish]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Fleshwarp]][[flourish]]
 
 **Category** ancestry; 
 
 
 
 
-**Requirements** You are [[Conditions/Grabbed|Grabbed]], [[Conditions/Immobilized|Immobilized]], or [[Conditions/Restrained|Restrained]].
+**Requirements** You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]].
 
 * * *
 

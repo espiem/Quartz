@@ -12,14 +12,14 @@ license: ORC
 ---
 # Enduring Quickness
 ## Feat 20
-### [[monk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 **Category** class; 
 
 
 
 
-You move as fast and as high as the wind itself. You're permanently [[Conditions/Quickened|Quickened]].
+You move as fast and as high as the wind itself. You're permanently [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened]].
 
 You can use your extra action to Stride or [[Actions/Leap|Leap]], to provide one of the actions needed for a [[Actions/High Jump|High Jump]] or [[Actions/Long Jump|Long Jump]]
 

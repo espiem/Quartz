@@ -17,7 +17,7 @@ license: ORC
 ---
 # Wand Of Splintered Sorrows (Rank 6)
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[attack]][[concentrate]][[magical]][[manipulate]][[wand]][[wood]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[attack]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[wand]][[wood]]
 
 **Category** wand; 
 **Price** 4500 gp; 
@@ -32,7 +32,7 @@ This wooden wand is roughly cut, as if it had been crudely chopped from a tree a
 
 * * *
 
-**Effect** You cast [[Spells/Splinter Volley|Splinter Volley]] of the indicated rank. Each splinter contains some of the despair felt by cruelly harvested trees, causing any creature damaged by this spell to become [[Conditions/Stupefied|Stupefied 2]] for a number of rounds equal to the spell rank. On a critical success on the attack roll, the target also weeps, becoming [[Conditions/Slowed|Slowed 1]] for the same duration.
+**Effect** You cast [[Spells/Splinter Volley|Splinter Volley]] of the indicated rank. Each splinter contains some of the despair felt by cruelly harvested trees, causing any creature damaged by this spell to become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] for a number of rounds equal to the spell rank. On a critical success on the attack roll, the target also weeps, becoming [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] for the same duration.
 
 * * *
 

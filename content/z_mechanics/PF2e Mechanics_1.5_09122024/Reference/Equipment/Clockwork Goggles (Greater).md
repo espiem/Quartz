@@ -28,7 +28,7 @@ This heavy set of mechanical goggles contains a variety of different lenses for 
 
 When activated, you gain low-light vision and darkvision for 10 minutes.
 
-[[Equipment Effects/Effect_ Clockwork Goggles|Effect: Clockwork Goggles (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Clockwork Goggles|Effect: Clockwork Goggles (Greater)]]
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

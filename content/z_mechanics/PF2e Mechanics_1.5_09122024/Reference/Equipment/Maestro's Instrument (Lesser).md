@@ -11,7 +11,7 @@ license: ORC
 ---
 # Maestro's Instrument (Lesser)
 ## Item 3
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 60 gp; 

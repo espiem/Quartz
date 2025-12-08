@@ -18,7 +18,7 @@ Carvings of skulls, monsters, and all manner of violence decorate this wand of b
 
 * * *
 
-**Effect** You cast 4th-level _[[Impending Doom]]_, showing the target a potential death that's gruesome and absurd. If the target becomes [[Frightened]] by the spell, it also becomes [[Stupefied]] with a value 1 higher than the frightened value. This lasts for the duration of the spell.
+**Effect** You cast 4th-level _[[Impending Doom]]_, showing the target a potential death that's gruesome and absurd. If the target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened]] by the spell, it also becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied]] with a value 1 higher than the frightened value. This lasts for the duration of the spell.
 
 * * *
 

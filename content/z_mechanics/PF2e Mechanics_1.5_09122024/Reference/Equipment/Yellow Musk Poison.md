@@ -15,7 +15,7 @@ license: OGL
 ---
 # Yellow Musk Poison
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[mental]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[inhaled]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 7 gp; 
@@ -32,7 +32,7 @@ The powdered pollen from a yellow musk creeper addles the mind.
 
 **Maximum Duration** 2 rounds
 
-**Stage 1** [[Conditions/Fascinated|Fascinated]] by the poison cloud (1 round)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated|Fascinated]] by the poison cloud (1 round)
 
 **Stage 2** fascinated by the poison cloud, and can use no actions but to move closer to the cloud's point of origin (1 round)
 

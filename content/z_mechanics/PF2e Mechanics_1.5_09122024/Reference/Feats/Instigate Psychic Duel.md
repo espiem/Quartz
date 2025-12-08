@@ -15,7 +15,7 @@ license: OGL
 ---
 # Instigate Psychic Duel `pf2:3`
 ## Feat 12
-### [[archetype]][[illusion]][[incapacitation]][[mental]][[occult]]
+### [[archetype]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** class; 
 

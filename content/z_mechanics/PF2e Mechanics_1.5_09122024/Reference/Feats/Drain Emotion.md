@@ -11,7 +11,7 @@ license: OGL
 ---
 # Drain Emotion `pf2:2`
 ## Feat 9
-### [rare](rare "Rare Rarity Trait")[[mental]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** ancestry; 
 

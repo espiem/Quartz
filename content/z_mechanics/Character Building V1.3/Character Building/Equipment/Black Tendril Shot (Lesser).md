@@ -22,8 +22,8 @@ A glistening, tar-like substance that's displeasing to the touch coats a black t
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Slowed]] but gains a +2 circumstance bonus to [[Escape]] the ammunition's effect.
+**Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] but gains a +2 circumstance bonus to [[Escape]] the ammunition's effect.
 
 **Failure** The target is slowed 1.
 
-**Critical Failure** The target is [[Slowed|Slowed 2]].
+**Critical Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]].

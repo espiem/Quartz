@@ -12,7 +12,7 @@ license: OGL
 ---
 # Sap Life `pf2:2`
 
-### [rare](rare "Rare Rarity Trait")[[occult]][[void]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[void]]
 
 **Category** deityboon; 
 

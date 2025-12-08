@@ -11,7 +11,7 @@ license: OGL
 ---
 # Tablet of Chained Souls
 ## Item 8
-### [[cursed]][[magical]]
+### [[cursed]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 

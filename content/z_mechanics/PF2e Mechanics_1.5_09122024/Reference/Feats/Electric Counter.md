@@ -12,7 +12,7 @@ license: OGL
 ---
 # Electric Counter `pf2:r`
 ## Feat 16
-### [uncommon](uncommon "Uncommon Rarity Trait")[[electricity]][[monk]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Electricity]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 **Category** class; 
 

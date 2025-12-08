@@ -20,4 +20,4 @@ Giving the air a push, you buffet the target with a powerful gust of wind; it mu
 
 **Failure** The target is pushed 10 feet away from you.
 
-**Critical Failure** The target is pushed 10 feet away from you and knocked [[Prone]].
+**Critical Failure** The target is pushed 10 feet away from you and knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].

@@ -16,7 +16,7 @@ license: ORC
 ---
 # Blazing Spirit `pf2:r`
 ## Feat 6
-### [[animist]][[apparition]][[divine]][[fire]][[wandering]]
+### [[animist]][[apparition]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[wandering]]
 
 **Category** class; 
 

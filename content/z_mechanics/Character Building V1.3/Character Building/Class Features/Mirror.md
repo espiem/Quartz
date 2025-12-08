@@ -22,7 +22,7 @@ Your mirror self shatters into punishing shards when damaged. While Mirror's Ref
 
 ### **Intensify Vulnerability**
 
-Reinforcing your mirror lets it play tricks on your enemy's senses as it bends light this way or that. You become [[Concealed]] to the target of your Exploit Vulnerability as your mirror warps its perceptions. As normal for concealment where your overall location is still obvious, you can't use this concealment to [[Hide]] or [[Sneak]].
+Reinforcing your mirror lets it play tricks on your enemy's senses as it bends light this way or that. You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] to the target of your Exploit Vulnerability as your mirror warps its perceptions. As normal for concealment where your overall location is still obvious, you can't use this concealment to [[Hide]] or [[Sneak]].
 
 ### **Paragon Benefit**
 

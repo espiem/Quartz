@@ -10,4 +10,4 @@ tags:
 # Dwarven Doughtiness
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You are naturally calm and collected in the face of imminent danger. At the end of your turn, reduce your [[Frightened]] condition by 2 instead of 1.
+You are naturally calm and collected in the face of imminent danger. At the end of your turn, reduce your [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened]] condition by 2 instead of 1.

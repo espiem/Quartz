@@ -24,6 +24,6 @@ Azure lilies are a rare, toxic plant. Once harvested and refined, the effects of
 
 **Stage 2** 3d6 mental damage (1 round)
 
-**Stage 3** 3d6 mental damage and [[Slowed]] (1 round)
+**Stage 3** 3d6 mental damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] (1 round)
 
-**Stage 4** 3d6 mental damage, slowed 1, and [[Confused]] (1 round).
+**Stage 4** 3d6 mental damage, slowed 1, and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] (1 round).

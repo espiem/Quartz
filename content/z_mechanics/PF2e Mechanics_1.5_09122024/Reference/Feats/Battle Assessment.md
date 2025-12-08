@@ -12,7 +12,7 @@ license: OGL
 ---
 # Battle Assessment `pf2:1`
 ## Feat 4
-### [[rogue]][[secret]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]][[secret]]
 
 **Category** class; 
 

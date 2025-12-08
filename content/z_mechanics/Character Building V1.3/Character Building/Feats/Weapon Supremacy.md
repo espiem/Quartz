@@ -10,4 +10,4 @@ tags:
 # Weapon Supremacy
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-Your skill with weapons bends the laws of reality, allowing you to continuously attack with speed that would normally require magical assistance. You're permanently [[Quickened]]. You can use your extra action only to Strike.
+Your skill with weapons bends the laws of reality, allowing you to continuously attack with speed that would normally require magical assistance. You're permanently [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]]. You can use your extra action only to Strike.

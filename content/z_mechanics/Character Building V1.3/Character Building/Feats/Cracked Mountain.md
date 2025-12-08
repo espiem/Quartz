@@ -16,4 +16,4 @@ tags:
 
 * * *
 
-You fight on, staying on your feet and lashing out at a foe. You avoid being knocked out and remain at 1 Hit Point, and your [[Wounded]] condition increases by 1. Make a melee Strike at an enemy within reach. You immediately end your Tenacious Stance.
+You fight on, staying on your feet and lashing out at a foe. You avoid being knocked out and remain at 1 Hit Point, and your [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded]] condition increases by 1. Make a melee Strike at an enemy within reach. You immediately end your Tenacious Stance.

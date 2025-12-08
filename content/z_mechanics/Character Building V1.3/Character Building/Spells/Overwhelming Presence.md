@@ -16,7 +16,7 @@ You surround yourself with supernatural splendor, appearing to be a god or simil
 
 **Critical Success** The target is unaffected.
 
-**Success** The target must pay tribute to you two times. Paying tribute requires that the target spend a single action, which has either the move trait (as they bow) or manipulate trait (as they offer up a token in their hands). They must pay tribute at least once on each of their turns, if possible. While affected, the target is [[Fascinated]] by you and can't use hostile actions against you.
+**Success** The target must pay tribute to you two times. Paying tribute requires that the target spend a single action, which has either the move trait (as they bow) or manipulate trait (as they offer up a token in their hands). They must pay tribute at least once on each of their turns, if possible. While affected, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] by you and can't use hostile actions against you.
 
 **Failure** As success, but the target must pay tribute a total of six times.
 

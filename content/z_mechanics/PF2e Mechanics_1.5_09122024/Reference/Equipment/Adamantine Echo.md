@@ -13,7 +13,7 @@ license: OGL
 ---
 # Adamantine Echo
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[earth]][[invested]][[magical]][[relic]]
+### [rare](rare "Rare Rarity Trait")[[earth]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[relic]]
 
 
 **Price** 0 gp; 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Wand of Overflowing Life (6th-Rank Spell)
 ## Item 15
-### [[healing]][[magical]][[vitality]][[wand]]
+### [[healing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[vitality]][[wand]]
 
 
 **Price** 6500 gp; 

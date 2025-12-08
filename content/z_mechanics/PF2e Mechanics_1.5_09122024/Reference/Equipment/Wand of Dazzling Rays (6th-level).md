@@ -13,7 +13,7 @@ license: OGL
 ---
 # Wand of Dazzling Rays (6th-level)
 ## Item 14
-### [[fire]][[light]][[magical]][[wand]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[light]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wand]]
 
 
 **Price** 4500 gp; 
@@ -28,7 +28,7 @@ Solidified radiance comprises this slender, featureless wand. It sheds bright li
 
 **Frequency** once per day, plus overcharge
 
-**Effect** You cast 6th-rank [[Spells/Holy Light|Holy Light]], dazzling your target with the beam's intensity. A creature that takes damage from the spell is [[Conditions/Blinded|Blinded]] for 1 round and [[Conditions/Dazzled|Dazzled]] for a number of rounds equal to the spell rank. On a critical success on the attack roll, the target is also blinded for as long as it's dazzled from the spell. However, it can attempt a Fortitude check saving throw against your spell DC at the end of each of its turns, ending the blinded condition on a success (but remaining dazzled).
+**Effect** You cast 6th-rank [[Spells/Holy Light|Holy Light]], dazzling your target with the beam's intensity. A creature that takes damage from the spell is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] for 1 round and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for a number of rounds equal to the spell rank. On a critical success on the attack roll, the target is also blinded for as long as it's dazzled from the spell. However, it can attempt a Fortitude check saving throw against your spell DC at the end of each of its turns, ending the blinded condition on a success (but remaining dazzled).
 
 * * *
 

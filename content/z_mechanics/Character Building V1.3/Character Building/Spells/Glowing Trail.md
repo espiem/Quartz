@@ -8,9 +8,9 @@ tags:
 ---
 
 # Glowing Trail
-![[icons-magic-acid-projectile-smoke-glowing.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-acid-projectile-smoke-glowing.webp|150]]
 
-Your movements leave a vague glowing path behind you, like a misty echo of your presence. While your form is not discernible, your size is. This path hangs in space and is not anchored to any surface, so it tracks your movement through the air. The path fades after 10 minutes. You can Dismiss this spell at any time, but the path fades normally. The path can be visible or [[Invisible]]. While visible, it appears as a faintly glowing mist in a color of your choosing but sheds no light beyond its area. While invisible, you can still detect the path, but it gives off no light.
+Your movements leave a vague glowing path behind you, like a misty echo of your presence. While your form is not discernible, your size is. This path hangs in space and is not anchored to any surface, so it tracks your movement through the air. The path fades after 10 minutes. You can Dismiss this spell at any time, but the path fades normally. The path can be visible or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]]. While visible, it appears as a faintly glowing mist in a color of your choosing but sheds no light beyond its area. While invisible, you can still detect the path, but it gives off no light.
 
 * * *
 

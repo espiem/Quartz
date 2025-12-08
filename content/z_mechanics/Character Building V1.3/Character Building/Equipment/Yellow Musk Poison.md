@@ -20,6 +20,6 @@ The powdered pollen from a yellow musk creeper addles the mind.
 
 **Maximum Duration** 2 rounds
 
-**Stage 1** [[Fascinated]] by the poison cloud (1 round)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]] by the poison cloud (1 round)
 
 **Stage 2** fascinated by the poison cloud, and can use no actions but to move closer to the cloud's point of origin (1 round)

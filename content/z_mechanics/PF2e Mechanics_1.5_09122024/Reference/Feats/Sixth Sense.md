@@ -12,7 +12,7 @@ license: OGL
 ---
 # Sixth Sense
 ## Feat 6
-### [[occult]][[psychic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ Your psychic abilities also allow you to detect the lingering thoughts of spirit
 
 You can also potentially notice ethereal creatures and spirits inside solid objects, provided they are within 30 feet of you. This applies while Searching, [[Actions/Seek|Seeking]], and on the automatic secret check from Sixth Sense. You can still notice spirits only on a successful check, and you can't see them if they're more than 5 feet inside an object.
 
-When you notice a creature with your Sixth Sense, you also learn its location, making it [[Conditions/Hidden|Hidden]] to you if it had been [[Conditions/Undetected|Undetected]].
+When you notice a creature with your Sixth Sense, you also learn its location, making it [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]] to you if it had been [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Undetected|Undetected]].
 
 *Source: Pathfinder Dark Archive*
 *OGL*

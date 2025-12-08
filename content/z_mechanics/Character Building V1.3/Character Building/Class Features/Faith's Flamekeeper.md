@@ -8,7 +8,7 @@ tags:
 ---
 
 # Faith's Flamekeeper
-![[icons-magic-fire-projectile-feathers-embers-gold.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-magic-fire-projectile-feathers-embers-gold.webp|150]]
 
 Your patron contacted you in a moment your willpower was close to sputtering out. Their reassuring presence was like breath and kindling bringing an ember back aflame, their magic giving you the strength to carry on and bring others to your cause. Your patron is likely a divine being like an angel or aeon acting covertly, though the possibility exists they might be a more sinister entity, using you to unknown ends.
 

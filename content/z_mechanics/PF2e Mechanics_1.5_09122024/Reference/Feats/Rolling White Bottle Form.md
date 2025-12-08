@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Teakettle Form
 * * *
-**Trigger** You Drop Prone or otherwise become [[Conditions/Prone|Prone]].
+**Trigger** You Drop Prone or otherwise become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 * * *
 

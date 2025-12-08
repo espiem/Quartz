@@ -10,7 +10,7 @@ tags:
 # Ankle Bite
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Trigger** A foe gives you the [[Grabbed]] or [[Restrained]] condition using a part of its body.
+**Trigger** A foe gives you the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]] condition using a part of its body.
 
 * * *
 

@@ -12,4 +12,4 @@ tags:
 
 _These intelligent constructs house actual souls and represent what remains of a dying empire's last attempt at greatness. Automatons combine technological ingenuity with magical power, creating a blended being wholly unique to Golarion._
 
-[[Automaton]]
+[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Automaton]]

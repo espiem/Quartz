@@ -8,13 +8,13 @@ tags:
 ---
 # Cracked Knee
 
-> **Crit Effect:** Until healed, the target is [[Conditions/Clumsy|Clumsy 2]] and takes a [[Other Effects/Effect_ -5-foot status penalty to your land Speed|-5-foot status penalty to land Speed]].
+> **Crit Effect:** Until healed, the target is [[Conditions/Clumsy|Clumsy 2]] and takes a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -5-foot status penalty to your land Speed|-5-foot status penalty to land Speed]].
 
 `Bludgeoning`
 
 # Calf Jab
 
-> **Crit Effect:** Until healed, the target is [[Conditions/Clumsy|Clumsy 1]] and takes a [[Other Effects/Effect_ -10-foot status penalty to your land Speed|-10-foot status penalty to your land Speed]].
+> **Crit Effect:** Until healed, the target is [[Conditions/Clumsy|Clumsy 1]] and takes a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -10-foot status penalty to your land Speed|-10-foot status penalty to your land Speed]].
 
 `Piercing`
 
@@ -26,6 +26,6 @@ tags:
 
 # Now you see me...
 
-> You become [[Conditions/Invisible|Invisible]] until the end of your next turn or until you use a hostile action.
+> You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible|Invisible]] until the end of your next turn or until you use a hostile action.
 
 `Bomb or Spell`

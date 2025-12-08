@@ -14,7 +14,7 @@ license: OGL
 ---
 # Whispering Steps
 ## Feat 8
-### [[amp]][[mental]][[occult]][[psychic]]
+### [[amp]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** class; 
 

@@ -12,7 +12,7 @@ license: OGL
 ---
 # Shatter Space
 ## Feat 14
-### [[amp]][[psychic]]
+### [[amp]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ The sheer power of your magic fractures reality. Use this amp in place of a psi 
 
 * * *
 
-**Amp** You or one target of the spell are surrounded by a spiral of torn space. This is an aura, and you choose the radius of the emanation, up to 20 feet. A creature that starts its turn in the aura or enters the aura during its turn takes 1d6 slashing damage for every level of the amped psi cantrip, with a basic Reflex save against your spell DC. If the creature critically fails, the torn space throws it off balance and it falls [[Conditions/Prone|Prone]]. The aura lasts until the beginning of your next turn. You can choose whether the aura affects the creature emitting it.
+**Amp** You or one target of the spell are surrounded by a spiral of torn space. This is an aura, and you choose the radius of the emanation, up to 20 feet. A creature that starts its turn in the aura or enters the aura during its turn takes 1d6 slashing damage for every level of the amped psi cantrip, with a basic Reflex save against your spell DC. If the creature critically fails, the torn space throws it off balance and it falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]]. The aura lasts until the beginning of your next turn. You can choose whether the aura affects the creature emitting it.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

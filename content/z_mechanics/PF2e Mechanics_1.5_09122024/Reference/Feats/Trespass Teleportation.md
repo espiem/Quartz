@@ -13,7 +13,7 @@ license: OGL
 ---
 # Trespass Teleportation `pf2:r`
 ## Feat 14
-### [[occult]][[teleportation]][[thaumaturge]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[teleportation]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]]
 
 **Category** class; 
 

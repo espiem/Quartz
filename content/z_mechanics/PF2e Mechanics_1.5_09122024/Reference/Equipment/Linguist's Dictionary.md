@@ -11,7 +11,7 @@ license: OGL
 ---
 # Linguist's Dictionary
 ## Item 9
-### [[grimoire]][[magical]]
+### [[grimoire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 650 gp; 

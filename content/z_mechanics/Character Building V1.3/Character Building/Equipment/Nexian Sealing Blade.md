@@ -18,4 +18,4 @@ More often called by their nickname "screamswords," the _Nexian sealing blades_ 
 
 * * *
 
-**Effect** the screamsword does what it does best and lets out an ear-shattering shriek. Each creature in a 30 foot cone takes 6d6 sonic damage (DC 25 Basic fortitude save). Any creature who fails is [[Deafened]] for 1 round, or 1 hour on a critical failure
+**Effect** the screamsword does what it does best and lets out an ear-shattering shriek. Each creature in a 30 foot cone takes 6d6 sonic damage (DC 25 Basic fortitude save). Any creature who fails is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] for 1 round, or 1 hour on a critical failure

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Conflagration Club
 ## Item 6
-### [[backswing]][[magical]][[shove]]
+### [[backswing]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[shove]]
 
 |  |  |
 | -- | -- |

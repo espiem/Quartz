@@ -10,7 +10,7 @@ tags:
 # Ranger's Bramble
 ![[systems-pf2e-icons-spells-rangers-bramble.webp|150]]
 
-You cause plants in the area to entangle your foes, with the effects of [[Entangling Flora]]. A creature that critically fails the save takes 2d4 bleed damage in addition to being [[Immobilized]]. [[Escape|Escaping]] your bramble doesn't end the bleed damage.
+You cause plants in the area to entangle your foes, with the effects of [[Entangling Flora]]. A creature that critically fails the save takes 2d4 bleed damage in addition to being [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]]. [[Escape|Escaping]] your bramble doesn't end the bleed damage.
 
 * * *
 

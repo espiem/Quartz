@@ -12,7 +12,7 @@ license: ORC
 ---
 # Stay Down! `pf2:r`
 ## Feat 14
-### [[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 
@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** master in Athletics
 * * *
-**Trigger** A [[Conditions/Prone|Prone]] foe within your reach Stands.
+**Trigger** A [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] foe within your reach Stands.
 
 * * *
 

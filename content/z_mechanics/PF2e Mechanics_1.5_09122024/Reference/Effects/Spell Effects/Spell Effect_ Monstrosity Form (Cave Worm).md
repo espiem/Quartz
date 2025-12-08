@@ -36,7 +36,7 @@ You also gain specific abilities based on the type of monster you choose:
     *   **Melee** `pf2:1` jaws (reach 10 feet), **Damage** 2d12+20 piercing;
     *   **Melee** `pf2:1` stinger (agile, reach 10 feet), **Damage** 2d8+15 piercing plus 2d6 persistent poison;
     *   **Melee** `pf2:1` body (reach 10 feet) **Damage** 2d8+20 bludgeoning;
-    *   **Inexorable** You automatically recover from the [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Slowed|Slowed]], and [[Conditions/Stunned|Stunned]] conditions at the end of each of your turns. You're also immune to being [[Conditions/Immobilized|Immobilized]] and ignore difficult terrain and greater difficult terrain.
+    *   **Inexorable** You automatically recover from the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed]], and [[Conditions/Stunned|Stunned]] conditions at the end of each of your turns. You're also immune to being [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]] and ignore difficult terrain and greater difficult terrain.
 
 * * *
 

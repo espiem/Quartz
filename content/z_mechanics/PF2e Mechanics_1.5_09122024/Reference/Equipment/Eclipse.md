@@ -18,7 +18,7 @@ license: OGL
 ---
 # Eclipse
 ## Item 8
-### [unique](unique "Unique Rarity Trait")[[agile]][[deadly-d6]][[finesse]][[light]][[magical]][[thrown-20]][[versatile-s]]
+### [unique](unique "Unique Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[deadly-d6]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[light]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[thrown-20]][[versatile-s]]
 
 |  |  |
 | -- | -- |

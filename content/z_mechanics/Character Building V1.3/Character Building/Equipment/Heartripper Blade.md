@@ -8,7 +8,7 @@ tags:
 ---
 
 # Heartripper Blade
-![[systems-pf2e-icons-equipment-weapons-specific-magic-weapons-gloom-blade.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-weapons-specific-magic-weapons-gloom-blade.webp|150]]
 
 This wicked-looking curved weapon is a _+1 striking dagger_ that draws power from defeating foes, either to bolster itself or its wielder. A _heartripper blade_ is well suited for use in any ritual that involves divination, and incorporating it into any ritual with the divination trait grants the wielder a +1 item bonus on any check made to resolve the effects of the ritual's casting.
 
@@ -30,4 +30,4 @@ This wicked-looking curved weapon is a _+1 striking dagger_ that draws power fro
 
 **Trigger** You reduce a foe to 0 Hit Points with a Strike from the heartripper blade
 
-**Effect** The heartripper blade draws life from the victim's body and siphons it into you. Choose one of the following effects: restore 2d8 Hit Points; reduce the value of your [[Clumsy 1|Clumsy]], [[Enfeebled 1|Enfeebled]], or [[Stupefied]] conditions by 1; or reduce the stage of one toxin or disease you're suffering by one stage (this can't reduce the stage below stage 1 or cure the affliction).
+**Effect** The heartripper blade draws life from the victim's body and siphons it into you. Choose one of the following effects: restore 2d8 Hit Points; reduce the value of your [[Clumsy 1|Clumsy]], [[Enfeebled 1|Enfeebled]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied]] conditions by 1; or reduce the stage of one toxin or disease you're suffering by one stage (this can't reduce the stage below stage 1 or cure the affliction).

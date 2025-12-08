@@ -15,7 +15,7 @@ license: OGL
 ---
 # Nimbus Breath
 ## Item 8
-### [[air]][[bottled-breath]][[consumable]][[electricity]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[bottled-breath]][[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Electricity]]
 
 **Category** other; 
 **Price** 80 gp; 
@@ -32,7 +32,7 @@ After you inhale the _nimbus breath_, you gain resistance 5 to electricity and a
 
 You can exhale the breath as a single action to create a [[Spells/Gust of Wind|Gust of Wind]] (DC 24) from your mouth. If you're airborne when the cloud expires, you float gently to the ground at 60 feet per round and don't take damage from this fall.
 
-[[Equipment Effects/Effect_ Nimbus Breath|Effect: Nimbus Breath]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Nimbus Breath|Effect: Nimbus Breath]]
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

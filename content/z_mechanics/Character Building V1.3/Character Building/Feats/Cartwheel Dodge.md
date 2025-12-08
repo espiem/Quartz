@@ -10,7 +10,7 @@ tags:
 # Cartwheel Dodge
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Requirements** You aren't [[Encumbered]] or overburdened.
+**Requirements** You aren't [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Encumbered]] or overburdened.
 
 **Trigger** You succeed or critically succeed at a Reflex saving throw.
 

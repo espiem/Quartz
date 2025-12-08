@@ -11,7 +11,7 @@ license: OGL
 ---
 # Viper Strike `pf2:2`
 ## Feat 9
-### [[vishkanya]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Vishkanya]]
 
 **Category** ancestry; 
 

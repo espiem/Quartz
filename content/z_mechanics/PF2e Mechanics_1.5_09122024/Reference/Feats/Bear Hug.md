@@ -22,7 +22,7 @@ license: OGL
 
 * * *
 
-You snatch at your opponent with your claws, pulling them close in a ferocious bear hug. You make another claw Strike against the same target. If this Strike hits, the target is also [[Conditions/Grabbed|Grabbed]].
+You snatch at your opponent with your claws, pulling them close in a ferocious bear hug. You make another claw Strike against the same target. If this Strike hits, the target is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]].
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

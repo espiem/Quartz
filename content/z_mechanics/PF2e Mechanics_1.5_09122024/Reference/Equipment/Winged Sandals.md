@@ -13,7 +13,7 @@ license: ORC
 ---
 # Winged Sandals
 ## Item 10
-### [[air]][[invested]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 850 gp; 
@@ -32,7 +32,7 @@ Whenever you fall while wearing these sandals, they automatically cast [[Spells/
 
 **Effect** The wings grow in size and propel you through the air, granting you a fly Speed of 30 feet for 10 minutes.
 
-[[Equipment Effects/Effect_ Winged Sandals|Effect: Winged Sandals]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Winged Sandals|Effect: Winged Sandals]]
 
 *Source: Pathfinder GM Core*
 *ORC*

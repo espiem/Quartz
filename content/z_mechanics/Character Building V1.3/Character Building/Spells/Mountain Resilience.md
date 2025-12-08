@@ -10,7 +10,7 @@ tags:
 ---
 
 # Mountain Resilience
-![[icons-magic-defensive-armor-stone-skin.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-defensive-armor-stone-skin.webp|150]]
 
 The target's skin hardens like the stone of a mountain face. It gains resistance 5 to physical damage, except adamantine. Each time the target is hit by a bludgeoning, piercing, or slashing attack, _mountain resilience_'s duration decreases by 1 minute.
 

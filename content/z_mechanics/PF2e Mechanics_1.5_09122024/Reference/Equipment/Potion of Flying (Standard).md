@@ -14,7 +14,7 @@ license: ORC
 ---
 # Potion of Flying (Standard)
 ## Item 8
-### [[consumable]][[magical]][[potion]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 100 gp; 
@@ -27,7 +27,7 @@ license: ORC
 
 Upon drinking this effervescent concoction, you gain a fly Speed of 40 feet for 1 minute.
 
-[[Equipment Effects/Effect_ Potion of Flying (Standard)|Effect: Potion of Flying (Standard)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Potion of Flying (Standard)|Effect: Potion of Flying (Standard)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

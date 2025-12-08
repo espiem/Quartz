@@ -12,7 +12,7 @@ license: OGL
 ---
 # Gardener's Resolve `pf2:r`
 ## Feat 8
-### [[archetype]][[vigilante]]
+### [[archetype]][[Vigilante]]
 
 **Category** class; 
 

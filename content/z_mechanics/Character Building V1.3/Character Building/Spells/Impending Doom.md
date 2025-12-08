@@ -16,11 +16,11 @@ You sift through myriad potential futures, seize upon one potential moment in wh
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is unaffected for 1 round. On the second round, it becomes [[Off-Guard]]. Finally, on the third round, it becomes [[Frightened|Frightened 1]]. At the end of the third round, it takes half damage.
+**Success** The creature is unaffected for 1 round. On the second round, it becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]]. Finally, on the third round, it becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]]. At the end of the third round, it takes half damage.
 
-**Failure** The creature is immediately off-guard. On the second round, it becomes [[Frightened|Frightened 2]]. Finally, on the third round, it also becomes [[Stunned 1]]. At the end of the third round, the creature takes full damage.
+**Failure** The creature is immediately off-guard. On the second round, it becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]]. Finally, on the third round, it also becomes [[Stunned 1]]. At the end of the third round, the creature takes full damage.
 
-**Critical Failure** The creature is immediately off-guard and [[Frightened|Frightened 3]]. On the second round, it becomes stunned 1. Finally, on the third round, it also becomes [[Paralyzed]]. At the end of the third round, the creature takes double damage.
+**Critical Failure** The creature is immediately off-guard and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]]. On the second round, it becomes stunned 1. Finally, on the third round, it also becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]]. At the end of the third round, the creature takes double damage.
 
 * * *
 

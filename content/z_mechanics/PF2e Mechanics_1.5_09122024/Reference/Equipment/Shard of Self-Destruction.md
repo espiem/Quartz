@@ -14,7 +14,7 @@ license: ORC
 ---
 # Shard of Self-Destruction
 ## Item 5
-### [rare](rare "Rare Rarity Trait")[[cursed]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[cursed]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 |  |  |
 | -- | -- |
@@ -39,7 +39,7 @@ Once the curse has activated for the first time, the weapon fuses to you; while 
 
 **Stage 1** [[Conditions/Enfeebled|Enfeebled 1]] (1 day)
 
-**Stage 2** [[Conditions/Enfeebled|Enfeebled 2]], [[Conditions/Fatigued|Fatigued]], and 1d6 spirit damage each time you would take persistent bleed damage (1 week)
+**Stage 2** [[Conditions/Enfeebled|Enfeebled 2]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]], and 1d6 spirit damage each time you would take persistent bleed damage (1 week)
 
 **Stage 3** as stage 2, but the spirit damage increases to 2d6 (1 week)
 

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Golden Silencer (Standard)
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[illusion]][[magical]][[talisman]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 50 gp; 

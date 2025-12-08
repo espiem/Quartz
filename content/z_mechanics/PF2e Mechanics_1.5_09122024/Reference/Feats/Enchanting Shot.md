@@ -15,7 +15,7 @@ license: ORC
 ---
 # Enchanting Shot `pf2:2`
 ## Feat 8
-### [[archetype]][[emotion]][[magical]][[mental]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** class; 
 

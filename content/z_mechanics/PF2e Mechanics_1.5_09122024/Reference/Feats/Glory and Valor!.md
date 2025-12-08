@@ -15,7 +15,7 @@ license: ORC
 ---
 # Glory and Valor! `pf2:1`
 ## Feat 9
-### [[auditory]][[divine]][[healing]][[nephilim]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[healing]][[nephilim]]
 
 **Category** ancestry; 
 

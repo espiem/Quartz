@@ -13,7 +13,7 @@ license: OGL
 ---
 # Crown of the Companion
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[healing]][[invested]][[magical]][[vitality]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[healing]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[vitality]]
 
 
 **Price** 250 gp; 

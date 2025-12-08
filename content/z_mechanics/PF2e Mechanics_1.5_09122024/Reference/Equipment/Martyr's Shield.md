@@ -11,7 +11,7 @@ license: ORC
 ---
 # Martyr's Shield
 ## Item 7
-### [rare](rare "Rare Rarity Trait")[[divine]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 
 **Price** 0 gp; 

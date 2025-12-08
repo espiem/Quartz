@@ -18,6 +18,6 @@ You surround yourself in temporal eddies that draw out time for those around you
 
 **Success** Squares in the emanation are difficult terrain for the creature.
 
-**Failure** Squares in the emanation are difficult terrain for the creature, and the creature is [[Slowed]] when it starts its turn in the emanation.
+**Failure** Squares in the emanation are difficult terrain for the creature, and the creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] when it starts its turn in the emanation.
 
-**Critical Failure** As failure, plus the creature also becomes [[Restrained]]. The creature can attempt to [[Escape]] against your spell DC to remove the restrained condition.
+**Critical Failure** As failure, plus the creature also becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]]. The creature can attempt to [[Escape]] against your spell DC to remove the restrained condition.

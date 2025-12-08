@@ -12,7 +12,7 @@ license: ORC
 ---
 # Goblin Song `pf2:1`
 ## Feat 1
-### [[goblin]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Goblin]]
 
 **Category** ancestry; 
 
@@ -27,11 +27,11 @@ You can affect up to two targets within range if you have expert proficiency in 
 
 **Critical Success** The target takes a –1 status penalty to Perception checks and Will saves for 1 minute.
 
-[[Feat_Feature Effects/Effect_ Goblin Song (Critical Success)|Effect: Goblin Song (Critical Success)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Goblin Song (Critical Success)|Effect: Goblin Song (Critical Success)]]
 
 **Success** The target takes a –1 status penalty to Perception checks and Will saves for 1 round.
 
-[[Feat_Feature Effects/Effect_ Goblin Song (Success)|Effect: Goblin Song (Success)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Goblin Song (Success)|Effect: Goblin Song (Success)]]
 
 **Critical Failure** The target is temporarily immune to Goblin Song for 1 hour.
 

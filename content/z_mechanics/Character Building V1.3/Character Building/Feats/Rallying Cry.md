@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-You call out to your allies and push them to give their all in combat. All allies within 30 feet that can hear you gain a number of temporary Hit Points equal to your level. In addition, these allies become [[Quickened]] for 1 minute but can only use the extra action to Step, Stride, or Strike.
+You call out to your allies and push them to give their all in combat. All allies within 30 feet that can hear you gain a number of temporary Hit Points equal to your level. In addition, these allies become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]] for 1 minute but can only use the extra action to Step, Stride, or Strike.

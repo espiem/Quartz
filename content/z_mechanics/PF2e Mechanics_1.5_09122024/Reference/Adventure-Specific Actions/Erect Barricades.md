@@ -12,7 +12,7 @@ license: OGL
 ---
 # Erect Barricades
 
-### [[downtime]][[manipulate]]
+### [[downtime]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 **Category** defensive; 
 

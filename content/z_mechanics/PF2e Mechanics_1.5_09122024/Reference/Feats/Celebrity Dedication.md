@@ -24,7 +24,7 @@ The more people you have looking at you, the more content you are, and you take 
 
 You gain the [[Actions/Upstage|Upstage]] reaction. In addition, when you [[Actions/Earn Income|Earn Income]], if the level of the task is higher than your level, you gain a +1 circumstance bonus to your check to Earn Income.
 
-[[PF2e Journals/Archetypes/Celebrity|Celebrity]]
+[[Celebrity|Celebrity]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

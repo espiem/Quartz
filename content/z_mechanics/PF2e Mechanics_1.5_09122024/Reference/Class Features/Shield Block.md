@@ -16,7 +16,7 @@ license: ORC
 ---
 # Shield Block
 ## Feat 1
-### [[champion]][[druid]][[exemplar]][[fighter]][[inventor]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Druid]][[exemplar]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Inventor]]
 
 **Category** classfeature; 
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Frog Chair
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 475 gp; 

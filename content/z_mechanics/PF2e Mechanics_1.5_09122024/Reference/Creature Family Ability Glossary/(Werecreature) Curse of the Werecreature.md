@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Werecreature) Curse of the Werecreature
 
-### [[curse]][[primal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Curse]][[primal]]
 
 **Category** offensive; 
 

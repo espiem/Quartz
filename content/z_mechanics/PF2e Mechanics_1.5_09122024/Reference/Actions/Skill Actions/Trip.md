@@ -28,7 +28,7 @@ You try to knock a creature to the ground. Attempt an [[/act trip]]{Athletics} c
 
 * * *
 
-**Critical Success** The target falls, lands [[Conditions/Prone|Prone]], and takes 1d6 bludgeoning damage.
+**Critical Success** The target falls, lands [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]], and takes 1d6 bludgeoning damage.
 
 **Success** The target falls and lands prone.
 

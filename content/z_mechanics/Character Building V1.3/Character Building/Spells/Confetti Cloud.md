@@ -10,7 +10,7 @@ tags:
 # Confetti Cloud
 ![[systems-pf2e-icons-spells-confetti-cloud.webp|150]]
 
-You conjure a dense storm of swirling confetti. All creatures within the area of the confetti become [[Concealed]], and all creatures outside the storm become concealed to creatures within it. Additionally, creatures in the area of the confetti continually hear the raucous sounds of a party or festival and take a –2 circumstance penalty on Perception checks to hear. The number of actions you spend when Casting this Spell determines its area. You can Dismiss the spell.
+You conjure a dense storm of swirling confetti. All creatures within the area of the confetti become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]], and all creatures outside the storm become concealed to creatures within it. Additionally, creatures in the area of the confetti continually hear the raucous sounds of a party or festival and take a –2 circumstance penalty on Perception checks to hear. The number of actions you spend when Casting this Spell determines its area. You can Dismiss the spell.
 
 * * *
 

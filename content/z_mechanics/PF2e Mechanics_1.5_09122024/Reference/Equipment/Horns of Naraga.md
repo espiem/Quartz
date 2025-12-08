@@ -12,7 +12,7 @@ license: OGL
 ---
 # Horns of Naraga
 ## Item 26
-### [unique](unique "Unique Rarity Trait")[[artifact]][[invested]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 

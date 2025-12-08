@@ -14,7 +14,7 @@ license: ORC
 ---
 # Shrinking Potion (Greater)
 ## Item 8
-### [[consumable]][[magical]][[potion]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 90 gp; 
@@ -27,7 +27,7 @@ license: ORC
 
 This fungus-flavored potion conveys the effects of the [[Spells/Shrink|Shrink]] spell to make you and all your gear smaller. This potion has no onset, lasts for 1 hour, and grants the effects of a 4th-rank _shrink_ spell. In addition, you gain a +2 item bonus to Stealth checks while shrunken.
 
-[[Equipment Effects/Effect_ Shrinking Potion (Greater)|Effect: Shrinking Potion (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Shrinking Potion (Greater)|Effect: Shrinking Potion (Greater)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

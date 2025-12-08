@@ -26,8 +26,8 @@ This black leather wrist guard has a bright red gem on the inside of the wrist. 
 
 **Critical Success** The target creature is unaffected.
 
-**Success** The target creature is [[Slowed]] for 1 round as its responses are muddled by your commands.
+**Success** The target creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] for 1 round as its responses are muddled by your commands.
 
-**Failure** The creature is [[Controlled]] by you for 1 hour, although it doesn't follow commands that are obviously self-destructive.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Controlled]] by you for 1 hour, although it doesn't follow commands that are obviously self-destructive.
 
 **Critical Failure** As failure, but the duration is 1 day.

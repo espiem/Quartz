@@ -8,7 +8,7 @@ tags:
 ---
 
 # Exsanguinating Ammunition
-![[systems-pf2e-icons-equipment-consumables-ammunition-exsanguinating-ammunition.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-ammunition-exsanguinating-ammunition.webp|150]]
 
 **Ammunition** any
 

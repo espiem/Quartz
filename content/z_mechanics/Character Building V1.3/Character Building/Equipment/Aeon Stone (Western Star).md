@@ -20,4 +20,4 @@ This aeon stone must be activated to provide a benefit.
 
 **Effect** You activate the aeon stone to gain the effects of a 1st-level _[[Illusory Disguise]]_.
 
-The resonant power allows you to render all of your aeon stones and your wayfinder [[Invisible]] whenever you use the activation to gain the effects of illusory disguise.
+The resonant power allows you to render all of your aeon stones and your wayfinder [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]] whenever you use the activation to gain the effects of illusory disguise.

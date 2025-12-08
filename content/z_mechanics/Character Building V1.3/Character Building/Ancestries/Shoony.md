@@ -12,4 +12,4 @@ tags:
 
 _Diminutive humanoids who resemble squat, bipedal dogs, shoonies are sometimes mistaken for weak and insular pacifists. However, their sheer perseverance, incredible work ethic, and resourceful use of diplomacy make shoonies far from helpless._
 
-_[[Shoony]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Shoony]]_

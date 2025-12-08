@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Ghost) Ghost Storm
 
-### [[air]][[aura]][[divine]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Aura]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 **Category** defensive; 
 

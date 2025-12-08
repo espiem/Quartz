@@ -15,7 +15,7 @@ license: OGL
 ---
 # Eerie Traces
 ## Feat 8
-### [[concentrate]][[druid]][[exploration]][[move]][[ranger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Druid]][[exploration]][[move]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]]
 
 **Category** class; 
 
@@ -29,9 +29,9 @@ The tracks you leave behind are strange, somehow disconcerting and unnerving-the
 
 **Success** The tracker is unaffected.
 
-**Failure** The tracker becomes [[Conditions/Frightened|Frightened 1]] for as long as it follows your tracks. This condition doesn't decrease until the tracker stops following you, and it comes back if the tracker resumes following your tracks. If the tracker enters into an encounter with you after following your tracks, it begins the encounter frightened 1.
+**Failure** The tracker becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]] for as long as it follows your tracks. This condition doesn't decrease until the tracker stops following you, and it comes back if the tracker resumes following your tracks. If the tracker enters into an encounter with you after following your tracks, it begins the encounter frightened 1.
 
-**Critical Failure** As failure, but your disturbing traces cause the tracker to be [[Conditions/Frightened|Frightened 2]] instead.
+**Critical Failure** As failure, but your disturbing traces cause the tracker to be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] instead.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

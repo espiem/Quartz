@@ -12,7 +12,7 @@ license: ORC
 ---
 # Wolf Drag `pf2:2`
 ## Feat 6
-### [[monk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 **Category** class; 
 
@@ -26,7 +26,7 @@ license: ORC
 
 You rip your enemy off their feet.
 
-Make a wolf jaw Strike. Your wolf jaw gains the fatal d12 trait for this Strike, and if the attack succeeds, you knock the target [[Conditions/Prone|Prone]].
+Make a wolf jaw Strike. Your wolf jaw gains the fatal d12 trait for this Strike, and if the attack succeeds, you knock the target [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

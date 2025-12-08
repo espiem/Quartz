@@ -16,7 +16,7 @@ license: ORC
 ---
 # Kinetic Club
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[backswing]][[earth]][[magical]][[shove]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[backswing]][[earth]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[shove]]
 
 |  |  |
 | -- | -- |

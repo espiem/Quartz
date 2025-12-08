@@ -12,7 +12,7 @@ license: OGL
 ---
 # Sage's Lash
 ## Item 18
-### [[apex]][[invested]][[magical]]
+### [[apex]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 24000 gp; 
@@ -23,7 +23,7 @@ The thin, glittering strands of rope that comprise this thick belt appear to be 
 
 When you invest the belt, you either increase your Wisdom score by 2 or to 18, whichever would give you a higher score.
 
-[[Equipment Effects/Effect_ Sage's Lash (Turquoise)|Effect: Sage's Lash (Turquoise)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Sage's Lash (Turquoise)|Effect: Sage's Lash (Turquoise)]]
 
 * * *
 
@@ -36,7 +36,7 @@ When you invest the belt, you either increase your Wisdom score by 2 or to 18, w
 *   **Jade** (healing, vitality) Speak "purity" to produce a wave of green light that ends any sickened condition and any ongoing poison damage affecting creatures in the emanation.
 *   **Turquoise** Speak "clarity" to grant all affected a +2 status bonus to their next Will save for 1 minute.
 *   **Quartz** (healing, vitality) Speak "lenity" to have each creature regain 30 Hit Points.
-*   **Amethyst** (divination, light, revelation) Speak "verity" to emit a magical trail of light from the lash that reveals the location of each creature in the emanation. For 1 round, if they would be [[Conditions/Invisible|Invisible]], they become [[Conditions/Concealed|Concealed]] instead, and if they would be [[Conditions/Undetected|Undetected]] or [[Conditions/Unnoticed|Unnoticed]] by a creature, they're [[Conditions/Hidden|Hidden]] instead. A creature can attempt a DC 43 Stealth check check to avoid the lash's detection.
+*   **Amethyst** (divination, light, revelation) Speak "verity" to emit a magical trail of light from the lash that reveals the location of each creature in the emanation. For 1 round, if they would be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible|Invisible]], they become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] instead, and if they would be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Undetected|Undetected]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unnoticed|Unnoticed]] by a creature, they're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]] instead. A creature can attempt a DC 43 Stealth check check to avoid the lash's detection.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

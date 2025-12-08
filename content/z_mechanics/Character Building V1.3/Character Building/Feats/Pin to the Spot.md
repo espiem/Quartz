@@ -10,4 +10,4 @@ tags:
 # Pin to the Spot
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You Strike a target within reach. If you hit and deal damage, the target is also [[Restrained]] as if you had critically succeeded at an Athletics check to [[Grapple]].
+You Strike a target within reach. If you hit and deal damage, the target is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]] as if you had critically succeeded at an Athletics check to [[Grapple]].

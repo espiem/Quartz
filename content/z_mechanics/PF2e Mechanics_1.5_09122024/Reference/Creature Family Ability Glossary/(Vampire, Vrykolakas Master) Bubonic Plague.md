@@ -23,7 +23,7 @@ license: OGL
 
 * * *
 
-**Stage 1** [[Conditions/Fatigued|Fatigued]] (1 day)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]] (1 day)
 
 **Stage 2** [[Conditions/Enfeebled|Enfeebled 2]] and fatigued (1 day)
 

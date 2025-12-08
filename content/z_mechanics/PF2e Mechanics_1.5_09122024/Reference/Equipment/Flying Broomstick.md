@@ -11,7 +11,7 @@ license: ORC
 ---
 # Flying Broomstick
 ## Item 12
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 1900 gp; 

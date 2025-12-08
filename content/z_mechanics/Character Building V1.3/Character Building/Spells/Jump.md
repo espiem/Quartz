@@ -8,7 +8,7 @@ tags:
 ---
 
 # Jump
-![[systems-pf2e-icons-spells-jump.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-jump.webp|150]]
 
 Your legs surge with strength, ready to leap high and far. You jump 30 feet in any direction without touching the ground. You must land on a space of solid ground within 30 feet of you, or else you fall after using your next action.
 

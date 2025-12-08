@@ -13,7 +13,7 @@ license: ORC
 ---
 # Selfish Shield `pf2:r`
 
-### [[champion]][[divine]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 **Category** defensive; 
 
@@ -26,7 +26,7 @@ license: ORC
 
 **Effect** Your self-interest keeps you safe. You gain resistance against the triggering damage equal to 2 + half your level, regardless of damage type.
 
-[[Feat_Feature Effects/Effect_ Selfish Shield|Effect: Selfish Shield]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Selfish Shield|Effect: Selfish Shield]]
 
 In addition, your Strikes against the triggering creature deal 1 extra spirit damage until the end of your next turn. This extra damage increases to 2 at 9th level and 3 at 16th level.
 

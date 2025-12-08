@@ -11,7 +11,7 @@ license: OGL
 ---
 # Mask of the Cursed Eye
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 475 gp; 
@@ -26,7 +26,7 @@ A _mask of the cursed eye_ is decorated with at least one wide, staring eye. The
 
 **Success** The creature is unaffected. You know you've been targeted with a divination spell, but the mask gives you no additional information.
 
-**Failure** The creature is [[Conditions/Sickened|Sickened 1]] and [[Conditions/Dazzled|Dazzled]] for 1 minute. You know you've been targeted with a divination spell, but the mask gives you no additional information.
+**Failure** The creature is [[Conditions/Sickened|Sickened 1]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for 1 minute. You know you've been targeted with a divination spell, but the mask gives you no additional information.
 
 **Critical Failure** The creature is [[Conditions/Sickened|Sickened 2]] and dazzled for 10 minutes, and the spell is disrupted. You gain a brief mental glimpse of the triggering creature and learn its approximate distance and direction.
 

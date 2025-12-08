@@ -15,7 +15,7 @@ license: ORC
 ---
 # Potion of Undetectability
 ## Item 18
-### [[consumable]][[illusion]][[magical]][[potion]]
+### [[consumable]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 4400 gp; 

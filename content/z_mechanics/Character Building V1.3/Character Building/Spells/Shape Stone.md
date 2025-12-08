@@ -16,6 +16,6 @@ You shape the stone into a rough shape of your choice. The shaping process is to
 
 **Success** The creature is unaffected.
 
-**Failure** The creature falls [[Prone]] atop the stone.
+**Failure** The creature falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] atop the stone.
 
 **Critical Failure** The creature falls off the stone (if applicable) and lands Prone.

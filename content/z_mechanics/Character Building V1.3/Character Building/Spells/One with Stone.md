@@ -10,7 +10,7 @@ tags:
 ---
 
 # One with Stone
-![[icons-magic-earth-strike-fist-stone-light.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-earth-strike-fist-stone-light.webp|150]]
 
 You can either transform into a stone or merge with stone. While transformed, you can't move or affect anything outside the stone, but you can cast spells as long as they don't require line of effect beyond the stone. You can Dismiss this spell.
 

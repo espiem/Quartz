@@ -13,7 +13,7 @@ license: OGL
 ---
 # Tome of Dripping Shadows
 ## Item 10
-### [rare](rare "Rare Rarity Trait")[[grimoire]][[illusion]][[magical]][[shadow]]
+### [rare](rare "Rare Rarity Trait")[[grimoire]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[shadow]]
 
 
 **Price** 1000 gp; 
@@ -32,7 +32,7 @@ This book constantly drips evanescent tendrils of shadow that seethe and writhe.
 
 * * *
 
-**Effect** You recall a fragment of the shadow magic that suffuses your target and wrap it around yourself like a caul. The triggering creature's saving throw result is a failure, not a critical failure. For the next minute, you become [[Conditions/Concealed|Concealed]] to all creatures and you are [[Conditions/Hidden|Hidden]] from the triggering creature, regardless of what precise sense it has. If you use a hostile action against the triggering creature, you become only concealed to it (rather than hidden) at the end of the hostile action.
+**Effect** You recall a fragment of the shadow magic that suffuses your target and wrap it around yourself like a caul. The triggering creature's saving throw result is a failure, not a critical failure. For the next minute, you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] to all creatures and you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]] from the triggering creature, regardless of what precise sense it has. If you use a hostile action against the triggering creature, you become only concealed to it (rather than hidden) at the end of the hostile action.
 
 *Source: Pathfinder #195: Heavy is the Crown*
 *OGL*

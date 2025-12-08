@@ -8,7 +8,7 @@ tags:
 ---
 
 # Sapling Shield (Lesser)
-![[icons-equipment-shield-buckler-wooden-boss-brown.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-equipment-shield-buckler-wooden-boss-brown.webp|150]]
 
 This surprisingly weighty, though well-balanced, wooden buckler (Hardness 6, HP 48, and BT 24) is emblazoned with the image of a sapling. The sapling withers as the shield takes damage.
 

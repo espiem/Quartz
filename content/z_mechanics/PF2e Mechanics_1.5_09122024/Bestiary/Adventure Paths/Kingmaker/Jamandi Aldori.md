@@ -95,4 +95,4 @@ Female half-elf swordlord
 
 Jamandi Aldori's upbringing in Restov could have ensured her a safe and relaxed life as one of that city's nobles, but her restlessness and frustration with "meddling" from the north increasingly pushed her away from the aristocratic lifestyle. She quickly mastered the art of the Aldori sword, and over the years has become one of Restov's most well-known swordlords, in part due to her skill in dueling, but of late as a result of her increasingly obvious pushes to expand Restov's power in directions that minimize reliance upon the rest of Brevoy. Beyond organizing the push into the Stolen Lands and her desire to foster a new ally to the south, she hopes some day to found additional dueling schools beyond Brevoy's borders where the Aldori style can be taught-a pursuit that not all of her peers equally approve of.
 
-Characters who earn Jamandi's trust and support can unlock access to the [[PF2e Journals/Archetypes/Aldori Duelist|Aldori Duelist]] Archetype at your option.
+Characters who earn Jamandi's trust and support can unlock access to the [[Aldori Duelist|Aldori Duelist]] Archetype at your option.

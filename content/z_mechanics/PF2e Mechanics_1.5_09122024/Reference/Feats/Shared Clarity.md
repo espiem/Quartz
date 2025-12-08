@@ -12,7 +12,7 @@ license: ORC
 ---
 # Shared Clarity
 ## Feat 18
-### [[cleric]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]]
 
 **Category** class; 
 
@@ -22,7 +22,7 @@ license: ORC
 * * *
 You can project your premonitions of clarity to your allies. When you use [[Feats/Premonition of Clarity|Premonition of Clarity]], allies within 15 feet of you who failed the same saving throw against the same mental effect can also spend their reactions to reroll the failed saving throw with a +2 circumstance bonus.
 
-[[Feat_Feature Effects/Effect_ Shared Clarity|Effect: Shared Clarity]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Shared Clarity|Effect: Shared Clarity]]
 
 *Source: Pathfinder Player Core*
 *ORC*

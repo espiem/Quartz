@@ -32,7 +32,7 @@ You unleash a roar so loud that it's felt as deeply as it's heard. All creatures
 
 **Success** The creature takes half damage.
 
-**Failure** The creature takes full damage and is [[Conditions/Stunned|Stunned 1]]. If the creature is adjacent to you, they're also [[Conditions/Deafened|Deafened]] for 1 round.
+**Failure** The creature takes full damage and is [[Conditions/Stunned|Stunned 1]]. If the creature is adjacent to you, they're also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]] for 1 round.
 
 **Critical Failure** The creature takes double damage and is [[Conditions/Stunned|Stunned 2]]. If the creature is adjacent to you, they're also deafened for 1 minute.
 

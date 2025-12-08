@@ -14,7 +14,7 @@ tags:
 
 # Lost the Target
 
-> You take a [[Other Effects/Effect_ -2 circumstance penalty to attack rolls|-2 circumstance penalty to attack rolls]] until the end of your next turn.
+> You take a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -2 circumstance penalty to attack rolls|-2 circumstance penalty to attack rolls]] until the end of your next turn.
 
 `Ranged`
 
@@ -26,6 +26,6 @@ tags:
 
 # Weakened
 
-> You take [[Other Effects/Effect_ -2 circumstance penalty to spell attack rolls and spell DC's|-2 circumstance penalty to spell attack rolls and spell DC's]] until the end of your next turn.
+> You take [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Other Effects/Effect_ -2 circumstance penalty to spell attack rolls and spell DC's|-2 circumstance penalty to spell attack rolls and spell DC's]] until the end of your next turn.
 
 `Spell`

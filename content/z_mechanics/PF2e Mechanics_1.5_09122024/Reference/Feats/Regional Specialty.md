@@ -26,7 +26,7 @@ You can create dishes that reflect the food sources endemic to your environment 
 *   **Fire** Reduce the clumsy condition by 1. For 1 hour, gain a +3 item bonus to saves against being doomed or frightened.
 *   **Earth** Reduce the drained condition by 1. For 1 hour, gain a +3 item bonus to saves against being enfeebled.
 *   **Metal** Reduce the stupefied condition by 1. For 1 hour, gain a +3 item bonus to saves against being stupefied.
-*   **Water** Reduce the frightened condition by 2. For 1 hour, gain a +3 item bonus to saves against [[Conditions/Deafened|Deafened]] or drained.
+*   **Water** Reduce the frightened condition by 2. For 1 hour, gain a +3 item bonus to saves against [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]] or drained.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

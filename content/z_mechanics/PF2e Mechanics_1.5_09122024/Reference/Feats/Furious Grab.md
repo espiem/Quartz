@@ -13,7 +13,7 @@ license: ORC
 ---
 # Furious Grab `pf2:1`
 ## Feat 12
-### [[barbarian]][[rage]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[rage]]
 
 **Category** class; 
 
@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You grab your foe while it's distracted by your attack. The foe you hit becomes [[Conditions/Grabbed|Grabbed]], as if you had succeeded at an Athletics check to [[Actions/Grapple|Grapple]] the foe.
+You grab your foe while it's distracted by your attack. The foe you hit becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]], as if you had succeeded at an Athletics check to [[Actions/Grapple|Grapple]] the foe.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

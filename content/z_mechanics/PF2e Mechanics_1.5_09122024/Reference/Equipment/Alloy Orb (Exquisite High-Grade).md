@@ -14,7 +14,7 @@ license: ORC
 ---
 # Alloy Orb (Exquisite High-Grade)
 ## Item 18
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** other; 
 **Price** 4500 gp; 
@@ -27,7 +27,7 @@ license: ORC
 
 Although solid, this orb of metal swirls with bright silver and dark iron colors, as if made of liquid. When you activate the _alloy orb_, select adamantine, cold iron, or dawnsilver. The affixed weapon functions as the chosen material for 1 minute, suppressing its original material. This orb works on weapons of any level.
 
-[[Equipment Effects/Effect_ Alloy Orb (Exquisite High-Grade)|Effect: Alloy Orb (Exquisite High-Grade)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Alloy Orb (Exquisite High-Grade)|Effect: Alloy Orb (Exquisite High-Grade)]]
 
 *Source: Pathfinder GM Core*
 *ORC*

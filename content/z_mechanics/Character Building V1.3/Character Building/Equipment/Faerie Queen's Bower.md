@@ -38,4 +38,4 @@ A suit of autumn's embrace armor can gain sapience when lovingly crafted by a fa
 
 * * *
 
-**Effect** You call forth a storm of leaves from _autumn's embrace_. These leaves swirl in a 20 foot emanation for 1 minute. Creatures within the area are [[Concealed]], and creatures outside the area are concealed to creatures within the leaves. However, you can see through this concealment. You can Dismiss the activation.
+**Effect** You call forth a storm of leaves from _autumn's embrace_. These leaves swirl in a 20 foot emanation for 1 minute. Creatures within the area are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]], and creatures outside the area are concealed to creatures within the leaves. However, you can see through this concealment. You can Dismiss the activation.

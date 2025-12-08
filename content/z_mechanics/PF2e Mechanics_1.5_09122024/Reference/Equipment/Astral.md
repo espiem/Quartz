@@ -12,7 +12,7 @@ license: ORC
 ---
 # Astral
 ## Item 8
-### [[magical]][[spirit]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spirit]]
 
 
 **Price** 450 gp; 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Echoing Violence `pf2:0`
 ## Feat 18
-### [[archetype]][[death]][[incapacitation]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Death]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]]
 
 **Category** class; 
 

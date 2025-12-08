@@ -12,7 +12,7 @@ license: ORC
 ---
 # Bracelet of Dashing
 ## Item 3
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 58 gp; 
@@ -29,7 +29,7 @@ This jangling, silvery bracelet makes you lighter on your feet, giving you a +1 
 
 **Effect** You gain a +10-foot status bonus to Speed for 1 minute.
 
-[[Equipment Effects/Effect_ Bracelet of Dashing|Effect: Bracelet of Dashing]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Bracelet of Dashing|Effect: Bracelet of Dashing]]
 
 *Source: Pathfinder GM Core*
 *ORC*

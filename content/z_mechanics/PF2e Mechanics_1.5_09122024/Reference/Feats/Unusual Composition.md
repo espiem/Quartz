@@ -15,7 +15,7 @@ license: ORC
 ---
 # Unusual Composition `pf2:1`
 ## Feat 10
-### [[bard]][[concentrate]][[manipulate]][[spellshape]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Bard]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[spellshape]]
 
 **Category** class; 
 

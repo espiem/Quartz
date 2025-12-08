@@ -12,7 +12,7 @@ license: ORC
 ---
 # Diplomat's Badge
 ## Item 5
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 125 gp; 
@@ -31,7 +31,7 @@ When displayed prominently, this brass badge makes creatures find you more agree
 
 **Effect** Attempt a DC 20 check to Recall Knowledge about people of a human ethnicity, a non-human ancestry, or some other type of creature. (The GM determines what your options are.) If you succeed, the badge's bonus increases to +2 for Diplomacy checks with creatures of that group for the rest of the day.
 
-[[Equipment Effects/Effect_ Diplomat's Badge|Effect: Diplomat's Badge]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Diplomat's Badge|Effect: Diplomat's Badge]]
 
 *Source: Pathfinder GM Core*
 *ORC*

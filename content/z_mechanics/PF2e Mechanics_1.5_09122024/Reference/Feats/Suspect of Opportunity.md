@@ -12,7 +12,7 @@ license: ORC
 ---
 # Suspect of Opportunity `pf2:r`
 ## Feat 10
-### [[investigator]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Investigator]]
 
 **Category** class; 
 

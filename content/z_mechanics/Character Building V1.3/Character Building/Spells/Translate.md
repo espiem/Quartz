@@ -10,7 +10,7 @@ tags:
 ---
 
 # Translate
-![[systems-pf2e-icons-spells-comprehend-language.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-comprehend-language.webp|150]]
 
 The target can understand the meaning of a single language it is hearing or reading when you cast the spell. This doesn't let it understand codes, language couched in metaphor, and the like (subject to GM discretion). If the target can hear multiple languages and knows that, it can choose which language to understand; otherwise, choose one of the languages randomly.
 

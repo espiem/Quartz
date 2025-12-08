@@ -15,7 +15,7 @@ license: OGL
 ---
 # Vashu's Ninth Life
 ## Item 9
-### [unique](unique "Unique Rarity Trait")[[deadly-d8]][[magical]][[two-hand-d10]][[versatile-p]]
+### [unique](unique "Unique Rarity Trait")[[deadly-d8]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[two-hand-d10]][[versatile-p]]
 
 |  |  |
 | -- | -- |

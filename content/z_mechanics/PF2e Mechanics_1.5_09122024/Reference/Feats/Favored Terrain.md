@@ -12,7 +12,7 @@ license: ORC
 ---
 # Favored Terrain
 ## Feat 2
-### [[ranger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]]
 
 **Category** class; 
 
@@ -29,13 +29,13 @@ You have studied a specific terrain to overcome its challenges. Choose aquatic, 
 *   **Sky** You gain a +10-foot status bonus to your fly Speed, if you have one.
 *   **Swamp** You can move across bogs at full Speed, even if they are deep enough to be greater difficult terrain or to normally require you to Swim.
 
-[[Feat_Feature Effects/Effect_ Favored Terrain (Gain Climb Speed)|Effect: Favored Terrain (Gain Climb Speed)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Favored Terrain (Gain Climb Speed)|Effect: Favored Terrain (Gain Climb Speed)]]
 
-[[Feat_Feature Effects/Effect_ Favored Terrain (Increase Climb Speed)|Effect: Favored Terrain (Increase Climb Speed)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Favored Terrain (Increase Climb Speed)|Effect: Favored Terrain (Increase Climb Speed)]]
 
-[[Feat_Feature Effects/Effect_ Favored Terrain (Gain Swim Speed)|Effect: Favored Terrain (Gain Swim Speed)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Favored Terrain (Gain Swim Speed)|Effect: Favored Terrain (Gain Swim Speed)]]
 
-[[Feat_Feature Effects/Effect_ Favored Terrain (Increase Swim Speed)|Effect: Favored Terrain (Increase Swim Speed)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Favored Terrain (Increase Swim Speed)|Effect: Favored Terrain (Increase Swim Speed)]]
 
 *Source: Pathfinder Player Core*
 *ORC*

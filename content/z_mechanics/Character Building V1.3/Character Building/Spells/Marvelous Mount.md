@@ -10,7 +10,7 @@ tags:
 ---
 
 # Marvelous Mount
-![[systems-pf2e-icons-spells-phantom-steed.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-phantom-steed.webp|150]]
 
 You conjure a Large fantastical creature to serve as a mount for the target. The mount is the target's minion, has a Speed of 40 feet, and can bear the target with any carried possessions. It can't carry any other creature. The mount uses the target's AC and saves, but it's destroyed if it takes more than 10 damage at one time, ending the spell.
 

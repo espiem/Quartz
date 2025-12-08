@@ -8,7 +8,7 @@ tags:
 ---
 
 # The Marriage
-![[icons-sundries-gaming-playing-cards-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-gaming-playing-cards-grey.webp|150]]
 
 **Suit** Crowns (Cha)
 
@@ -24,4 +24,4 @@ _The Marriage_ symbolizes a union of body, mind, spirit, or any of the three. Wh
 
 * * *
 
-**Effect** Choose one adjacent willing creature. By brushing _The Marriage_ against their body, you form a magical bond with that creature that persists until you activate _The Marriage_ again to form a bond with a different creature. While the bond persists, you and the other creature can communicate via telepathy to a distance of 120 feet. As long as you and the target are on the same plane of existence and are both alive, you each remain aware of the other's state—you know the other's direction from you, distance from you, and any conditions affecting them. If your bonded target becomes [[Blinded]], [[Confused]], [[Controlled]], [[Fascinated]], [[Frightened]], [[Slowed|Slowed]], or [[Stunned 1|Stunned]], you can use a reaction to attempt to counter the condition affecting the target, which also ends the bond between you and the target. The modifier on this counter check is equal to your class DC – 10. If you fail to counter the condition, that condition also afflicts you, and the bond with the other still ends.
+**Effect** Choose one adjacent willing creature. By brushing _The Marriage_ against their body, you form a magical bond with that creature that persists until you activate _The Marriage_ again to form a bond with a different creature. While the bond persists, you and the other creature can communicate via telepathy to a distance of 120 feet. As long as you and the target are on the same plane of existence and are both alive, you each remain aware of the other's state—you know the other's direction from you, distance from you, and any conditions affecting them. If your bonded target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Controlled]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed]], or [[Stunned 1|Stunned]], you can use a reaction to attempt to counter the condition affecting the target, which also ends the bond between you and the target. The modifier on this counter check is equal to your class DC – 10. If you fail to counter the condition, that condition also afflicts you, and the bond with the other still ends.

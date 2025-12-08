@@ -8,7 +8,7 @@ tags:
 ---
 # Nighty Night
 
-> Normal damage. **Crit Effect:** The target falls [[Conditions/Unconscious|Unconscious]] and can't wake up until the end of its next turn.
+> Normal damage. **Crit Effect:** The target falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] and can't wake up until the end of its next turn.
 
 `Bludgeoning`
 

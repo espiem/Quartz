@@ -22,7 +22,7 @@ license: ORC
 * * *
 You imbue a fragment of your divine spark into a weapon, blessing your blade and transforming it into a weapon worthy of the celestial realms. Select one weapon or handwraps of mighty blows when you make your daily preparations. The weapon sheds light like a torch, deals an additional 1d8 spirit damage, and creatures who wield it gain the weapon's critical specialization.
 
-When you critically hit a target with the weapon, the target must succeed at a Fortitude check save against your class DC or spell DC (whichever is higher) or be [[Conditions/Blinded|Blinded]] for [[/gmr 1d4 #rounds]]{1d4 rounds}.
+When you critically hit a target with the weapon, the target must succeed at a Fortitude check save against your class DC or spell DC (whichever is higher) or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] for [[/gmr 1d4 #rounds]]{1d4 rounds}.
 
 As a single action that has the concentration trait, you can hold your hand aloft and call this weapon back to your possession; it immediately teleports into your hand.
 

@@ -16,4 +16,4 @@ tags:
 
 * * *
 
-The well of psychic energy held within your mind can exceed the limitations of your physical body. You're restored to 1 Hit Point, lose the dying and [[Unconscious]] conditions, and can act normally on this turn. You gain or increase the wounded condition as normal for losing the dying condition.
+The well of psychic energy held within your mind can exceed the limitations of your physical body. You're restored to 1 Hit Point, lose the dying and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] conditions, and can act normally on this turn. You gain or increase the wounded condition as normal for losing the dying condition.

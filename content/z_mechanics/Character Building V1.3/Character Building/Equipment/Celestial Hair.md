@@ -18,4 +18,4 @@ tags:
 
 This strand of hair shimmers like the strands of fate. When you activate the string, it resonates with a single, perfect note.
 
-The triggering saving throw becomes a failure or the triggering attack roll becomes a regular hit, not critical one. If the source of the attack or effect is an evil creature, that creature must succeed at a DC 41 will saving throw or be [[Enfeebled 1|Enfeebled 2]] and [[Stupefied|Stupefied 2]] until the end of its next turn.
+The triggering saving throw becomes a failure or the triggering attack roll becomes a regular hit, not critical one. If the source of the attack or effect is an evil creature, that creature must succeed at a DC 41 will saving throw or be [[Enfeebled 1|Enfeebled 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] until the end of its next turn.

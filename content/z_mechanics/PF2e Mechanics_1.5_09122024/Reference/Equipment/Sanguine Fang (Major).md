@@ -12,7 +12,7 @@ license: OGL
 ---
 # Sanguine Fang (Major)
 ## Item 15
-### [[magical]][[spellheart]][[void]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellheart]][[void]]
 
 
 **Price** 5750 gp; 
@@ -24,9 +24,9 @@ A pointed vampire fang hovers within this smoked-glass vial, its tip crimson wit
 *   **Armor** You gain resistance 10 to persistent bleed damage and a +3 item bonus on saving throws against effects with the void trait.
 *   **Weapon** After you cast a necromancy spell by activating the _fang_, your Strikes with the weapon deal 2d6 bleed damage until the end of your next turn.
 
-[[Equipment Effects/Effect_ Sanguine Fang - Armor (Major)|Effect: Sanguine Fang - Armor (Major)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Sanguine Fang - Armor (Major)|Effect: Sanguine Fang - Armor (Major)]]
 
-[[Equipment Effects/Effect_ Sanguine Fang - Weapon (Major)|Effect: Sanguine Fang - Weapon (Major)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Sanguine Fang - Weapon (Major)|Effect: Sanguine Fang - Weapon (Major)]]
 
 * * *
 

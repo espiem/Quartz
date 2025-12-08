@@ -8,7 +8,7 @@ tags:
 ---
 
 # Ghost Sound
-![[systems-pf2e-icons-spells-ghost-sound.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-ghost-sound.webp|150]]
 
 You create an auditory illusion of simple sounds that has a maximum volume equal to four normal humans shouting. The sounds emanate from a square you designate within range. You can't create intelligible words or other intricate sounds (such as music).
 

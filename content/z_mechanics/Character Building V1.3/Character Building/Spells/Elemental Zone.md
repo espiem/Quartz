@@ -8,7 +8,7 @@ tags:
 ---
 
 # Elemental Zone
-![[icons-magic-symbols-elements-air-earth-fire-water.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-symbols-elements-air-earth-fire-water.webp|150]]
 
 Select an elemental trait: air, earth, fire, metal, water, or wood. _Elemental zone_ gains the trait you chose. You imbue the area with the raw energy of that element, creating a zone that emits and amplifies magic of that type. The temperature might suddenly rise or fall, a storm cloud might form, and so on. Spells with the chosen elemental trait cast against creatures in the zone get a +2 status bonus to one damage type the spell deals based on the chosen trait: bludgeoning or electricity for air, bludgeoning for earth, fire for fire, electricity or slashing damage for metal, bludgeoning or cold for water, and bludgeoning or vitality damage for wood. The caster chooses one type to add the bonus to if the spell deals more than one eligible type. This bonus is halved if the spell didn't use a spell slot (such as a cantrip, focus spell, or innate spell).
 

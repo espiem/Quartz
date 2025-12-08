@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Come and Get Me|Come and Get Me]]
 
-You are [[Conditions/Off-Guard|Off-Guard]], and damage rolls against you gain a +2 circumstance bonus.
+You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]], and damage rolls against you gain a +2 circumstance bonus.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

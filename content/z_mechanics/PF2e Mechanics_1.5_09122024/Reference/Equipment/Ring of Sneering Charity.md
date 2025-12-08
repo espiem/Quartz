@@ -12,7 +12,7 @@ license: OGL
 ---
 # Ring of Sneering Charity
 ## Item 7
-### [[cursed]][[invested]][[magical]]
+### [[cursed]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 

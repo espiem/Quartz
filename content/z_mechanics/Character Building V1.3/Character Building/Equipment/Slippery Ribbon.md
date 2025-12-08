@@ -14,7 +14,7 @@ tags:
 
 **Activation** F envision
 
-**Trigger** You succeed at an Acrobatics check to [[Tumble Through]], but you don't have enough Speed to move all the way through the enemy's space
+**Trigger** You succeed at an Acrobatics check to [[z_mechanics/PF2e Mechanics_1.5_09122024/Hero Point Deck/Tumble Through]], but you don't have enough Speed to move all the way through the enemy's space
 
 **Requirements** You are an expert in Acrobatics.
 

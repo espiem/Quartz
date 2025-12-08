@@ -11,7 +11,7 @@ license: ORC
 ---
 # Slates of Distant Letters
 ## Item 13
-### [[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 2450 gp; 

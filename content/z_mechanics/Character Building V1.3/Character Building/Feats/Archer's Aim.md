@@ -10,4 +10,4 @@ tags:
 # Archer's Aim
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You slow down, focus, and take a careful shot. Make a ranged Strike with a weapon in the bow weapon group. You gain a +2 circumstance bonus to the attack roll and ignore the target's [[Concealed]] condition. If the target is [[Hidden]], reduce the flat check from being hidden from 11 to 5.
+You slow down, focus, and take a careful shot. Make a ranged Strike with a weapon in the bow weapon group. You gain a +2 circumstance bonus to the attack roll and ignore the target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] condition. If the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]], reduce the flat check from being hidden from 11 to 5.

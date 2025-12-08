@@ -30,7 +30,7 @@ This yellow fruit's soft flesh is covered by waxy, fibrous leaves reminiscent of
 
 **Drawback** You become [[Conditions/Clumsy|Clumsy 1]]. If you perform an action with the auditory or linguistic traits, you must succeed at a DC 5 Flat check or the action is lost.
 
-[[Equipment Effects/Effect_ Apricot of Bestial Might|Effect: Apricot of Bestial Might]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Apricot of Bestial Might|Effect: Apricot of Bestial Might]]
 
 *Source: Pathfinder #167: Ready? Fight!*
 *OGL*

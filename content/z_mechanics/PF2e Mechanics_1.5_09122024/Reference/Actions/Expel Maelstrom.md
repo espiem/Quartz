@@ -12,7 +12,7 @@ license: OGL
 ---
 # Expel Maelstrom `pf2:1`
 
-### [[curse]][[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Curse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** offensive; 
 

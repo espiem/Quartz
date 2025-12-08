@@ -12,14 +12,14 @@ license: ORC
 ---
 # Terrain Advantage
 ## Feat 9
-### [[lizardfolk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Lizardfolk]]
 
 **Category** ancestry; 
 
 
 
 
-Non-lizardfolk creatures in difficult terrain are [[Conditions/Off-Guard|Off-Guard]] to you. If you have a swim Speed, non-lizardfolk creatures that are in water and lack a swim Speed are also off-guard to you.
+Non-lizardfolk creatures in difficult terrain are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] to you. If you have a swim Speed, non-lizardfolk creatures that are in water and lack a swim Speed are also off-guard to you.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

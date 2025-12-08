@@ -11,7 +11,7 @@ license: OGL
 ---
 # Heat Haze `pf2:1`
 
-### [[fire]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]]
 
 **Category** offensive; 
 
@@ -28,7 +28,7 @@ Your relic's heat keeps the air around you pleasantly warm. While you are holdin
 
 **Frequency** once per day
 
-**Effect** Your relic erratically elevates the air temperature around you, creating heat shimmers that distort your appearance and grant you the [[Conditions/Concealed|Concealed]] condition for 1 minute. As the nature of this effect still leaves your location obvious, you can't use this concealment to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]].
+**Effect** Your relic erratically elevates the air temperature around you, creating heat shimmers that distort your appearance and grant you the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] condition for 1 minute. As the nature of this effect still leaves your location obvious, you can't use this concealment to [[Actions/Hide|Hide]] or [[Actions/Sneak|Sneak]].
 
 *Source: Pathfinder #194: Cult of the Cave Worm*
 *OGL*

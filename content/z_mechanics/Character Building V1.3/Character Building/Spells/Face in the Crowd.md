@@ -8,7 +8,7 @@ tags:
 ---
 
 # Face in the Crowd
-![[systems-pf2e-icons-spells-face-in-the-crowd.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-face-in-the-crowd.webp|150]]
 
 While in a crowd of roughly similar creatures, your appearance becomes bland and nondescript. You gain a +2 status bonus to Deception and Stealth checks to go incognito among the crowd, and you ignore difficult terrain caused by the crowd. This counts as setting up a disguise for the [[Impersonate]] use of Deception and you add your level even if you're untrained.
 

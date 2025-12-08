@@ -12,4 +12,4 @@ tags:
 
 _Every kobold knows that their slight frame belies true, mighty draconic power. They are ingenious crafters and devoted allies within their warrens, but those who trespass into their territory find them to be inspired skirmishers, especially when they have the backing of a draconic sorcerer or true dragon overlord. However, these reptilian opportunists prove happy to cooperate with other humanoids when it's to their benefit, combining caution and cunning to make their fortunes in the wider world._
 
-_[[Kobold]]_
+_[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Kobold]]_

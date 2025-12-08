@@ -8,7 +8,7 @@ tags:
 ---
 
 # Shifting Form
-![[icons-creatures-claws-claw-bear-paw-swipe-red.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-claws-claw-bear-paw-swipe-red.webp|150]]
 
 You change your body to better suit the moment. You gain one of the following abilities of your choice. You can Dismiss this spell.
 

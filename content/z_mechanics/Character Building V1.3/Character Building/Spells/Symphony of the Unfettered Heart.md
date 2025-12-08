@@ -10,7 +10,7 @@ tags:
 # Symphony of the Unfettered Heart
 ![[systems-pf2e-icons-spells-symphony-of-the-unfettered-heart.webp|150]]
 
-Your symphony lifts listeners from their worldly concerns. Attempt a Performance check to counteract an effect applying one of the following conditions to the target: [[Grabbed]], [[Immobilized]], [[Paralyzed]], [[Restrained]], [[Slowed|Slowed]], or [[Stunned 1|Stunned]]. If you fail, you can't target the same effect on the target for 1 day. Use the condition's source to determine the counteract DC (for example, the [[Escape]] DC for grabbed).
+Your symphony lifts listeners from their worldly concerns. Attempt a Performance check to counteract an effect applying one of the following conditions to the target: [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed]], or [[Stunned 1|Stunned]]. If you fail, you can't target the same effect on the target for 1 day. Use the condition's source to determine the counteract DC (for example, the [[Escape]] DC for grabbed).
 
 * * *
 

@@ -11,7 +11,7 @@ license: OGL
 ---
 # Tome of Restorative Cleansing (Moderate)
 ## Item 9
-### [[grimoire]][[magical]]
+### [[grimoire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 600 gp; 

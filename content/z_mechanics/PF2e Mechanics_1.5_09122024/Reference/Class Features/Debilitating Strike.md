@@ -12,7 +12,7 @@ license: ORC
 ---
 # Debilitating Strike
 ## Feat 9
-### [[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** classfeature; 
 

@@ -15,7 +15,7 @@ license: ORC
 ---
 # Dragon's Journey `pf2:1`
 ## Feat 14
-### [[air]][[archetype]][[flourish]][[move]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Air]][[archetype]][[flourish]][[move]]
 
 **Category** class; 
 

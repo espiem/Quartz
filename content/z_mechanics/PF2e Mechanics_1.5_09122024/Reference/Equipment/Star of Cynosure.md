@@ -13,7 +13,7 @@ license: OGL
 ---
 # Star of Cynosure
 ## Item 10
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 175 gp; 
@@ -32,7 +32,7 @@ Found throughout Golarion, these star-shaped talismans of whalebone scrimshaw ar
 
 When you activate this talisman, you gain a +2 status bonus to saves against enchantment magic with the mental trait for 1 minute. On the triggering save, if the outcome of the roll is a failure, you get a success instead, or if the outcome is a critical failure, you get a failure instead.
 
-[[Equipment Effects/Effect_ Star of Cynosure|Effect: Star of Cynosure]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Star of Cynosure|Effect: Star of Cynosure]]
 
 *Source: Pathfinder #189: Dreamers of the Nameless Spires*
 *OGL*

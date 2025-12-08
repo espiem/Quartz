@@ -22,4 +22,4 @@ This black-and-gray ammunition is etched with occult symbols and tiny, grinning 
 
 **Failure** The creature is frightened 1 and can't reduce its frightened value below 1 until it spends an action, which has the concentrate trait, to calm itself down.
 
-**Critical Failure** As failure, but the creature is [[Frightened|Frightened 2]].
+**Critical Failure** As failure, but the creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].

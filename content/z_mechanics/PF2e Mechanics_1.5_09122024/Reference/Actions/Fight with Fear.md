@@ -14,7 +14,7 @@ license: OGL
 ---
 # Fight with Fear `pf2:r`
 
-### [[concentrate]][[emotion]][[fear]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[fear]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** interaction; 
 
@@ -31,7 +31,7 @@ license: OGL
 
 **Success** The creature is unaffected.
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 2]], and you gain a +2 status bonus to your saving throw or other defense against the triggering mental effect.
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]], and you gain a +2 status bonus to your saving throw or other defense against the triggering mental effect.
 
 **Critical Failure** The creature is frightened 2, and you're unaffected by the triggering mental effect.
 

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Earthglide Cloak
 ## Item 15
-### [[earth]][[invested]][[occult]]
+### [[earth]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 
 **Price** 6500 gp; 

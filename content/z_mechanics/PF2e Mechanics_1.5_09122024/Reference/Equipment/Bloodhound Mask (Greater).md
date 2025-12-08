@@ -27,7 +27,7 @@ This wide, single-use mask is designed to be slipped over your mouth and nose an
 
 When you use Survival to [[Actions/Track|Track]] a creature by its scent, your proficiency bonus is equal to your level even if you're untrained, and the mask grants you a +3 item bonus to your Survival check. The GM sets the Survival DC based on the area's ability to hold scent rather than on visual clues, as normal for using scent.
 
-[[Equipment Effects/Effect_ Bloodhound Mask (Greater)|Effect: Bloodhound Mask (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Bloodhound Mask (Greater)|Effect: Bloodhound Mask (Greater)]]
 
 *Source: Pathfinder Advanced Player's Guide*
 *OGL*

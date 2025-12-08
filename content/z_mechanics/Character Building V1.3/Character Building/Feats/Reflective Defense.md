@@ -18,4 +18,4 @@ tags:
 
 * * *
 
-Your body's natural luster has been polished to a gleaming shine. You use this to reflect light back into your enemy's eyes, disrupting its aim and focus; it must succeed at a Reflex save against your class DC or be [[Dazzled]] until the end of your next turn.
+Your body's natural luster has been polished to a gleaming shine. You use this to reflect light back into your enemy's eyes, disrupting its aim and focus; it must succeed at a Reflex save against your class DC or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] until the end of your next turn.

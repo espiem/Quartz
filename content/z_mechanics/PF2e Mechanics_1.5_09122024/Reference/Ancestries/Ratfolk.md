@@ -12,7 +12,7 @@ license: ORC
 ---
 # Ratfolk
 
-### [uncommon](uncommon "Uncommon Rarity Trait")[[humanoid]][[ratfolk]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[humanoid]][[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Ancestries/Ratfolk]]
 
 
 
@@ -21,7 +21,7 @@ license: ORC
 
 _Ysoki are beings that most surface-dwelling humanoids refer to as "ratfolk." They are a communal people who prefer cramped conditions, with up to 100 individuals living in a given home. If they can't find homes in town, ratfolk may instead live in caves and cavern complexes, as these provide great storage for the many and varied goods they bring back from trading expeditions._
 
-[[PF2e Journals/Ancestries/Ratfolk|Ratfolk]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Ratfolk|Ratfolk]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -14,14 +14,14 @@ license: ORC
 ---
 # (Ghoul) Ghoul Whispers `pf2:1`
 
-### [[auditory]][[linguistic]][[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[linguistic]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** offensive; 
 
 
 
 
-**Requirements** A [[Conditions/Grabbed|Grabbed]], [[Conditions/Paralyzed|Paralyzed]], [[Conditions/Restrained|Restrained]], or [[Conditions/Unconscious|Unconscious]] creature is within the ghoul's reach
+**Requirements** A [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] creature is within the ghoul's reach
 
 * * *
 

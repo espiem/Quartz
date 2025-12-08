@@ -16,7 +16,7 @@ license: ORC
 ---
 # Interrogate `pf2:1`
 ## Feat 6
-### [[archetype]][[auditory]][[concentrate]][[linguistic]][[mental]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[linguistic]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** class; 
 

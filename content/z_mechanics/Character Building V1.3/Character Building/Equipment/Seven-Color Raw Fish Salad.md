@@ -20,7 +20,7 @@ An appetizer popularized in Goka, seven-color raw fish salad (qicai yusheng) is 
 
 * * *
 
-**Critical Success** You manage to toss the ingredients deftly without wasting food, and your enthusiastic recitation of auspicious sayings is well received-a sign of impending good fortune! For the first month of the coming year, you enjoy a +2 bonus to skill checks to [[Earn Income]] and Diplomacy checks made to Gather Information about job opportunities.
+**Critical Success** You manage to toss the ingredients deftly without wasting food, and your enthusiastic recitation of auspicious sayings is well received-a sign of impending good fortune! For the first month of the coming year, you enjoy a +2 bonus to skill checks to [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/GM Screen/Earn Income]] and Diplomacy checks made to Gather Information about job opportunities.
 
 **Success** You toss the ingredients adroitly, wasting a minimum of seafood, and your delivery of auspicious sayings is respectable. For the first month of the coming year, you gain a +1 bonus to skill checks to Earn Income and Diplomacy checks made to Gather Information about job opportunities.
 

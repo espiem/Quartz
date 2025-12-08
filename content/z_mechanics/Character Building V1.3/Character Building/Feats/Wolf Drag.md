@@ -16,4 +16,4 @@ tags:
 
 You rip your enemy off their feet.
 
-Make a wolf jaw Strike. Your wolf jaw gains the fatal d12 trait for this Strike, and if the attack succeeds, you knock the target [[Prone]].
+Make a wolf jaw Strike. Your wolf jaw gains the fatal d12 trait for this Strike, and if the attack succeeds, you knock the target [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].

@@ -20,4 +20,4 @@ Every _marvelous miniature_ is an exceptionally small replica of a real creature
 
 * * *
 
-This miniature can be activated only when tossed into a large body of water, such as a lake or broad river. It transforms into a [[Cutter]]. The cutter lasts 1 day.
+This miniature can be activated only when tossed into a large body of water, such as a lake or broad river. It transforms into a [[z_mechanics/PF2e Mechanics_1.5_09122024/Vehicles/Cutter]]. The cutter lasts 1 day.

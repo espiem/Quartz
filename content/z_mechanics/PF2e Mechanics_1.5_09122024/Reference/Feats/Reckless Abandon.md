@@ -13,7 +13,7 @@ license: ORC
 ---
 # Reckless Abandon `pf2:0`
 ## Feat 17
-### [[fortune]][[goblin]]
+### [[fortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Goblin]]
 
 **Category** ancestry; 
 

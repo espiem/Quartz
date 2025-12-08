@@ -12,14 +12,14 @@ license: ORC
 ---
 # Dwarven Doughtiness
 ## Feat 1
-### [[dwarf]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Dwarf]]
 
 **Category** ancestry; 
 
 
 
 
-You are naturally calm and collected in the face of imminent danger. At the end of your turn, reduce your [[Conditions/Frightened|Frightened]] condition by 2 instead of 1.
+You are naturally calm and collected in the face of imminent danger. At the end of your turn, reduce your [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]] condition by 2 instead of 1.
 
 *Source: Pathfinder Player Core*
 *ORC*

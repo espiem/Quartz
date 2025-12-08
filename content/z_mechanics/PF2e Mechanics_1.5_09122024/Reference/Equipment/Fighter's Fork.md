@@ -14,7 +14,7 @@ license: ORC
 ---
 # Fighter's Fork
 ## Item 3
-### [[magical]][[thrown-20]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[thrown-20]]
 
 |  |  |
 | -- | -- |

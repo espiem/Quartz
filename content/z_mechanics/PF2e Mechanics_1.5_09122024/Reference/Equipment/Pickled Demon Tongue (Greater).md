@@ -12,7 +12,7 @@ license: OGL
 ---
 # Pickled Demon Tongue (Greater)
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[acid]][[divine]][[spellheart]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Acid]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[spellheart]]
 
 
 **Price** 460 gp; 
@@ -24,9 +24,9 @@ This small crystal vial contains the forked end of a demon's tongue, preserved i
 *   **Armor** You gain resistance 5 to acid and attacks by demons.
 *   **Weapon** After you cast an acid spell by Activating the _pickled demon tongue_, your Strikes with the weapon deal an additional 1d6 acid damage until end of your next turn.
 
-[[Equipment Effects/Effect_ Pickled Demon Tongue - Armor (Greater)|Effect: Pickled Demon Tongue - Armor (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Pickled Demon Tongue - Armor (Greater)|Effect: Pickled Demon Tongue - Armor (Greater)]]
 
-[[Equipment Effects/Effect_ Pickled Demon Tongue - Weapon (Greater)|Effect: Pickled Demon Tongue - Weapon (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Pickled Demon Tongue - Weapon (Greater)|Effect: Pickled Demon Tongue - Weapon (Greater)]]
 
 * * *
 

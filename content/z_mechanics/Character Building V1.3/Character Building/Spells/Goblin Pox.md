@@ -18,7 +18,7 @@ Your touch afflicts the target with goblin pox, an irritating allergenic rash. T
 
 **Stage** **1** [[Sickened 1]] (1 round)
 
-**Stage 2** [[Sickened 1]] and [[Slowed]] (1 round)
+**Stage 2** [[Sickened 1]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] (1 round)
 
 **Stage 3** [[Sickened 1]] and the creature can't reduce its Sickened value below 1 (1 day)
 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Fluttering Distraction `pf2:r`
 ## Feat 10
-### [[archetype]][[manipulate]][[misfortune]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[misfortune]]
 
 **Category** class; 
 

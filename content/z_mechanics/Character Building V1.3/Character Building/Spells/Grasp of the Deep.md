@@ -19,7 +19,7 @@ You grip one target with the phantasmal pressure of the deep sea, disorienting a
 
 **Success** The target takes half damage.
 
-**Failure** The target takes half damage, and feels as though it's being crushed. The target becomes [[Grabbed]] and takes 6d6 bludgeoning damage; it can attempt to [[Escape]] with an Escape DC equal to your spell DC.
+**Failure** The target takes half damage, and feels as though it's being crushed. The target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] and takes 6d6 bludgeoning damage; it can attempt to [[Escape]] with an Escape DC equal to your spell DC.
 
 **Critical Failure** As failure, but the target takes double damage.
 

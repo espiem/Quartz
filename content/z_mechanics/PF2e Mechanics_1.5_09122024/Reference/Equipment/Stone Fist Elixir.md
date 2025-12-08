@@ -28,7 +28,7 @@ license: ORC
 
 Your fists become hard as stone. For 1 hour, your fists deal 1d6 bludgeoning damage and lose the nonlethal trait.
 
-[[Equipment Effects/Effect_ Stone Fist Elixir|Effect: Stone Fist Elixir]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Stone Fist Elixir|Effect: Stone Fist Elixir]]
 
 *Source: Pathfinder GM Core*
 *ORC*

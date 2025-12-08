@@ -8,7 +8,7 @@ tags:
 ---
 
 # Wind Jump
-![[systems-pf2e-icons-spells-wind-jump.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-wind-jump.webp|150]]
 
 You gain a fly Speed equal to your Speed. You must end your turn on solid ground, or you fall.
 

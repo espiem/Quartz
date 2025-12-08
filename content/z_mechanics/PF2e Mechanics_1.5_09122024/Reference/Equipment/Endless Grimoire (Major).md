@@ -11,7 +11,7 @@ license: OGL
 ---
 # Endless Grimoire (Major)
 ## Item 14
-### [[grimoire]][[magical]]
+### [[grimoire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 4000 gp; 

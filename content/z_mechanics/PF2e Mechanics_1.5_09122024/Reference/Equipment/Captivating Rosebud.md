@@ -15,7 +15,7 @@ license: OGL
 ---
 # Captivating Rosebud
 ## Item 3
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[emotion]][[magical]][[wood]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[wood]]
 
 **Category** other; 
 **Price** 10 gp; 
@@ -38,7 +38,7 @@ Named because of its popularity among thieves to distract any authorities in pur
 
 **Failure** As success, but a –2 penalty.
 
-**Critical Failure** As success, but a –2 penalty and the creature is [[Conditions/Fascinated|Fascinated]] by the rosebush.
+**Critical Failure** As success, but a –2 penalty and the creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fascinated|Fascinated]] by the rosebush.
 
 * * *
 

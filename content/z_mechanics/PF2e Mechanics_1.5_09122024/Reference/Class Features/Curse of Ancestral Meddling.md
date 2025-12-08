@@ -15,7 +15,7 @@ license: ORC
 ---
 # Curse of Ancestral Meddling
 ## Feat 1
-### [[curse]][[divine]][[oracle]][[spirit]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Curse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Oracle]][[spirit]]
 
 **Category** classfeature; 
 

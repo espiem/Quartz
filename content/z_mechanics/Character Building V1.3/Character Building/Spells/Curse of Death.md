@@ -26,7 +26,7 @@ Your patron wraps a hand around your target's heart. The target must attempt a F
 
 **Curse of Death** (curse, death, void) This curse ends when the spell ends
 
-**Stage 1** 4d6 void damage and [[Fatigued]] (1 round)
+**Stage 1** 4d6 void damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] (1 round)
 
 **Stage 2** 8d6 void damage and fatigued (1 round)
 

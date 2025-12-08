@@ -12,7 +12,7 @@ license: ORC
 ---
 # Aeon Stone (Smoothing)
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 310 gp; 
@@ -27,7 +27,7 @@ There are various types of _aeon stones_, each with a different appearance and m
 
 * * *
 
-This spherical piece of silvery stone helps you ignore minor issues. You can ignore status penalties to skill checks from [[Conditions/Clumsy|Clumsy 1]], [[Conditions/Enfeebled|Enfeebled 1]], [[Conditions/Frightened|Frightened 1]], [[Conditions/Sickened|Sickened 1]], and [[Conditions/Stupefied|Stupefied 1]] conditions as long as the value of that condition is 1.
+This spherical piece of silvery stone helps you ignore minor issues. You can ignore status penalties to skill checks from [[Conditions/Clumsy|Clumsy 1]], [[Conditions/Enfeebled|Enfeebled 1]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]], [[Conditions/Sickened|Sickened 1]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] conditions as long as the value of that condition is 1.
 
 Its resonant power allows you to cast [[Spells/Guidance|Guidance]] as an occult innate cantrip.
 

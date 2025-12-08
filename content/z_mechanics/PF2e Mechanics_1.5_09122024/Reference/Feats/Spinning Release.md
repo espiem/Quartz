@@ -13,7 +13,7 @@ license: ORC
 ---
 # Spinning Release `pf2:3`
 ## Feat 14
-### [[archetype]][[mental]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** class; 
 
@@ -21,13 +21,13 @@ license: ORC
 
 **Prerequisites** Thlipit Contestant Dedication
 * * *
-**Requirements** You have a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] with your lash.
+**Requirements** You have a creature [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]] with your lash.
 
 * * *
 
 You wind your lash around your opponent, then spin them rapidly to discombobulate them. You release your opponent, sending them wobbling 10 feet in a direction of your choice; this is forced movement. Your opponent must succeed at a Fortitude check save against your class DC, with the following effects.
 
-**Failure** The target is [[Conditions/Confused|Confused]] until the end of their next turn. They are then temporarily immune to being confused or sickened by Spinning Release for 10 minutes, though the ability can still be used to move them.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused|Confused]] until the end of their next turn. They are then temporarily immune to being confused or sickened by Spinning Release for 10 minutes, though the ability can still be used to move them.
 
 **Critical Failure** As failure, but the target is also [[Conditions/Sickened|Sickened 1]] from being spun around.
 

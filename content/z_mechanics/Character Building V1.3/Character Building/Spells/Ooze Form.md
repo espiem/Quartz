@@ -8,7 +8,7 @@ tags:
 ---
 
 # Ooze Form
-![[icons-creatures-slimes-slime-face-hollow-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-slimes-slime-face-hollow-green.webp|150]]
 
 You invoke all things that seep and ooze, your body dissolving into a thick slurry and then reconstituting itself into a Medium ooze battle form. When you first cast this spell, choose black pudding, gelatinous cube, gray ooze, or ochre jelly. While in this form, you gain the ooze trait. You can Dismiss the spell. You gain the following statistics and abilities regardless of which battle form you choose:
 
@@ -26,13 +26,13 @@ You also gain specific abilities based on the ooze:
     *   **Melee** 1 pseudopod, **Damage** 2d6+5 bludgeoning and 1d8 acid.
 *    Speed 15 feet;
     *   **Melee** 1 cube face, **Damage** 1d6+5 acid;
-    *   a creature hit by your cube face Strike must succeed at a Fortitude save against your spell DC or be [[Stunned 1]] (or [[Paralyzed]] for 1 round on a critical failure); this save has the incapacitation trait.
+    *   a creature hit by your cube face Strike must succeed at a Fortitude save against your spell DC or be [[Stunned 1]] (or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] for 1 round on a critical failure); this save has the incapacitation trait.
 *    Speed 15 feet, climb 15 feet, swim 15 feet
     
-    *   **Melee** 1 pseudopod, **Damage** 1d6+5 bludgeoning and 1d6 acid, and you can spend an action after a hit to [[Grab]] the target.
+    *   **Melee** 1 pseudopod, **Damage** 1d6+5 bludgeoning and 1d6 acid, and you can spend an action after a hit to [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Grab]] the target.
 
 *    Speed 15 feet, climb 10 feet; resistance 5 to electricity;
-    *   **Melee** 1 pseudopod, **Damage** 1d8+5 bludgeoning and 1d8 acid, and you can spend an action after a hit to [[Grab]] the target.
+    *   **Melee** 1 pseudopod, **Damage** 1d8+5 bludgeoning and 1d8 acid, and you can spend an action after a hit to [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Grab]] the target.
 
 * * *
 

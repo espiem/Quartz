@@ -11,7 +11,7 @@ license: OGL
 ---
 # Spider Chair
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 1800 gp; 

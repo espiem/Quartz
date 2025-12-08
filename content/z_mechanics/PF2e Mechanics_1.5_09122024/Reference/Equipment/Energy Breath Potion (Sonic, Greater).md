@@ -15,7 +15,7 @@ license: ORC
 ---
 # Energy Breath Potion (Sonic, Greater)
 ## Item 17
-### [[consumable]][[magical]][[potion]][[sonic]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]][[sonic]]
 
 **Category** potion; 
 **Price** 3000 gp; 

@@ -18,6 +18,6 @@ This wand is made of two copper plates separated by a ceramic center.
 
 * * *
 
-**Effect** You cast _[[Lightning Bolt]]_ at 4th level, but the spell's area is twice as wide (two adjacent and parallel 120-foot lines) and creatures that fail their save are [[Off-Guard]] for 1 round.
+**Effect** You cast _[[Lightning Bolt]]_ at 4th level, but the spell's area is twice as wide (two adjacent and parallel 120-foot lines) and creatures that fail their save are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] for 1 round.
 
 **Craft Requirements** Supply a casting of lightning bolt at 4th-level.

@@ -35,7 +35,7 @@ Jestercap, a holiday originally celebrated by Taldan gnomes, has become a feast 
 
 When casting the [[Spells/Avatar|Avatar]] spell, a worshipper of Picoperi becomes youthful in appearance with overlarge sparkling eyes, a wide smile, dimpled cheeks, and a messy mop of hair. They wear a colorful yellow and green vest, and their movements trail sparkles or produce comical sounds. They often display signs of mischief and raucous play, such as dirt smears across their cheeks, grass stains on their clothes, worn fabric, or scuffed knees. Their pockets are filled with innocent tools of mischief like water balloons, sticks, stones, or elastics. They gain the following additional abilities.
 
-**Picoperi** Speed 70 feet, immune to [[Conditions/Immobilized|Immobilized]], air walk
+**Picoperi** Speed 70 feet, immune to [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]], air walk
 
 Melee `pf2:1` cunning prank (finesse, nonlethal, reach 15 feet, versatile P or S), Damage 6d4+6 bludgeoning
 

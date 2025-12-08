@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-You grab your foe while it's distracted by your attack. The foe you hit becomes [[Grabbed]], as if you had succeeded at an Athletics check to [[Grapple]] the foe.
+You grab your foe while it's distracted by your attack. The foe you hit becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]], as if you had succeeded at an Athletics check to [[Grapple]] the foe.

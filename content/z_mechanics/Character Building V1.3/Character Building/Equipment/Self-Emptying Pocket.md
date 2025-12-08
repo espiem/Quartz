@@ -10,7 +10,7 @@ tags:
 # Self-Emptying Pocket
 ![[systems-pf2e-icons-equipment-contracts-self-emptying-pocket.webp|150]]
 
-You never perform to an empty crowd after promising any profits to a phantom in a playhouse, sealed by holes that appear in your pockets. By meeting with the attendees at your events, you can use Performance instead of Diplomacy to Gather Information. When you would use Performance to [[Earn Income]], you don't earn any gold pieces, as the money disappears before you can even count it.
+You never perform to an empty crowd after promising any profits to a phantom in a playhouse, sealed by holes that appear in your pockets. By meeting with the attendees at your events, you can use Performance instead of Diplomacy to Gather Information. When you would use Performance to [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/GM Screen/Earn Income]], you don't earn any gold pieces, as the money disappears before you can even count it.
 
 The entity that holds your _bargained contract_ can influence your reception any time you perform for a crowd or Activate the pocket. If they influence your performance favorably, you gain a +2 item bonus to your Performance check. If they influence your performance unfavorably, you gain a -2 item penalty to your Performance check. If you've failed to earn the entity money in quite a while, it typically influences your performance unfavorably.
 

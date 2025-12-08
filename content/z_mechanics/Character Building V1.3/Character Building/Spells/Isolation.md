@@ -16,6 +16,6 @@ You summon a tangible manifestation of loneliness to cloak the target from view 
 
 **Critical Success** The target is unaffected.
 
-**Success** The target becomes [[Invisible]], but only to its allies. Any creature not allied with the target can see it normally. Effects such as _[[See the Unseen]]_ enable an ally to see the target. The target's allies still know the target is present and can still see all the effects of the target's actions.
+**Success** The target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Invisible]], but only to its allies. Any creature not allied with the target can see it normally. Effects such as _[[See the Unseen]]_ enable an ally to see the target. The target's allies still know the target is present and can still see all the effects of the target's actions.
 
 **Failure** As success, except the target also becomes inaudible to its allies and imperceptible to them through any other senses.

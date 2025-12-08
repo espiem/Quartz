@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bloodline: Angelic
-![[icons-commodities-treasure-trinket-wing-white.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-commodities-treasure-trinket-wing-white.webp|150]]
 
 One of your forebears hailed from a celestial realm, or your ancestors' devotion led to their lineage being blessed.
 

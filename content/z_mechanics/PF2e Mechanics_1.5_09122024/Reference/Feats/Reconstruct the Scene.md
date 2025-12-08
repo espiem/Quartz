@@ -14,7 +14,7 @@ license: ORC
 ---
 # Reconstruct the Scene
 ## Feat 16
-### [[concentrate]][[investigator]][[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Investigator]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 

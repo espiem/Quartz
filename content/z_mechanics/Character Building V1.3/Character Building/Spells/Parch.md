@@ -22,7 +22,7 @@ If a creature affected by _parch_ drinks a liquid, such as a swig of water or a 
 
 **Failure** The target takes a -1 status penalty to its checks and DCs for 1 minute.
 
-**Critical Failure** The target takes a -2 status penalty to its checks and DCs for 1 minute and is [[Dazzled]] as long as it has this penalty.
+**Critical Failure** The target takes a -2 status penalty to its checks and DCs for 1 minute and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] as long as it has this penalty.
 
 * * *
 

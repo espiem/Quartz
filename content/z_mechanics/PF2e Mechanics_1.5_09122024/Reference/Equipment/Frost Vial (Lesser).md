@@ -17,7 +17,7 @@ license: ORC
 ---
 # Frost Vial (Lesser)
 ## Item 1
-### [[alchemical]][[bomb]][[cold]][[consumable]][[splash]]
+### [[alchemical]][[bomb]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Cold]][[consumable]][[splash]]
 
 |  |  |
 | -- | -- |
@@ -37,7 +37,7 @@ The bright blue liquid reagents in this vial rapidly absorb heat when exposed to
 
 The bomb deals 1d6 cold damage and 1 cold splash damage, and the target takes a -5-foot penalty.
 
-[[Equipment Effects/Effect_ Frost Vial (Lesser)|Effect: Frost Vial (Lesser)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Frost Vial (Lesser)|Effect: Frost Vial (Lesser)]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

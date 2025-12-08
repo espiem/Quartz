@@ -18,7 +18,7 @@ license: OGL
 ---
 # Azarim
 ## Item 7
-### [unique](unique "Unique Rarity Trait")[[deadly-d8]][[disarm]][[divine]][[finesse]][[holy]][[intelligent]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[deadly-d8]][[disarm]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[holy]][[intelligent]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 |  |  |
 | -- | -- |
@@ -83,7 +83,7 @@ _Azarim_ deals an additional 1d6 spirit damage to worshippers of Droskar, to cre
 
 **Effect** _Azarim_ gains the effects of an _anarchic_ weapon rune for 1 minute. When wielded by a character who's at least 11th level, _Azarim_ becomes a _+2 striking anarchic shifting rapier_, and instead this activation can be applied to another weapon that's in physical contact with _Azarim_.
 
-[[Equipment Effects/Effect_ Azarim|Effect: Azarim]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Azarim|Effect: Azarim]]
 
 *Source: Pathfinder Adventure: Crown of the Kobold King*
 *OGL*

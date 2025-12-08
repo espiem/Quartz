@@ -10,7 +10,7 @@ tags:
 # Feast
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Requirements** You are adjacent to a [[Restrained]] or [[Unconscious]] creature, or a deceased creature that died in the past hour.
+**Requirements** You are adjacent to a [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] creature, or a deceased creature that died in the past hour.
 
 * * *
 

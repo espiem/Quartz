@@ -14,7 +14,7 @@ license: ORC
 ---
 # Incense of Distilled Death
 ## Item 12
-### [[consumable]][[magical]][[void]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[void]]
 
 **Category** other; 
 **Price** 350 gp; 

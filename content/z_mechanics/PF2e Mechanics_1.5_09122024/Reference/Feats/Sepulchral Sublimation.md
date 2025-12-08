@@ -15,7 +15,7 @@ license: OGL
 ---
 # Sepulchral Sublimation `pf2:1`
 ## Feat 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[cleric]][[concentrate]][[oracle]][[spellshape]][[wizard]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Cleric]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Oracle]][[spellshape]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Wizard]]
 
 **Category** class; 
 

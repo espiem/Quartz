@@ -11,7 +11,7 @@ license: OGL
 ---
 # Eye of the Unseen (Greater)
 ## Item 14
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 4000 gp; 
@@ -30,7 +30,7 @@ This prosthetic eye was designed by elven crafters but comes in a range of appea
 
 **Effect** You focus on the eye to see the unseen. The eye casts 5th-rank [[Spells/See the Unseen|See the Unseen]] on you.
 
-[[Equipment Effects/Effect_ Eye of the Unseen (Greater)|Effect: Eye of the Unseen (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Eye of the Unseen (Greater)|Effect: Eye of the Unseen (Greater)]]
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

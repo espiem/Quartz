@@ -8,7 +8,7 @@ tags:
 ---
 
 # Abyssal Wrath
-![[systems-pf2e-icons-spells-abyssal-wrath.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-abyssal-wrath.webp|150]]
 
 You evoke the energy of an Abyssal realm. The damage types of the spell (one energy and one physical) are based on the result of rolling on the table below.
 

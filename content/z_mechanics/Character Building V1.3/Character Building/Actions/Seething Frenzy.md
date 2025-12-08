@@ -11,4 +11,4 @@ tags:
 
 Your eidolon's fury boils over into a reckless, out-of-control frenzy. While frenzied, your eidolon is affected by _boost eidolon_ and gains temporary Hit Points equal to your level, but it takes a -2 penalty to AC. Your eidolon can't voluntarily end the frenzy or start another frenzy while in the frenzy.
 
-The frenzy lasts for 1 minute, after which it's [[Fatigued]] for 1 minute and can't start another frenzy for 1 minute.
+The frenzy lasts for 1 minute, after which it's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] for 1 minute and can't start another frenzy for 1 minute.

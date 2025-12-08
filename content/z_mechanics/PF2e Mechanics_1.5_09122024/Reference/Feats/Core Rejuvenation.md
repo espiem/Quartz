@@ -11,7 +11,7 @@ license: OGL
 ---
 # Core Rejuvenation `pf2:0`
 ## Feat 13
-### [[automaton]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Automaton]]
 
 **Category** ancestry; 
 
@@ -24,7 +24,7 @@ license: OGL
 
 * * *
 
-Your soul taps into your core's power to push against the grasp of death and allow you to recover consciousness. You're restored to 1 Hit Point, lose the dying and [[Conditions/Unconscious|Unconscious]] conditions, and can act normally on this turn. You gain or increase the wounded condition as normal when losing the dying condition in this way.
+Your soul taps into your core's power to push against the grasp of death and allow you to recover consciousness. You're restored to 1 Hit Point, lose the dying and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] conditions, and can act normally on this turn. You gain or increase the wounded condition as normal when losing the dying condition in this way.
 
 **Enhancement** Your soul can draw even more power from your core, granting you additional benefits. When you use Core Rejuvenation, you also gain a number of temporary Hit Points equal to three times your level. These Hit Points remain for 1 minute.
 

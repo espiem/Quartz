@@ -20,7 +20,7 @@ This soapstone statuette resembles an unidentified lump with a vaguely animal sh
 
 * * *
 
-**Effect** You touch your companion, merging it into the statuette and ending the activation with the statuette in your hand (or on the ground in your space if you don't have a hand free). While in statuette form, your companion has the [[Petrified]] condition, and its size is Tiny.
+**Effect** You touch your companion, merging it into the statuette and ending the activation with the statuette in your hand (or on the ground in your space if you don't have a hand free). While in statuette form, your companion has the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Petrified]] condition, and its size is Tiny.
 
 * * *
 

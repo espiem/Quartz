@@ -8,7 +8,7 @@ tags:
 ---
 
 # Untwisting Iron Augmentation
-![[systems-pf2e-icons-spells-indestructibility.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-indestructibility.webp|150]]
 
 Your unarmed attacks are treated as cold iron and silver, they gain the earth trait, and they gain a +1 status bonus to damage rolls per damage die.
 

@@ -10,4 +10,4 @@ tags:
 # Cloud Gazer
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-Your connection to air allows you to see through obscuring mists. You can see well enough through fog, mist, and clouds that would normally cause creatures to be [[Concealed]] that you don't need to succeed at a flat check to target creatures benefiting from such concealment.
+Your connection to air allows you to see through obscuring mists. You can see well enough through fog, mist, and clouds that would normally cause creatures to be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] that you don't need to succeed at a flat check to target creatures benefiting from such concealment.

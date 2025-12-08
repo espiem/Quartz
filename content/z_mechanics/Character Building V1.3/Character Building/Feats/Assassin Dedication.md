@@ -12,4 +12,4 @@ tags:
 
 You've trained to assassinate your foes, and you do so with tenacity and precision. You gain the [[Mark for Death]] activity.
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[Assassin]] archetype.
+**Special** You can't select another dedication feat until you've gained two other feats from the [[z_mechanics/2-Mechanics V1.3/Bestiary/gm-guide/assassin]] archetype.

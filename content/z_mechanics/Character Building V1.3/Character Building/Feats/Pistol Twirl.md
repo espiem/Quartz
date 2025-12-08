@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-Your quick gestures and flair for performance distract your opponent, leaving it vulnerable to your follow-up attacks. You [[Feint]] against an opponent within the required weapon's first range increment, rather than an opponent within melee reach. If you succeed, the foe is [[Off-Guard]] against your melee and ranged attacks, rather than only your melee attacks. On a critical failure, you're off-guard against the target's melee and ranged attacks, rather than only its melee attacks.
+Your quick gestures and flair for performance distract your opponent, leaving it vulnerable to your follow-up attacks. You [[Feint]] against an opponent within the required weapon's first range increment, rather than an opponent within melee reach. If you succeed, the foe is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] against your melee and ranged attacks, rather than only your melee attacks. On a critical failure, you're off-guard against the target's melee and ranged attacks, rather than only its melee attacks.

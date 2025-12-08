@@ -16,7 +16,7 @@ license: ORC
 ---
 # Towering Presence `pf2:1`
 ## Feat 5
-### [[concentrate]][[divine]][[illusion]][[nephilim]][[polymorph]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[illusion]][[nephilim]][[polymorph]]
 
 **Category** ancestry; 
 

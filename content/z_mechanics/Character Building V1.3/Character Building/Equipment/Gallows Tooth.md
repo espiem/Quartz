@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-This grisly molar hangs from a cord threaded through a hole just above its dried, exposed root. When you activate this talisman, make a melee Strike against an adjacent creature. That creature is [[Off-Guard]] against the Strike and until the end of your turn.
+This grisly molar hangs from a cord threaded through a hole just above its dried, exposed root. When you activate this talisman, make a melee Strike against an adjacent creature. That creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] against the Strike and until the end of your turn.

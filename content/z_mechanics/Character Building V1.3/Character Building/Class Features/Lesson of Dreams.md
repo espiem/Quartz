@@ -8,6 +8,6 @@ tags:
 ---
 
 # Lesson of Dreams
-![[systems-pf2e-icons-spells-veil-of-dreams.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-veil-of-dreams.webp|150]]
 
 You gain the _[[Veil of Dreams]]_ hex, and your familiar learns _[[Sleep]]_.

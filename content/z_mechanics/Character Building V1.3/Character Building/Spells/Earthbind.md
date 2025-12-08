@@ -8,7 +8,7 @@ tags:
 ---
 
 # Earthbind
-![[icons-magic-earth-barrier-stone-explosion-debris.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-earth-barrier-stone-explosion-debris.webp|150]]
 
 Using the weight of earth, you hamper a target's flight, with effects based on its Fortitude save. If the creature reaches the ground safely, it doesn't take falling damage.
 

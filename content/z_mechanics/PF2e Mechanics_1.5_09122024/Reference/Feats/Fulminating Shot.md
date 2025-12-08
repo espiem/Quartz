@@ -12,7 +12,7 @@ license: OGL
 ---
 # Fulminating Shot `pf2:1`
 ## Feat 6
-### [[archetype]][[magical]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** class; 
 

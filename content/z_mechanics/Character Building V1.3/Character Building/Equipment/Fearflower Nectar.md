@@ -20,8 +20,8 @@ The nectar of a night-blooming desert flower attacks a victim’s central nervou
 
 **Maximum Duration** 6 rounds
 
-**Stage 1** 1d6 poison damage and [[Frightened|Frightened 1]] (1 round)
+**Stage 1** 1d6 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]] (1 round)
 
-**Stage 2** 1d6 poison damage and [[Frightened|Frightened 2]] (1 round)
+**Stage 2** 1d6 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] (1 round)
 
-**Stage 3** 1d6 poison damage and [[Frightened|Frightened 3]] (1 round)
+**Stage 3** 1d6 poison damage and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]] (1 round)

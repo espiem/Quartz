@@ -8,7 +8,7 @@ tags:
 ---
 
 # Arcane Countermeasure
-![[icons-magic-light-projectiles-star-purple.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-light-projectiles-star-purple.webp|150]]
 
 **Trigger** A creature within range that you can see Casts a Spell.
 

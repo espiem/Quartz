@@ -14,7 +14,7 @@ license: OGL
 ---
 # Gorilla Pound `pf2:1`
 ## Feat 6
-### [[emotion]][[flourish]][[mental]][[monk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[flourish]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 **Category** class; 
 
@@ -28,7 +28,7 @@ license: OGL
 
 You pound your chest before slamming into your foes.
 
-Attempt an Intimidation check to [[Actions/Demoralize|Demoralize]], then make one gorilla slam Strike against the same target. If your Strike hits, you gain a circumstance bonus to the damage roll equal to triple the value of the target's [[Conditions/Frightened|Frightened]] condition.
+Attempt an Intimidation check to [[Actions/Demoralize|Demoralize]], then make one gorilla slam Strike against the same target. If your Strike hits, you gain a circumstance bonus to the damage roll equal to triple the value of the target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]] condition.
 
 * * *
 

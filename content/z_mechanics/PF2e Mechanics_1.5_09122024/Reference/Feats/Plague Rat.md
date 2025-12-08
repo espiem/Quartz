@@ -15,7 +15,7 @@ license: ORC
 ---
 # Plague Rat
 ## Feat 6
-### [[archetype]][[curse]][[disease]][[primal]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Curse]][[disease]][[primal]]
 
 **Category** class; 
 

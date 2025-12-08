@@ -28,7 +28,7 @@ You have learned the martial arts techniques of your House of Perfection. You be
 
 * * *
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Student of Perfection|Student of Perfection]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[Student of Perfection|Student of Perfection]] archetype.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

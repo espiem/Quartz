@@ -8,7 +8,7 @@ tags:
 ---
 
 # Masterful Hunter (Precision)
-![[icons-skills-ranged-target-bullseye-archer-orange.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-skills-ranged-target-bullseye-archer-orange.webp|150]]
 
 ## Masterful Hunter UpgradeLevel 17
 

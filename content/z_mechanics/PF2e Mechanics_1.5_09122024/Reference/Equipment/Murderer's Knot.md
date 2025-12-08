@@ -14,7 +14,7 @@ license: ORC
 ---
 # Murderer's Knot
 ## Item 7
-### [[consumable]][[magical]][[talisman]]
+### [[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 66 gp; 
@@ -23,7 +23,7 @@ license: ORC
 
 **Activate** `pf2:0` (concentrate)
 
-**Trigger** You damage an [[Conditions/Off-Guard|Off-Guard]] creature with a Strike using the affixed weapon
+**Trigger** You damage an [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] creature with a Strike using the affixed weapon
 
 * * *
 

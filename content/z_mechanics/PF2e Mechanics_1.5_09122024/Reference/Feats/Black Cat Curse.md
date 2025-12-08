@@ -14,7 +14,7 @@ license: ORC
 ---
 # Black Cat Curse `pf2:r`
 ## Feat 13
-### [[catfolk]][[misfortune]][[occult]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Catfolk]][[misfortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** ancestry; 
 

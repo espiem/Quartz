@@ -11,7 +11,7 @@ license: OGL
 ---
 # Holy Steam Ball
 ## Item 2
-### [uncommon](uncommon "Uncommon Rarity Trait")[[divine]][[mental]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 
 **Price** 30 gp; 
@@ -34,7 +34,7 @@ After using a _holy steam ball_, you must refill it before the next use in a pro
 
 **Effect** You release the stored steam and smoke to grant yourself its protections. Each use of the _holy steam ball_ lasts for 1 hour and gives you a +2 item bonus to Will saving throws against possession effects from fiends and undead and effects from fiends and undead that cause the controlled condition.
 
-[[Equipment Effects/Effect_ Holy Steam Ball|Effect: Holy Steam Ball]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Holy Steam Ball|Effect: Holy Steam Ball]]
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

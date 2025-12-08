@@ -18,7 +18,7 @@ license: OGL
 
 _The world is full of the unexplainable: ancient magic, dead gods, and even stranger things. In response, you've scavenged the best parts of every magical tradition and built up a collection of esoterica—a broken holy relic here, a sprig of mistletoe there—that you can use to best any creature by exploiting their weaknesses and vulnerabilities. The mystic implement you carry is both badge and weapon, its symbolic weight helping you bargain with and subdue the supernatural. Every path to power has its restrictions and costs, but you turn them all to your advantage. You're a thaumaturge, and you work wonders._
 
-_[[PF2e Journals/Classes/Thaumaturge|Thaumaturge]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge|Thaumaturge]]_
 
 *Source: Pathfinder Dark Archive*
 *OGL*

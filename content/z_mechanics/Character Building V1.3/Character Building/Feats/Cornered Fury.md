@@ -10,4 +10,4 @@ tags:
 # Cornered Fury
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-When physically outmatched, you fight with unexpected ferocity. If a foe of a larger size than you critically hits and damages you, that foe is [[Off-Guard]] to you for 1 round.
+When physically outmatched, you fight with unexpected ferocity. If a foe of a larger size than you critically hits and damages you, that foe is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] to you for 1 round.

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Dancing Scarf
 ## Item 3
-### [[invested]][[magical]][[visual]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[visual]]
 
 
 **Price** 60 gp; 
@@ -28,7 +28,7 @@ This long and billowing scarf is typically woven of silk or sheer fabric and ado
 
 **Requirements** On your most recent action, you succeeded at a Performance check to dance
 
-**Effect** You become [[Conditions/Concealed|Concealed]] until the beginning of your next turn.
+**Effect** You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] until the beginning of your next turn.
 
 *Source: Pathfinder GM Core*
 *ORC*

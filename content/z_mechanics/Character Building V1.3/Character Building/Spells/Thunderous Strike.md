@@ -10,7 +10,7 @@ tags:
 # Thunderous Strike
 ![[systems-pf2e-icons-spells-thunderous-strike.webp|150]]
 
-You swing your massive weapon, creating a wave of sonic vibrations that topples creatures. Make a melee Strike with your two-handed weapon. Each creature in a 15-foot cone from you must attempt a basic Fortitude save against your spell DC or take 2 sonic damage. On a critical failure, the creature is knocked [[Prone]]. The target of your Strike must be within the cone or the effect fails.
+You swing your massive weapon, creating a wave of sonic vibrations that topples creatures. Make a melee Strike with your two-handed weapon. Each creature in a 15-foot cone from you must attempt a basic Fortitude save against your spell DC or take 2 sonic damage. On a critical failure, the creature is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]]. The target of your Strike must be within the cone or the effect fails.
 
 * * *
 

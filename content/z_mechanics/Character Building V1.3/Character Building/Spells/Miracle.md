@@ -8,7 +8,7 @@ tags:
 ---
 
 # Miracle
-![[icons-magic-holy-prayer-hands-glowing-yellow-white.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-holy-prayer-hands-glowing-yellow-white.webp|150]]
 
 You request aid directly from your divine source. Your divine source always refuses a request out of line with its nature, and it might grant a different request (potentially more powerful or better fitting its nature) than the one you asked for. A casting of _miracle_ can do any of the following things.
 

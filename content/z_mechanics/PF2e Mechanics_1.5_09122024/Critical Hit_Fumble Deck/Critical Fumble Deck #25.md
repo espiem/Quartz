@@ -20,7 +20,7 @@ tags:
 
 # Twisted Up
 
-> You are [[Conditions/Encumbered|Encumbered]] until you spend 2 [[Actions/Interact|Interact]] actions to free yourself.
+> You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Encumbered|Encumbered]] until you spend 2 [[Actions/Interact|Interact]] actions to free yourself.
 
 `Unarmed`
 

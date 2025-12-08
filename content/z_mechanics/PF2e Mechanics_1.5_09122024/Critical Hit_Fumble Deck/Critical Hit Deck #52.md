@@ -8,7 +8,7 @@ tags:
 ---
 # Lights Out
 
-> **Crit Effect:** The target is [[Conditions/Blinded|Blinded]] until the end of its next turn.
+> **Crit Effect:** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] until the end of its next turn.
 
 `Bludgeoning`
 
@@ -20,12 +20,12 @@ tags:
 
 # Bewildering Display
 
-> The target is [[Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the end of its next turn.
 
 `Slashing`
 
 # Roaring Blast
 
-> The target is [[Conditions/Deafened|Deafened]] until healed.
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]] until healed.
 
 `Bomb or Spell`

@@ -13,7 +13,7 @@ license: ORC
 ---
 # Stridulating Song `pf2:2`
 
-### [[auditory]][[magical]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** offensive; 
 

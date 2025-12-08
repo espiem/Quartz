@@ -8,7 +8,7 @@ tags:
 ---
 
 # Stormwind Flight
-![[icons-commodities-materials-feather-blue-glowing.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-commodities-materials-feather-blue-glowing.webp|150]]
 
 Powerful winds carry you smoothly through the air, giving you a fly Speed equal to your Speed. When this spell's duration would end, if you're still flying, you float to the ground, as _[[Gentle Landing]]_.
 

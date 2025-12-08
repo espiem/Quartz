@@ -13,7 +13,7 @@ license: ORC
 ---
 # Glimpse of Redemption `pf2:r`
 
-### [[champion]][[divine]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 **Category** defensive; 
 
@@ -30,7 +30,7 @@ license: ORC
 *   **Refuse** The ally gains resistance to all damage against the triggering damage equal to 2 + your level. After the damaging effect is applied, the enemy becomes [[Conditions/Enfeebled|Enfeebled 2]] until the end of its next turn
     
 
-[[Feat_Feature Effects/Effect_ Champion's Resistance|Effect: Champion's Resistance]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Champion's Resistance|Effect: Champion's Resistance]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

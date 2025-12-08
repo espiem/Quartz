@@ -10,7 +10,7 @@ tags:
 # Whirling Throw
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Requirements** You have a creature [[Grabbed]] or [[Restrained]].
+**Requirements** You have a creature [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]].
 
 * * *
 
@@ -20,7 +20,7 @@ Attempt an Athletics check against the foe's Fortitude DC. You take a -2 circums
 
 * * *
 
-**Critical Success** You throw the creature the desired distance and it lands [[Prone]].
+**Critical Success** You throw the creature the desired distance and it lands [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].
 
 **Success** You throw the creature the desired distance.
 

@@ -23,7 +23,7 @@ license: ORC
 * * *
 **Frequency** once per day
 
-**Trigger** You are [[Conditions/Doomed|Doomed 1]] or greater and your [[Conditions/Dying|Dying]] value would increase.
+**Trigger** You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]] or greater and your [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dying|Dying]] value would increase.
 
 * * *
 

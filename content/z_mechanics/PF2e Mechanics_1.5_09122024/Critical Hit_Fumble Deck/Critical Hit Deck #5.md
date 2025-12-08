@@ -20,7 +20,7 @@ tags:
 
 # Hamstring
 
-> Normal damage. **Crit Effect:** The target is knocked [[Conditions/Prone|Prone]]. The target is also [[Conditions/Clumsy|Clumsy 2]] until healed.
+> Normal damage. **Crit Effect:** The target is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]]. The target is also [[Conditions/Clumsy|Clumsy 2]] until healed.
 
 `Slashing`
 

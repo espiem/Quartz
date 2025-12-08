@@ -8,7 +8,7 @@ tags:
 ---
 # Catastrophic Failure
 
-> You fall [[Conditions/Unconscious|Unconscious]] until you awake up or the end of your next turn.
+> You fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]] until you awake up or the end of your next turn.
 
 `Melee`
 
@@ -20,7 +20,7 @@ tags:
 
 # Don't pick it It
 
-> You become [[Conditions/Wounded|Wounded 1]] or your wounded value increases by 1.
+> You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded|Wounded 1]] or your wounded value increases by 1.
 
 `Unarmed`
 

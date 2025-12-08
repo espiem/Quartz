@@ -8,6 +8,6 @@ tags:
 ---
 
 # Diabolic Edict
-![[systems-pf2e-icons-spells-diabolic-edict.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-diabolic-edict.webp|150]]
 
 You issue a diabolic edict, demanding the target perform a particular task and offering rewards for its fulfillment. It gains a +1 status bonus to attack rolls and skill checks related to performing the task. If it refuses to perform the task you proclaimed, it instead takes a -1 status penalty to all its attack rolls and skill checks.

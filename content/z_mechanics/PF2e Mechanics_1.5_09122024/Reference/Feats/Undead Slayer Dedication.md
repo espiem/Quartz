@@ -22,7 +22,7 @@ license: OGL
 * * *
 Your training has prepared you to recognize most undead on sight. You become trained in two Lore skills, each about a specific type of undead, or become an expert if you were already trained. You gain the [[Actions/Slayer's Identification|Slayer's Identification]] free action.
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Undead Slayer|Undead Slayer]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Undead Slayer|Undead Slayer]] archetype.
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

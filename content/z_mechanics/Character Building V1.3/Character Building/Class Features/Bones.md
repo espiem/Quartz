@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bones
-![[systems-pf2e-icons-features-classes-bones-mystery.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-features-classes-bones-mystery.webp|150]]
 
 Your mystery imparts an understanding of death and undeath in all their macabre complexity. You might have had a brush with death yourself-maybe even dying and returning to life-or carry the touch of undeath in your blood. If you commune with deities, you might speak with guardians of death like Pharasma and the psychopomp ushers (the most powerful among creatures that guide souls through the afterlife); a bringer of death like the Mantis God Achaekek or the Horseman of the Apocalypse Charon; or a herald of undeath such as Urgathoa.
 
@@ -46,6 +46,6 @@ In addition, you gain resistance to poison equal to half your level. You gain a 
 
 #### Major Curse (11th)
 
-You stand just steps from the grave. You become [[Wounded|Wounded 1]]. This wounded condition is removed only when you Refocus; effects that normally remove the wounded condition reduce your wounded condition to wounded 1 instead.
+You stand just steps from the grave. You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded|Wounded 1]]. This wounded condition is removed only when you Refocus; effects that normally remove the wounded condition reduce your wounded condition to wounded 1 instead.
 
 When you would attempt a recovery check, you can choose to get an automatic success instead of rolling, and if you roll a critical failure on a save against a disease, poison, or death effect, you get a failure instead.

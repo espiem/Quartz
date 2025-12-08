@@ -24,7 +24,7 @@ You make yourself into a living mirror, becoming a double of someone unremarkabl
 
 * * *
 
-**Special** You can't select another dedication feat until you've gained two other feats from the [[PF2e Journals/Archetypes/Alter Ego|Alter Ego]] archetype.
+**Special** You can't select another dedication feat until you've gained two other feats from the [[Alter Ego|Alter Ego]] archetype.
 
 *Source: Pathfinder Dark Archive*
 *OGL*

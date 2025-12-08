@@ -8,7 +8,7 @@ tags:
 ---
 
 # Positive Attunement
-![[systems-pf2e-icons-spells-positive-attunement.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-positive-attunement.webp|150]]
 
 You attune a creature to the Forge of Creation, connecting its life force without fully transporting it. The creature's appearance becomes more brightly colored. If the creature is living, it heals 1d8 Hit Points immediately and at the end of each of your turns. Effects that increase healing only increase the initial healing.
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Blasting Beams `pf2:1`
 ## Feat 2
-### [rare](rare "Rare Rarity Trait")[[attack]][[deviant]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[attack]][[deviant]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** class; 
 

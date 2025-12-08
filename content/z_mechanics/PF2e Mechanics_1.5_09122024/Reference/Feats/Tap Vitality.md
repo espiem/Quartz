@@ -14,7 +14,7 @@ license: OGL
 ---
 # Tap Vitality `pf2:1`
 ## Feat 6
-### [[archetype]][[concentrate]][[healing]][[vitality]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[healing]][[vitality]]
 
 **Category** class; 
 

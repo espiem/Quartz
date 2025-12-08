@@ -17,7 +17,7 @@ license: ORC
 ---
 # Faultline Hammer
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[razing]][[shove]][[two-hand-d10]][[versatile-p]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[razing]][[shove]][[two-hand-d10]][[versatile-p]]
 
 |  |  |
 | -- | -- |

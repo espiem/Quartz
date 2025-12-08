@@ -14,7 +14,7 @@ license: OGL
 ---
 # Mistranslator's Draft
 ## Item 9
-### [[consumable]][[cursed]][[magical]][[potion]]
+### [[consumable]][[cursed]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[potion]]
 
 **Category** potion; 
 **Price** 0 gp; 

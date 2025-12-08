@@ -15,7 +15,7 @@ license: ORC
 ---
 # Spiritual Expansion Spell `pf2:1`
 ## Feat 2
-### [[animist]][[apparition]][[concentrate]][[spellshape]]
+### [[animist]][[apparition]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[spellshape]]
 
 **Category** class; 
 

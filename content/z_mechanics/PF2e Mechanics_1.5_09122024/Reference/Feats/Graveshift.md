@@ -13,7 +13,7 @@ license: OGL
 ---
 # Graveshift
 ## Feat 14
-### [rare](rare "Rare Rarity Trait")[[archetype]][[divine]][[teleportation]]
+### [rare](rare "Rare Rarity Trait")[[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[teleportation]]
 
 **Category** class; 
 

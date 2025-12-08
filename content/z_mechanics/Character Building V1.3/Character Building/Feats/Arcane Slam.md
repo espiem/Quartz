@@ -10,7 +10,7 @@ tags:
 # Arcane Slam
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Requirements** You have a creature [[Grabbed]] or [[Restrained]].
+**Requirements** You have a creature [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained]].
 
 * * *
 
@@ -18,7 +18,7 @@ You channel magical power from your core into your arm, empowering your attack a
 
 * * *
 
-**Critical Success** You slam the foe down and the magical energy overwhelms it. The creature is knocked [[Prone]], becomes [[Dazzled]] for 1 round, and takes damage equal to 2d6 plus your Strength modifier. The foe is no longer grabbed or restrained by you.
+**Critical Success** You slam the foe down and the magical energy overwhelms it. The creature is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]], becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] for 1 round, and takes damage equal to 2d6 plus your Strength modifier. The foe is no longer grabbed or restrained by you.
 
 **Success** You slam the foe down. The creature is knocked prone and takes damage equal to your Strength modifier. The foe is no longer grabbed or restrained by you.
 

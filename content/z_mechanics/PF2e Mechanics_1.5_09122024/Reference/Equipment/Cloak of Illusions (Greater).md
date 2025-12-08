@@ -12,7 +12,7 @@ license: ORC
 ---
 # Cloak of Illusions (Greater)
 ## Item 12
-### [[invested]][[occult]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 
 **Price** 1750 gp; 

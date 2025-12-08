@@ -15,7 +15,7 @@ license: ORC
 ---
 # Contagious Rage
 ## Feat 20
-### [[auditory]][[barbarian]][[rage]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[rage]][[visual]]
 
 **Category** class; 
 

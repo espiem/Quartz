@@ -8,7 +8,7 @@ tags:
 ---
 
 # Clawed Bracers
-![[icons-equipment-hand-gauntlet-clawed-steel.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-equipment-hand-gauntlet-clawed-steel.webp|150]]
 
 Animal claws are woven into the thick leather of these bracers.
 

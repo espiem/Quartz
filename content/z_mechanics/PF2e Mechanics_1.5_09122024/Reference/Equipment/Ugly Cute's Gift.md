@@ -14,7 +14,7 @@ license: OGL
 ---
 # Ugly Cute's Gift
 ## Item 4
-### [unique](unique "Unique Rarity Trait")[[agile]][[free-hand]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[free-hand]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 |  |  |
 | -- | -- |
@@ -35,7 +35,7 @@ This spiky, stony fragment shed from Ugly Cute's carapace fits quite comfortably
 
 **Effect** You draw upon Ugly Cute's latent spiritual energy to infuse the gauntlet with forceful power. For 1 minute, _Ugly Cute's gift_ gains the advantages of a [[Equipment/Ghost Touch|Ghost Touch]] property rune and deals an additional 2 force damage on a successful Strike.
 
-[[Equipment Effects/Effect_ Ugly Cute's Gift|Effect: Ugly Cute's Gift]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Ugly Cute's Gift|Effect: Ugly Cute's Gift]]
 
 *Source: Pathfinder #196: The Summer That Never Was*
 *OGL*

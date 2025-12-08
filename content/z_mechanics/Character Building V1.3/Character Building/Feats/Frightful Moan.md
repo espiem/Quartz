@@ -18,6 +18,6 @@ You lament your fate, forcing each living creature in a 30 foot emanation to att
 
 **Success** The creature is unaffected and temporarily immune to Frightful Moans for 1 minute.
 
-**Failure** The creature is [[Frightened|Frightened 1]].
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Critical Failure** The creature is [[Frightened|Frightened 2]].
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].

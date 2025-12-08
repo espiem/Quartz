@@ -13,7 +13,7 @@ license: ORC
 ---
 # Wrath of the Hold `pf2:2`
 ## Feat 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[occult]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** class; 
 

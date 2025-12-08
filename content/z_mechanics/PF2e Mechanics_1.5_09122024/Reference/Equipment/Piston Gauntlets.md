@@ -17,7 +17,7 @@ license: OGL
 ---
 # Piston Gauntlets
 ## Item 13
-### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[deadly-d6]][[magical]][[monk]][[reach]][[shove]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[clockwork]][[deadly-d6]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Reach]][[shove]]
 
 |  |  |
 | -- | -- |

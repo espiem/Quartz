@@ -12,7 +12,7 @@ license: ORC
 ---
 # Parting Shot `pf2:2`
 ## Feat 4
-### [[fighter]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Fighter]]
 
 **Category** class; 
 
@@ -23,7 +23,7 @@ license: ORC
 
 * * *
 
-You jump back and make a quick shot that catches your opponent by surprise. You Step and then make a ranged Strike with the required weapon. Your target is [[Conditions/Off-Guard|Off-Guard]] against the attack.
+You jump back and make a quick shot that catches your opponent by surprise. You Step and then make a ranged Strike with the required weapon. Your target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] against the attack.
 
 *Source: Pathfinder Player Core*
 *ORC*

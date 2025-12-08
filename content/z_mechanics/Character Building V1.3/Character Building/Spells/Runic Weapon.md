@@ -10,7 +10,7 @@ tags:
 ---
 
 # Runic Weapon
-![[systems-pf2e-icons-spells-magic-weapon.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-magic-weapon.webp|150]]
 
 The weapon glimmers with magic as temporary runes carve down its length. The target becomes a _+1 striking weapon_, gaining a +1 item bonus to attack rolls and increasing the number of weapon damage dice to two.
 

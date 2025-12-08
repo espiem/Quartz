@@ -15,7 +15,7 @@ license: ORC
 ---
 # Phantom Visage `pf2:1`
 ## Feat 1
-### [[goblin]][[illusion]][[occult]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Goblin]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[visual]]
 
 **Category** ancestry; 
 

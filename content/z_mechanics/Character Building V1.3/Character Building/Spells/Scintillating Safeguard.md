@@ -8,7 +8,7 @@ tags:
 ---
 
 # Scintillating Safeguard
-![[systems-pf2e-icons-spells-scintillating-safeguard.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-scintillating-safeguard.webp|150]]
 
 **Trigger** An effect would deal physical or energy damage to you or a creature in range.
 

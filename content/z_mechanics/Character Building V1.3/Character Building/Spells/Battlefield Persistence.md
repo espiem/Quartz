@@ -8,7 +8,7 @@ tags:
 ---
 
 # Battlefield Persistence
-![[icons-equipment-shield-heater-wooden-steel-boss.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-equipment-shield-heater-wooden-steel-boss.webp|150]]
 
 **Trigger** You are about to attempt a saving throw, but you haven't rolled yet.
 

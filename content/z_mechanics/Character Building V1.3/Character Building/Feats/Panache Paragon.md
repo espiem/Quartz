@@ -10,6 +10,6 @@ tags:
 # Panache Paragon
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You find opportunities to perform stylish feats in the moments between others' heartbeats and eye blinks. You are permanently [[Quickened]].
+You find opportunities to perform stylish feats in the moments between others' heartbeats and eye blinks. You are permanently [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]].
 
-You can use the extra action only to [[Tumble Through]] or perform the skill action listed in your swashbuckler's style as one that allows you to gain [[Panache]], or other actions that would allow you to gain panache at the GM's discretion.
+You can use the extra action only to [[z_mechanics/PF2e Mechanics_1.5_09122024/Hero Point Deck/Tumble Through]] or perform the skill action listed in your swashbuckler's style as one that allows you to gain [[Panache]], or other actions that would allow you to gain panache at the GM's discretion.

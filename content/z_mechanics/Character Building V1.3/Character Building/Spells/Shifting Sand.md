@@ -8,9 +8,9 @@ tags:
 ---
 
 # Shifting Sand
-![[icons-creatures-slimes-slime-movement-splashing-yellow.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-slimes-slime-movement-splashing-yellow.webp|150]]
 
-You cause the surface to heave. The area becomes difficult terrain and any tracks in the area are destroyed by the churning ground. Creatures standing in the area take a -1 status penalty to Acrobatics checks to [[Balance]] and [[Tumble Through]] and Athletics checks to [[High Jump]] and [[Long Jump]]. The first time each round you Sustain the Spell, you can move the churning area up to 10 feet in any direction. Creatures immobilized by the spell are carried along with the _shifting sand_ in the same direction, if possible; this movement is forced movement. Creatures that enter or begin their turn standing in the _shifting sand_ must attempt a Reflex save.
+You cause the surface to heave. The area becomes difficult terrain and any tracks in the area are destroyed by the churning ground. Creatures standing in the area take a -1 status penalty to Acrobatics checks to [[Balance]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Hero Point Deck/Tumble Through]] and Athletics checks to [[High Jump]] and [[Long Jump]]. The first time each round you Sustain the Spell, you can move the churning area up to 10 feet in any direction. Creatures immobilized by the spell are carried along with the _shifting sand_ in the same direction, if possible; this movement is forced movement. Creatures that enter or begin their turn standing in the _shifting sand_ must attempt a Reflex save.
 
 * * *
 
@@ -20,7 +20,7 @@ You cause the surface to heave. The area becomes difficult terrain and any track
 
 **Failure** The creature is affected normally by the spell this turn.
 
-**Critical Failure** The creature becomes [[Immobilized]] within the spell's area until it [[Escape|Escapes]]. If the creature was already immobilized by _shifting sands_, it also falls [[Prone]].
+**Critical Failure** The creature becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] within the spell's area until it [[Escape|Escapes]]. If the creature was already immobilized by _shifting sands_, it also falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].
 
 * * *
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Neophyte's Fipple
 ## Item 3
-### [[consumable]][[illusion]][[magical]]
+### [[consumable]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** toolkit; 
 **Price** 8 gp; 

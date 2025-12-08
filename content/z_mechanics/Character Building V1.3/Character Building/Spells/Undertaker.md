@@ -18,6 +18,6 @@ You point your finger toward the target and whisper an epitaph that promises to 
 
 **Success** The target takes 40 void damage. If the target is in contact with solid ground, the ground in the target's space shifts and shakes, and is treated as difficult terrain until the start of your next turn.
 
-**Failure** The target takes 80 void damage. If the target is in contact with solid ground, the ground in the target's space churns and cracks open into an open but shallow grave. The target is knocked [[Prone]], and that space is treated as difficult terrain until the grave is filled in.
+**Failure** The target takes 80 void damage. If the target is in contact with solid ground, the ground in the target's space churns and cracks open into an open but shallow grave. The target is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]], and that space is treated as difficult terrain until the grave is filled in.
 
 **Critical Failure** The target takes 160 void damage. If the target is in contact with solid ground, a grave opens beneath their feet and they fall prone within. The grave then forms a stone sarcophagus-like shell around the victim. This stone shell cannot be opened and must be broken; it has AC 10, Hardness 14, and 80 Hit Points. At the start of your next turn, the grave fills in with soil. If the victim dies while inside this grave, at the next sundown the victim transforms into an evil ghast as the sarcophagus crumbles, allowing the new undead to dig its way up to the surface.

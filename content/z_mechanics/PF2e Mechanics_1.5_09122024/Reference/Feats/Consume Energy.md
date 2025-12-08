@@ -12,7 +12,7 @@ license: OGL
 ---
 # Consume Energy `pf2:r`
 ## Feat 2
-### [rare](rare "Rare Rarity Trait")[[deviant]][[magical]]
+### [rare](rare "Rare Rarity Trait")[[deviant]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** class; 
 
@@ -37,7 +37,7 @@ Your connection to energy is so much stronger than the offending display in fron
 
 **Awakening** You channel some of the seized energy into your next attack. Choose one of your weapons or unarmed attacks. Until the end of your next turn, Strikes with the chosen weapon or unarmed attack deal an additional 1d6 damage of a type matching the energy you consumed.
 
-[[Feat_Feature Effects/Effect_ Consume Energy (Augment Strike)|Effect: Consume Energy (Augment Strike)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Consume Energy (Augment Strike)|Effect: Consume Energy (Augment Strike)]]
 
 *Source: Pathfinder Dark Archive*
 *OGL*

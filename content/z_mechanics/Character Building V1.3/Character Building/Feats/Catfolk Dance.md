@@ -14,6 +14,6 @@ You have a habit of always being in the way when other creatures attempt to move
 
 * * *
 
-**Critical Success** The target creature gains a -2 circumstance penalty to Reflex saves and is [[Off-Guard]] until the start of your next turn.
+**Critical Success** The target creature gains a -2 circumstance penalty to Reflex saves and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the start of your next turn.
 
 **Success** The target creature gains a -2 circumstance penalty to Reflex saves until the start of your next turn.

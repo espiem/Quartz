@@ -8,7 +8,7 @@ tags:
 ---
 
 # Wash Your Luck
-![[systems-pf2e-icons-spells-wash-your-luck.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-wash-your-luck.webp|150]]
 
 Some practitioners argue this spell literally washes your fortunes of all influences, malign or benign, while others claim it simply cleanses your mind of obsessions about luck and destiny. You adjust your garments, change the posture of your chair, fidget with a religious symbol, or make some other innocuous and personally significant action to wash away bad luck.
 

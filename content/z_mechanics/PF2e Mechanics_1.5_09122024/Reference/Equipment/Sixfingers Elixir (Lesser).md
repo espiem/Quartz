@@ -31,7 +31,7 @@ You gain a +2 item bonus to your Reflex DC to keep from being [[Actions/Disarm|D
 
 **Duration** 10 minutes.
 
-[[Equipment Effects/Effect_ Sixfingers Elixir (Lesser)|Effect: Sixfingers Elixir (Lesser)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Sixfingers Elixir (Lesser)|Effect: Sixfingers Elixir (Lesser)]]
 
 *Source: Pathfinder Adventure: The Slithering*
 *OGL*

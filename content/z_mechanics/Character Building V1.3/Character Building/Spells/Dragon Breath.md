@@ -8,7 +8,7 @@ tags:
 ---
 
 # Dragon Breath
-![[systems-pf2e-icons-spells-dragon-breath.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-dragon-breath.webp|150]]
 
 You spew energy from your mouth, dealing 5d6 damage. The area, damage type, and save depend on the dragon type in your bloodline.
 

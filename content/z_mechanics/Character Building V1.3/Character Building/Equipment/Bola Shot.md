@@ -20,7 +20,7 @@ This ammunition bears a rune with three lines radiating out, each ending in a ci
 
 * * *
 
-**Critical Success** The target falls [[Prone]] and is [[Stunned 1]].
+**Critical Success** The target falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]] and is [[Stunned 1]].
 
 **Success** The target falls prone.
 

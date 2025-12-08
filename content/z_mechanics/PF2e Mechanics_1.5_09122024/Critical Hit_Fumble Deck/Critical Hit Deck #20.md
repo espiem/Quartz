@@ -26,6 +26,6 @@ tags:
 
 # Eyeburn
 
-> The target is [[Conditions/Blinded|Blinded]] until the end of its next turn.
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] until the end of its next turn.
 
 `Bomb or Spell`

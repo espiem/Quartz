@@ -8,7 +8,7 @@ tags:
 ---
 
 # Ivory Baton (Greater)
-![[systems-pf2e-icons-equipment-held-items-ivory-baton.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-held-items-ivory-baton.webp|150]]
 
 This white, slender rod bears intricately carved reliefs of magnificent animals that bow and dance to some unseen commander. The baton enables you to command constructs.
 

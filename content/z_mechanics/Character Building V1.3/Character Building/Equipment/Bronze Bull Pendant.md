@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bronze Bull Pendant
-![[systems-pf2e-icons-equipment-consumables-talismans-bronze-bull-pendant.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-talismans-bronze-bull-pendant.webp|150]]
 
 **Activate** 1 (concentrate)
 

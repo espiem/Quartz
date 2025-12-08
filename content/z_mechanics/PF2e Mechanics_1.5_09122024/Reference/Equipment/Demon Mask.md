@@ -12,7 +12,7 @@ license: ORC
 ---
 # Demon Mask
 ## Item 4
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 85 gp; 

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Prismatic Shield
-![[systems-pf2e-icons-spells-prismatic-shield.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-prismatic-shield.webp|150]]
 
 Shield-sized shards of multicolored light manifest in the air around you, each rotating quickly to intercept attacks.
 

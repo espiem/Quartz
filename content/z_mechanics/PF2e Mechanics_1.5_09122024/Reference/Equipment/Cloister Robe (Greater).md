@@ -13,7 +13,7 @@ license: OGL
 ---
 # Cloister Robe (Greater)
 ## Item 15
-### [[divine]][[focused]][[invested]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[focused]][[invested]]
 
 **Category** unarmored; **Group** cloth
 **Price** 6000 gp; 

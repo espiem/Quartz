@@ -12,14 +12,14 @@ license: ORC
 ---
 # Evade Doom
 ## Feat 9
-### [[catfolk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Catfolk]]
 
 **Category** ancestry; 
 
 
 
 
-You can elude supernatural disaster. When you would gain the [[Conditions/Doomed|Doomed]] condition, you can attempt a DC 17 Flat check check. On a success, you don't gain the doomed condition.
+You can elude supernatural disaster. When you would gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed]] condition, you can attempt a DC 17 Flat check check. On a success, you don't gain the doomed condition.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

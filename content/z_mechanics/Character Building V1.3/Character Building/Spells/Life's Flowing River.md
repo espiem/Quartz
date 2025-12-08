@@ -18,7 +18,7 @@ You create a volume of faint shimmering light that resembles a flowing river and
 
 **Success** The creature treats all squares occupied by the river as difficult terrain until the start of its next turn. If the creature is undead or a nindoru fiend, it takes 2d6 mental damage.
 
-**Failure** As success, but the creature is also knocked [[Prone]]. If the creature is undead or a nindoru fiend, it takes 4d6 mental damage.
+**Failure** As success, but the creature is also knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]]. If the creature is undead or a nindoru fiend, it takes 4d6 mental damage.
 
 **Critical Failure** As failure, but the creature is pushed 20 feet along the river's path in the direction of flow. If the creature is undead or a nindoru fiend, it takes 8d6 mental damage.
 

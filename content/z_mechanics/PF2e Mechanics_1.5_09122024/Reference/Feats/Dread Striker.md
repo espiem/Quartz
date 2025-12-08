@@ -12,14 +12,14 @@ license: ORC
 ---
 # Dread Striker
 ## Feat 4
-### [[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 
 
 
 
-You capitalize on your enemies' fear to slip past their defenses. Any creature that has the [[Conditions/Frightened|Frightened]] condition is also [[Conditions/Off-Guard|Off-Guard]] against your attacks.
+You capitalize on your enemies' fear to slip past their defenses. Any creature that has the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]] condition is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] against your attacks.
 
 *Source: Pathfinder Player Core*
 *ORC*

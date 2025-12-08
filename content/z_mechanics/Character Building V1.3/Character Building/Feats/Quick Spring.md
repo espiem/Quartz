@@ -10,4 +10,4 @@ tags:
 # Quick Spring
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-Ishii Bunji is a skilled tumbler, and learning his technique allows you to propel yourself across the battlefield faster than your enemies can react. When you [[Tumble Through]], you Stride up to twice your Speed.
+Ishii Bunji is a skilled tumbler, and learning his technique allows you to propel yourself across the battlefield faster than your enemies can react. When you [[z_mechanics/PF2e Mechanics_1.5_09122024/Hero Point Deck/Tumble Through]], you Stride up to twice your Speed.

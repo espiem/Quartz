@@ -8,7 +8,7 @@ tags:
 ---
 
 # Glass Shield
-![[systems-pf2e-icons-spells-electrified-crystal-ward.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-electrified-crystal-ward.webp|150]]
 
 You summon a layer of clear glass to keep you from harm. This cantrip functions as the _[[Shield]]_ spell, except it has Hardness 2 and 4 Hit Points. If this shield breaks, provided the breaker is within 5 feet, they must succeed at a basic Reflex save or take 1d4 piercing damage from the glass shards.
 

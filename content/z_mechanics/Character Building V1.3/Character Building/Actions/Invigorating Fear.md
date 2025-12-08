@@ -11,7 +11,7 @@ tags:
 
 **Frequency** once per hour
 
-**Trigger** A creature within 60 feet gains the [[Frightened]] condition.
+**Trigger** A creature within 60 feet gains the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened]] condition.
 
 * * *
 

@@ -15,7 +15,7 @@ license: OGL
 ---
 # Bladed Gauntlet
 ## Item 0
-### [uncommon](uncommon "Uncommon Rarity Trait")[[agile]][[finesse]][[free-hand]][[modular]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Agile]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Finesse]][[free-hand]][[modular]]
 
 |  |  |
 | -- | -- |

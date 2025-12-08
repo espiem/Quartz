@@ -29,7 +29,7 @@ Aurochs meat already makes for tough jerky, but with the right alchemical treatm
 
 **Aurochs' Endurance** `pf2:0` (concentrate)
 
-**Trigger** You begin your turn and are [[Conditions/Fatigued|Fatigued]]
+**Trigger** You begin your turn and are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]]
 
 * * *
 

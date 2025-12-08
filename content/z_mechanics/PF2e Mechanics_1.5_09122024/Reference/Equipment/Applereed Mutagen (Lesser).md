@@ -32,7 +32,7 @@ This gummy liquid disproportionately lengthens your legs, causing you to grow bu
 
 **Duration** 1 minute.
 
-[[Equipment Effects/Effect_ Applereed Mutagen (Lesser)|Effect: Applereed Mutagen (Lesser)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Applereed Mutagen (Lesser)|Effect: Applereed Mutagen (Lesser)]]
 
 *Source: Pathfinder Lost Omens: Legends*
 *OGL*

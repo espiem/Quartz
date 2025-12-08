@@ -12,7 +12,7 @@ license: ORC
 ---
 # Affix a Talisman
 
-### [[exploration]][[manipulate]]
+### [[exploration]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]]
 
 
 

@@ -18,7 +18,7 @@ license: OGL
 
 **Effect applied by [[Critical Hit_Fumble Deck/Critical Fumble Deck #41|Critical Fumble Deck #41]]**
 
-You are [[Conditions/Deafened|Deafened]] until the end of your next turn.
+You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]] until the end of your next turn.
 
 *Source: Pathfinder Critical Decks*
 *OGL*

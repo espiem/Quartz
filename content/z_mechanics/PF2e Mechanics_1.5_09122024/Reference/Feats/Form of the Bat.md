@@ -15,7 +15,7 @@ license: ORC
 ---
 # Form of the Bat `pf2:1`
 ## Feat 13
-### [[concentrate]][[dhampir]][[divine]][[polymorph]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[dhampir]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[polymorph]]
 
 **Category** ancestry; 
 

@@ -24,7 +24,7 @@ Any creature caught inside the area of _rainbow fumarole_ when you cast it takes
 | 2 | Orange | 50 fire | Knocked prone |
 | 3 | Yellow | 20 fire plus 20 bludgeoning | Pushed 10 feet |
 | 4 | Green | 20 fire plus 20 acid | [[Sickened 1\|Sickened 2]] |
-| 5 | Blue | 30 fire | [[Paralyzed]] for 1 round |
-| 6 | Indigo | 30 fire | [[Confused]] for 1 minute |
-| 7 | Violet | 30 fire | [[Slowed]] for 1 minute |
+| 5 | Blue | 30 fire | [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] for 1 round |
+| 6 | Indigo | 30 fire | [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] for 1 minute |
+| 7 | Violet | 30 fire | [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] for 1 minute |
 | 8 | All | Choose the color for each affected creature and use that color's damage and added effect; if a creature is affected again, you can choose a different color. |

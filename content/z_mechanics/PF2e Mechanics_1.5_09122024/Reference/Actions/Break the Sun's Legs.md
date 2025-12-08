@@ -14,7 +14,7 @@ license: ORC
 ---
 # Break the Sun's Legs `pf2:2`
 
-### [[cold]][[concentrate]][[darkness]][[transcendence]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Cold]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[darkness]][[transcendence]]
 
 
 

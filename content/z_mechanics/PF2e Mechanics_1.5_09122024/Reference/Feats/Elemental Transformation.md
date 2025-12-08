@@ -14,7 +14,7 @@ license: OGL
 ---
 # Elemental Transformation `pf2:1`
 ## Feat 10
-### [[kineticist]][[polymorph]][[primal]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Kineticist]][[polymorph]][[primal]]
 
 **Category** class; 
 

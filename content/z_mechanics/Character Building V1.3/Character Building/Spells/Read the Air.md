@@ -8,7 +8,7 @@ tags:
 ---
 
 # Read the Air
-![[icons-creatures-eyes-human-single-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-creatures-eyes-human-single-blue.webp|150]]
 
 You take a deep breath as you survey a social situation, showing courtesy to all around you as your intuition swiftly picks up clues about social contexts and unspoken assumptions of behavior. Your body language subconsciously changes to take advantage of this information and use it in your own interactions with those creatures.
 

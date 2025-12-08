@@ -8,7 +8,7 @@ tags:
 ---
 
 # Faerie Dust
-![[systems-pf2e-icons-spells-faerie-dust.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-faerie-dust.webp|150]]
 
 You sprinkle magical dust in the spell's area, making those within easier to trick. Each creature in the area must attempt a Will save. For each additional action you use Casting the Spell, the burst's radius increases by 5 feet.
 

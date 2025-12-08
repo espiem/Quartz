@@ -8,11 +8,11 @@ tags:
 ---
 
 # Guided Introspection
-![[systems-pf2e-icons-spells-chromatic-image.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-chromatic-image.webp|150]]
 
 You guide the target in examining their innermost feelings, their behaviors, and the motivations behind their actions, granting them clarity and insight. The target gains a +1 status bonus to saving throws against emotion and fear.
 
-If the target would become [[Confused]], they reduce the duration of the confused condition by 1 round, to a minimum of 1 round. If the target would become frightened or stupefied, they reduce the value of the frightened or stupefied condition by 1, to a minimum of 1. Once any of these conditions occur, the spell ends.
+If the target would become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]], they reduce the duration of the confused condition by 1 round, to a minimum of 1 round. If the target would become frightened or stupefied, they reduce the value of the frightened or stupefied condition by 1, to a minimum of 1. Once any of these conditions occur, the spell ends.
 
 * * *
 

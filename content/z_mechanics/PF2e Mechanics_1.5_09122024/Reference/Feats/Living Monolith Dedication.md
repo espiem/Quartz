@@ -28,7 +28,7 @@ You've begun to inscribe a magical stone called a _ka stone_ that you will some 
 
 * * *
 
-**Special** You cannot select another dedication feat until you have gained two other feats from the [[PF2e Journals/Archetypes/Living Monolith|Living Monolith]] archetype.
+**Special** You cannot select another dedication feat until you have gained two other feats from the [[Living Monolith|Living Monolith]] archetype.
 
 *Source: Pathfinder Lost Omens: World Guide*
 *OGL*

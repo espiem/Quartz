@@ -23,7 +23,7 @@ license: ORC
 * * *
 You have studied languages and their development. You become trained in Society; if you were already trained in Society, you instead become an expert in Society. You gain the [[Feats/Multilingual|Multilingual]] skill feat twice.
 
-[[PF2e Journals/Archetypes/Linguist|Linguist]]
+[[Linguist|Linguist]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

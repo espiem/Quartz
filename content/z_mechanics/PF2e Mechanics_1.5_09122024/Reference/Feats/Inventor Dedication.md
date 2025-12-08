@@ -23,7 +23,7 @@ license: OGL
 * * *
 You become trained in Crafting and inventor class DC. You gain the [[Feats/Inventor|Inventor]] skill feat, even if you don't meet the skill feat's requirements. Choose an innovation. You gain that [[Class Features/Innovation|Innovation]], though you don't gain any other abilities that modify or use that innovation, such as modifications or Explode.
 
-**Special** You cannot select another dedication feat until you have first gained two other feats from the [[PF2e Journals/Archetypes/Inventor|Inventor]] archetype.
+**Special** You cannot select another dedication feat until you have first gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Inventor|Inventor]] archetype.
 
 *Source: Pathfinder Guns & Gears*
 *OGL*

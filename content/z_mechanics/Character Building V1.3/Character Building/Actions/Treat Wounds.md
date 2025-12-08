@@ -22,11 +22,11 @@ If you succeed at your check, you can continue treating the target to grant addi
 
 The result of your Medicine check determines how many Hit Points the target regains.
 
-[[Treat Wounds]]
+[[z_mechanics/Character Building V1.3/Character Building/Actions/Treat Wounds]]
 
 * * *
 
-**Critical Success** The target regains `dice: 4d8` Hit Points, and its [[Wounded]] condition is removed.
+**Critical Success** The target regains `dice: 4d8` Hit Points, and its [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Wounded]] condition is removed.
 
 **Success** The target regains `dice: 2d8` Hit Points, and its wounded condition is removed.
 

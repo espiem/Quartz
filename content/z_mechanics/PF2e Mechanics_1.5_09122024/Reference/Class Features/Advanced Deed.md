@@ -11,7 +11,7 @@ license: OGL
 ---
 # Advanced Deed
 ## Feat 9
-### [[gunslinger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Gunslinger]]
 
 **Category** classfeature; 
 

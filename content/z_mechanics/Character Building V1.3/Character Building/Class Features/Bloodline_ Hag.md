@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bloodline: Hag
-![[icons-commodities-biological-hand-gnarled-green.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/icons-commodities-biological-hand-gnarled-green.webp|150]]
 
 A hag long ago cursed your family, or you are a descendant of a hag or changeling, and their accursed corruption infests your blood and soul.
 

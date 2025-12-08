@@ -8,7 +8,7 @@ tags:
 ---
 
 # Blinding Fury
-![[icons-magic-fire-flame-burning-eye.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-flame-burning-eye.webp|150]]
 
 **Trigger** A creature damages you.
 
@@ -20,7 +20,7 @@ You curse the target with your outrage at being attacked. The effect is determin
 
 **Critical Success** The target is unaffected.
 
-**Success** The target can't [[Observed|Observe]] you until the end of its turn, and if you're currently Observed by it, you become [[Hidden]] to it.
+**Success** The target can't [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Observed|Observe]] you until the end of its turn, and if you're currently Observed by it, you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]] to it.
 
 **Failure** As success, and for 1 minute, every time the target damages you, it can't Observe you until the end of its turn.
 

@@ -13,7 +13,7 @@ license: OGL
 ---
 # Mattock of the Titans
 ## Item 19
-### [uncommon](uncommon "Uncommon Rarity Trait")[[fatal-d12]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[fatal-d12]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 |  |  |
 | -- | -- |

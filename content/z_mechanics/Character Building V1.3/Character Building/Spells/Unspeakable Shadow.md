@@ -16,8 +16,8 @@ You alter a creature's shadow, transforming it into a terrifying monster out to 
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Frightened|Frightened 2]].
+**Success** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
-**Failure** The target is [[Frightened|Frightened 3]]. It can't reduce its frightened value below 1 for 1 minute.
+**Failure** The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]]. It can't reduce its frightened value below 1 for 1 minute.
 
-**Critical Failure** The target is so afraid, it might instantly die. It must succeed at a Fortitude save or die; this saving throw has the incapacitation trait. If it succeeds at its save, the target is [[Frightened|Frightened 4]] and can't reduce its frightened value below 1 for 1 minute.
+**Critical Failure** The target is so afraid, it might instantly die. It must succeed at a Fortitude save or die; this saving throw has the incapacitation trait. If it succeeds at its save, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 4]] and can't reduce its frightened value below 1 for 1 minute.

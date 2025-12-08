@@ -8,6 +8,6 @@ tags:
 ---
 
 # Change Shape (Kitsune)
-![[systems-pf2e-icons-spells-fey-disapperance.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Ancestry Features/zz_asset-files/systems-pf2e-icons-spells-fey-disapperance.webp|150]]
 
 As a kitsune, you gain the [[Change Shape (Kitsune)]] ability.

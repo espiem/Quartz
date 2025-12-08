@@ -14,6 +14,6 @@ tags:
 
 * * *
 
-A faint mist emanates from your skin, making you [[Concealed]] for 1 minute.
+A faint mist emanates from your skin, making you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] for 1 minute.
 
 As usual being concealed when your position is still obvious, you can't use this concealment to [[Hide]] or [[Sneak]].

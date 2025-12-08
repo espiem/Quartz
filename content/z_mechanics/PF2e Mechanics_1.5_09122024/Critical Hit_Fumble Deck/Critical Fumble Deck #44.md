@@ -14,18 +14,18 @@ tags:
 
 # Broken
 
-> Your weapon's current Hit Points are reduced to its Broken Threshold. If already [[Conditions/Broken|Broken]], the weapon takes 3d6 damage, ignoring Hardness.
+> Your weapon's current Hit Points are reduced to its Broken Threshold. If already [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Broken|Broken]], the weapon takes 3d6 damage, ignoring Hardness.
 
 `Ranged`
 
 # Smash the Floor
 
-> You kick up a cloud of dust, becoming [[Conditions/Blinded|Blinded]] until the end of your next turn.
+> You kick up a cloud of dust, becoming [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] until the end of your next turn.
 
 `Unarmed`
 
 # You made 'em Faster
 
-> The target is [[Conditions/Quickened|Quickened]] for 2 rounds.
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened|Quickened]] for 2 rounds.
 
 `Spell`

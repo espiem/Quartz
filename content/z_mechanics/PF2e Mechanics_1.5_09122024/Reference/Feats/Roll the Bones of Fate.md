@@ -15,7 +15,7 @@ license: ORC
 ---
 # Roll the Bones of Fate `pf2:1`
 ## Feat 10
-### [[cursebound]][[divine]][[oracle]][[prediction]]
+### [[cursebound]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Oracle]][[prediction]]
 
 **Category** class; 
 

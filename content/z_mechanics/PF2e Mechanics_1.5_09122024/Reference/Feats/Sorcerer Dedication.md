@@ -26,7 +26,7 @@ Choose a [[Class Features/Bloodline|Bloodline]]. You become trained in the blood
 
 You cast spells like a sorcerer. You gain access to the Cast a Spell activity. You gain a spell repertoire with two common cantrips from the spell list associated with your bloodline, from the spells granted by your bloodline, or any other cantrips of that tradition you learn or discover. You're trained in the spell attack modifier and spell DC statistics. Your key spellcasting attribute for sorcerer archetype spells is Charisma, and they are sorcerer spells of your bloodline's tradition. You don't gain any other abilities from your choice of bloodline.
 
-[[PF2e Journals/Archetypes/Sorcerer|Sorcerer]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Sorcerer|Sorcerer]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

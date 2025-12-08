@@ -11,7 +11,7 @@ license: OGL
 ---
 # Campaign Stable
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[structure]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[structure]]
 
 
 **Price** 500 gp; 

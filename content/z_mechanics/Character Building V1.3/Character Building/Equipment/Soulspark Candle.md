@@ -8,7 +8,7 @@ tags:
 ---
 
 # Soulspark Candle
-![[icons-sundries-lights-candle-unlit-grey.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-sundries-lights-candle-unlit-grey.webp|150]]
 
 This thick, white pillar candle has flecks of ash and bone mixed amid the wax. When lit, the candle sheds bright light for 20 feet and dim light for a further 20 feet. The candle can't be snuffed by weather, water, or accident but can be purposefully snuffed through ritual prayer. The candle doesn't release heat and can't be used to start a fire. The candle is never exhausted, regardless of how long it burns.
 
@@ -36,7 +36,7 @@ When an undead creature or a haunt comes within the light of a _soulspark candle
 
 * * *
 
-**Effect** You command the candle to illuminate the dead. All undead creatures in the area are limned in blue, heatless fire for as long as they remain in the area, plus 1 minute after they leave the area or the light goes out. Visible undead can't be [[Concealed]] while limned in these flames. Invisible undead are concealed while limned in these flames, rather than being undetected. Haunts are unaffected by this light.
+**Effect** You command the candle to illuminate the dead. All undead creatures in the area are limned in blue, heatless fire for as long as they remain in the area, plus 1 minute after they leave the area or the light goes out. Visible undead can't be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] while limned in these flames. Invisible undead are concealed while limned in these flames, rather than being undetected. Haunts are unaffected by this light.
 
 **Activate** 3 command (divine, evocation, fire)
 

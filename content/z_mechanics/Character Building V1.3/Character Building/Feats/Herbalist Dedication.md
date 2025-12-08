@@ -16,4 +16,4 @@ You gain batches of infused reagents per day equal to your level or half your le
 
 You become an expert in Nature and can use Nature instead of Crafting to [[Craft]] herbal items. You don't need to be trained in Crafting or have the [[Alchemical Crafting]] feat to do so, and you can use a [[Healer's Toolkit]] instead of an [[Alchemist's Toolkit]].
 
-**Special** You can't select another dedication feat until you have gained two other feats from the [[Herbalist]] archetype.
+**Special** You can't select another dedication feat until you have gained two other feats from the [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Archetypes/Herbalist]] archetype.

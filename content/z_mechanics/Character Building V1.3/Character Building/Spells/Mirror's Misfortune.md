@@ -8,7 +8,7 @@ tags:
 ---
 
 # Mirror's Misfortune
-![[icons-magic-control-silhouette-hold-change-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-control-silhouette-hold-change-blue.webp|150]]
 
 You split into your real self and a mirrored version of yourself that curses would-be attackers with misfortune on their next attacks. When you cast this spell, you seem to split in two. As you do, you can Step to any adjacent square. In either your initial square, or another square adjacent to your initial square, an exact illusory duplicate of you appears. You decide a simple course of action for the duplicate to follow, such as to walk to a specific point or wave its hands in the air, but more complex routines are beyond its abilities. A creature can distinguish between you and the duplicate only if it spends an action to Seek and succeeds at a Perception check against the spell's DC.
 

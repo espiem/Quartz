@@ -17,7 +17,7 @@ license: OGL
 ---
 # Flame Jump
 ## Feat 13
-### [[concentrate]][[divine]][[exploration]][[fire]][[manipulate]][[nephilim]][[teleportation]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[exploration]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[nephilim]][[teleportation]]
 
 **Category** ancestry; 
 

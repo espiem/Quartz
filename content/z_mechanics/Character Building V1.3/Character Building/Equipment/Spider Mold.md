@@ -24,10 +24,10 @@ This gray mold can be found growing on the remains of venomous arachnids - parti
 
 * * *
 
-**Stage 1** [[Slowed]] (1 round)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] (1 round)
 
-**Stage 2** [[Slowed|Slowed 2]] and [[Stupefied|Stupefied 1]] (1 round)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 1]] (1 round)
 
-**Stage 3** [[Paralyzed]] and Stupefied 1 (1 round)
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]] and Stupefied 1 (1 round)
 
-**Stage 4** [[Unconscious]] with no Perception check to wake up (1d4 hours).
+**Stage 4** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] with no Perception check to wake up (1d4 hours).

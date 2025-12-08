@@ -8,7 +8,7 @@ tags:
 ---
 
 # Grim Sandglass (Greater)
-![[systems-pf2e-icons-equipment-other-spellhearts-grim-sandglass.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-other-spellhearts-grim-sandglass.webp|150]]
 
 One bulb of this tiny hourglass contains black sand, the other white. After even a few grains pass from one side to the other, it reverses its flow to keep the two sides in equilibrium. The spell DC of any spell cast by Activating this item is 24.
 

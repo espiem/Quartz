@@ -12,4 +12,4 @@ tags:
 
 With humanoid figures and serpentine heads, nagaji are heralds, companions, and servitors of powerful nagas. They hold a deep reverence for holy areas and spiritual truths, an aspect many others find as intimidating as a nagaji's appearance.
 
-[[Nagaji]]
+[[z_mechanics/Character Building V1.3/Character Building/Ancestries/Nagaji]]

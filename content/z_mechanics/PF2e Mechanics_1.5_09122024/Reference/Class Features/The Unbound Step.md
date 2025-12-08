@@ -11,7 +11,7 @@ license: OGL
 ---
 # The Unbound Step
 ## Feat 1
-### [[psychic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** classfeature; 
 
@@ -38,7 +38,7 @@ The mind can flit from thought to thought; why too shouldn't you? You focus on m
 
 Your _phase bolt_ temporarily sends the target's cover out of phase if it hits. On a success, reduce the target's circumstance bonus to AC (if any) by 1 until the beginning of your next turn. Your _phase bolt_ also gains the following amp.
 
-**Amp** Your bolt leaves phase completely, becoming invisible and intangible until it's already embedded in the target—giving the impression it simply teleported itself into place. The target is [[Conditions/Off-Guard|Off-Guard]] against the attack. Additionally, the bolt ignores an amount of Hardness or resistance to piercing damage equal to half the spell's level. On a critical success, the target can't be affected by teleportation effects until the start of your next turn.
+**Amp** Your bolt leaves phase completely, becoming invisible and intangible until it's already embedded in the target—giving the impression it simply teleported itself into place. The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] against the attack. Additionally, the bolt ignores an amount of Hardness or resistance to piercing damage equal to half the spell's level. On a critical success, the target can't be affected by teleportation effects until the start of your next turn.
 
 **Amp Heightened (+1)** The bolt's damage increases by 2d4 instead of 1d4.
 

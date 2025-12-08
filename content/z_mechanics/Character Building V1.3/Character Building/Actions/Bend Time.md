@@ -15,4 +15,4 @@ tags:
 
 * * *
 
-**Effect** You are [[Quickened]] this turn. You can use your extra action to Stride.
+**Effect** You are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Quickened]] this turn. You can use your extra action to Stride.

@@ -8,6 +8,6 @@ tags:
 ---
 
 # Gravity Weapon
-![[systems-pf2e-icons-spells-gravity-weapon.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-gravity-weapon.webp|150]]
 
 You build up gravitational force and funnel it into your blows, leading to more powerful attacks with blade and bow alike. On your first weapon Strike each round, you gain a status bonus to damage equal to twice the number of weapon damage dice.

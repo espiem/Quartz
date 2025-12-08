@@ -35,7 +35,7 @@ Your features become striking, and your voice becomes musical and commanding, th
 
 **Duration** 1 minute.
 
-[[Equipment Effects/Effect_ Silvertongue Mutagen (Lesser)|Effect: Silvertongue Mutagen (Lesser)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Silvertongue Mutagen (Lesser)|Effect: Silvertongue Mutagen (Lesser)]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

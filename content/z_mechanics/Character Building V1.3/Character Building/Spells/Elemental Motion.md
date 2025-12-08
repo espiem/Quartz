@@ -8,7 +8,7 @@ tags:
 ---
 
 # Elemental Motion
-![[systems-pf2e-icons-spells-elemental-motion.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-elemental-motion.webp|150]]
 
 You call upon your element to propel you, improving your Speed depending on your element. This spell has your element's trait.
 

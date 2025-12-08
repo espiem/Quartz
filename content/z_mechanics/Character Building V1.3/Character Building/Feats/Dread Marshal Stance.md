@@ -16,7 +16,7 @@ When you use this action, attempt an intimidation check. The DC is usually a sta
 
 * * *
 
-**Critical Success** Your marshal's aura increases to a 20 foot emanation, and it grants you and allies a status bonus to damage rolls equal to the number of weapon damage dice of the unarmed attack or weapon you are wielding that has the most weapon damage dice. When you or an ally in the aura critically hits an enemy with a Strike, that enemy is [[Frightened|Frightened 1]].
+**Critical Success** Your marshal's aura increases to a 20 foot emanation, and it grants you and allies a status bonus to damage rolls equal to the number of weapon damage dice of the unarmed attack or weapon you are wielding that has the most weapon damage dice. When you or an ally in the aura critically hits an enemy with a Strike, that enemy is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
 **Success** As critical success, but your aura's size doesn't increase.
 

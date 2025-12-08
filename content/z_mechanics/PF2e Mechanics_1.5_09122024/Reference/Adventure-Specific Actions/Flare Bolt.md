@@ -11,7 +11,7 @@ license: OGL
 ---
 # Flare Bolt `pf2:1`
 
-### [[fire]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]]
 
 **Category** offensive; 
 

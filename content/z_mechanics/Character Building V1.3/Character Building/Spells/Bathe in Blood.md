@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bathe in Blood
-![[icons-skills-wounds-blood-cells-vessel-red-orange.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-skills-wounds-blood-cells-vessel-red-orange.webp|150]]
 
 This is an old ritual, illegal in nearly every corner of Golarion, but never quite exterminated. You bathe in the freshly spilled blood of your people, whose lives and years you steal in the process.
 

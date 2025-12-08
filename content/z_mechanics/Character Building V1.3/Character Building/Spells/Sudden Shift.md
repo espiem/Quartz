@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-You swiftly move from a dangerous spot and veil yourself. You Step and become [[Concealed]].
+You swiftly move from a dangerous spot and veil yourself. You Step and become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]].

@@ -8,7 +8,7 @@ tags:
 ---
 
 # Time
-![[systems-pf2e-icons-spells-haste.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Class Features/zz_asset-files/systems-pf2e-icons-spells-haste.webp|150]]
 
 Whether by accident, fate, or purposeful meddling, you exist slightly outside of time. While initially unmoored by moments, the countless march of milliseconds builds up to drift you further and further out of sync with your natural timeline, often in contradictory directions. You might view this as a blessing, perhaps as a sign you're somehow beyond mortality or you can't be contained within reality's limitations, or you might view it as a cruel curse that causes your own life to slip by adrift even as you gain power over time. Many oracles of time are without faith and either come to rely upon their own instincts to survive or else turn to strange rituals and forbidden magic in an attempt to break free of time's grasp. Those oracles who worship deities most often worship Pharasma, goddess of fate who sees all possible futures for all who ever lived, or Alseta, goddess of transitions and the passage through time.
 
@@ -34,7 +34,7 @@ Time passes differently for you than everyone else. You experience fluxes that m
 
 **Minor Curse**
 
-As you draw upon your mystery, time's passage becomes more disjointed, aging, regressing, or warping you out of sync. You become [[Enfeebled 1]]. In addition, you take a -2 penalty to saving throws against effects that would make you [[Fatigued]] or [[Slowed|Slowed]].
+As you draw upon your mystery, time's passage becomes more disjointed, aging, regressing, or warping you out of sync. You become [[Enfeebled 1]]. In addition, you take a -2 penalty to saving throws against effects that would make you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed]].
 
 **Moderate Curse**
 
@@ -42,4 +42,4 @@ Time distorts further, increasing your muscular atrophy, age regression, or warp
 
 **Major Curse (11th)**
 
-You become so out of sync with time that it's hard for you to act, but when you do act, you do so with incredible speed. You become [[Slowed]], the value of your enfeebled condition increases to 3, and the penalty from your minor curse increases to -4. Time passes so much faster for you that your steps appear as a blur of motion to others. You gain a +4 status bonus to initiative rolls. Whenever you move, you're [[Concealed]] while you're moving and until the start of your next turn. As normal for concealment where your location is still obvious, you can't use this concealment to Hide or [[Sneak]]. Your status bonus to AC against attacks made against you from reactions or free actions while you're moving increases to +4.
+You become so out of sync with time that it's hard for you to act, but when you do act, you do so with incredible speed. You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]], the value of your enfeebled condition increases to 3, and the penalty from your minor curse increases to -4. Time passes so much faster for you that your steps appear as a blur of motion to others. You gain a +4 status bonus to initiative rolls. Whenever you move, you're [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] while you're moving and until the start of your next turn. As normal for concealment where your location is still obvious, you can't use this concealment to Hide or [[Sneak]]. Your status bonus to AC against attacks made against you from reactions or free actions while you're moving increases to +4.

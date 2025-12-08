@@ -21,7 +21,7 @@ _Your conduit to divine power eschews the traditional channels of prayer and ser
 
 _You explore one of these mysteries and draw upon its power to cast miraculous spells, but that power comes with a terrible price: a curse that grows stronger the more you draw upon it, which you might uphold as an instrument of the divine or view as punishment from the gods._
 
-_[[PF2e Journals/Classes/Oracle|Oracle]]_
+_[[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Oracle|Oracle]]_
 
 *Source: Pathfinder Player Core 2*
 *ORC*

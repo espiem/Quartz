@@ -18,9 +18,9 @@ license: OGL
 
 Granted by [[Equipment/Deadweight Mutagen (Major)|Deadweight Mutagen (Major)]]
 
-**Benefit** You gain a +4 item bonus to Athletics checks to [[Actions/Shove|Shove]] and [[Actions/Trip|Trip]], to your Fortitude and Reflex DCs against attempts to Shove or Trip you, and to saving throws against effects that attempt to force you to move or knock you [[Conditions/Prone|Prone]]. You can attempt to Shove or Trip creatures up to three sizes larger than you.
+**Benefit** You gain a +4 item bonus to Athletics checks to [[Actions/Shove|Shove]] and [[Actions/Trip|Trip]], to your Fortitude and Reflex DCs against attempts to Shove or Trip you, and to saving throws against effects that attempt to force you to move or knock you [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]]. You can attempt to Shove or Trip creatures up to three sizes larger than you.
 
-**Drawback** You gain the [[Conditions/Encumbered|Encumbered]] condition and can't remove it while under the effects of the mutagen.
+**Drawback** You gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Encumbered|Encumbered]] condition and can't remove it while under the effects of the mutagen.
 
 *Source: Pathfinder Treasure Vault*
 *OGL*

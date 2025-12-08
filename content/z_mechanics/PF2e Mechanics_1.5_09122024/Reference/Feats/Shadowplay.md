@@ -15,7 +15,7 @@ license: ORC
 ---
 # Shadowplay `pf2:1`
 ## Feat 5
-### [[illusion]][[occult]][[shadow]][[wayang]]
+### [[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[shadow]][[wayang]]
 
 **Category** ancestry; 
 

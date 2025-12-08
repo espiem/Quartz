@@ -15,7 +15,7 @@ license: ORC
 ---
 # Black Adder Venom
 ## Item 2
-### [[alchemical]][[consumable]][[injury]][[poison]]
+### [[alchemical]][[consumable]][[injury]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** poison; 
 **Price** 6 gp; 

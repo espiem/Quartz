@@ -11,7 +11,7 @@ license: OGL
 ---
 # Aeon Stone (Black Pearl)
 ## Item 12
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 2000 gp; 
@@ -34,7 +34,7 @@ Whether or not your save is successful, the aeon stone attempts a counteract che
 
 Every time you activate this aeon stone, attempt a DC 5 Flat check. On a failure, the stone shatters and loses its magical properties forever.
 
-[[Equipment Effects/Effect_ Aeon Stone (Black Pearl)|Effect: Aeon Stone (Black Pearl)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Aeon Stone (Black Pearl)|Effect: Aeon Stone (Black Pearl)]]
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

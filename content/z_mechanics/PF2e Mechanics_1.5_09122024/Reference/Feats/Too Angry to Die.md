@@ -20,7 +20,7 @@ license: OGL
 
 **Prerequisites** master in Intimidation
 * * *
-**Trigger** you stand up from [[Conditions/Prone|Prone]] after waking up from being [[Conditions/Unconscious|Unconscious]]
+**Trigger** you stand up from [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] after waking up from being [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious|Unconscious]]
 
 * * *
 

@@ -16,11 +16,11 @@ You ward the target item against those who would steal it. When a creature attem
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature takes half damage and is [[Doomed|Doomed 1]].
+**Success** The creature takes half damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]].
 
-**Failure** The creature takes full damage and is [[Doomed|Doomed 2]].
+**Failure** The creature takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 2]].
 
-**Critical Failure** The creature takes double damage and is [[Doomed|Doomed 3]].
+**Critical Failure** The creature takes double damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 3]].
 
 * * *
 

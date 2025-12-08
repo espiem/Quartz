@@ -10,7 +10,7 @@ tags:
 # Blessed Denial
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Trigger** An ally within 30 feet would become [[Frightened]], [[Drained 1|Drained]], [[Enfeebled 1|Enfeebled]], [[Sickened 1|Sickened]], or [[Stupefied]].
+**Trigger** An ally within 30 feet would become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened]], [[Drained 1|Drained]], [[Enfeebled 1|Enfeebled]], [[Sickened 1|Sickened]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied]].
 
 * * *
 

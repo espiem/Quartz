@@ -10,7 +10,7 @@ tags:
 # Tectonic Stomp
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You cause minor tremors that topple your enemies. All creatures in a 30 foot emanation who are standing on the ground take 1d6 bludgeoning damage for every 2 levels you have, with a DC resolve reflex save. A creature that fails its save also falls [[Prone]].
+You cause minor tremors that topple your enemies. All creatures in a 30 foot emanation who are standing on the ground take 1d6 bludgeoning damage for every 2 levels you have, with a DC resolve reflex save. A creature that fails its save also falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].
 
 * * *
 

@@ -10,7 +10,7 @@ tags:
 # Crystal Luminescence
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-Your horn glows with bioluminescent color, casting bright light in a 20 foot emanation (and dim light for the next 20 feet). This light can be any color. The most common colors are blue and purple, except for trogloshi, who normally shed white light. The light shuts off when you take this action again or fall [[Unconscious]].
+Your horn glows with bioluminescent color, casting bright light in a 20 foot emanation (and dim light for the next 20 feet). This light can be any color. The most common colors are blue and purple, except for trogloshi, who normally shed white light. The light shuts off when you take this action again or fall [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]].
 
 If a spell or ability would activate your glowing horn while Crystal Luminescence is active, it instead increases the radius of the bright light and dim light by 10 feet each until the start of your next turn. This isn't cumulative, so using another such ability doesn't increase the radius again.
 

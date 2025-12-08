@@ -13,7 +13,7 @@ license: ORC
 ---
 # Scout
 
-### [[concentrate]][[exploration]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[exploration]]
 
 **Category** interaction; 
 

@@ -12,14 +12,14 @@ license: ORC
 ---
 # Thundering (Greater)
 ## Item 15
-### [[magical]][[sonic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[sonic]]
 
 
 **Price** 6500 gp; 
 **Bulk** 0; **Size** med
 **Usage** etched-onto-a-weapon
 
-A _thundering_ weapon lets out a peal of thunder when it hits, dealing an extra 1d6 sonic damage on a successful Strike. On a critical hit, the target must succeed at a DC 34 Fortitude check save or be [[Conditions/Deafened|Deafened]] permanently.
+A _thundering_ weapon lets out a peal of thunder when it hits, dealing an extra 1d6 sonic damage on a successful Strike. On a critical hit, the target must succeed at a DC 34 Fortitude check save or be [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]] permanently.
 
 Sonic damage dealt by this weapon ignores the target's sonic resistance.
 

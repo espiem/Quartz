@@ -10,7 +10,7 @@ tags:
 # Swift River
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-**Trigger** Your turn ends and you have a status penalty to your Speed or are [[Immobilized]] or [[Slowed|Slowed]]
+**Trigger** Your turn ends and you have a status penalty to your Speed or are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed]]
 
 * * *
 

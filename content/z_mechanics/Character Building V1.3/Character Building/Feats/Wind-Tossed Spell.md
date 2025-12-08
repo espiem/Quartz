@@ -10,4 +10,4 @@ tags:
 # Wind-Tossed Spell
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You enhance your spell with elemental air, using the wind to find your target and carry your magic around cover. If the next action you use is to Cast a Spell that requires a spell attack roll, you ignore the target's [[Concealed]] condition and any cover they have from you. The spell gains the air trait.
+You enhance your spell with elemental air, using the wind to find your target and carry your magic around cover. If the next action you use is to Cast a Spell that requires a spell attack roll, you ignore the target's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed]] condition and any cover they have from you. The spell gains the air trait.

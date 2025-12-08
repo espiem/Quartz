@@ -14,4 +14,4 @@ tags:
 
 * * *
 
-You serve as an anchor to your close companions, calming them in times of stress. Decrease the value of the triggering ally's [[Frightened]] condition by 1. The ally is then temporarily immune to your Reassuring Presence for 1 hour.
+You serve as an anchor to your close companions, calming them in times of stress. Decrease the value of the triggering ally's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened]] condition by 1. The ally is then temporarily immune to your Reassuring Presence for 1 hour.

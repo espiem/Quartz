@@ -16,7 +16,7 @@ license: OGL
 
 
 
-Granted by [[Vehicles/Vonthos's Golden Bridge|Vonthos's Golden Bridge]]
+Granted by [[z_mechanics/PF2e Mechanics_1.5_09122024/Vehicles/Vonthos's Golden Bridge|Vonthos's Golden Bridge]]
 
 You gain resistance 10 to all physical damage (except adamantine).
 

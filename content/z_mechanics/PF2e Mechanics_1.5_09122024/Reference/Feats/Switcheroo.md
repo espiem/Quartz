@@ -12,7 +12,7 @@ license: ORC
 ---
 # Switcheroo `pf2:r`
 ## Feat 10
-### [[swashbuckler]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Swashbuckler]]
 
 **Category** class; 
 
@@ -35,7 +35,7 @@ You attempt to deftly swap places with an adjacent enemy to avoid the attack. Ch
 
 **Failure** You lose your panache.
 
-**Critical Failure** You become [[Conditions/Off-Guard|Off-Guard]] against the triggering attack, and you lose your panache.
+**Critical Failure** You become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] against the triggering attack, and you lose your panache.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -14,7 +14,7 @@ Your limbs tense as you deliver a mighty swing. Make a melee Strike. If it hits,
 
 * * *
 
-**Awakening** On a critical hit, you push the target back double the normal distance and knock it [[Prone]].
+**Awakening** On a critical hit, you push the target back double the normal distance and knock it [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].
 
 * * *
 

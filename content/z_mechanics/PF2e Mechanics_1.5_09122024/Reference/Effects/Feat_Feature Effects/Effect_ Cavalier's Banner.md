@@ -19,7 +19,7 @@ license: ORC
 
 Granted by [[Feats/Cavalier's Banner|Cavalier's Banner]]
 
-You gain a +1 circumstance bonus to Will saves and DCs against fear effects. If your banner is destroyed or removed, allies within 30 feet become [[Conditions/Frightened|Frightened 1]].
+You gain a +1 circumstance bonus to Will saves and DCs against fear effects. If your banner is destroyed or removed, allies within 30 feet become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
 *Source: Pathfinder Player Core 2*
 *ORC*

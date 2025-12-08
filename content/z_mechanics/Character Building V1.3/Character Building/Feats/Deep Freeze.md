@@ -20,7 +20,7 @@ You vent a jet of supercooled fluid from your innovation, damaging a foe and slo
 
 **Failure** The target takes full damage and takes a -10-foot status penalty to its Speeds for 1 round.
 
-**Critical Failure** The target takes double damage, is [[Slowed]] for 1 round, and takes a -15-foot status penalty to its Speeds for 1 round.
+**Critical Failure** The target takes double damage, is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] for 1 round, and takes a -15-foot status penalty to its Speeds for 1 round.
 
 **Unstable Function** Your innovation discharges an enormous cone of supercooled fluid, potentially causing cascading failures. Add the unstable trait to Deep Freeze. The ability affects all creatures within a 60 foot cone instead of a single target, and it deals cold damage equal to double your level instead of equal to your level.
 

@@ -16,4 +16,4 @@ These coatings come in different colors, each with a different special effect. A
 
 Blue colorful coating contains bonding compounds that firm up a surface, making it more stable and more supportive of weight. When applied to material that's loose or unstable, the square can hold twice as much weight before giving way. The coating also slows any collapse, making it easier to avoid and granting a +1 circumstance bonus to Reflex saving throws in reaction to the coated surface's collapse.
 
-This coating can shore up a wall, ceiling, door, or similar opening, granting a +2 circumstance bonus to the DC for Athletics checks to [[Force Open]] the coated surface.
+This coating can shore up a wall, ceiling, door, or similar opening, granting a +2 circumstance bonus to the DC for Athletics checks to [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Force Open]] the coated surface.

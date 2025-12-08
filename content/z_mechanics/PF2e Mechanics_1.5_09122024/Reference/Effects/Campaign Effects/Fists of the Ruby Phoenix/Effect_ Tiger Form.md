@@ -34,7 +34,7 @@ The polymorphed character transforms into a Large animal. Each polymorphed chara
 
 **Melee** `pf2:1` claw +25 (agile), Damage 2d8+16 slashing
 
-**[[Adventure-Specific Actions/Wrestle|Wrestle]]** `pf2:1` You make a claw Strike against a creature [[Conditions/Grabbed|Grabbed]] or [[Conditions/Restrained|Restrained]] by you. If you hit, you deal damage as usual and that creature is knocked [[Conditions/Prone|Prone]].
+**[[Adventure-Specific Actions/Wrestle|Wrestle]]** `pf2:1` You make a claw Strike against a creature [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]] by you. If you hit, you deal damage as usual and that creature is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 *Source: Pathfinder #167: Ready? Fight!*
 *OGL*

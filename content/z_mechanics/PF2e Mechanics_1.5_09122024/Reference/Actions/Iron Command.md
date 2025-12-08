@@ -15,7 +15,7 @@ license: ORC
 ---
 # Iron Command `pf2:r`
 
-### [[champion]][[divine]][[emotion]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Emotion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** offensive; 
 
@@ -28,7 +28,7 @@ license: ORC
 
 **Effect** You put an impertinent foe who dared harm you in their proper place. You command your enemy to kneel before you in obedience. If they dare to refuse, they must pay the price in pain and anguish. The enemy must choose one of the following options.
 
-*   **Kneel** The enemy drops [[Conditions/Prone|Prone]] as a free action.
+*   **Kneel** The enemy drops [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]] as a free action.
 *   **Refuse** You deal 1d6 mental damage to the enemy. This damage increases to 2d6 at 5th level, 3d6 at 9th level, 4d6 at 12th level, 5d6 at 16th level, and 6d6 at 19th level.
     
 

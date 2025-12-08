@@ -14,7 +14,7 @@ license: ORC
 ---
 # Patron's Glamour
 ## Feat 4
-### [[archetype]][[auditory]][[illusion]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[illusion]]
 
 **Category** class; 
 

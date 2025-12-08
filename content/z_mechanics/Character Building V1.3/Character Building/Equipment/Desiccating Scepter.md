@@ -26,6 +26,6 @@ Often wielded by priests of cruel desert gods, this thin scepter is carved from 
 
 **Success** The target takes half damage.
 
-**Failure** The target takes full damage and is [[Slowed]].
+**Failure** The target takes full damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]].
 
-**Critical Failure** As failure, but the target is [[Slowed|Slowed 2]].
+**Critical Failure** As failure, but the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 2]].

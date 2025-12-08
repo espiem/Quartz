@@ -18,4 +18,4 @@ tags:
 
 * * *
 
-This miniature Stasian coil talisman emits small sparks when jostled. It uses a combination of Stasian technology and evocation magic to erupt in electricity when discharged. When you activate the coil, the foe takes 2d12 electricity damage (DC 27 Basic reflex save). On a failed save, the foe is [[Off-Guard]] until the start of its next turn
+This miniature Stasian coil talisman emits small sparks when jostled. It uses a combination of Stasian technology and evocation magic to erupt in electricity when discharged. When you activate the coil, the foe takes 2d12 electricity damage (DC 27 Basic reflex save). On a failed save, the foe is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] until the start of its next turn

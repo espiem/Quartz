@@ -8,7 +8,7 @@ tags:
 ---
 
 # Dutiful Challenge
-![[icons-sundries-flags-banner-sword-blue.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-sundries-flags-banner-sword-blue.webp|150]]
 
 As you challenge an enemy, you take some of its attention away from your allies. The target takes a -1 status penalty to attack rolls, damage rolls, and skill checks against creatures other than you, and you take a -1 status penalty to attack rolls, damage rolls, and skill checks against creatures other than the target.
 

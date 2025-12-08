@@ -13,7 +13,7 @@ license: ORC
 ---
 # Interweave Dispel `pf2:1`
 ## Feat 14
-### [[sorcerer]][[spellshape]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Sorcerer]][[spellshape]]
 
 **Category** class; 
 

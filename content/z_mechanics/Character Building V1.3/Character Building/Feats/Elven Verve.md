@@ -10,4 +10,4 @@ tags:
 # Elven Verve
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-While all elves are immune to the paralyzing touch of ghouls, you can shake off flesh-numbing magic of all kinds. You gain a +1 circumstance bonus to saves against effects that would impose the [[Immobilized]], [[Paralyzed]], or [[Slowed|Slowed]] conditions. When you would be immobilized, paralyzed, or slowed for at least 2 rounds, reduce that duration by 1 round.
+While all elves are immune to the paralyzing touch of ghouls, you can shake off flesh-numbing magic of all kinds. You gain a +1 circumstance bonus to saves against effects that would impose the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed]] conditions. When you would be immobilized, paralyzed, or slowed for at least 2 rounds, reduce that duration by 1 round.

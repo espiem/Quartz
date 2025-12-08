@@ -11,14 +11,14 @@ license: OGL
 ---
 # Vanara Battle Clarity
 ## Feat 13
-### [[vanara]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Vanara]]
 
 **Category** ancestry; 
 
 
 
 
-Your focus in combat is practically unshakable. While you can act, you aren't [[Conditions/Off-Guard|Off-Guard]] to [[Conditions/Hidden|Hidden]], undetected, or flanking creatures of your level or lower, or to creatures of your level or lower using surprise attack.
+Your focus in combat is practically unshakable. While you can act, you aren't [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] to [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Hidden|Hidden]], undetected, or flanking creatures of your level or lower, or to creatures of your level or lower using surprise attack.
 
 *Source: Pathfinder Lost Omens: Impossible Lands*
 *OGL*

@@ -16,7 +16,7 @@ license: OGL
 
 
 
-You come from a line of fetchlings with a closer connection to the Ethereal and Shadow Planes, and you share those realms' affinity with the in-between and unseen. You gain a +1 circumstance bonus to locate [[Conditions/Undetected|Undetected]] creatures within 60 feet when using the Seek action. Your flat check to target [[Conditions/Concealed|Concealed]] creatures is DC 3 Flat check instead of DC 5, and your flat check to target undetected creatures is DC 9 Flat check instead of DC 11.
+You come from a line of fetchlings with a closer connection to the Ethereal and Shadow Planes, and you share those realms' affinity with the in-between and unseen. You gain a +1 circumstance bonus to locate [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Undetected|Undetected]] creatures within 60 feet when using the Seek action. Your flat check to target [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Concealed|Concealed]] creatures is DC 3 Flat check instead of DC 5, and your flat check to target undetected creatures is DC 9 Flat check instead of DC 11.
 
 *Source: Pathfinder Lost Omens: Ancestry Guide*
 *OGL*

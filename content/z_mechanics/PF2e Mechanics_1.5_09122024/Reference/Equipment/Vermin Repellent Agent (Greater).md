@@ -29,7 +29,7 @@ The repellent also binds with a number of common insect venoms, dulling the pote
 
 Once applied to your skin, the repellent grants you a +3 item bonus to Fortitude saving throws against poisons for 4 hours.
 
-[[Equipment Effects/Effect_ Vermin Repellent Agent (Greater)|Effect: Vermin Repellent Agent (Greater)]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Vermin Repellent Agent (Greater)|Effect: Vermin Repellent Agent (Greater)]]
 
 * * *
 
@@ -39,11 +39,11 @@ In addition, any arthropods (insects, spiders, scorpions, crabs, and similar inv
 
 **Critical Success** The creature can act normally.
 
-**Success** The creature is [[Conditions/Frightened|Frightened 1]].
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]].
 
-**Failure** The creature is [[Conditions/Frightened|Frightened 2]].
+**Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]].
 
-**Critical Failure** The creature is frightened 2 and [[Conditions/Fleeing|Fleeing]].
+**Critical Failure** The creature is frightened 2 and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing|Fleeing]].
 
 *Source: Pathfinder Lost Omens: Pathfinder Society Guide*
 *OGL*

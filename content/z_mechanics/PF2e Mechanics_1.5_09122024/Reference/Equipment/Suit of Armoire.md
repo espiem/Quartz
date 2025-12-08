@@ -13,7 +13,7 @@ license: OGL
 ---
 # Suit of Armoire
 ## Item 13
-### [[bulwark]][[invested]][[magical]]
+### [[bulwark]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 **Category** heavy; **Group** plate
 **Price** 0 gp; 
@@ -26,7 +26,7 @@ license: OGL
 
 This classic, timeless suit of _+1 resilient full plate_ is personally assembled from modular pieces of flat-packed duskwood, doubling as furniture and personal protective gear. To wear or remove the suit of armoire, you must succeed at a DC 41 Crafting check check (yes, this includes the +10 modifier for an "Incredibly Difficult" challenge); on a failure, you and all creatures within 30 feet must succeed at a DC 31 Will check save or be overcome with frustration at how you can't follow the simple, easy-to-understand diagrams for assembling the armoire, imposing a -1 status penalty to Will saves for 1 hour.
 
-[[Equipment Effects/Effect_ Suit of Armoire Frustration|Effect: Suit of Armoire Frustration]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Suit of Armoire Frustration|Effect: Suit of Armoire Frustration]]
 
 * * *
 

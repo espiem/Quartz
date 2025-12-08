@@ -13,14 +13,14 @@ license: ORC
 ---
 # Swift Choreography `pf2:r`
 
-### [[auditory]][[linguistic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[linguistic]]
 
 **Category** offensive; 
 
 
 
 
-**Trigger** An ally within 30 feet would become [[Conditions/Grabbed|Grabbed]], [[Conditions/Immobilized|Immobilized]], [[Conditions/Off-Guard|Off-Guard]], [[Conditions/Prone|Prone]], or [[Conditions/Restrained|Restrained]]
+**Trigger** An ally within 30 feet would become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed|Grabbed]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]], [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]], or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Restrained|Restrained]]
 
 * * *
 

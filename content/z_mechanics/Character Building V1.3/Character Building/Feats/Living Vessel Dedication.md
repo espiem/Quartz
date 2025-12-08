@@ -12,9 +12,9 @@ tags:
 
 Whether willingly or not, you've become a vessel for a being of unimaginable power. You and your GM should work together to determine the being's nature and decide how much you know and how much remains a mystery to you for now. Some decisions might influence your options later. You might need to decide whether the entity is a demon, for instance, to know if you qualify for later feats.
 
-You need to spend at least an hour each day assuaging the entity within you or you take a -1 penalty to Will saves for 24 hours. The process of assuaging the entity is determined together between you and the GM. It might be as simple as meditating with the entity to learn more about them, but it might be as extreme as committing gruesome, unspeakable sacrifices to keep their unknowable blessings. After a full week of failing to assuage your entity, you become [[Doomed|Doomed 1]], and you can't remove or ameliorate the condition until you allow your entity to take full possession of your body for 24 hours, during which time it pursues its own agenda.
+You need to spend at least an hour each day assuaging the entity within you or you take a -1 penalty to Will saves for 24 hours. The process of assuaging the entity is determined together between you and the GM. It might be as simple as meditating with the entity to learn more about them, but it might be as extreme as committing gruesome, unspeakable sacrifices to keep their unknowable blessings. After a full week of failing to assuage your entity, you become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]], and you can't remove or ameliorate the condition until you allow your entity to take full possession of your body for 24 hours, during which time it pursues its own agenda.
 
-You also gain the [[Entity's Resurgence]] reaction, allowing you to unleash your entity in lieu of falling [[Unconscious]], though at the risk of letting it enact its will.
+You also gain the [[Entity's Resurgence]] reaction, allowing you to unleash your entity in lieu of falling [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]], though at the risk of letting it enact its will.
 
 * * *
 

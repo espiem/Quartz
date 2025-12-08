@@ -12,7 +12,7 @@ license: OGL
 ---
 # Reminder of the Greater Fear `pf2:r`
 ## Feat 8
-### [[archetype]][[vigilante]]
+### [[archetype]][[Vigilante]]
 
 **Category** class; 
 
@@ -22,7 +22,7 @@ license: OGL
 * * *
 **Frequency** once per 10 minutes
 
-**Trigger** Another creature within 30 feet of you that can see you would gain the [[Conditions/Frightened|Frightened]] condition.
+**Trigger** Another creature within 30 feet of you that can see you would gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]] condition.
 
 * * *
 

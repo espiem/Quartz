@@ -8,7 +8,7 @@ tags:
 ---
 
 # Bestial Curse
-![[systems-pf2e-icons-spells-bestial-curse.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-bestial-curse.webp|150]]
 
 You tap into the target's inner being and curse it to become a bestial version of itself. The effect is based on its Fortitude save.
 

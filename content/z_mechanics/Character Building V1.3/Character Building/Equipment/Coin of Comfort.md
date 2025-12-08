@@ -20,4 +20,4 @@ This thick silver coin is deeply worn on one side, creating a shallow dip.
 
 * * *
 
-**Effect** You rub your thumb along the grooved side and become filled with a sense of comfort and safety. You reduce your [[Frightened]] condition by 1.
+**Effect** You rub your thumb along the grooved side and become filled with a sense of comfort and safety. You reduce your [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened]] condition by 1.

@@ -10,4 +10,4 @@ tags:
 # Sly Disarm
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-You can [[Disarm]] a creature through sleight of hand rather than brute force. You can use Thievery instead of Athletics when you attempt a Disarm. When you use Thievery to attempt a Disarm and succeed, the target is [[Off-Guard]] against the next attack you make before the end of your turn.
+You can [[Disarm]] a creature through sleight of hand rather than brute force. You can use Thievery instead of Athletics when you attempt a Disarm. When you use Thievery to attempt a Disarm and succeed, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] against the next attack you make before the end of your turn.

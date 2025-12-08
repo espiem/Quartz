@@ -8,7 +8,7 @@ tags:
 ---
 
 # Rejuvenating Flames
-![[icons-magic-fire-flame-burning-yellow-orange.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-magic-fire-flame-burning-yellow-orange.webp|150]]
 
 You create a gout of flame that both heals and burns. You restore 1d4 Hit Points to all allies in the area, and those allies gain a +1 status bonus to Fortitude saves for 1 minute. Enemies in the area take 1d4 fire damage with a basic Reflex save.
 

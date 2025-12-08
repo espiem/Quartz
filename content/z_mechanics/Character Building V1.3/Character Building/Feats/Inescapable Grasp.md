@@ -10,4 +10,4 @@ tags:
 # Inescapable Grasp
 ![[icons-sundries-books-book-red-exclamation.webp|150]]
 
-Your grasp has a supernatural quality to it, preventing your foes from easily escaping-with or without magical assistance. If a creature you have [[Grabbed]] attempts to use a teleportation spell or effect, it must succeed at a DC 15 flat check or be forced to roll the Escape attempt normally, rather than automatically succeeding.
+Your grasp has a supernatural quality to it, preventing your foes from easily escaping-with or without magical assistance. If a creature you have [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Grabbed]] attempts to use a teleportation spell or effect, it must succeed at a DC 15 flat check or be forced to roll the Escape attempt normally, rather than automatically succeeding.

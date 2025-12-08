@@ -15,7 +15,7 @@ license: OGL
 ---
 # Lionfish Spear (Greater)
 ## Item 14
-### [[magical]][[thrown-20]][[water]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[thrown-20]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Water]]
 
 |  |  |
 | -- | -- |
@@ -48,7 +48,7 @@ Strikes with this weapon deal an additional 1d6 poison damage.
 
 **Stage 2** 5d6 poison damage and [[Conditions/Sickened|Sickened 2]] (1 round)
 
-**Stage 3** [[Conditions/Paralyzed|Paralyzed]] for 2d4 hours
+**Stage 3** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]] for 2d4 hours
 
 *Source: Pathfinder Rage of Elements*
 *OGL*

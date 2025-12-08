@@ -25,7 +25,7 @@ While others need specialized tools and a dedicated space, you have found a way 
 
 An item you Cobble Together is a shoddy item, but when creating it you can choose one creature to build it specifically for. That creature doesn't take the normal penalty for using this shoddy item. Your temporary item lasts for 1d4 hours before falling apart into its raw components; the GM rolls the number of hours secretly.
 
-[[PF2e Journals/Archetypes/Scrounger|Scrounger]]
+[[Scrounger|Scrounger]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

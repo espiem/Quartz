@@ -20,7 +20,7 @@ Because this spell obscures sound instead of preventing it, using the spell to q
 
 **Failure** The affected sound from the creature is altered in the way you determine.
 
-**Critical Failure** The affected sound from the creature is altered and the target becomes [[Stupefied|Stupefied 2]] for 1 minute as it struggles with the disorienting effects of its altered sound.
+**Critical Failure** The affected sound from the creature is altered and the target becomes [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] for 1 minute as it struggles with the disorienting effects of its altered sound.
 
 * * *
 

@@ -12,4 +12,4 @@ tags:
 
 When you successfully Play to the Crowd, add the following to the list of benefits you can choose from:
 
-*   Choose a creature within 30 feet that can see you to become [[Frightened|Frightened 1]]. This effect has the emotion, fear, mental, and visual traits.
+*   Choose a creature within 30 feet that can see you to become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 1]]. This effect has the emotion, fear, mental, and visual traits.

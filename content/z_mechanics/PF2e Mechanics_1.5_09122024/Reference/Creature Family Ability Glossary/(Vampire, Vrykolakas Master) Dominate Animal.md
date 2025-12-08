@@ -13,7 +13,7 @@ license: OGL
 ---
 # (Vampire, Vrykolakas Master) Dominate Animal `pf2:1`
 
-### [[divine]][[incapacitation]][[mental]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Incapacitation]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Mental]]
 
 **Category** offensive; 
 

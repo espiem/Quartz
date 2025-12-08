@@ -37,7 +37,7 @@ This sticky salve stubbornly holds wounds closed and encourages swift natural he
 
 **Effect** You gain a +2 item bonus to the triggering Medicine check. If you roll a success on the Medicine check, you get a critical success instead.
 
-[[Equipment Effects/Effect_ Skinstitch Salve|Effect: Skinstitch Salve]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Skinstitch Salve|Effect: Skinstitch Salve]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

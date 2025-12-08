@@ -15,7 +15,7 @@ license: OGL
 ---
 # False Hope
 ## Item 17
-### [[alchemical]][[consumable]][[injury]][[poison]][[virulent]]
+### [[alchemical]][[consumable]][[injury]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]][[virulent]]
 
 **Category** poison; 
 **Price** 2600 gp; 

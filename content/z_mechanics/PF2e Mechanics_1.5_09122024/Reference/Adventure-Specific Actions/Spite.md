@@ -12,7 +12,7 @@ license: OGL
 ---
 # Spite `pf2:2`
 
-### [rare](rare "Rare Rarity Trait")[[curse]][[occult]]
+### [rare](rare "Rare Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Curse]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** deityboon; 
 
@@ -25,11 +25,11 @@ Even if a person was kind in life, the dead have many reasons to spite the livin
 
 **Critical Success** The target is unaffected.
 
-**Success** The target's skin itches uncontrollably. If the target doesn't spend an action to scratch at the itch, they become [[Conditions/Off-Guard|Off-Guard]] until the start of their next turn. This effect lasts for 1 minute.
+**Success** The target's skin itches uncontrollably. If the target doesn't spend an action to scratch at the itch, they become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] until the start of their next turn. This effect lasts for 1 minute.
 
 **Failure** The target's skin breaks out in painful lesions and unsightly sores. The victim becomes [[Conditions/Enfeebled|Enfeebled 2]], [[Conditions/Clumsy|Clumsy 2]], and [[Conditions/Drained|Drained 2]] for 24 hours.
 
-**Critical Failure** As failure, but the target is also [[Conditions/Slowed|Slowed 1]] for the duration.
+**Critical Failure** As failure, but the target is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] for the duration.
 
 *Source: Pathfinder #198: No Breath to Cry*
 *OGL*

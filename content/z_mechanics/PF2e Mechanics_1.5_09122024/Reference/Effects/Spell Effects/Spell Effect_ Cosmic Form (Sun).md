@@ -32,7 +32,7 @@ You also gain specific abilities based on the stellar body:
     
     *   **Melee** `pf2:1` fist (agile, reach 10 feet), **Damage** 2d6+10 fire plus 1d6 persistent fire;
     *   **Ranged** `pf2:1` sunbeam (range 90 feet), **Damage** 1d6+10 fire plus 1d6 persistent fire;
-    *   on a critical hit with either Strike, the target is [[Conditions/Dazzled|Dazzled]] for 1 round.
+    *   on a critical hit with either Strike, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] for 1 round.
 
 *Source: Pathfinder Secrets of Magic*
 *OGL*

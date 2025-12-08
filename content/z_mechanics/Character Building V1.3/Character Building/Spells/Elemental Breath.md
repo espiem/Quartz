@@ -15,7 +15,7 @@ You open a miniature portal to an elemental plane within your mouth, then exhale
 Each creature in the cone must attempt a basic Reflex save.
 
 *   **Air** Strong winds and lightning strikes buffet creatures in the cone, dealing 6d10 electricity damage. A creature that fails its save is also pushed 10 feet.
-*   **Earth** A cone of mud deals 5d10 bludgeoning damage to creatures in the area. A creature on the ground that fails its save slips and falls [[Prone]].
+*   **Earth** A cone of mud deals 5d10 bludgeoning damage to creatures in the area. A creature on the ground that fails its save slips and falls [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone]].
 *   **Fire** A surging cone of fire deals 7d10 fire damage.
 *   **Metal** A cone of rust slices flesh and damages metal. Each creature in the area takes 5d10 slashing damage. A creature made of metal gets a result one degree of success worse than it rolled, and an unattended metal object gets a critical failure.
 *   **Water** A torrent of chilled water deals 3d10 cold damage and 3d10 bludgeoning damage.

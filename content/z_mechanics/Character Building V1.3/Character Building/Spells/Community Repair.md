@@ -8,7 +8,7 @@ tags:
 ---
 
 # Community Repair
-![[icons-commodities-tech-cog-brass.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-commodities-tech-cog-brass.webp|150]]
 
 You lead your community in repairing a public work, such as a bridge, well, or mural, through the power of memory and art. The primary caster serves as an emcee or leader, while each secondary caster provides a heartfelt anecdote that somehow involves the public work; for instance, recounting a story of playing at a fountain each summer. The anecdotes don't need to be firsthand accounts-a community member might sing of how their grandparents fell in love crossing a bridge every day-but they must be directly connected in some way. The GM can offer a +1 circumstance bonus to the secondary caster whose anecdote seems most moving.
 

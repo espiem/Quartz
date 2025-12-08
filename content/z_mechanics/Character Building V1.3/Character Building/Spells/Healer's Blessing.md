@@ -8,7 +8,7 @@ tags:
 ---
 
 # Healer's Blessing
-![[systems-pf2e-icons-spells-healers-blessing.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-healers-blessing.webp|150]]
 
 Your words bless a creature with an enhanced connection to vital energy. When the target regains Hit Points from a healing vitality spell, it regains 2 additional Hit Points.
 

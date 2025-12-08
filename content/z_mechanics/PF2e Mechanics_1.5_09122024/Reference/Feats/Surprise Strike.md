@@ -20,7 +20,7 @@ license: ORC
 
 **Prerequisites** Weapon Improviser Dedication
 * * *
-Whenever you make a Strike with an improvised weapon against a creature that hasn't seen you make a Strike using an improvised weapon or that is otherwise ignorant of your skill with improvised weapons, the creature is [[Conditions/Off-Guard|Off-Guard]] against you for that Strike.
+Whenever you make a Strike with an improvised weapon against a creature that hasn't seen you make a Strike using an improvised weapon or that is otherwise ignorant of your skill with improvised weapons, the creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard|Off-Guard]] against you for that Strike.
 
 *Source: Pathfinder Player Core 2*
 *ORC*

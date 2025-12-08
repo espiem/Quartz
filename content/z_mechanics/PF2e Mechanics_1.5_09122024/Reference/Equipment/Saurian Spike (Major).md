@@ -11,7 +11,7 @@ license: OGL
 ---
 # Saurian Spike (Major)
 ## Item 15
-### [[magical]][[spellheart]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellheart]]
 
 
 **Price** 6500 gp; 
@@ -21,7 +21,7 @@ license: OGL
 This jagged, bony growth narrows to a sharp, pointed tip. Deep groves from some former battle scar its surface. The bearer of a _saurian spike_ often feels a sudden surge in power and confidence.
 
 *   **Armor** You gain precise scent with a range of 60 feet.
-*   **Weapon**(auditory, emotion, fear, visual) When you cast a polymorph spell by activating the spike, your battle form is exceptionally fearsome. Each enemy in a 60-foot emanation must succeed at a DC 34 Will check saving throw or become [[Conditions/Frightened|Frightened 2]] ([[Conditions/Frightened|Frightened 3]] on a critical failure).
+*   **Weapon**(auditory, emotion, fear, visual) When you cast a polymorph spell by activating the spike, your battle form is exceptionally fearsome. Each enemy in a 60-foot emanation must succeed at a DC 34 Will check saving throw or become [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 2]] ([[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened 3]] on a critical failure).
 
 [[Equipment Effects/Effect_ Saurian Spike - Armor (Major)|Effect: Saurian Spike - Armor (Major)]]
 

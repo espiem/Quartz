@@ -8,7 +8,7 @@ tags:
 ---
 
 # Barding of the Zephyr
-![[icons-environment-creatures-horse-tan.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-environment-creatures-horse-tan.webp|150]]
 
 This light barding is covered in stylized wind motifs. When you suit up your animal companion, the barding adjusts to fit your animal companion regardless of its shape.
 

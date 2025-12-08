@@ -18,6 +18,6 @@ A rod of blackened bone with a bulb at one end comprises a _reaper's spellgun_, 
 
 * * *
 
-**Critical Success** The target takes 4d6 void and is [[Drained 1|Drained 2]] and [[Doomed|Doomed 1]]. If it had fewer than half its maximum Hit Points after taking the void damage, it's [[Drained 1|Drained 3]] instead. If the Hit Point loss from being drained drops the creature to 0 Hit Points, it dies.
+**Critical Success** The target takes 4d6 void and is [[Drained 1|Drained 2]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]]. If it had fewer than half its maximum Hit Points after taking the void damage, it's [[Drained 1|Drained 3]] instead. If the Hit Point loss from being drained drops the creature to 0 Hit Points, it dies.
 
 **Success** As critical success, but for the drained condition, the target is [[Drained 1]], or drained 2 if it had fewer than half its maximum HP.

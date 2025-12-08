@@ -13,7 +13,7 @@ license: ORC
 ---
 # Smite `pf2:1`
 ## Feat 6
-### [[champion]][[concentrate]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Champion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]]
 
 **Category** class; 
 

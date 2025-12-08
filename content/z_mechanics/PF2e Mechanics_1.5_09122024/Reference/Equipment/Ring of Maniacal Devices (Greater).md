@@ -12,7 +12,7 @@ license: ORC
 ---
 # Ring of Maniacal Devices (Greater)
 ## Item 18
-### [[invested]][[magical]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 21000 gp; 

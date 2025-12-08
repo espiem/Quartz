@@ -8,7 +8,7 @@ tags:
 ---
 # Clocked!
 
-> Triple damage. The target is knocked [[Conditions/Prone|Prone]].
+> Triple damage. The target is knocked [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Prone|Prone]].
 
 `Bludgeoning`
 
@@ -26,6 +26,6 @@ tags:
 
 # Doomed!
 
-> The target is [[Conditions/Slowed|Slowed 1]] for 1 round, and is also [[Conditions/Doomed|Doomed 1]].
+> The target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] for 1 round, and is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Doomed|Doomed 1]].
 
 `Bomb or Spell`

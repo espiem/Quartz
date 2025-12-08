@@ -15,4 +15,4 @@ tags:
 
 * * *
 
-**Effect** You make a Strike before falling [[Unconscious]].
+**Effect** You make a Strike before falling [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]].

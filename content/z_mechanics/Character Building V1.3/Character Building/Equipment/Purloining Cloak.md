@@ -46,7 +46,7 @@ Each purloining cloak is a mercurial mantle once worn by a legendary thief or tw
 
 **Effect** You slip around the attacking creature with ease. You Step, without moving away from the triggering enemy, and then make a melee Strike against the triggering enemy if it's within reach. If you do make a Strike, the target attempts a DC 38 perception check before you roll.
 
-**Failure** This creature is [[Off-Guard]] against the Strike.
+**Failure** This creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Off-Guard]] against the Strike.
 
 **Critical Failure** This creature is off-guard against all your attacks until the end of their next turn.
 

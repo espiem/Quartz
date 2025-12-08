@@ -23,7 +23,7 @@ license: ORC
 * * *
 You don't take the normal –2 penalty to attack rolls with improvised weapons. Improvised weapons you use have a minimum weapon damage die of 1d6, or 1d4 if the improvised weapon is agile.
 
-[[PF2e Journals/Archetypes/Weapon Improviser|Weapon Improviser]]
+[[Weapon Improviser|Weapon Improviser]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

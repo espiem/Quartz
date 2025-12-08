@@ -16,7 +16,7 @@ license: OGL
 ---
 # Scour
 ## Item 8
-### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[inhaled]][[poison]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[alchemical]][[consumable]][[drug]][[ingested]][[inhaled]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 **Category** drug; 
 **Price** 80 gp; 
@@ -35,9 +35,9 @@ This gritty powder improves responsiveness but suppresses thoughts and leaves yo
 
 **Maximum Duration** 6 hours
 
-**Stage 1** [[Conditions/Stupefied|Stupefied 2]] and +2 item bonus to Reflex saves and Dexterity-based skill checks (1 hour)
+**Stage 1** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] and +2 item bonus to Reflex saves and Dexterity-based skill checks (1 hour)
 
-**Stage 2** [[Conditions/Fatigued|Fatigued]] (1 hour)
+**Stage 2** [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fatigued|Fatigued]] (1 hour)
 
 **Stage 3** [[Conditions/Drained|Drained 2]] and fatigued (1 hour)
 

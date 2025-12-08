@@ -12,7 +12,7 @@ license: OGL
 ---
 # Tooth and Claw Tattoo (Major)
 ## Item 10
-### [[invested]][[magical]][[tattoo]]
+### [[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[tattoo]]
 
 
 **Price** 1000 gp; 

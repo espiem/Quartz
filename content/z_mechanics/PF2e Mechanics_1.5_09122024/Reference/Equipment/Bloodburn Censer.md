@@ -14,7 +14,7 @@ license: OGL
 ---
 # Bloodburn Censer
 ## Item 13
-### [[censer]][[fire]][[magical]][[poison]]
+### [[censer]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Poison]]
 
 
 **Price** 2750 gp; 

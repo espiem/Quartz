@@ -8,7 +8,7 @@ tags:
 ---
 
 # Eroding Bullet
-![[systems-pf2e-icons-equipment-consumables-ammunition-energized-cartridge-acid.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-consumables-ammunition-energized-cartridge-acid.webp|150]]
 
 **Ammunition** round
 

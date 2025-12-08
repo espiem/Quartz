@@ -15,7 +15,7 @@ license: ORC
 ---
 # Share Rage `pf2:1`
 ## Feat 8
-### [[auditory]][[barbarian]][[rage]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/auditory]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[rage]][[visual]]
 
 **Category** class; 
 
@@ -28,7 +28,7 @@ license: ORC
 
 You stoke an ally's fury. While you are raging, one willing creature within 30 feet gains the effects of the Rage action, except it can still use concentrate actions. It doesn't get any added benefits from your instinct, feats, or the like.
 
-[[Feat_Feature Effects/Effect_ Share Rage|Effect: Share Rage]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Share Rage|Effect: Share Rage]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

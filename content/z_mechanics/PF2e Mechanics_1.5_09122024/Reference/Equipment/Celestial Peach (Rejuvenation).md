@@ -15,7 +15,7 @@ license: OGL
 ---
 # Celestial Peach (Rejuvenation)
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[consumable]][[divine]][[healing]][[mechanical]][[vitality]]
+### [rare](rare "Rare Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[healing]][[mechanical]][[vitality]]
 
 **Category** other; 
 **Price** 3000 gp; 

@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-As you are struck, your steely determination reminds those who fight you that they are destined to be no more than footnotes in your tale. Spend a Mythic Point to gain resistance equal to half your level to the triggering damage, and then attempt a Strike at mythic proficiency against the creature that attacked you. If the Strike hits and deals damage, the creature is also [[Conditions/Slowed|Slowed 1]].
+As you are struck, your steely determination reminds those who fight you that they are destined to be no more than footnotes in your tale. Spend a Mythic Point to gain resistance equal to half your level to the triggering damage, and then attempt a Strike at mythic proficiency against the creature that attacked you. If the Strike hits and deals damage, the creature is also [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]].
 
 *Source: Pathfinder War of Immortals*
 *ORC*

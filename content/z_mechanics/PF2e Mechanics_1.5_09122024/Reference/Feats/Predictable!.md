@@ -12,7 +12,7 @@ license: ORC
 ---
 # Predictable! `pf2:1`
 ## Feat 4
-### [[rogue]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Rogue]]
 
 **Category** class; 
 
@@ -31,7 +31,7 @@ By observing an opponent, you can get a sense of their next move and prepare to 
 
 **Critical Failure** You misinterpret the target's strategy and take a –1 circumstance penalty to AC against the creature until the start of your next turn, and a –1 circumstance penalty to your next saving throw against the creature before the start of your next turn.
 
-[[Feat_Feature Effects/Effect_ Predictable!|Effect: Predictable!]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Predictable!|Effect: Predictable!]]
 
 *Source: Pathfinder Player Core*
 *ORC*

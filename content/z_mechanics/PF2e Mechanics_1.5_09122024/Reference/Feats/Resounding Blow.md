@@ -13,7 +13,7 @@ license: ORC
 ---
 # Resounding Blow `pf2:2`
 ## Feat 10
-### [[barbarian]][[rage]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Barbarian]][[rage]]
 
 **Category** class; 
 
@@ -24,7 +24,7 @@ license: ORC
 
 * * *
 
-You strike your enemy in the head with such force that their ears ring. Make a melee Strike. If the Strike hits and deals damage, the target is [[Conditions/Deafened|Deafened]] until the start of your next turn (or for 1 minute on a critical hit).
+You strike your enemy in the head with such force that their ears ring. Make a melee Strike. If the Strike hits and deals damage, the target is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened|Deafened]] until the start of your next turn (or for 1 minute on a critical hit).
 
 *Source: Pathfinder Player Core 2*
 *ORC*

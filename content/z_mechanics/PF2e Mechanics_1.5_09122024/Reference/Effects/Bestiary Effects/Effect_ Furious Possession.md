@@ -18,7 +18,7 @@ license: OGL
 
 The creature gains 12 temporary Hit Points that are lost when the possession ends. During the possession, the creature has the pulse of rage aura. Each time the possessed creature makes a melee Strike, the spirit can substitute their ephemeral claw attack modifier, damage amount, or both in place of the creature's own statistics.
 
-[[Bestiary Effects/Effect_ Pulse of Rage|Effect: Pulse of Rage]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Reference/Effects/Bestiary Effects/Effect_ Pulse of Rage|Effect: Pulse of Rage]]
 
 *Source: Pathfinder Bestiary 3*
 *OGL*

@@ -12,14 +12,14 @@ license: ORC
 ---
 # Swift River `pf2:0`
 ## Feat 18
-### [[monk]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Monk]]
 
 **Category** class; 
 
 
 
 
-**Trigger** Your turn ends and you have a status penalty to your Speed or are [[Conditions/Immobilized|Immobilized]] or [[Conditions/Slowed|Slowed]]
+**Trigger** Your turn ends and you have a status penalty to your Speed or are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized|Immobilized]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed]]
 
 * * *
 

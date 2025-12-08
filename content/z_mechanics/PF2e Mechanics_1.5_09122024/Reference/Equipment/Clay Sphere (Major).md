@@ -12,7 +12,7 @@ license: ORC
 ---
 # Clay Sphere (Major)
 ## Item 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[magical]][[spellheart]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[spellheart]]
 
 
 **Price** 4200 gp; 

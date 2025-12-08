@@ -25,7 +25,7 @@ You've studied scrolls in depth. This might have been a comprehensive education 
 
 You gain the [[Feats/Trick Magic Item|Trick Magic Item]] feat, and you gain a +2 circumstance bonus to skill checks to Trick scrolls. If you roll a critical failure to Trick a Magic Item that's a scroll, you get a failure instead.
 
-[[PF2e Journals/Archetypes/Scroll Trickster|Scroll Trickster]]
+[[Scroll Trickster|Scroll Trickster]]
 
 *Source: Pathfinder Player Core 2*
 *ORC*

@@ -17,7 +17,7 @@ license: OGL
 
 
 
-The stars rebuke you for your ways. You are [[Conditions/Sickened|Sickened 4]] and [[Conditions/Slowed|Slowed 1]] whenever you are exposed to starlight.
+The stars rebuke you for your ways. You are [[Conditions/Sickened|Sickened 4]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed|Slowed 1]] whenever you are exposed to starlight.
 
 *Source: Pathfinder Lost Omens: Gods & Magic*
 *OGL*

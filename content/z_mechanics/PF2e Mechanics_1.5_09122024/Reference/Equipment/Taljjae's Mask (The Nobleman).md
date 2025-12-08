@@ -11,7 +11,7 @@ license: OGL
 ---
 # Taljjae's Mask (The Nobleman)
 ## Item 18
-### [unique](unique "Unique Rarity Trait")[[invested]][[magical]]
+### [unique](unique "Unique Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 0 gp; 

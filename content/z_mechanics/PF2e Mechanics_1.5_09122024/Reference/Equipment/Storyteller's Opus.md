@@ -12,7 +12,7 @@ license: OGL
 ---
 # Storyteller's Opus
 ## Item 6
-### [[grimoire]][[illusion]][[magical]]
+### [[grimoire]][[illusion]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 230 gp; 

@@ -14,7 +14,7 @@ license: ORC
 ---
 # Gasping Lament (Greater)
 ## Item 17
-### [rare](rare "Rare Rarity Trait")[[coda]][[invested]][[magical]][[staff]]
+### [rare](rare "Rare Rarity Trait")[[coda]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[staff]]
 
 
 **Price** 14500 gp; 

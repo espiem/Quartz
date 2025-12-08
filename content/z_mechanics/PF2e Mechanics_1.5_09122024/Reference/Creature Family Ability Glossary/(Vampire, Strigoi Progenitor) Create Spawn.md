@@ -12,7 +12,7 @@ license: OGL
 ---
 # (Vampire, Strigoi Progenitor) Create Spawn
 
-### [[divine]][[downtime]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]][[downtime]]
 
 **Category** offensive; 
 

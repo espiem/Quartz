@@ -17,7 +17,7 @@ license: OGL
 ---
 # Obsidian Edge
 ## Item 6
-### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[fire]][[kickback]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[combination]][[concussive]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Fire]][[kickback]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 |  |  |
 | -- | -- |

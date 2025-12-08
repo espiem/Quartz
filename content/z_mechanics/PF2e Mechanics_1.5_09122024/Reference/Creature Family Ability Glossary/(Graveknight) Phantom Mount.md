@@ -13,7 +13,7 @@ license: ORC
 ---
 # (Graveknight) Phantom Mount `pf2:3`
 
-### [[arcane]][[summon]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Arcane]][[summon]]
 
 **Category** offensive; 
 

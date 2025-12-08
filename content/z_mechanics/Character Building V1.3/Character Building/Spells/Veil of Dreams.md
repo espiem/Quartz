@@ -8,7 +8,7 @@ tags:
 ---
 
 # Veil of Dreams
-![[systems-pf2e-icons-spells-veil-of-dreams.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-veil-of-dreams.webp|150]]
 
 Your patron draws the target into a drowsy state, causing daydreams and sluggishness. The target must attempt a Will save.
 

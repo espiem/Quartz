@@ -30,4 +30,4 @@ You reproduce an imp's evil, poisonous sting, stabbing at an enemy and possibly 
 
 **Stage 1** 1d6 poison damage and [[Clumsy 1]]
 
-**Stage 2** 1d6 poison damage, [[Clumsy 1]], and [[Slowed]] (1 round).
+**Stage 2** 1d6 poison damage, [[Clumsy 1]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Slowed]] (1 round).

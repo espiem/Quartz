@@ -8,7 +8,7 @@ tags:
 ---
 
 # Mind Swap
-![[systems-pf2e-icons-spells-mind-swap.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-mind-swap.webp|150]]
 
 This ritual allows two subjects to exchange minds, fully inhabiting one another's bodies. The two targets can be chosen from you, the secondary caster, or unrelated third parties present throughout the ritual. Normally, both targets must be of the same ancestry for the minds to be fully compatible, but at the GM's discretion, for a much higher cost, the targets can be from different ancestries; this requires much more adjudication of ancestry feats and abilities. When both targets are of the same ancestry, muscle memory and the influence of their soul allow them to carry over all their mechanical abilities into each new body, except they use the other body's heritage (and lineage, if any). The GM might rule that similar physiological changes can't be overridden with a mind swap.
 
@@ -22,7 +22,7 @@ If a body dies, the mind and spirit controlling it dies instantly. When the spel
 
 **Failure** The ritual has no effect.
 
-**Critical Failure** The ritual is scrambled, sending a welter of [[Confused]] memories into the target's minds. You and the secondary casters are [[Stupefied|Stupefied 2]] for the next week.
+**Critical Failure** The ritual is scrambled, sending a welter of [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] memories into the target's minds. You and the secondary casters are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 2]] for the next week.
 
 * * *
 

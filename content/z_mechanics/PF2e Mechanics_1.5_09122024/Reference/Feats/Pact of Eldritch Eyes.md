@@ -12,7 +12,7 @@ license: OGL
 ---
 # Pact of Eldritch Eyes
 ## Feat 14
-### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[occult]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]]
 
 **Category** class; 
 

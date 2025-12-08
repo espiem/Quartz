@@ -10,7 +10,7 @@ tags:
 # Rose's Thorns
 ![[systems-pf2e-icons-spells-roses-thorns.webp|150]]
 
-Rose bushes with razor-sharp thorns sprout from the ground in the area. The rose bushes deal 8d8 piercing damage to each creature that's in the area when the spell is cast or that ends its turn in the area (basic Reflex save). A creature that critically fails its saving throw also takes 1d8 persistent,bleed damage and is [[Immobilized]] for 1 round or until the creature [[Escape|Escapes]] (against your spell DC), whichever comes first. The area is difficult terrain and hazardous terrain. A creature that moves through the area takes 5 piercing for every square of that area it moves into. Each time you sustain this spell, the radius of the burst increases by 5 feet.
+Rose bushes with razor-sharp thorns sprout from the ground in the area. The rose bushes deal 8d8 piercing damage to each creature that's in the area when the spell is cast or that ends its turn in the area (basic Reflex save). A creature that critically fails its saving throw also takes 1d8 persistent,bleed damage and is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Immobilized]] for 1 round or until the creature [[Escape|Escapes]] (against your spell DC), whichever comes first. The area is difficult terrain and hazardous terrain. A creature that moves through the area takes 5 piercing for every square of that area it moves into. Each time you sustain this spell, the radius of the burst increases by 5 feet.
 
 * * *
 

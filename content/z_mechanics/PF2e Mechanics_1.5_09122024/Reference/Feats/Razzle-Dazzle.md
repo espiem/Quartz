@@ -12,7 +12,7 @@ license: ORC
 ---
 # Razzle-Dazzle `pf2:0`
 ## Feat 1
-### [[gnome]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Gnome]]
 
 **Category** ancestry; 
 
@@ -25,7 +25,7 @@ license: ORC
 
 * * *
 
-You've spent considerable time practicing the manipulation of light, weaponizing your blade's reflection or bolstering the luminosity of magical displays to unconventional heights. Extend the duration of the [[Conditions/Blinded|Blinded]] or [[Conditions/Dazzled|Dazzled]] condition you give the target by 1 round.
+You've spent considerable time practicing the manipulation of light, weaponizing your blade's reflection or bolstering the luminosity of magical displays to unconventional heights. Extend the duration of the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded|Blinded]] or [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled|Dazzled]] condition you give the target by 1 round.
 
 *Source: Pathfinder Player Core*
 *ORC*

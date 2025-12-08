@@ -13,7 +13,7 @@ license: OGL
 ---
 # Lion Badge
 ## Item 4
-### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[magical]][[talisman]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[consumable]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[talisman]]
 
 **Category** talisman; 
 **Price** 15 gp; 
@@ -24,7 +24,7 @@ license: OGL
 
 **Activate** `pf2:0` envision
 
-**Trigger** You gain the [[Conditions/Frightened|Frightened]] condition as a result of a Will save
+**Trigger** You gain the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Frightened|Frightened]] condition as a result of a Will save
 
 **Requirements** You're an expert in Will saves.
 

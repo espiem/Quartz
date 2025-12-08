@@ -8,7 +8,7 @@ tags:
 ---
 
 # Forge
-![[icons-tools-smithing-furnace-fire-metal-orange.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/icons-tools-smithing-furnace-fire-metal-orange.webp|150]]
 
 Developed before the introduction of the Iron Lagoon, this cantrip for superheating metal has also found valuable combat use. You superheat the target, dealing 3d6 fire damage. If the target is a metal object, reduce its Hardness by an amount equal to the damage dealt until the end of your next turn.
 

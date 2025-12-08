@@ -8,7 +8,7 @@ tags:
 ---
 
 # Kraken's Guard
-![[systems-pf2e-icons-equipment-shields-specific-shields-krakens-guard.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/systems-pf2e-icons-equipment-shields-specific-shields-krakens-guard.webp|150]]
 
 This steel shield is painted a mottled crimson, and it always glistens as if wet. Its crest is composed of eight appendages that curl around each other, resembling the swirling tentacles of a giant kraken. Two ferocious eyes sit in its center, gleaming with an inner light.
 

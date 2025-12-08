@@ -8,7 +8,7 @@ tags:
 ---
 
 # Apex Companion
-![[systems-pf2e-icons-spells-apex-companion.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-apex-companion.webp|150]]
 
 You focus on the energies of all members of your animal companion's species, transforming your animal companion into its apex battle form. Your animal companion gains the following statistics and abilities while in its apex form.
 

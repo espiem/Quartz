@@ -16,7 +16,7 @@ The axe has the thrown 30 feet weapon trait, in addition to the normal weapon tr
 
 While the axe is in your possession, you gain a +4 item bonus when Crafting armor, jewelry, metalworking, stonemasonry, snares, traps, and weapons.
 
-If you are a dwarf, you gain greater darkvision while holding the axe. If you are not a dwarf, you are [[Stupefied|Stupefied 4]] while holding the axe, and if you are an orc, you are also drained 4 and [[Enfeebled 1|Enfeebled 4]] while holding it.
+If you are a dwarf, you gain greater darkvision while holding the axe. If you are not a dwarf, you are [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Stupefied|Stupefied 4]] while holding the axe, and if you are an orc, you are also drained 4 and [[Enfeebled 1|Enfeebled 4]] while holding it.
 
 * * *
 

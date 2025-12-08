@@ -14,7 +14,7 @@ license: ORC
 ---
 # Sour Bomb
 ## Feat 10
-### [[additive]][[alchemist]][[olfactory]]
+### [[additive]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist]][[olfactory]]
 
 **Category** class; 
 
@@ -27,7 +27,7 @@ You can mix ingredients with a powerful sour smell into an alchemical bomb to ma
 
 **Failure** The creature is [[Conditions/Sickened|Sickened 1]].
 
-**Critical Failure** The creature is [[Conditions/Sickened|Sickened 2]], and [[Conditions/Fleeing|Fleeing]] for 1 round from the smell.
+**Critical Failure** The creature is [[Conditions/Sickened|Sickened 2]], and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Fleeing|Fleeing]] for 1 round from the smell.
 
 *Source: Pathfinder Lost Omens: Tian Xia Character Guide*
 *ORC*

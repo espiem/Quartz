@@ -12,7 +12,7 @@ license: OGL
 ---
 # Terrifying Countenance `pf2:0`
 ## Feat 18
-### [[archetype]][[vigilante]]
+### [[archetype]][[Vigilante]]
 
 **Category** class; 
 

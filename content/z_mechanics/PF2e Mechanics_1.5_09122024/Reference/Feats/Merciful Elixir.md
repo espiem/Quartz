@@ -12,7 +12,7 @@ license: OGL
 ---
 # Merciful Elixir `pf2:0`
 ## Feat 10
-### [[additive2]][[alchemist]]
+### [[additive2]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Alchemist]]
 
 **Category** class; 
 
@@ -27,7 +27,7 @@ license: OGL
 
 You mix a special additive into your elixir that calms the drinker's body and mind.
 
-The elixir of life attempts to counteract one fear effect or one effect imposing the [[Conditions/Paralyzed|Paralyzed]] condition on the drinker using the item's level and a counteract modifier equal to your class DC - 10.
+The elixir of life attempts to counteract one fear effect or one effect imposing the [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Paralyzed|Paralyzed]] condition on the drinker using the item's level and a counteract modifier equal to your class DC - 10.
 
 *Source: Pathfinder Core Rulebook*
 *OGL*

@@ -12,7 +12,7 @@ tags:
 
 During their journeys across the Gravelands, the Knights of Lastwall found several smoky, gemstone-like objects that knights refer to as _detector stones_. Some of the knights' Magaambyan allies believe the stones are _aeon stones_ corrupted by the same energies that corrupted the Gravelands, though they don't display the characteristic orbiting behavior of _aeon stones_ when invested. Despite the controversy, many knights use the stones for their ability to detect the presence of undead.
 
-While you have a _detector stone_ invested, it glows faintly when an undead creature is within 30 feet of you, unless the undead is [[Hidden]] or disguised with a Deception or Stealth result of 20 or higher. An invested stone may be carried in a pocket, but some knights set them in necklaces, bracelets, or weapon hilts.
+While you have a _detector stone_ invested, it glows faintly when an undead creature is within 30 feet of you, unless the undead is [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]] or disguised with a Deception or Stealth result of 20 or higher. An invested stone may be carried in a pocket, but some knights set them in necklaces, bracelets, or weapon hilts.
 
 * * *
 

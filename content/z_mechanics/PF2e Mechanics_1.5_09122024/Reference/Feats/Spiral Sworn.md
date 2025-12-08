@@ -13,7 +13,7 @@ license: OGL
 ---
 # Spiral Sworn `pf2:1`
 ## Feat 6
-### [[archetype]][[concentrate]][[divine]]
+### [[archetype]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Divine]]
 
 **Category** class; 
 
@@ -29,7 +29,7 @@ You trace a spiral in the air while intoning prayers to Pharasma, gaining her bl
 
 If your spiral is glowing, you can target a willing creature in its light. If you do, that creature gains the bonuses instead of you.
 
-[[Feat_Feature Effects/Effect_ Spiral Sworn|Effect: Spiral Sworn]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Spiral Sworn|Effect: Spiral Sworn]]
 
 *Source: Pathfinder Book of the Dead*
 *OGL*

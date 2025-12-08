@@ -10,7 +10,7 @@ tags:
 # Exchange Image
 ![[systems-pf2e-icons-spells-exchange-image.webp|150]]
 
-To mislead pursuers, the Lacunafex developed the means to swap visages. You trade appearances with the target, with the effects depending on the result of the target's Will saving throw. Willing and [[Unconscious]] targets automatically critically fail this saving throw.
+To mislead pursuers, the Lacunafex developed the means to swap visages. You trade appearances with the target, with the effects depending on the result of the target's Will saving throw. Willing and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Unconscious]] targets automatically critically fail this saving throw.
 
 * * *
 

@@ -12,7 +12,7 @@ license: ORC
 ---
 # Monster Warden
 ## Feat 2
-### [[ranger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Ranger]]
 
 **Category** class; 
 
@@ -22,7 +22,7 @@ license: ORC
 * * *
 You understand how to defend yourself and others against your prey. When you grant bonuses from Monster Hunter, you and your allies also each gain a +1 circumstance bonus to your next saving throw against that particular creature and to your AC against that creature's next attack against you.
 
-[[Feat_Feature Effects/Effect_ Monster Warden|Effect: Monster Warden]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Feat_Feature Effects/Effect_ Monster Warden|Effect: Monster Warden]]
 
 *Source: Pathfinder Player Core*
 *ORC*

@@ -14,7 +14,7 @@ license: OGL
 ---
 # Energize Wings
 ## Feat 5
-### [[concentrate]][[morph]][[primal]][[sprite]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[morph]][[primal]][[z_mechanics/2-Mechanics V1.3/Bestiary/bestiary-1/sprite]]
 
 **Category** ancestry; 
 

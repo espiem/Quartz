@@ -18,7 +18,7 @@ This catalyst is made from twisted sapling bark harvested under a full moon. Whe
 
 **Critical Success** The target is unaffected.
 
-**Success** The target is [[Stunned 1]] or, if the spell ended because of a hostile action, [[Confused]] for 1 round.
+**Success** The target is [[Stunned 1]] or, if the spell ended because of a hostile action, [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Confused]] for 1 round.
 
 **Failure** The target is [[Stunned 1|Stunned 2]] or, if the spell ended because of a hostile action, confused for 1 round.
 

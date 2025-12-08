@@ -11,7 +11,7 @@ license: OGL
 ---
 # Energy Robe of Fire
 ## Item 7
-### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[magical]]
+### [uncommon](uncommon "Uncommon Rarity Trait")[[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]]
 
 
 **Price** 320 gp; 
@@ -30,7 +30,7 @@ This brightly colored linen robe is covered in delicate embroidery depicting cre
 
 **Effect** You speak a command word, and the embroidered threads in the robe glow vividly. You gain a +30-foot status bonus to Speed for 1 minute as flames shoot out behind you to speed you up.
 
-[[Equipment Effects/Effect_ Energy Robe of Fire|Effect: Energy Robe of Fire]]
+[[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Equipment Effects/Effect_ Energy Robe of Fire|Effect: Energy Robe of Fire]]
 
 *Source: Pathfinder Lost Omens: The Grand Bazaar*
 *OGL*

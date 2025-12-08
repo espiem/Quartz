@@ -13,7 +13,7 @@ license: OGL
 ---
 # The Lens of the Outreaching Eye
 ## Item 20
-### [unique](unique "Unique Rarity Trait")[[artifact]][[invested]][[magical]][[scrying]]
+### [unique](unique "Unique Rarity Trait")[[artifact]][[invested]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Magical]][[scrying]]
 
 
 **Price** 0 gp; 

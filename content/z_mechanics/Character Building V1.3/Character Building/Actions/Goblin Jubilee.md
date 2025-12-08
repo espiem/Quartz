@@ -19,8 +19,8 @@ tags:
 
 **Critical Success** The creature is unaffected.
 
-**Success** The creature is [[Dazzled]] and [[Deafened]] until the end of its next turn and takes half damage.
+**Success** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Dazzled]] and [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Deafened]] until the end of its next turn and takes half damage.
 
 **Failure** The creature is dazzled and deafened for 1 minute and takes full damage.
 
-**Critical Failure** The creature is [[Blinded]] for 1 round, dazzled and deafened for 1 minute, and takes double damage.
+**Critical Failure** The creature is [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for 1 round, dazzled and deafened for 1 minute, and takes double damage.

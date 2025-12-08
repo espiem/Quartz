@@ -14,7 +14,7 @@ license: ORC
 ---
 # Identify Magic
 
-### [[concentrate]][[exploration]][[secret]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[exploration]][[secret]]
 
 **Category** interaction; 
 

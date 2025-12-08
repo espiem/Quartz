@@ -17,7 +17,7 @@ license: OGL
 
 
 
-Your friendship with the elf ghost Talamira has unlocked the secrets of the ancient Crystal Keepers. You gain access to the [[PF2e Journals/Archetypes/Crystal Keeper|Crystal Keeper]] archetype and all associated feats.
+Your friendship with the elf ghost Talamira has unlocked the secrets of the ancient Crystal Keepers. You gain access to the [[Crystal Keeper|Crystal Keeper]] archetype and all associated feats.
 
 *Source: *
 *OGL*

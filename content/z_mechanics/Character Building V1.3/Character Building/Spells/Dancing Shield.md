@@ -8,7 +8,7 @@ tags:
 ---
 
 # Dancing Shield
-![[systems-pf2e-icons-spells-dancing-shield.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-dancing-shield.webp|150]]
 
 You levitate the touched shield and orbit it around a nearby ally. When you Cast the Spell and Sustain the Spell, the shield uses the Raise a Shield action to protect the target creature.
 

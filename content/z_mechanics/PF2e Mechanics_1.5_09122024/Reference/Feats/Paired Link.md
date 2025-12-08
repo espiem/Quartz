@@ -14,7 +14,7 @@ license: OGL
 ---
 # Paired Link
 ## Feat 4
-### [[esoterica]][[fortune]][[occult]][[thaumaturge]]
+### [[esoterica]][[fortune]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Occult]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Thaumaturge]]
 
 **Category** class; 
 

@@ -8,6 +8,6 @@ tags:
 ---
 
 # Prismatic Sphere
-![[systems-pf2e-icons-spells-prismatic-sphere.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Spells/zz_asset-files/systems-pf2e-icons-spells-prismatic-sphere.webp|150]]
 
 You create a seven-layered sphere to protect an area. This multicolored sphere functions like a _[[Prismatic Wall]]_ but is shaped in a 10-foot burst centered on a corner of your space. You must form the sphere in an unbroken open space so its edges don't pass through any creatures or objects, or the spell is lost.

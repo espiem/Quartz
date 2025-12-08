@@ -14,7 +14,7 @@ license: OGL
 ---
 # Improvised Crafting
 ## Feat 8
-### [[archetype]][[exploration]][[manipulate]][[skill]]
+### [[archetype]][[exploration]][[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Manipulate]][[skill]]
 
 **Category** skill; 
 

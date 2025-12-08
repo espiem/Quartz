@@ -8,7 +8,7 @@ tags:
 ---
 
 # Energy Breath Potion (Sonic, Moderate)
-![[icons-magic-sonic-scream-wail-shout-teal.webp|150]]
+![[z_mechanics/Character Building V1.3/Character Building/Equipment/zz_asset-files/icons-magic-sonic-scream-wail-shout-teal.webp|150]]
 
 **Activate 1** (manipulate)
 

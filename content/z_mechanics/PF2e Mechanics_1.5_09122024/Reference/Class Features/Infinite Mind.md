@@ -11,7 +11,7 @@ license: OGL
 ---
 # Infinite Mind
 ## Feat 19
-### [[psychic]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Psychic]]
 
 **Category** classfeature; 
 

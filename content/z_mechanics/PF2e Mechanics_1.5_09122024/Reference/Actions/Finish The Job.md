@@ -11,7 +11,7 @@ license: OGL
 ---
 # Finish The Job `pf2:1`
 
-### [[gunslinger]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Classes/Gunslinger]]
 
 **Category** offensive; 
 

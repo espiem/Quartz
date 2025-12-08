@@ -16,7 +16,7 @@ license: ORC
 ---
 # Project Persona `pf2:1`
 ## Feat 5
-### [[concentrate]][[gnome]][[illusion]][[primal]][[visual]]
+### [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Concentrate]][[z_mechanics/PF2e Mechanics_1.5_09122024/PF2e Journals/Ancestries/Gnome]][[illusion]][[primal]][[visual]]
 
 **Category** ancestry; 
 

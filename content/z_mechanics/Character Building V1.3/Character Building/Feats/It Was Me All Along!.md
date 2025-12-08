@@ -12,7 +12,7 @@ tags:
 
 **Frequency** once per day
 
-**Requirements** Your identity is [[Hidden]], either by magic or a disguise.
+**Requirements** Your identity is [[z_mechanics/PF2e Mechanics_1.5_09122024/Rule References/Hidden]], either by magic or a disguise.
 
 * * *
 

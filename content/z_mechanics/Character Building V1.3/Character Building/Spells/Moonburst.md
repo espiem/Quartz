@@ -22,7 +22,7 @@ _Moonburst_'s cold damage is silver damage for the purposes of weaknesses, resis
 
 **Failure** The creature or object takes full damage.
 
-**Critical Failure** The creature or object takes full damage. If it's a creature, it's [[Blinded]] for an unlimited duration. If the globe overlaps with an area of magical darkness, _moonburst_ attempts to counteract the darkness effect.
+**Critical Failure** The creature or object takes full damage. If it's a creature, it's [[z_mechanics/PF2e Mechanics_1.5_09122024/Effects/Conditions/Blinded]] for an unlimited duration. If the globe overlaps with an area of magical darkness, _moonburst_ attempts to counteract the darkness effect.
 
 * * *
 
